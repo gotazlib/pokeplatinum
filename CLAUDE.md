@@ -31,21 +31,29 @@ nicht in diesem Repo) und werden im pokeplatinum-Format **nachgebaut**, nie blin
 - **Kleine, überprüfbare Commits:** ein Feature = ein nachvollziehbarer Diff.
 - Bei unsicheren DS-/Hardware-Details **nicht behaupten**, sondern im Code / pret-Doku verifizieren.
 
-## Build (verifiziert aus INSTALL.md, macOS)
+## Build (VERIFIZIERT grün auf dieser Maschine — Apple Silicon / macOS 26 Tahoe)
 
-```bash
-# Einmalig Dependencies (Homebrew):
-brew install gcc@14 ninja libpng pkg-config arm-none-eabi-gcc xz
-brew install --cask wine-stable
+**Einfach bauen:** `tools/build-macos.sh` — setzt die korrekte Umgebung und ruft `make`.
+Erzeugt die byte-genaue Rev-1-ROM `build/pokeplatinum.us.nds`,
+sha1 `0862ec35b24de5c7e2dcb88c9eea0873110d755c` (verifiziert 2026-06-09).
 
-# Bauen:
-make
-# Ergebnis: build/pokeplatinum.us.nds
-# Erwartete sha1 (Rev 1): 0862ec35b24de5c7e2dcb88c9eea0873110d755c
-```
+Dependencies (Homebrew): `gcc@14 ninja libpng pkg-config arm-none-eabi-gcc xz wget`.
+> `wget` fehlt in der INSTALL.md-macOS-Liste, wird aber von `get_metroskrew.sh` gebraucht.
 
-Tipp aus INSTALL.md: Persistenten Wine-Server (`wineserver -p`) im Hintergrund laufen lassen
-beschleunigt Builds; ggf. erstes `make` mit Ctrl+C abbrechen und erneut `make`.
+**Drei nicht-offensichtliche macOS-26-Fixes (im Wrapper-Skript gekapselt — nicht entfernen):**
+1. **Wine:** Der offizielle `wine-stable`-Cask (wine 11.0) kann auf macOS 26 keinen 32-bit-Prefix
+   initialisieren (`wineboot` bricht bei `ole32.CoInitialize` ab → `syswow64` leer → mwccarm.exe:
+   „could not load kernel32.dll"). Lösung: neueres **Gcenx wine-devel 11.10** lokal nach
+   `~/wine-gcenx/Wine Devel.app` entpacken; `$WINE` darauf zeigen (metroskrews mwccarm-Wrapper
+   respektiert `$WINE`). Prefix: `~/.wine-gcenx`.
+   Download: https://github.com/Gcenx/macOS_Wine_builds/releases
+2. **Anaconda im PATH:** `/opt/anaconda3/bin` überschattet den System-Linker mit einem kaputten `ld`
+   (`library 'System' not found`). Build mit anaconda-freiem PATH laufen lassen → `/usr/bin/ld`.
+3. **SDKROOT:** Homebrew-`gcc-14` braucht `SDKROOT=$(xcrun --show-sdk-path)`, um `-lSystem` zu finden.
+
+**Erster-Build-Hänger (INSTALL.md):** Der allererste `make` kann beim Meson-Compiler-Probe hängen,
+solange der wineserver kalt ist. Wenn er minutenlang ohne Fortschritt steht: Ctrl+C, erneut starten
+(warmer wineserver kommt durch). Optional `wineserver -p` vorab.
 
 ## Aufwands-Reihenfolge (leicht → schwer)
 
