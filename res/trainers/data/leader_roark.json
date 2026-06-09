@@ -2,8 +2,8 @@
     "name": "Roark",
     "class": "TRAINER_CLASS_LEADER_ROARK",
     "items": [
-        "ITEM_POTION",
-        "ITEM_POTION"
+        "ITEM_SUPER_POTION",
+        "ITEM_SUPER_POTION"
     ],
     "ai_flags": [
         "AI_FLAG_BASIC",
@@ -13,41 +13,31 @@
     "double_battle": false,
     "party": [
         {
-            "species": "SPECIES_GEODUDE",
+            "species": "SPECIES_CLEFAIRY",
             "form": 0,
-            "level": 12,
+            "level": 17,
             "item": null,
             "moves": [
-                "MOVE_STEALTH_ROCK",
-                "MOVE_ROCK_THROW"
+                "MOVE_DOUBLE_SLAP",
+                "MOVE_MIMIC",
+                "MOVE_ENCORE",
+                "MOVE_METRONOME"
             ],
-            "iv_scale": 50,
+            "iv_scale": 250,
             "ball_seal": 0
         },
         {
-            "species": "SPECIES_ONIX",
+            "species": "SPECIES_MILTANK",
             "form": 0,
-            "level": 12,
-            "item": null,
+            "level": 19,
+            "item": "ITEM_LUM_BERRY",
             "moves": [
-                "MOVE_STEALTH_ROCK",
-                "MOVE_ROCK_THROW",
-                "MOVE_SCREECH"
+                "MOVE_ROLLOUT",
+                "MOVE_ATTRACT",
+                "MOVE_STOMP",
+                "MOVE_MILK_DRINK"
             ],
-            "iv_scale": 50,
-            "ball_seal": 0
-        },
-        {
-            "species": "SPECIES_CRANIDOS",
-            "form": 0,
-            "level": 14,
-            "item": null,
-            "moves": [
-                "MOVE_HEADBUTT",
-                "MOVE_PURSUIT",
-                "MOVE_LEER"
-            ],
-            "iv_scale": 50,
+            "iv_scale": 250,
             "ball_seal": 0
         }
     ],
