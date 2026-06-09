@@ -2751,7 +2751,9 @@ static u8 BoxPokemon_IsShiny(BoxPokemon *boxMon)
 
 static inline BOOL Pokemon_InlineIsPersonalityShiny(u32 monOTID, u32 monPersonality)
 {
-    return (((monOTID & 0xFFFF0000) >> 16) ^ (monOTID & 0xFFFF) ^ ((monPersonality & 0xFFFF0000) >> 16) ^ (monPersonality & 0xFFFF)) < 8;
+    // Shiny odds raised to 1/256: the 16-bit XOR (0..65535) is shiny when < 256
+    // (256/65536 = 1/256). Vanilla used < 8 (= 1/8192).
+    return (((monOTID & 0xFFFF0000) >> 16) ^ (monOTID & 0xFFFF) ^ ((monPersonality & 0xFFFF0000) >> 16) ^ (monPersonality & 0xFFFF)) < 256;
 }
 
 u8 Pokemon_IsPersonalityShiny(u32 monOTID, u32 monPersonality)
