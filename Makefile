@@ -90,7 +90,11 @@ endif
 export NINJA_STATUS := [%p %f/%t] 
 
 # Modders can delete the `check` dependency here after their first build.
-all: release check
+# Removed: this is a ROM hack, so the ROM intentionally differs from retail
+# Platinum and the vanilla-identity `check` would always fail. Baseline byte-match
+# was verified once (sha1 0862ec35b24de5c7e2dcb88c9eea0873110d755c). Use `make check`
+# manually if you ever want to confirm an unmodified tree still matches.
+all: release
 
 .NOTPARALLEL: release
 release: setup_release rom
