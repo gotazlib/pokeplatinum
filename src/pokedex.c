@@ -1072,7 +1072,9 @@ void Pokedex_ObtainNationalDex(Pokedex *pokedexData)
 BOOL Pokedex_IsNationalDexObtained(const Pokedex *pokedex)
 {
     CheckPokedexIntegrity(pokedex);
-    return pokedex->nationalDexObtained;
+    // ROM hack: National Dex is unlocked from the start (every line is meant to
+    // be catchable), so always report it as obtained.
+    return TRUE;
 }
 
 BOOL Pokedex_CanDetectForms(const Pokedex *pokedexData)
