@@ -74,7 +74,7 @@ enum ShopStates {
 };
 
 #define MAX_ITEM_SHOWN 7
-#define MAX_SHOP_ITEMS 256
+#define MAX_SHOP_ITEMS 512 // raised from 256 so a mart can stock every buyable item
 
 typedef struct {
     BgConfig *bgConfig;
@@ -99,7 +99,7 @@ typedef struct {
     VarsFlags *varsFlags;
     BOOL incBuyCount;
     u16 *itemsPtr;
-    u8 itemsCount;
+    u16 itemsCount; // widened from u8: a mart can now stock > 255 items
     u8 unused[2];
     u8 state;
     String *string;

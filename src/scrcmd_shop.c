@@ -20,8 +20,9 @@
 
 BOOL ScrCmd_PokeMartCommon(ScriptContext *ctx)
 {
-    u16 shopItems[64];
-    u8 requiredBadges, badgeNum, i, j;
+    u16 shopItems[MAX_SHOP_ITEMS + 1];
+    u8 requiredBadges, badgeNum;
+    u16 i, j; // widened from u8: the common mart can now list > 255 items
     u16 unused = ScriptContext_GetVar(ctx);
 
     i = 0;
