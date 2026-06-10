@@ -288,6 +288,11 @@ Route201_Briefcase:
     CallIfEq VAR_0x8000, SPECIES_TURTWIG, Route201_GiveOthersTurtwig
     CallIfEq VAR_0x8000, SPECIES_CHIMCHAR, Route201_GiveOthersChimchar
     CallIfEq VAR_0x8000, SPECIES_PIPLUP, Route201_GiveOthersPiplup
+    // ROM hack: early-boost starter kit
+    AddItem ITEM_POKE_BALL, 20, VAR_RESULT
+    AddItem ITEM_POTION, 10, VAR_RESULT
+    AddItem ITEM_SUPER_REPEL, 5, VAR_RESULT
+    AddItem ITEM_EXP_SHARE, 1, VAR_RESULT
     ApplyMovement LOCALID_PROF_ROWAN, Route201_Movement_ProfRowanFacePlayerSouth
     ApplyMovement LOCALID_RIVAL, Route201_Movement_RivalFaceWest
     ApplyMovement LOCALID_PLAYER, Route201_Movement_PlayerFaceProfRowanNorth
