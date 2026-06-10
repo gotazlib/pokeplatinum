@@ -824,6 +824,9 @@ TwinleafTownPlayerHouse1F_KitchenCounter:
 // stuffed bag (incl. 999 Rare Candies). Granted silently on the first talk.
 TwinleafTownPlayerHouse1F_GiveStarterKit:
     SetFlag FLAG_UNUSED_0x0538
+    Message TwinleafTownPlayerHouse1F_Text_MomGiftKit
+    WaitButton
+    CloseMessage
     GiveRunningShoes
     AddItem ITEM_BICYCLE, 1, VAR_RESULT
     AddItem ITEM_POKE_RADAR, 1, VAR_RESULT
@@ -844,6 +847,8 @@ TwinleafTownPlayerHouse1F_GiveStarterKit:
     AddItem ITEM_FULL_HEAL, 10, VAR_RESULT
     AddItem ITEM_REVIVE, 10, VAR_RESULT
     AddItem ITEM_MAX_REPEL, 10, VAR_RESULT
+    PlayFanfare SEQ_FANFA4
+    WaitFanfare
     Return
 
 // ROM hack: gives a Lv5 Pikachu with perfect IVs holding a Light Ball, but only
