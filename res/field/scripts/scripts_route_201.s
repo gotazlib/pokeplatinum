@@ -273,10 +273,12 @@ Route201_GoOnChoosePokemon:
 
 Route201_Briefcase:
     LockAll
+    // ROM hack: the briefcase stays put. First interaction = choose your starter
+    // (plus all the early gifts); interact again afterwards to claim the other two.
+    GoToIfSet FLAG_UNUSED_0x04F5, Route201_BriefcaseEmpty
+    GoToIfSet FLAG_UNUSED_0x040F, Route201_GiveOtherStarters
     FadeScreenOut
     WaitFadeScreen
-    SetFlag FLAG_HIDE_ROUTE_201_BRIEFCASE
-    RemoveObject LOCALID_BRIEFCASE
     StartChooseStarterScene
     SaveChosenStarter
     ReturnToField
@@ -284,15 +286,22 @@ Route201_Briefcase:
     WaitFadeScreen
     GetPlayerStarterSpecies VAR_0x8000
     GivePokemon VAR_0x8000, 5, ITEM_NONE, VAR_RESULT
-    // ROM hack: also hand over the other two starters (chosen one stays the lead)
-    CallIfEq VAR_0x8000, SPECIES_TURTWIG, Route201_GiveOthersTurtwig
-    CallIfEq VAR_0x8000, SPECIES_CHIMCHAR, Route201_GiveOthersChimchar
-    CallIfEq VAR_0x8000, SPECIES_PIPLUP, Route201_GiveOthersPiplup
-    // ROM hack: early-boost starter kit
-    AddItem ITEM_POKE_BALL, 20, VAR_RESULT
-    AddItem ITEM_POTION, 10, VAR_RESULT
-    AddItem ITEM_SUPER_REPEL, 5, VAR_RESULT
+    SetFlag FLAG_UNUSED_0x040F
+    // ROM hack: early gifts -- running shoes, bike, radar, rod, and a stuffed bag
+    GiveRunningShoes
+    AddItem ITEM_BICYCLE, 1, VAR_RESULT
+    AddItem ITEM_POKE_RADAR, 1, VAR_RESULT
+    AddItem ITEM_VS_SEEKER, 1, VAR_RESULT
+    AddItem ITEM_SUPER_ROD, 1, VAR_RESULT
     AddItem ITEM_EXP_SHARE, 1, VAR_RESULT
+    AddItem ITEM_AMULET_COIN, 1, VAR_RESULT
+    AddItem ITEM_POKE_BALL, 30, VAR_RESULT
+    AddItem ITEM_GREAT_BALL, 20, VAR_RESULT
+    AddItem ITEM_POTION, 20, VAR_RESULT
+    AddItem ITEM_SUPER_POTION, 10, VAR_RESULT
+    AddItem ITEM_SUPER_REPEL, 10, VAR_RESULT
+    AddItem ITEM_RARE_CANDY, 5, VAR_RESULT
+    AddItem ITEM_FULL_HEAL, 5, VAR_RESULT
     ApplyMovement LOCALID_PROF_ROWAN, Route201_Movement_ProfRowanFacePlayerSouth
     ApplyMovement LOCALID_RIVAL, Route201_Movement_RivalFaceWest
     ApplyMovement LOCALID_PLAYER, Route201_Movement_PlayerFaceProfRowanNorth
@@ -1265,6 +1274,21 @@ Route201_TrainerTipsSignpost:
     End
 
     .balign 4, 0
+
+// ROM hack: re-interacting with the briefcase after choosing hands over the
+// other two starters (once), then it's empty.
+Route201_GiveOtherStarters:
+    GetPlayerStarterSpecies VAR_0x8000
+    CallIfEq VAR_0x8000, SPECIES_TURTWIG, Route201_GiveOthersTurtwig
+    CallIfEq VAR_0x8000, SPECIES_CHIMCHAR, Route201_GiveOthersChimchar
+    CallIfEq VAR_0x8000, SPECIES_PIPLUP, Route201_GiveOthersPiplup
+    SetFlag FLAG_UNUSED_0x04F5
+    ReleaseAll
+    End
+
+Route201_BriefcaseEmpty:
+    ReleaseAll
+    End
 
 // ROM hack: subroutines that grant the two starters the player did NOT pick.
 Route201_GiveOthersTurtwig:
