@@ -859,7 +859,12 @@ TwinleafTownPlayerHouse1F_MaybeGivePikachu:
 
 TwinleafTownPlayerHouse1F_GivePikachuNow:
     SetFlag FLAG_UNUSED_0x053C
+    Message TwinleafTownPlayerHouse1F_Text_AshPikachu
+    WaitButton
+    CloseMessage
     GivePerfectMon SPECIES_PIKACHU, 5, ITEM_LIGHT_BALL, VAR_RESULT
+    PlayFanfare SEQ_FANFA4
+    WaitFanfare
     Return
 
     .balign 4, 0

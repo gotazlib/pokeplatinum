@@ -137,4 +137,7 @@ InitNewGame:
     // straight from the house to the (already-visible) Route 201 briefcase.
     SetVar VAR_TWINLEAF_TOWN_RIVAL_TRIGGER_STATE, 1
     SetVar VAR_FOLLOWER_RIVAL_STATE, 4
+    // ROM hack (intro skip): mark the Lake Verity intro cutscene already done so
+    // it doesn't fire if you visit the lake.
+    SetVar VAR_LAKE_VERITY_PROF_ROWAN_STATE, 1
     End

@@ -420,6 +420,14 @@
         "Plenty of Balls and healing items,\n",
         "too. It’s all in your Bag now!\r"
       ]
+    },
+    {
+      "id": "TwinleafTownPlayerHouse1F_Text_AshPikachu",
+      "en_US": [
+        "Mom: Oh, and Ash stopped by and\n",
+        "left this Pikachu for you.\f",
+        "He said to take good care of it!\r"
+      ]
     }
   ]
 }
