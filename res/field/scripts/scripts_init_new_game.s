@@ -127,4 +127,8 @@ InitNewGame:
     // by starting it already "done" (the 5 free Poké Balls it gave are covered
     // by the early-boost kit).
     SetVar VAR_ROUTE_202_STATE, 1
+    // ROM hack: skip the rival bursting into the bedroom -- start in the exact
+    // end-state that cutscene sets (RIVAL_TRIGGER_STATE 1, rival already hidden),
+    // so you just walk downstairs. Downstream opening is unaffected.
+    SetVar VAR_PLAYER_HOUSE_RIVAL_TRIGGER_STATE, 1
     End
