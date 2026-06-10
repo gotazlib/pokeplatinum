@@ -273,10 +273,13 @@ Route201_GoOnChoosePokemon:
 
 Route201_Briefcase:
     LockAll
-    // ROM hack: the briefcase stays put. First interaction = choose your starter
-    // (plus all the early gifts); interact again afterwards to claim the other two.
+    // ROM hack (intro skip): self-contained briefcase. No Prof. Rowan / rival /
+    // counterpart objects are referenced, so this works even with the opening
+    // cutscene skipped. First interaction = pick your starter + the first rival
+    // battle; interact again = the other two starters.
     GoToIfSet FLAG_UNUSED_0x04F5, Route201_BriefcaseEmpty
     GoToIfSet FLAG_UNUSED_0x040F, Route201_GiveOtherStarters
+    FacePlayer
     FadeScreenOut
     WaitFadeScreen
     StartChooseStarterScene
@@ -287,26 +290,30 @@ Route201_Briefcase:
     GetPlayerStarterSpecies VAR_0x8000
     GivePokemon VAR_0x8000, 5, ITEM_NONE, VAR_RESULT
     SetFlag FLAG_UNUSED_0x040F
-    // (early gifts are now handed out by Mom in the player's house)
-    ApplyMovement LOCALID_PROF_ROWAN, Route201_Movement_ProfRowanFacePlayerSouth
-    ApplyMovement LOCALID_RIVAL, Route201_Movement_RivalFaceWest
-    ApplyMovement LOCALID_PLAYER, Route201_Movement_PlayerFaceProfRowanNorth
-    WaitMovement
-    BufferRivalName 0
-    BufferRivalStarterSpeciesName 2
-    Message Route201_Text_ImPickingThisStarter
-    Message Route201_Text_IHopeYoullDoWellTogether
-    Message Route201_Text_ComeSeeMeInSandgemTown
-    CloseMessage
-    ApplyMovement LOCALID_PROF_ROWAN, Route201_Movement_ProfRowanLeave
-    ApplyMovement LOCALID_RIVAL, Route201_Movement_RivalMoveAwayForProfRowan
-    ApplyMovement LOCALID_PLAYER, Route201_Movement_PlayerWatchProfRowanLeave
-    WaitMovement
-    SetFlag FLAG_HIDE_ROUTE_201_PROF_ROWAN
-    RemoveObject LOCALID_PROF_ROWAN
-    GetPlayerGender VAR_RESULT
-    GoToIfEq VAR_RESULT, GENDER_MALE, Route201_DawnLeave
-    GoTo Route201_LucasLeave
+    GetPlayerStarterSpecies VAR_RESULT
+    GoToIfEq VAR_RESULT, SPECIES_TURTWIG, Route201_SkipRivalTurtwig
+    GoToIfEq VAR_RESULT, SPECIES_CHIMCHAR, Route201_SkipRivalChimchar
+    GoTo Route201_SkipRivalPiplup
+    End
+
+Route201_SkipRivalPiplup:
+    StartFirstBattle TRAINER_RIVAL_ROUTE_201_PIPLUP
+    GoTo Route201_SkipRivalDone
+
+Route201_SkipRivalTurtwig:
+    StartFirstBattle TRAINER_RIVAL_ROUTE_201_TURTWIG
+    GoTo Route201_SkipRivalDone
+
+Route201_SkipRivalChimchar:
+    StartFirstBattle TRAINER_RIVAL_ROUTE_201_CHIMCHAR
+    GoTo Route201_SkipRivalDone
+
+Route201_SkipRivalDone:
+    ReturnToField
+    FadeScreenIn
+    WaitFadeScreen
+    SetVar VAR_PLAYER_HOUSE_STATE, 3
+    ReleaseAll
     End
 
 Route201_DawnLeave:
