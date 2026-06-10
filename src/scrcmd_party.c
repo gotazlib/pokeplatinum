@@ -42,6 +42,22 @@ BOOL ScrCmd_GivePokemon(ScriptContext *ctx)
     return FALSE;
 }
 
+// ROM hack: same as GivePokemon, but the mon gets perfect (31) IVs.
+BOOL ScrCmd_GivePerfectMon(ScriptContext *ctx)
+{
+    int metLocation = MapHeader_GetMapLabelTextID(ctx->fieldSystem->location->mapId);
+    int metTerrain = TERRAIN_MAX;
+    FieldSystem *fieldSystem = ctx->fieldSystem;
+    u16 species = ScriptContext_GetVar(ctx);
+    u16 level = ScriptContext_GetVar(ctx);
+    u16 heldItem = ScriptContext_GetVar(ctx);
+    u16 *success = ScriptContext_GetVarPointer(ctx);
+
+    *success = Pokemon_GivePerfectMonFromScript(HEAP_ID_FIELD2, fieldSystem->saveData, species, level, heldItem, metLocation, metTerrain);
+
+    return FALSE;
+}
+
 BOOL ScrCmd_GetPartyMonSpecies(ScriptContext *ctx)
 {
     FieldSystem *fieldSystem = ctx->fieldSystem;

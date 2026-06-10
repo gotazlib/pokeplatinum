@@ -1005,6 +1005,15 @@
     .short \successVar
     .endm
 
+    @ ROM hack: like GivePokemon, but the mon has perfect (31) IVs.
+    .macro GivePerfectMon species, level, heldItem, successVar
+    .short SCRCMD_GIVEPERFECTMON
+    .short \species
+    .short \level
+    .short \heldItem
+    .short \successVar
+    .endm
+
     @ eggGiverTextId corresponds to an entry in special_met_location_names.gmm.
     .macro GiveEgg species, eggGiverTextId
     .short SCRCMD_GIVEEGG

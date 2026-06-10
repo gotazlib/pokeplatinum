@@ -170,6 +170,8 @@ TwinleafTownPlayerHouse1F_Mom:
     FacePlayer
     // ROM hack: on the very first talk, Mom hands over the whole kit (once).
     CallIfUnset FLAG_UNUSED_0x0538, TwinleafTownPlayerHouse1F_GiveStarterKit
+    // ROM hack: after the first rival battle, Mom also gives a perfect-IV Pikachu.
+    CallIfUnset FLAG_UNUSED_0x053C, TwinleafTownPlayerHouse1F_MaybeGivePikachu
     GoToIfSet FLAG_UNK_0x0002, TwinleafTownPlayerHouse1F_DoMomMessage
     GoToIfGe VAR_PLAYER_HOUSE_STATE, 7, TwinleafTownPlayerHouse1F_CallTakeAQuickRest2
     GoToIfEq VAR_PLAYER_HOUSE_STATE, 6, TwinleafTownPlayerHouse1F_EnjoyYourAdventure
@@ -842,6 +844,17 @@ TwinleafTownPlayerHouse1F_GiveStarterKit:
     AddItem ITEM_FULL_HEAL, 10, VAR_RESULT
     AddItem ITEM_REVIVE, 10, VAR_RESULT
     AddItem ITEM_MAX_REPEL, 10, VAR_RESULT
+    Return
+
+// ROM hack: gives a Lv5 Pikachu with perfect IVs holding a Light Ball, but only
+// once the first rival battle is done (VAR_PLAYER_HOUSE_STATE reaches 3).
+TwinleafTownPlayerHouse1F_MaybeGivePikachu:
+    GoToIfGe VAR_PLAYER_HOUSE_STATE, 3, TwinleafTownPlayerHouse1F_GivePikachuNow
+    Return
+
+TwinleafTownPlayerHouse1F_GivePikachuNow:
+    SetFlag FLAG_UNUSED_0x053C
+    GivePerfectMon SPECIES_PIKACHU, 5, ITEM_LIGHT_BALL, VAR_RESULT
     Return
 
     .balign 4, 0
