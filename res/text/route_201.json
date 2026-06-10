@@ -552,6 +552,13 @@
         "By talking to people, you will get\n",
         "invaluable information and advice."
       ]
+    },
+    {
+      "id": "Route201_Text_WhichOtherStarter",
+      "en_US": [
+        "There are two left.\n",
+        "Would you like {STRVAR_1 0, 2, 0}?"
+      ]
     }
   ]
 }

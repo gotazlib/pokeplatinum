@@ -1273,33 +1273,59 @@ Route201_TrainerTipsSignpost:
 
 // ROM hack: re-interacting with the briefcase after choosing hands over the
 // other two starters (once), then it's empty.
+// ROM hack: re-interacting the briefcase lets you take ONE of the two starters
+// you didn't choose (Yes = the named one, No = the other).
 Route201_GiveOtherStarters:
     GetPlayerStarterSpecies VAR_0x8000
-    CallIfEq VAR_0x8000, SPECIES_TURTWIG, Route201_GiveOthersTurtwig
-    CallIfEq VAR_0x8000, SPECIES_CHIMCHAR, Route201_GiveOthersChimchar
-    CallIfEq VAR_0x8000, SPECIES_PIPLUP, Route201_GiveOthersPiplup
+    GoToIfEq VAR_0x8000, SPECIES_TURTWIG, Route201_OfferChimOrPip
+    GoToIfEq VAR_0x8000, SPECIES_CHIMCHAR, Route201_OfferTurOrPip
+    GoTo Route201_OfferTurOrChim
+    End
+
+Route201_OfferChimOrPip:
+    SetVar VAR_0x8001, SPECIES_CHIMCHAR
+    BufferSpeciesNameFromVar 2, VAR_0x8001, 0, 0
+    Message Route201_Text_WhichOtherStarter
+    ShowYesNoMenu VAR_RESULT
+    GoToIfEq VAR_RESULT, MENU_YES, Route201_GiveChimcharOnly
+    GoTo Route201_GivePiplupOnly
+
+Route201_OfferTurOrPip:
+    SetVar VAR_0x8001, SPECIES_TURTWIG
+    BufferSpeciesNameFromVar 2, VAR_0x8001, 0, 0
+    Message Route201_Text_WhichOtherStarter
+    ShowYesNoMenu VAR_RESULT
+    GoToIfEq VAR_RESULT, MENU_YES, Route201_GiveTurtwigOnly
+    GoTo Route201_GivePiplupOnly
+
+Route201_OfferTurOrChim:
+    SetVar VAR_0x8001, SPECIES_TURTWIG
+    BufferSpeciesNameFromVar 2, VAR_0x8001, 0, 0
+    Message Route201_Text_WhichOtherStarter
+    ShowYesNoMenu VAR_RESULT
+    GoToIfEq VAR_RESULT, MENU_YES, Route201_GiveTurtwigOnly
+    GoTo Route201_GiveChimcharOnly
+
+Route201_GiveTurtwigOnly:
+    GivePokemon SPECIES_TURTWIG, 5, ITEM_NONE, VAR_RESULT
+    GoTo Route201_OtherStarterClaimed
+
+Route201_GiveChimcharOnly:
+    GivePokemon SPECIES_CHIMCHAR, 5, ITEM_NONE, VAR_RESULT
+    GoTo Route201_OtherStarterClaimed
+
+Route201_GivePiplupOnly:
+    GivePokemon SPECIES_PIPLUP, 5, ITEM_NONE, VAR_RESULT
+    GoTo Route201_OtherStarterClaimed
+
+Route201_OtherStarterClaimed:
     SetFlag FLAG_UNUSED_0x04F5
+    CloseMessage
     ReleaseAll
     End
 
 Route201_BriefcaseEmpty:
     ReleaseAll
     End
-
-// ROM hack: subroutines that grant the two starters the player did NOT pick.
-Route201_GiveOthersTurtwig:
-    GivePokemon SPECIES_CHIMCHAR, 5, ITEM_NONE, VAR_RESULT
-    GivePokemon SPECIES_PIPLUP, 5, ITEM_NONE, VAR_RESULT
-    Return
-
-Route201_GiveOthersChimchar:
-    GivePokemon SPECIES_TURTWIG, 5, ITEM_NONE, VAR_RESULT
-    GivePokemon SPECIES_PIPLUP, 5, ITEM_NONE, VAR_RESULT
-    Return
-
-Route201_GiveOthersPiplup:
-    GivePokemon SPECIES_TURTWIG, 5, ITEM_NONE, VAR_RESULT
-    GivePokemon SPECIES_CHIMCHAR, 5, ITEM_NONE, VAR_RESULT
-    Return
 
     .balign 4, 0
