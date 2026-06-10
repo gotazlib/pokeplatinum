@@ -290,6 +290,10 @@ Route201_Briefcase:
     GetPlayerStarterSpecies VAR_0x8000
     GivePokemon VAR_0x8000, 5, ITEM_NONE, VAR_RESULT
     SetFlag FLAG_UNUSED_0x040F
+    // ROM hack (intro skip): the Pokédex comes with the starter, since the
+    // Sandgem lab hand-off is skipped.
+    GivePokedex
+    SetFlag FLAG_HAS_POKEDEX
     GetPlayerStarterSpecies VAR_RESULT
     GoToIfEq VAR_RESULT, SPECIES_TURTWIG, Route201_SkipRivalTurtwig
     GoToIfEq VAR_RESULT, SPECIES_CHIMCHAR, Route201_SkipRivalChimchar

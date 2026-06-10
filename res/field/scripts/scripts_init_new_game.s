@@ -140,4 +140,9 @@ InitNewGame:
     // ROM hack (intro skip): mark the Lake Verity intro cutscene already done so
     // it doesn't fire if you visit the lake.
     SetVar VAR_LAKE_VERITY_PROF_ROWAN_STATE, 1
+    // ROM hack (intro skip): skip the forced Sandgem "counterpart leads you to
+    // the lab" scene, and keep Dawn (the counterpart) standing in Sandgem so she
+    // can be battled.
+    SetVar VAR_SANDGEM_TOWN_STATE, 2
+    ClearFlag FLAG_HIDE_SANDGEM_TOWN_COUNTERPART
     End

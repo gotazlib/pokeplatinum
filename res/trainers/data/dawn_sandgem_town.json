@@ -1,0 +1,88 @@
+{
+    "name": "Dawn",
+    "class": "TRAINER_CLASS_DP_PLAYER_FEMALE",
+    "items": [
+        "ITEM_HYPER_POTION",
+        "ITEM_HYPER_POTION"
+    ],
+    "ai_flags": [
+        "AI_FLAG_BASIC",
+        "AI_FLAG_EVAL_ATTACK",
+        "AI_FLAG_EXPERT"
+    ],
+    "double_battle": false,
+    "party": [
+        {
+            "species": "SPECIES_STARAVIA",
+            "form": 0,
+            "level": 16,
+            "item": null,
+            "moves": [
+                "MOVE_WING_ATTACK",
+                "MOVE_AERIAL_ACE",
+                "MOVE_QUICK_ATTACK",
+                "MOVE_DOUBLE_TEAM"
+            ],
+            "iv_scale": 250,
+            "ball_seal": 0
+        },
+        {
+            "species": "SPECIES_ROSELIA",
+            "form": 0,
+            "level": 16,
+            "item": "ITEM_SITRUS_BERRY",
+            "moves": [
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_GROWTH",
+                "MOVE_STUN_SPORE"
+            ],
+            "iv_scale": 250,
+            "ball_seal": 0
+        },
+        {
+            "species": "SPECIES_PONYTA",
+            "form": 0,
+            "level": 16,
+            "item": null,
+            "moves": [
+                "MOVE_FLAME_WHEEL",
+                "MOVE_STOMP",
+                "MOVE_BOUNCE",
+                "MOVE_QUICK_ATTACK"
+            ],
+            "iv_scale": 250,
+            "ball_seal": 0
+        },
+        {
+            "species": "SPECIES_PRINPLUP",
+            "form": 0,
+            "level": 18,
+            "item": "ITEM_SITRUS_BERRY",
+            "moves": [
+                "MOVE_BUBBLE_BEAM",
+                "MOVE_METAL_CLAW",
+                "MOVE_ICY_WIND",
+                "MOVE_PECK"
+            ],
+            "iv_scale": 250,
+            "ball_seal": 0
+        }
+    ],
+    "messages": [
+        {
+            "type": "TRMSG_PRE_BATTLE",
+            "en_US": [
+                "Dawn: Now that you have a Pokémon,\n",
+                "let me see how you battle!\r"
+            ]
+        },
+        {
+            "type": "TRMSG_DEFEAT",
+            "en_US": [
+                "Dawn: Wow, you and your Pokémon\n",
+                "are amazing already!\r"
+            ]
+        }
+    ]
+}

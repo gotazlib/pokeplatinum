@@ -15,6 +15,7 @@
     ScriptEntry SandgemTown_LandmarkSignCounterpartMailbox
     ScriptEntry SandgemTown_LandmarkSignPokeMart
     ScriptEntry SandgemTown_LandmarkSignPokemonCenter
+    ScriptEntry SandgemTown_DawnBattle
     ScriptEntryEnd
 
 SandgemTown_OnTransition:
@@ -697,6 +698,27 @@ SandgemTown_LandmarkSignPokeMart:
 
 SandgemTown_LandmarkSignPokemonCenter:
     ShowLandmarkSign SandgemTown_Text_PokemonCenterSign
+    End
+
+    .balign 4, 0
+
+// ROM hack: talk to Dawn (the counterpart) in Sandgem for a one-time battle
+// against her competitive team. No forced cutscene.
+SandgemTown_DawnBattle:
+    PlaySE SEQ_SE_CONFIRM
+    LockAll
+    FacePlayer
+    GoToIfSet FLAG_UNUSED_2420, SandgemTown_DawnAlreadyBeaten
+    StartTrainerBattle TRAINER_DAWN_SANDGEM_TOWN
+    CheckWonBattle VAR_RESULT
+    GoToIfEq VAR_RESULT, FALSE, SandgemTown_DawnBattleEnd
+    SetFlag FLAG_UNUSED_2420
+SandgemTown_DawnBattleEnd:
+    ReleaseAll
+    End
+
+SandgemTown_DawnAlreadyBeaten:
+    ReleaseAll
     End
 
     .balign 4, 0
