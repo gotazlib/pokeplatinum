@@ -1106,6 +1106,19 @@ static void SetMonDataFromMon(PokemonSummaryScreen *summaryScreen, Pokemon *mon,
     monData->speed = Pokemon_GetValue(mon, MON_DATA_SPEED, NULL);
     monData->ability = Pokemon_GetValue(mon, MON_DATA_ABILITY, NULL);
     monData->nature = Pokemon_GetNature(mon);
+    // ROM hack: load IVs/EVs (order HP, ATK, DEF, SPEED, SPATK, SPDEF) for the skills page
+    monData->ivs[0] = Pokemon_GetValue(mon, MON_DATA_HP_IV, NULL);
+    monData->ivs[1] = Pokemon_GetValue(mon, MON_DATA_ATK_IV, NULL);
+    monData->ivs[2] = Pokemon_GetValue(mon, MON_DATA_DEF_IV, NULL);
+    monData->ivs[3] = Pokemon_GetValue(mon, MON_DATA_SPEED_IV, NULL);
+    monData->ivs[4] = Pokemon_GetValue(mon, MON_DATA_SPATK_IV, NULL);
+    monData->ivs[5] = Pokemon_GetValue(mon, MON_DATA_SPDEF_IV, NULL);
+    monData->evs[0] = Pokemon_GetValue(mon, MON_DATA_HP_EV, NULL);
+    monData->evs[1] = Pokemon_GetValue(mon, MON_DATA_ATK_EV, NULL);
+    monData->evs[2] = Pokemon_GetValue(mon, MON_DATA_DEF_EV, NULL);
+    monData->evs[3] = Pokemon_GetValue(mon, MON_DATA_SPEED_EV, NULL);
+    monData->evs[4] = Pokemon_GetValue(mon, MON_DATA_SPATK_EV, NULL);
+    monData->evs[5] = Pokemon_GetValue(mon, MON_DATA_SPDEF_EV, NULL);
 
     u16 i;
     u8 maxPP;

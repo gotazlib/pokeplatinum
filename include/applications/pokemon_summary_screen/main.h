@@ -382,6 +382,8 @@ typedef struct PokemonSummaryMonData {
     u16 speed;
     u8 ability;
     u8 nature;
+    u8 ivs[6]; // ROM hack: order HP, ATK, DEF, SPEED, SPATK, SPDEF
+    u8 evs[6];
 
     u16 moves[LEARNED_MOVES_MAX];
     u8 curPP[LEARNED_MOVES_MAX];

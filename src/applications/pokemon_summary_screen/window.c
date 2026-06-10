@@ -1182,10 +1182,41 @@ static void DrawSkillsPageWindows(PokemonSummaryScreen *summaryScreen)
     String_Free(buf);
 
     PrintStringToWindow(summaryScreen, &summaryScreen->extraWindows[SUMMARY_WINDOW_ABILITY], SUMMARY_TEXT_BLACK, ALIGN_LEFT);
-    MessageLoader *msgLoader = MessageLoader_Init(MSG_LOADER_LOAD_ON_DEMAND, NARC_INDEX_MSGDATA__PL_MSG, TEXT_BANK_ABILITY_DESCRIPTIONS, HEAP_ID_POKEMON_SUMMARY_SCREEN);
-    MessageLoader_GetString(msgLoader, summaryScreen->monData.ability, summaryScreen->string);
-    MessageLoader_Free(msgLoader);
-    PrintStringToWindow(summaryScreen, &summaryScreen->extraWindows[SUMMARY_WINDOW_ABILITY_DESCRIPTION], SUMMARY_TEXT_BLACK, ALIGN_LEFT);
+
+    // ROM hack: repurpose the ability-description box on the Skills page to show
+    // Nature + IVs + EVs directly. (Ability NAME above is unchanged.) Eggs keep
+    // the normal ability description.
+    Window *ivEvWindow = &summaryScreen->extraWindows[SUMMARY_WINDOW_ABILITY_DESCRIPTION];
+    if (summaryScreen->monData.isEgg) {
+        MessageLoader *msgLoader = MessageLoader_Init(MSG_LOADER_LOAD_ON_DEMAND, NARC_INDEX_MSGDATA__PL_MSG, TEXT_BANK_ABILITY_DESCRIPTIONS, HEAP_ID_POKEMON_SUMMARY_SCREEN);
+        MessageLoader_GetString(msgLoader, summaryScreen->monData.ability, summaryScreen->string);
+        MessageLoader_Free(msgLoader);
+        PrintStringToWindow(summaryScreen, ivEvWindow, SUMMARY_TEXT_BLACK, ALIGN_LEFT);
+    } else {
+        // Row 0: nature name
+        MessageLoader *natLoader = MessageLoader_Init(MSG_LOADER_LOAD_ON_DEMAND, NARC_INDEX_MSGDATA__PL_MSG, TEXT_BANK_NATURE_NAMES, HEAP_ID_POKEMON_SUMMARY_SCREEN);
+        MessageLoader_GetString(natLoader, summaryScreen->monData.nature, summaryScreen->string);
+        MessageLoader_Free(natLoader);
+        Text_AddPrinterWithParamsAndColor(ivEvWindow, FONT_SYSTEM, summaryScreen->string, 0, 0, TEXT_SPEED_NO_TRANSFER, SUMMARY_TEXT_BLACK, NULL);
+
+        // Row 1: IVs (blue label) -- order HP ATK DEF SPEED SPATK SPDEF
+        String *ivLabel = MessageLoader_GetNewString(summaryScreen->msgLoader, PokemonSummary_Text_IvLabel);
+        Text_AddPrinterWithParamsAndColor(ivEvWindow, FONT_SYSTEM, ivLabel, 0, 11, TEXT_SPEED_NO_TRANSFER, SUMMARY_TEXT_BLUE, NULL);
+        String_Free(ivLabel);
+        for (u32 i = 0; i < 6; i++) {
+            SetAndFormatNumberBuf(summaryScreen, PokemonSummary_Text_TemplateAttack, summaryScreen->monData.ivs[i], 3, PADDING_MODE_NONE);
+            Text_AddPrinterWithParamsAndColor(ivEvWindow, FONT_SYSTEM, summaryScreen->string, 18 + i * 21, 11, TEXT_SPEED_NO_TRANSFER, SUMMARY_TEXT_BLACK, NULL);
+        }
+
+        // Row 2: EVs (red label)
+        String *evLabel = MessageLoader_GetNewString(summaryScreen->msgLoader, PokemonSummary_Text_EvLabel);
+        Text_AddPrinterWithParamsAndColor(ivEvWindow, FONT_SYSTEM, evLabel, 0, 22, TEXT_SPEED_NO_TRANSFER, SUMMARY_TEXT_RED, NULL);
+        String_Free(evLabel);
+        for (u32 i = 0; i < 6; i++) {
+            SetAndFormatNumberBuf(summaryScreen, PokemonSummary_Text_TemplateAttack, summaryScreen->monData.evs[i], 3, PADDING_MODE_NONE);
+            Text_AddPrinterWithParamsAndColor(ivEvWindow, FONT_SYSTEM, summaryScreen->string, 18 + i * 21, 22, TEXT_SPEED_NO_TRANSFER, SUMMARY_TEXT_BLACK, NULL);
+        }
+    }
 
     Window_ScheduleCopyToVRAM(&summaryScreen->extraWindows[SUMMARY_WINDOW_HP]);
     Window_ScheduleCopyToVRAM(&summaryScreen->extraWindows[SUMMARY_WINDOW_ATTACK]);
