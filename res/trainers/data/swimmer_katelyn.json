@@ -15,10 +15,10 @@
             "level": 37,
             "item": null,
             "moves": [
+                "MOVE_WATER_GUN",
+                "MOVE_SWIFT",
                 "MOVE_AQUA_JET",
-                "MOVE_SONIC_BOOM",
-                "MOVE_QUICK_ATTACK",
-                "MOVE_ATTRACT"
+                "MOVE_QUICK_ATTACK"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 37,
             "item": null,
             "moves": [
-                "MOVE_CONFUSION",
-                "MOVE_BRICK_BREAK",
-                "MOVE_MEDITATE",
-                "MOVE_LIGHT_SCREEN"
+                "MOVE_HI_JUMP_KICK",
+                "MOVE_FORCE_PALM",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_THUNDER_PUNCH"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -44,9 +44,9 @@
             "item": null,
             "moves": [
                 "MOVE_WATER_PULSE",
+                "MOVE_POISON_JAB",
                 "MOVE_HORN_ATTACK",
-                "MOVE_AQUA_RING",
-                "MOVE_CAPTIVATE"
+                "MOVE_PECK"
             ],
             "iv_scale": 150,
             "ball_seal": 15

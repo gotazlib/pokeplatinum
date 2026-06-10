@@ -14,7 +14,12 @@
             "form": 0,
             "level": 64,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SOLAR_BEAM",
+                "MOVE_PSYCHIC",
+                "MOVE_CONFUSION",
+                "MOVE_UPROAR"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 64,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_CRUSH_CLAW",
+                "MOVE_SLASH",
+                "MOVE_X_SCISSOR"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 67,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_BUBBLE_BEAM",
+                "MOVE_DRILL_PECK",
+                "MOVE_METAL_CLAW"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

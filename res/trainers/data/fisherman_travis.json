@@ -14,7 +14,12 @@
             "form": 0,
             "level": 28,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATER_PULSE",
+                "MOVE_MUD_BOMB",
+                "MOVE_WATER_GUN",
+                "MOVE_MUD_SLAP"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 29,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATER_PULSE",
+                "MOVE_MUD_BOMB",
+                "MOVE_WATER_GUN",
+                "MOVE_MUD_SLAP"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 30,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_THRASH",
+                "MOVE_BITE",
+                "MOVE_TWISTER",
+                "MOVE_DRAGON_RAGE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -41,7 +56,12 @@
             "form": 0,
             "level": 29,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATER_PULSE",
+                "MOVE_MUD_BOMB",
+                "MOVE_WATER_GUN",
+                "MOVE_MUD_SLAP"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

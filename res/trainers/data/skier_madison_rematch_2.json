@@ -14,7 +14,12 @@
             "form": 0,
             "level": 63,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BLIZZARD",
+                "MOVE_OMINOUS_WIND",
+                "MOVE_ICY_WIND",
+                "MOVE_WAKE_UP_SLAP"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

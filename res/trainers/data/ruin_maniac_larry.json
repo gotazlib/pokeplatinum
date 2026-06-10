@@ -14,7 +14,12 @@
             "form": 0,
             "level": 66,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_HYPER_BEAM",
+                "MOVE_ROCK_SLIDE",
+                "MOVE_WING_ATTACK",
+                "MOVE_ANCIENT_POWER"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

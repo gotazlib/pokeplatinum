@@ -14,7 +14,11 @@
             "form": 0,
             "level": 7,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_THUNDER_SHOCK",
+                "MOVE_TACKLE",
+                "MOVE_METAL_SOUND"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +27,10 @@
             "form": 0,
             "level": 7,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CONFUSION",
+                "MOVE_GROWL"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

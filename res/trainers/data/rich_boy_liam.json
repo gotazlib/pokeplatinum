@@ -16,7 +16,12 @@
             "form": 0,
             "level": 41,
             "item": "ITEM_RARE_CANDY",
-            "moves": null,
+            "moves": [
+                "MOVE_EGG_BOMB",
+                "MOVE_POUND",
+                "MOVE_FLING",
+                "MOVE_DOUBLE_SLAP"
+            ],
             "iv_scale": 250,
             "ball_seal": 26
         }

@@ -14,7 +14,12 @@
             "form": 0,
             "level": 7,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CONFUSION",
+                "MOVE_TICKLE",
+                "MOVE_BARRIER",
+                "MOVE_COPYCAT"
+            ],
             "iv_scale": 150,
             "ball_seal": 3
         }

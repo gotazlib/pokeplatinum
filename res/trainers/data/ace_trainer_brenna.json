@@ -15,10 +15,10 @@
             "level": 46,
             "item": null,
             "moves": [
-                "MOVE_ICE_SHARD",
-                "MOVE_SLASH",
                 "MOVE_FAINT_ATTACK",
-                "MOVE_QUICK_ATTACK"
+                "MOVE_ICY_WIND",
+                "MOVE_SLASH",
+                "MOVE_METAL_CLAW"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,9 +29,10 @@
             "level": 46,
             "item": null,
             "moves": [
+                "MOVE_BLIZZARD",
                 "MOVE_ICE_FANG",
                 "MOVE_CRUNCH",
-                "MOVE_HAIL"
+                "MOVE_HEADBUTT"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -42,10 +43,10 @@
             "level": 48,
             "item": null,
             "moves": [
-                "MOVE_ICE_SHARD",
                 "MOVE_WOOD_HAMMER",
-                "MOVE_INGRAIN",
-                "MOVE_GRASS_WHISTLE"
+                "MOVE_BLIZZARD",
+                "MOVE_RAZOR_LEAF",
+                "MOVE_ICY_WIND"
             ],
             "iv_scale": 150,
             "ball_seal": 0

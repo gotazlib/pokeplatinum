@@ -15,9 +15,10 @@
             "level": 34,
             "item": null,
             "moves": [
-                "MOVE_WATER_PULSE",
                 "MOVE_WING_ATTACK",
-                "MOVE_SUPERSONIC"
+                "MOVE_WATER_PULSE",
+                "MOVE_WATER_GUN",
+                "MOVE_QUICK_ATTACK"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,8 +30,9 @@
             "item": null,
             "moves": [
                 "MOVE_WATER_PULSE",
+                "MOVE_BODY_SLAM",
                 "MOVE_MUD_BOMB",
-                "MOVE_RAIN_DANCE"
+                "MOVE_MUD_SLAP"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -41,9 +43,10 @@
             "level": 36,
             "item": null,
             "moves": [
-                "MOVE_FURY_SWIPES",
+                "MOVE_WATER_PULSE",
+                "MOVE_AQUA_JET",
                 "MOVE_CONFUSION",
-                "MOVE_WATER_PULSE"
+                "MOVE_SCRATCH"
             ],
             "iv_scale": 150,
             "ball_seal": 0

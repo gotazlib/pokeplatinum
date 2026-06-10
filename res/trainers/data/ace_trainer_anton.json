@@ -16,7 +16,9 @@
             "item": null,
             "moves": [
                 "MOVE_ICE_BEAM",
-                "MOVE_CRUNCH"
+                "MOVE_BLIZZARD",
+                "MOVE_CRUNCH",
+                "MOVE_HEADBUTT"
             ],
             "iv_scale": 150,
             "ball_seal": 0

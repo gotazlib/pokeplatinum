@@ -16,9 +16,9 @@
             "item": null,
             "moves": [
                 "MOVE_HYPER_VOICE",
+                "MOVE_STOMP",
                 "MOVE_BITE",
-                "MOVE_SUPERSONIC",
-                "MOVE_SCREECH"
+                "MOVE_ASTONISH"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -30,9 +30,9 @@
             "item": null,
             "moves": [
                 "MOVE_HEAD_SMASH",
-                "MOVE_ZEN_HEADBUTT",
                 "MOVE_ANCIENT_POWER",
-                "MOVE_SCREECH"
+                "MOVE_TAKE_DOWN",
+                "MOVE_ZEN_HEADBUTT"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -43,10 +43,10 @@
             "level": 67,
             "item": null,
             "moves": [
-                "MOVE_AIR_SLASH",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_WING_ATTACK",
                 "MOVE_WATER_PULSE",
-                "MOVE_ROOST",
-                "MOVE_QUICK_ATTACK"
+                "MOVE_PAYBACK"
             ],
             "iv_scale": 150,
             "ball_seal": 0

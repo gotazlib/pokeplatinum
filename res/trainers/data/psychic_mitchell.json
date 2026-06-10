@@ -14,7 +14,12 @@
             "form": 0,
             "level": 30,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_ASTONISH",
+                "MOVE_PURSUIT",
+                "MOVE_NIGHT_SHADE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 30,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PSYBEAM",
+                "MOVE_CONFUSION",
+                "MOVE_TELEPORT",
+                "MOVE_KINESIS"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

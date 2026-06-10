@@ -15,9 +15,10 @@
             "level": 41,
             "item": null,
             "moves": [
-                "MOVE_SUPERSONIC",
+                "MOVE_DISCHARGE",
+                "MOVE_SPARK",
                 "MOVE_MAGNET_BOMB",
-                "MOVE_SPARK"
+                "MOVE_TACKLE"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -28,9 +29,10 @@
             "level": 41,
             "item": null,
             "moves": [
-                "MOVE_THUNDER_WAVE",
+                "MOVE_DISCHARGE",
+                "MOVE_SPARK",
                 "MOVE_MAGNET_BOMB",
-                "MOVE_SPARK"
+                "MOVE_TACKLE"
             ],
             "iv_scale": 150,
             "ball_seal": 0

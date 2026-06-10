@@ -15,9 +15,10 @@
             "level": 23,
             "item": null,
             "moves": [
-                "MOVE_EGG_BOMB",
-                "MOVE_SOFTBOILED",
-                "MOVE_REFRESH"
+                "MOVE_POUND",
+                "MOVE_DOUBLE_SLAP",
+                "MOVE_GROWL",
+                "MOVE_TAIL_WHIP"
             ],
             "iv_scale": 150,
             "ball_seal": 0

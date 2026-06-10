@@ -17,6 +17,7 @@
             "moves": [
                 "MOVE_CONFUSION",
                 "MOVE_BIDE",
+                "MOVE_HIDDEN_POWER",
                 "MOVE_MEDITATE"
             ],
             "iv_scale": 150,

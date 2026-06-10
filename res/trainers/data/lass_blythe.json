@@ -14,7 +14,12 @@
             "form": 0,
             "level": 29,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_LAST_RESORT",
+                "MOVE_CONFUSION",
+                "MOVE_UPROAR",
+                "MOVE_ASTONISH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 29,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_JUMP_KICK",
+                "MOVE_POUND",
+                "MOVE_QUICK_ATTACK",
+                "MOVE_FRUSTRATION"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

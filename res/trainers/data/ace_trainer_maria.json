@@ -16,9 +16,9 @@
             "item": null,
             "moves": [
                 "MOVE_WATER_PULSE",
-                "MOVE_CONFUSION",
-                "MOVE_DISABLE",
-                "MOVE_SCREECH"
+                "MOVE_ZEN_HEADBUTT",
+                "MOVE_AQUA_JET",
+                "MOVE_CONFUSION"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -30,9 +30,9 @@
             "item": null,
             "moves": [
                 "MOVE_FIRE_BLAST",
-                "MOVE_TAKE_DOWN",
-                "MOVE_FURY_ATTACK",
-                "MOVE_WILL_O_WISP"
+                "MOVE_MEGAHORN",
+                "MOVE_FLAME_WHEEL",
+                "MOVE_POISON_JAB"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -43,10 +43,10 @@
             "level": 44,
             "item": null,
             "moves": [
+                "MOVE_WOOD_HAMMER",
                 "MOVE_ROCK_SLIDE",
-                "MOVE_LOW_KICK",
-                "MOVE_FLAIL",
-                "MOVE_ENDURE"
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_ROCK_THROW"
             ],
             "iv_scale": 150,
             "ball_seal": 0

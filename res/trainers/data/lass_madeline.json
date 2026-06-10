@@ -14,7 +14,12 @@
             "form": 0,
             "level": 10,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATER_GUN",
+                "MOVE_SCRATCH",
+                "MOVE_WATER_SPORT",
+                "MOVE_TAIL_WHIP"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

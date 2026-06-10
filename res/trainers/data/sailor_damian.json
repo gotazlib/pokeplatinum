@@ -15,8 +15,9 @@
             "level": 36,
             "item": null,
             "moves": [
-                "MOVE_WATER_PULSE",
                 "MOVE_WING_ATTACK",
+                "MOVE_WATER_PULSE",
+                "MOVE_WATER_GUN",
                 "MOVE_QUICK_ATTACK"
             ],
             "iv_scale": 150,
@@ -28,9 +29,10 @@
             "level": 36,
             "item": null,
             "moves": [
-                "MOVE_WATER_PULSE",
                 "MOVE_WING_ATTACK",
-                "MOVE_QUICK_ATTACK"
+                "MOVE_WATER_PULSE",
+                "MOVE_WATER_GUN",
+                "MOVE_PAYBACK"
             ],
             "iv_scale": 150,
             "ball_seal": 0

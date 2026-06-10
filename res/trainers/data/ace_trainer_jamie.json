@@ -15,10 +15,10 @@
             "level": 69,
             "item": null,
             "moves": [
-                "MOVE_METEOR_MASH",
-                "MOVE_HAMMER_ARM",
                 "MOVE_PSYCHIC",
-                "MOVE_MAGNET_RISE"
+                "MOVE_METEOR_MASH",
+                "MOVE_ZEN_HEADBUTT",
+                "MOVE_HAMMER_ARM"
             ],
             "iv_scale": 150,
             "ball_seal": 11

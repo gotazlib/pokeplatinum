@@ -14,7 +14,12 @@
             "form": 0,
             "level": 28,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FAINT_ATTACK",
+                "MOVE_ICY_WIND",
+                "MOVE_ASSURANCE",
+                "MOVE_REVENGE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 29,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DISCHARGE",
+                "MOVE_SPARK",
+                "MOVE_SWIFT",
+                "MOVE_QUICK_ATTACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

@@ -14,7 +14,12 @@
             "form": 0,
             "level": 36,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TAKE_DOWN",
+                "MOVE_AIR_SLASH",
+                "MOVE_UPROAR",
+                "MOVE_ZEN_HEADBUTT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 38,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SKY_ATTACK",
+                "MOVE_TAKE_DOWN",
+                "MOVE_AIR_SLASH",
+                "MOVE_UPROAR"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

@@ -14,7 +14,12 @@
             "form": 0,
             "level": 52,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_BOUNCE",
+                "MOVE_BUBBLE_BEAM",
+                "MOVE_WING_ATTACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

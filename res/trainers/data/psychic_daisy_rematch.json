@@ -14,7 +14,12 @@
             "form": 0,
             "level": 67,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_ZEN_HEADBUTT",
+                "MOVE_WATER_PULSE",
+                "MOVE_HEADBUTT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 72,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_ZEN_HEADBUTT",
+                "MOVE_WATER_PULSE",
+                "MOVE_POWER_GEM"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

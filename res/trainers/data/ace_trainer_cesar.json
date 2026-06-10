@@ -15,10 +15,10 @@
             "level": 46,
             "item": null,
             "moves": [
-                "MOVE_METAL_CLAW",
                 "MOVE_X_SCISSOR",
-                "MOVE_SLASH",
-                "MOVE_PURSUIT"
+                "MOVE_RAZOR_WIND",
+                "MOVE_METAL_CLAW",
+                "MOVE_SLASH"
             ],
             "iv_scale": 150,
             "ball_seal": 0

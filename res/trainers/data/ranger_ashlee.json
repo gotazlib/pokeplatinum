@@ -14,7 +14,12 @@
             "form": 0,
             "level": 64,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_HEADBUTT",
+                "MOVE_SLASH",
+                "MOVE_FLING",
+                "MOVE_COVET"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 64,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_GUNK_SHOT",
+                "MOVE_CRUNCH",
+                "MOVE_ICE_FANG",
+                "MOVE_THUNDER_FANG"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

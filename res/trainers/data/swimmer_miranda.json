@@ -14,7 +14,12 @@
             "form": 0,
             "level": 52,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATER_PULSE",
+                "MOVE_U_TURN",
+                "MOVE_WATER_GUN",
+                "MOVE_POUND"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

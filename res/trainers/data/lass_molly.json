@@ -15,9 +15,10 @@
             "level": 27,
             "item": null,
             "moves": [
-                "MOVE_PAIN_SPLIT",
                 "MOVE_PSYBEAM",
-                "MOVE_CONFUSE_RAY"
+                "MOVE_ASTONISH",
+                "MOVE_PSYWAVE",
+                "MOVE_GROWL"
             ],
             "iv_scale": 150,
             "ball_seal": 0

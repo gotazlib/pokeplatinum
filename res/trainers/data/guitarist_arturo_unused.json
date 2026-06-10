@@ -14,7 +14,10 @@
             "form": 0,
             "level": 9,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BIDE",
+                "MOVE_GROWL"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

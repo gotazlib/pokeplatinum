@@ -17,10 +17,10 @@
             "level": 67,
             "item": null,
             "moves": [
-                "MOVE_STUN_SPORE",
-                "MOVE_SUNNY_DAY",
+                "MOVE_BOUNCE",
                 "MOVE_GIGA_DRAIN",
-                "MOVE_AERIAL_ACE"
+                "MOVE_U_TURN",
+                "MOVE_MEGA_DRAIN"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -32,9 +32,9 @@
             "item": null,
             "moves": [
                 "MOVE_SOLAR_BEAM",
-                "MOVE_SUNNY_DAY",
-                "MOVE_LEECH_SEED",
-                "MOVE_MAGICAL_LEAF"
+                "MOVE_PETAL_DANCE",
+                "MOVE_TAKE_DOWN",
+                "MOVE_TACKLE"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -45,10 +45,10 @@
             "level": 67,
             "item": null,
             "moves": [
-                "MOVE_PETAL_DANCE",
-                "MOVE_ATTRACT",
-                "MOVE_STUN_SPORE",
-                "MOVE_MAGICAL_LEAF"
+                "MOVE_LEAF_STORM",
+                "MOVE_LEAF_BLADE",
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_MEGA_DRAIN"
             ],
             "iv_scale": 150,
             "ball_seal": 0

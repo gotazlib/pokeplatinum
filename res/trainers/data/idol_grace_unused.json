@@ -14,7 +14,12 @@
             "form": 0,
             "level": 7,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_POUND",
+                "MOVE_GROWL",
+                "MOVE_ENCORE",
+                "MOVE_SING"
+            ],
             "iv_scale": 150,
             "ball_seal": 2
         }

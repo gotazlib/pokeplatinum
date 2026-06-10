@@ -14,7 +14,12 @@
             "form": 0,
             "level": 65,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_FIRE_BLAST",
+                "MOVE_TAKE_DOWN",
+                "MOVE_BOUNCE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 66,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BODY_SLAM",
+                "MOVE_STOMP",
+                "MOVE_ZEN_HEADBUTT",
+                "MOVE_WAKE_UP_SLAP"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 66,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_GIGA_IMPACT",
+                "MOVE_THRASH",
+                "MOVE_ZEN_HEADBUTT",
+                "MOVE_PAYBACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -41,7 +56,12 @@
             "form": 0,
             "level": 67,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_FIRE_BLAST",
+                "MOVE_MEGAHORN",
+                "MOVE_POISON_JAB"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

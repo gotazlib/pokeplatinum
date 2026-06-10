@@ -15,7 +15,12 @@
             "form": 0,
             "level": 44,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_HI_JUMP_KICK",
+                "MOVE_FORCE_PALM",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_THUNDER_PUNCH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

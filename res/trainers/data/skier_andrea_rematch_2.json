@@ -14,7 +14,12 @@
             "form": 0,
             "level": 63,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WOOD_HAMMER",
+                "MOVE_BLIZZARD",
+                "MOVE_ICE_PUNCH",
+                "MOVE_RAZOR_LEAF"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

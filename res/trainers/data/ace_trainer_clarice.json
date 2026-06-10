@@ -15,10 +15,10 @@
             "level": 61,
             "item": null,
             "moves": [
-                "MOVE_GUNK_SHOT",
-                "MOVE_YAWN",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_SLUDGE",
                 "MOVE_BODY_SLAM",
-                "MOVE_PROTECT"
+                "MOVE_POUND"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 63,
             "item": null,
             "moves": [
-                "MOVE_WILL_O_WISP",
-                "MOVE_FLAMETHROWER",
-                "MOVE_DARK_PULSE",
-                "MOVE_EXTRASENSORY"
+                "MOVE_EMBER",
+                "MOVE_QUICK_ATTACK",
+                "MOVE_NASTY_PLOT",
+                "MOVE_CONFUSE_RAY"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -43,10 +43,10 @@
             "level": 65,
             "item": null,
             "moves": [
-                "MOVE_FLASH_CANNON",
-                "MOVE_MIRROR_COAT",
                 "MOVE_DISCHARGE",
-                "MOVE_HYPER_BEAM"
+                "MOVE_SPARK",
+                "MOVE_MAGNET_BOMB",
+                "MOVE_MIRROR_SHOT"
             ],
             "iv_scale": 150,
             "ball_seal": 0

@@ -14,7 +14,12 @@
             "form": 0,
             "level": 66,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_AIR_SLASH",
+                "MOVE_SLASH",
+                "MOVE_AERIAL_ACE",
+                "MOVE_POISON_JAB"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 67,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TRI_ATTACK",
+                "MOVE_DRILL_PECK",
+                "MOVE_PLUCK",
+                "MOVE_UPROAR"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 68,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BRAVE_BIRD",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_TAKE_DOWN",
+                "MOVE_WING_ATTACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

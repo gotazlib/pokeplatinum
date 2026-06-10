@@ -14,7 +14,12 @@
             "form": 0,
             "level": 28,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_EXTRASENSORY",
+                "MOVE_CONFUSION",
+                "MOVE_TACKLE",
+                "MOVE_HYPNOSIS"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 30,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_ANCIENT_POWER",
+                "MOVE_TAKE_DOWN",
+                "MOVE_HEADBUTT",
+                "MOVE_ASSURANCE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

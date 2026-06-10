@@ -14,7 +14,12 @@
             "form": 0,
             "level": 67,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_LAST_RESORT",
+                "MOVE_THUNDER",
+                "MOVE_SPARK",
+                "MOVE_SWIFT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 67,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_THUNDER",
+                "MOVE_SPARK",
+                "MOVE_SWIFT",
+                "MOVE_QUICK_ATTACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 67,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_THUNDER_SHOCK",
+                "MOVE_QUICK_ATTACK",
+                "MOVE_TAIL_WHIP"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

@@ -16,7 +16,12 @@
             "form": 0,
             "level": 52,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PETAL_DANCE",
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_POISON_STING",
+                "MOVE_GIGA_DRAIN"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

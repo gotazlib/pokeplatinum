@@ -15,10 +15,10 @@
             "level": 44,
             "item": null,
             "moves": [
-                "MOVE_FUTURE_SIGHT",
                 "MOVE_PSYCHIC",
+                "MOVE_FUTURE_SIGHT",
                 "MOVE_MAGICAL_LEAF",
-                "MOVE_LUCKY_CHANT"
+                "MOVE_CONFUSION"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -30,9 +30,9 @@
             "item": null,
             "moves": [
                 "MOVE_WATERFALL",
+                "MOVE_WATER_PULSE",
                 "MOVE_POISON_JAB",
-                "MOVE_SUPERSONIC",
-                "MOVE_AQUA_RING"
+                "MOVE_HORN_ATTACK"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -44,9 +44,9 @@
             "item": null,
             "moves": [
                 "MOVE_DIZZY_PUNCH",
-                "MOVE_QUICK_ATTACK",
                 "MOVE_JUMP_KICK",
-                "MOVE_SHADOW_BALL"
+                "MOVE_POUND",
+                "MOVE_QUICK_ATTACK"
             ],
             "iv_scale": 150,
             "ball_seal": 0

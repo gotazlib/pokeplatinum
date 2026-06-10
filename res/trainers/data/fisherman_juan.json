@@ -14,7 +14,12 @@
             "form": 0,
             "level": 34,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_THRASH",
+                "MOVE_ICE_FANG",
+                "MOVE_BITE",
+                "MOVE_TWISTER"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

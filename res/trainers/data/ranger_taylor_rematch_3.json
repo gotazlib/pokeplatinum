@@ -14,7 +14,12 @@
             "form": 0,
             "level": 69,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_POWER_WHIP",
+                "MOVE_CRUNCH",
+                "MOVE_BITE",
+                "MOVE_VINE_WHIP"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 72,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DISCHARGE",
+                "MOVE_SPARK",
+                "MOVE_CRUNCH",
+                "MOVE_BITE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 67,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_ICE_BEAM",
+                "MOVE_AQUA_TAIL",
+                "MOVE_DIVE",
+                "MOVE_AURORA_BEAM"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

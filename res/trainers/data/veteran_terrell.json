@@ -17,7 +17,7 @@
             "moves": [
                 "MOVE_X_SCISSOR",
                 "MOVE_GIGA_DRAIN",
-                "MOVE_SPORE",
+                "MOVE_CROSS_POISON",
                 "MOVE_SLASH"
             ],
             "iv_scale": 150,
@@ -29,10 +29,10 @@
             "level": 63,
             "item": null,
             "moves": [
-                "MOVE_HAMMER_ARM",
-                "MOVE_STONE_EDGE",
                 "MOVE_EARTHQUAKE",
-                "MOVE_MEGAHORN"
+                "MOVE_STONE_EDGE",
+                "MOVE_MEGAHORN",
+                "MOVE_HAMMER_ARM"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -44,9 +44,9 @@
             "item": null,
             "moves": [
                 "MOVE_FIRE_BLAST",
-                "MOVE_CONFUSE_RAY",
-                "MOVE_IRON_TAIL",
-                "MOVE_FOCUS_BLAST"
+                "MOVE_FLAMETHROWER",
+                "MOVE_FAINT_ATTACK",
+                "MOVE_SMOG"
             ],
             "iv_scale": 150,
             "ball_seal": 0

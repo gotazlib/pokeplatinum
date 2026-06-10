@@ -14,7 +14,12 @@
             "form": 0,
             "level": 66,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_EXPLOSION",
+                "MOVE_PSYCHIC",
+                "MOVE_FUTURE_SIGHT",
+                "MOVE_ROCK_THROW"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 68,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DREAM_EATER",
+                "MOVE_PSYCHIC",
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_FUTURE_SIGHT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

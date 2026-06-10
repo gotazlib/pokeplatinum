@@ -14,7 +14,12 @@
             "form": 0,
             "level": 63,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_AQUA_TAIL",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_TACKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 63,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BLIZZARD",
+                "MOVE_AURORA_BEAM",
+                "MOVE_BODY_SLAM",
+                "MOVE_WATER_GUN"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 63,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATER_SPOUT",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_BOUNCE",
+                "MOVE_ASTONISH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

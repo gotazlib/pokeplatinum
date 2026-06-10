@@ -19,9 +19,9 @@
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_X_SCISSOR",
-                "MOVE_AERIAL_ACE",
-                "MOVE_SWORDS_DANCE",
-                "MOVE_SLASH"
+                "MOVE_BUG_BITE",
+                "MOVE_SLASH",
+                "MOVE_SCRATCH"
             ],
             "iv_scale": 200,
             "ball_seal": 0
@@ -32,10 +32,10 @@
             "level": 71,
             "item": "ITEM_NONE",
             "moves": [
-                "MOVE_HYPER_BEAM",
-                "MOVE_THUNDER",
-                "MOVE_THUNDER_WAVE",
-                "MOVE_DOUBLE_TEAM"
+                "MOVE_EXPLOSION",
+                "MOVE_SELFDESTRUCT",
+                "MOVE_SPARK",
+                "MOVE_CHARGE_BEAM"
             ],
             "iv_scale": 200,
             "ball_seal": 0
@@ -47,9 +47,9 @@
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_AIR_SLASH",
-                "MOVE_POISON_FANG",
-                "MOVE_CONFUSE_RAY",
-                "MOVE_DOUBLE_TEAM"
+                "MOVE_CROSS_POISON",
+                "MOVE_WING_ATTACK",
+                "MOVE_POISON_FANG"
             ],
             "iv_scale": 200,
             "ball_seal": 0
@@ -60,10 +60,10 @@
             "level": 73,
             "item": "ITEM_NONE",
             "moves": [
-                "MOVE_ICE_SHARD",
+                "MOVE_DARK_PULSE",
                 "MOVE_NIGHT_SLASH",
-                "MOVE_ICE_PUNCH",
-                "MOVE_AERIAL_ACE"
+                "MOVE_ICY_WIND",
+                "MOVE_REVENGE"
             ],
             "iv_scale": 200,
             "ball_seal": 0
@@ -74,10 +74,10 @@
             "level": 75,
             "item": "ITEM_SITRUS_BERRY",
             "moves": [
+                "MOVE_FIRE_FANG",
                 "MOVE_EXTREME_SPEED",
-                "MOVE_FLARE_BLITZ",
-                "MOVE_CRUNCH",
-                "MOVE_THUNDER_FANG"
+                "MOVE_THUNDER_FANG",
+                "MOVE_BITE"
             ],
             "iv_scale": 200,
             "ball_seal": 0

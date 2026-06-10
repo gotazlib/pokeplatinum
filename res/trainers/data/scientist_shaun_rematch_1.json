@@ -16,7 +16,12 @@
             "form": 0,
             "level": 42,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DISCHARGE",
+                "MOVE_SPARK",
+                "MOVE_MAGNET_BOMB",
+                "MOVE_TACKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -25,7 +30,12 @@
             "form": 0,
             "level": 37,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PSYCHO_CUT",
+                "MOVE_PSYBEAM",
+                "MOVE_CONFUSION",
+                "MOVE_TELEPORT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

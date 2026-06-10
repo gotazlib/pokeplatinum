@@ -14,7 +14,12 @@
             "form": 0,
             "level": 37,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FIRE_FANG",
+                "MOVE_BITE",
+                "MOVE_FAINT_ATTACK",
+                "MOVE_EMBER"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 35,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WING_ATTACK",
+                "MOVE_AIR_CUTTER",
+                "MOVE_BITE",
+                "MOVE_ASTONISH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

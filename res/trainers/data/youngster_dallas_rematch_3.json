@@ -14,7 +14,12 @@
             "form": 0,
             "level": 58,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DISCHARGE",
+                "MOVE_SPARK",
+                "MOVE_CRUNCH",
+                "MOVE_BITE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 58,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SUPERPOWER",
+                "MOVE_TAKE_DOWN",
+                "MOVE_HYPER_FANG",
+                "MOVE_WATER_GUN"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 58,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_EXPLOSION",
+                "MOVE_SELFDESTRUCT",
+                "MOVE_EARTHQUAKE",
+                "MOVE_STONE_EDGE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -41,7 +56,12 @@
             "form": 0,
             "level": 58,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BRAVE_BIRD",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_TAKE_DOWN",
+                "MOVE_WING_ATTACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

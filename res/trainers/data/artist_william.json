@@ -14,7 +14,12 @@
             "form": 0,
             "level": 23,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CONFUSION",
+                "MOVE_DOUBLE_SLAP",
+                "MOVE_TICKLE",
+                "MOVE_BARRIER"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 23,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_ROCK_THROW",
+                "MOVE_FLAIL",
+                "MOVE_LOW_KICK",
+                "MOVE_FAKE_TEARS"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

@@ -14,7 +14,12 @@
             "form": 0,
             "level": 27,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SLASH",
+                "MOVE_LEECH_LIFE",
+                "MOVE_FURY_CUTTER",
+                "MOVE_BIDE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

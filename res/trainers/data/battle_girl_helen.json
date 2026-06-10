@@ -15,7 +15,12 @@
             "form": 0,
             "level": 25,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_VITAL_THROW",
+                "MOVE_REVENGE",
+                "MOVE_KARATE_CHOP",
+                "MOVE_LOW_KICK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -24,7 +29,12 @@
             "form": 0,
             "level": 25,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CONFUSION",
+                "MOVE_FEINT",
+                "MOVE_BIDE",
+                "MOVE_HIDDEN_POWER"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

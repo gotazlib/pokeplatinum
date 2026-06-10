@@ -16,9 +16,9 @@
             "item": null,
             "moves": [
                 "MOVE_WING_ATTACK",
+                "MOVE_AERIAL_ACE",
                 "MOVE_QUICK_ATTACK",
-                "MOVE_ENDEAVOR",
-                "MOVE_DOUBLE_TEAM"
+                "MOVE_TACKLE"
             ],
             "iv_scale": 250,
             "ball_seal": 0
@@ -30,9 +30,9 @@
             "item": null,
             "moves": [
                 "MOVE_WATER_GUN",
-                "MOVE_QUICK_ATTACK",
-                "MOVE_PURSUIT",
-                "MOVE_GROWL"
+                "MOVE_SWIFT",
+                "MOVE_AQUA_JET",
+                "MOVE_QUICK_ATTACK"
             ],
             "iv_scale": 250,
             "ball_seal": 0
@@ -43,10 +43,10 @@
             "level": 27,
             "item": null,
             "moves": [
-                "MOVE_MEGA_DRAIN",
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_GIGA_DRAIN",
                 "MOVE_POISON_STING",
-                "MOVE_LEECH_SEED",
-                "MOVE_STUN_SPORE"
+                "MOVE_MEGA_DRAIN"
             ],
             "iv_scale": 250,
             "ball_seal": 0
@@ -58,9 +58,9 @@
             "item": null,
             "moves": [
                 "MOVE_FLAME_WHEEL",
+                "MOVE_EMBER",
                 "MOVE_MACH_PUNCH",
-                "MOVE_FURY_SWIPES",
-                "MOVE_LEER"
+                "MOVE_FEINT"
             ],
             "iv_scale": 250,
             "ball_seal": 0

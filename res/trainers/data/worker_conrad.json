@@ -14,7 +14,12 @@
             "form": 0,
             "level": 41,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FLAMETHROWER",
+                "MOVE_LAVA_PLUME",
+                "MOVE_FAINT_ATTACK",
+                "MOVE_SMOG"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

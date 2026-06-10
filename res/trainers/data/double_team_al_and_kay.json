@@ -15,10 +15,10 @@
             "level": 58,
             "item": null,
             "moves": [
-                "MOVE_CLOSE_COMBAT",
                 "MOVE_BRAVE_BIRD",
-                "MOVE_GROWL",
-                "MOVE_QUICK_ATTACK"
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_TAKE_DOWN",
+                "MOVE_WING_ATTACK"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 58,
             "item": null,
             "moves": [
-                "MOVE_DOUBLE_HIT",
-                "MOVE_AERIAL_ACE",
-                "MOVE_SHOCK_WAVE",
-                "MOVE_WATER_PULSE"
+                "MOVE_LAST_RESORT",
+                "MOVE_SWIFT",
+                "MOVE_ASTONISH",
+                "MOVE_FLING"
             ],
             "iv_scale": 150,
             "ball_seal": 0

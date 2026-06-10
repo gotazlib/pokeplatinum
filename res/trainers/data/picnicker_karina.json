@@ -15,8 +15,10 @@
             "level": 17,
             "item": null,
             "moves": [
+                "MOVE_POUND",
+                "MOVE_PECK",
                 "MOVE_BUBBLE",
-                "MOVE_PECK"
+                "MOVE_GROWL"
             ],
             "iv_scale": 150,
             "ball_seal": 0

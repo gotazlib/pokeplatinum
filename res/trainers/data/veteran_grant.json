@@ -16,9 +16,9 @@
             "item": null,
             "moves": [
                 "MOVE_FORCE_PALM",
+                "MOVE_FEINT",
                 "MOVE_QUICK_ATTACK",
-                "MOVE_COUNTER",
-                "MOVE_SCREECH"
+                "MOVE_COUNTER"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 40,
             "item": null,
             "moves": [
-                "MOVE_AERIAL_ACE",
+                "MOVE_CLOSE_COMBAT",
                 "MOVE_TAKE_DOWN",
-                "MOVE_QUICK_ATTACK",
-                "MOVE_GROWL"
+                "MOVE_WING_ATTACK",
+                "MOVE_AERIAL_ACE"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -43,10 +43,10 @@
             "level": 40,
             "item": null,
             "moves": [
+                "MOVE_EXPLOSION",
+                "MOVE_SELFDESTRUCT",
                 "MOVE_EARTHQUAKE",
-                "MOVE_ROCK_SLIDE",
-                "MOVE_ROCK_POLISH",
-                "MOVE_DEFENSE_CURL"
+                "MOVE_ROCK_THROW"
             ],
             "iv_scale": 150,
             "ball_seal": 0

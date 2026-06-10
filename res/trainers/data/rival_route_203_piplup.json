@@ -16,7 +16,9 @@
             "level": 9,
             "item": null,
             "moves": [
+                "MOVE_WING_ATTACK",
                 "MOVE_QUICK_ATTACK",
+                "MOVE_TACKLE",
                 "MOVE_GROWL"
             ],
             "iv_scale": 250,
@@ -29,6 +31,7 @@
             "item": null,
             "moves": [
                 "MOVE_TACKLE",
+                "MOVE_ABSORB",
                 "MOVE_WITHDRAW"
             ],
             "iv_scale": 250,

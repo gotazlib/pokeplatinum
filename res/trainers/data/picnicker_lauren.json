@@ -16,8 +16,9 @@
             "item": null,
             "moves": [
                 "MOVE_SPARK",
+                "MOVE_SWIFT",
                 "MOVE_QUICK_ATTACK",
-                "MOVE_CHARM"
+                "MOVE_BIDE"
             ],
             "iv_scale": 150,
             "ball_seal": 0

@@ -17,10 +17,10 @@
             "level": 32,
             "item": null,
             "moves": [
-                "MOVE_MIMIC",
-                "MOVE_SING",
+                "MOVE_CHATTER",
+                "MOVE_PECK",
                 "MOVE_FURY_ATTACK",
-                "MOVE_ROOST"
+                "MOVE_GROWL"
             ],
             "iv_scale": 150,
             "ball_seal": 0

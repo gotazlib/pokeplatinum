@@ -14,7 +14,12 @@
             "form": 0,
             "level": 38,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SILVER_WIND",
+                "MOVE_GUST",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_MEGA_DRAIN"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 38,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_POISON_STING",
+                "MOVE_MEGA_DRAIN"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

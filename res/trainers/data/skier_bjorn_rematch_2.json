@@ -14,7 +14,9 @@
             "form": 0,
             "level": 65,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PRESENT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +25,12 @@
             "form": 0,
             "level": 67,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DARK_PULSE",
+                "MOVE_NIGHT_SLASH",
+                "MOVE_ICY_WIND",
+                "MOVE_REVENGE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +39,12 @@
             "form": 0,
             "level": 69,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_BLIZZARD",
+                "MOVE_ICE_FANG",
+                "MOVE_MUD_BOMB"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

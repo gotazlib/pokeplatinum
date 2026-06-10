@@ -15,10 +15,10 @@
             "level": 27,
             "item": null,
             "moves": [
+                "MOVE_CHATTER",
+                "MOVE_PECK",
                 "MOVE_FURY_ATTACK",
-                "MOVE_SING",
-                "MOVE_GROWL",
-                "MOVE_PECK"
+                "MOVE_GROWL"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 28,
             "item": null,
             "moves": [
-                "MOVE_SWIFT",
-                "MOVE_ENDURE",
                 "MOVE_SPARK",
-                "MOVE_CHARM"
+                "MOVE_SWIFT",
+                "MOVE_QUICK_ATTACK",
+                "MOVE_BIDE"
             ],
             "iv_scale": 150,
             "ball_seal": 0

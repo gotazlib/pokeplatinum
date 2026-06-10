@@ -14,7 +14,12 @@
             "form": 0,
             "level": 37,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BUG_BITE",
+                "MOVE_BITE",
+                "MOVE_POISON_STING",
+                "MOVE_KNOCK_OFF"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 35,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_REVENGE",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_FAINT_ATTACK",
+                "MOVE_MUD_BOMB"
+            ],
             "iv_scale": 150,
             "ball_seal": 25
         }

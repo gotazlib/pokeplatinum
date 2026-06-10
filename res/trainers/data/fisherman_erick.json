@@ -16,9 +16,9 @@
             "item": null,
             "moves": [
                 "MOVE_WATER_PULSE",
+                "MOVE_HORN_ATTACK",
                 "MOVE_PECK",
-                "MOVE_FLAIL",
-                "MOVE_SUPERSONIC"
+                "MOVE_FURY_ATTACK"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -30,9 +30,9 @@
             "item": null,
             "moves": [
                 "MOVE_WATER_PULSE",
-                "MOVE_FURY_ATTACK",
-                "MOVE_FLAIL",
-                "MOVE_SUPERSONIC"
+                "MOVE_POISON_JAB",
+                "MOVE_HORN_ATTACK",
+                "MOVE_PECK"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -43,7 +43,9 @@
             "level": 36,
             "item": null,
             "moves": [
+                "MOVE_AQUA_TAIL",
                 "MOVE_THRASH",
+                "MOVE_ICE_FANG",
                 "MOVE_BITE"
             ],
             "iv_scale": 150,

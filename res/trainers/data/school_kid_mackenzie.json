@@ -17,10 +17,10 @@
             "level": 25,
             "item": null,
             "moves": [
-                "MOVE_PAYBACK",
                 "MOVE_GUST",
+                "MOVE_PAYBACK",
                 "MOVE_ASTONISH",
-                "MOVE_MINIMIZE"
+                "MOVE_CONSTRICT"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -31,9 +31,10 @@
             "level": 25,
             "item": null,
             "moves": [
-                "MOVE_SPIT_UP",
-                "MOVE_SWALLOW",
-                "MOVE_STOCKPILE"
+                "MOVE_GUST",
+                "MOVE_PAYBACK",
+                "MOVE_ASTONISH",
+                "MOVE_CONSTRICT"
             ],
             "iv_scale": 150,
             "ball_seal": 0

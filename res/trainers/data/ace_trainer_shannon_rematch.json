@@ -16,9 +16,9 @@
             "item": null,
             "moves": [
                 "MOVE_SOLAR_BEAM",
-                "MOVE_MAGICAL_LEAF",
                 "MOVE_PETAL_DANCE",
-                "MOVE_SUNNY_DAY"
+                "MOVE_TAKE_DOWN",
+                "MOVE_TACKLE"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 60,
             "item": null,
             "moves": [
-                "MOVE_ICE_BEAM",
-                "MOVE_DOUBLE_EDGE",
+                "MOVE_HYDRO_PUMP",
                 "MOVE_AQUA_TAIL",
-                "MOVE_AQUA_RING"
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_TACKLE"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -45,8 +45,8 @@
             "moves": [
                 "MOVE_DIZZY_PUNCH",
                 "MOVE_JUMP_KICK",
-                "MOVE_QUICK_ATTACK",
-                "MOVE_BOUNCE"
+                "MOVE_BOUNCE",
+                "MOVE_POUND"
             ],
             "iv_scale": 150,
             "ball_seal": 0

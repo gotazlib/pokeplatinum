@@ -15,7 +15,12 @@
             "form": 0,
             "level": 41,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_EXPLOSION",
+                "MOVE_SELFDESTRUCT",
+                "MOVE_EARTHQUAKE",
+                "MOVE_ROCK_THROW"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -24,7 +29,12 @@
             "form": 0,
             "level": 41,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TAKE_DOWN",
+                "MOVE_HORN_ATTACK",
+                "MOVE_ROCK_BLAST",
+                "MOVE_STOMP"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

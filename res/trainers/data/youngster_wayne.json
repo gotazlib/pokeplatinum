@@ -14,7 +14,12 @@
             "form": 0,
             "level": 20,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WING_ATTACK",
+                "MOVE_QUICK_ATTACK",
+                "MOVE_TACKLE",
+                "MOVE_ENDEAVOR"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 23,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATER_PULSE",
+                "MOVE_MUD_BOMB",
+                "MOVE_MUD_SLAP",
+                "MOVE_HIDDEN_POWER"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 23,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FLAME_WHEEL",
+                "MOVE_STOMP",
+                "MOVE_EMBER",
+                "MOVE_TACKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

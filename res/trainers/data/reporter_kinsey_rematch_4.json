@@ -14,7 +14,12 @@
             "form": 0,
             "level": 66,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_EXPLOSION",
+                "MOVE_SHADOW_BALL",
+                "MOVE_OMINOUS_WIND",
+                "MOVE_GUST"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 66,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DISCHARGE",
+                "MOVE_SPARK",
+                "MOVE_CRUNCH",
+                "MOVE_BITE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

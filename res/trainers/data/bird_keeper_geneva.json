@@ -14,7 +14,12 @@
             "form": 0,
             "level": 64,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DRILL_PECK",
+                "MOVE_PLUCK",
+                "MOVE_ASSURANCE",
+                "MOVE_PURSUIT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 66,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_FUTURE_SIGHT",
+                "MOVE_OMINOUS_WIND",
+                "MOVE_PECK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

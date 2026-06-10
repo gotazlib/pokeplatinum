@@ -15,10 +15,10 @@
             "level": 52,
             "item": null,
             "moves": [
-                "MOVE_BLIZZARD",
+                "MOVE_EARTHQUAKE",
                 "MOVE_ICE_FANG",
-                "MOVE_ROCK_SLIDE",
-                "MOVE_GIGA_IMPACT"
+                "MOVE_MUD_BOMB",
+                "MOVE_TAKE_DOWN"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 53,
             "item": null,
             "moves": [
-                "MOVE_SILVER_WIND",
+                "MOVE_BUG_BUZZ",
                 "MOVE_AIR_SLASH",
-                "MOVE_PSYCHIC",
-                "MOVE_TOXIC"
+                "MOVE_BUG_BITE",
+                "MOVE_PSYCHIC"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -44,9 +44,9 @@
             "item": null,
             "moves": [
                 "MOVE_HEAD_SMASH",
-                "MOVE_ZEN_HEADBUTT",
                 "MOVE_ANCIENT_POWER",
-                "MOVE_SCREECH"
+                "MOVE_TAKE_DOWN",
+                "MOVE_ZEN_HEADBUTT"
             ],
             "iv_scale": 150,
             "ball_seal": 0

@@ -15,7 +15,12 @@
             "form": 0,
             "level": 49,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_IRON_TAIL",
+                "MOVE_CRUNCH",
+                "MOVE_THUNDER_FANG"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -24,7 +29,12 @@
             "form": 0,
             "level": 51,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_IRON_TAIL",
+                "MOVE_CRUNCH",
+                "MOVE_THUNDER_FANG"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

@@ -15,10 +15,10 @@
             "level": 68,
             "item": null,
             "moves": [
-                "MOVE_EXTREME_SPEED",
                 "MOVE_FIRE_FANG",
-                "MOVE_HELPING_HAND",
-                "MOVE_AGILITY"
+                "MOVE_EXTREME_SPEED",
+                "MOVE_THUNDER_FANG",
+                "MOVE_BITE"
             ],
             "iv_scale": 150,
             "ball_seal": 0

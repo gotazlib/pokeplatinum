@@ -15,10 +15,10 @@
             "level": 55,
             "item": null,
             "moves": [
-                "MOVE_METEOR_MASH",
-                "MOVE_REFLECT",
-                "MOVE_LIGHT_SCREEN",
-                "MOVE_GRAVITY"
+                "MOVE_DOUBLE_SLAP",
+                "MOVE_SING",
+                "MOVE_MINIMIZE",
+                "MOVE_METRONOME"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 56,
             "item": null,
             "moves": [
+                "MOVE_WOOD_HAMMER",
                 "MOVE_EARTHQUAKE",
-                "MOVE_CRUNCH",
-                "MOVE_LEECH_SEED",
-                "MOVE_SYNTHESIS"
+                "MOVE_GIGA_DRAIN",
+                "MOVE_CRUNCH"
             ],
             "iv_scale": 150,
             "ball_seal": 0

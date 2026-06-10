@@ -14,7 +14,12 @@
             "form": 0,
             "level": 38,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_X_SCISSOR",
+                "MOVE_SLASH",
+                "MOVE_LEECH_LIFE",
+                "MOVE_BIDE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 38,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DISCHARGE",
+                "MOVE_SPARK",
+                "MOVE_MAGNET_BOMB",
+                "MOVE_TACKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 18
         }

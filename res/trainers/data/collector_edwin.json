@@ -14,7 +14,12 @@
             "form": 0,
             "level": 29,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TACKLE",
+                "MOVE_LICK",
+                "MOVE_METRONOME",
+                "MOVE_ODOR_SLEUTH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

@@ -14,7 +14,12 @@
             "form": 0,
             "level": 41,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATERFALL",
+                "MOVE_WATER_PULSE",
+                "MOVE_POISON_JAB",
+                "MOVE_HORN_ATTACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

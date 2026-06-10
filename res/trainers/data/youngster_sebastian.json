@@ -15,8 +15,10 @@
             "level": 10,
             "item": null,
             "moves": [
+                "MOVE_KARATE_CHOP",
                 "MOVE_LOW_KICK",
-                "MOVE_LEER"
+                "MOVE_LEER",
+                "MOVE_FOCUS_ENERGY"
             ],
             "iv_scale": 150,
             "ball_seal": 0

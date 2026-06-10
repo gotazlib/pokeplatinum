@@ -14,7 +14,12 @@
             "form": 0,
             "level": 30,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_MUD_BOMB",
+                "MOVE_MUD_SHOT",
+                "MOVE_WATER_GUN",
+                "MOVE_SLAM"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 33,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_MUD_BOMB",
+                "MOVE_MUD_SHOT",
+                "MOVE_WATER_GUN",
+                "MOVE_SLAM"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

@@ -15,8 +15,10 @@
             "level": 11,
             "item": null,
             "moves": [
+                "MOVE_ROCK_THROW",
                 "MOVE_TACKLE",
-                "MOVE_DEFENSE_CURL"
+                "MOVE_DEFENSE_CURL",
+                "MOVE_MUD_SPORT"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,7 +31,8 @@
             "moves": [
                 "MOVE_ROCK_THROW",
                 "MOVE_TACKLE",
-                "MOVE_HARDEN"
+                "MOVE_BIND",
+                "MOVE_MUD_SPORT"
             ],
             "iv_scale": 150,
             "ball_seal": 0

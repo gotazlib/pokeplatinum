@@ -14,7 +14,12 @@
             "form": 0,
             "level": 23,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FLAME_WHEEL",
+                "MOVE_STOMP",
+                "MOVE_EMBER",
+                "MOVE_TACKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 21,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SPARK",
+                "MOVE_BITE",
+                "MOVE_TACKLE",
+                "MOVE_LEER"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

@@ -14,7 +14,12 @@
             "form": 0,
             "level": 51,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_EXTRASENSORY",
+                "MOVE_TAKE_DOWN",
+                "MOVE_CONFUSION"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 52,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_NIGHT_SLASH",
+                "MOVE_RAZOR_WIND",
+                "MOVE_FUTURE_SIGHT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 53,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SHADOW_PUNCH",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_ICE_PUNCH",
+                "MOVE_THUNDER_PUNCH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

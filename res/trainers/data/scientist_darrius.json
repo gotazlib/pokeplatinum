@@ -17,10 +17,10 @@
             "level": 49,
             "item": null,
             "moves": [
-                "MOVE_PSYCHIC",
+                "MOVE_DISCHARGE",
                 "MOVE_SIGNAL_BEAM",
-                "MOVE_ICE_BEAM",
-                "MOVE_TRI_ATTACK"
+                "MOVE_PSYBEAM",
+                "MOVE_TACKLE"
             ],
             "iv_scale": 150,
             "ball_seal": 0

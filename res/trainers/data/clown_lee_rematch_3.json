@@ -14,7 +14,12 @@
             "form": 0,
             "level": 58,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_PSYBEAM",
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_DOUBLE_SLAP"
+            ],
             "iv_scale": 150,
             "ball_seal": 3
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 58,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_FUTURE_SIGHT",
+                "MOVE_PSYCHO_CUT",
+                "MOVE_PSYBEAM"
+            ],
             "iv_scale": 150,
             "ball_seal": 3
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 58,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_LAST_RESORT",
+                "MOVE_SWIFT",
+                "MOVE_ASTONISH",
+                "MOVE_FLING"
+            ],
             "iv_scale": 150,
             "ball_seal": 3
         }

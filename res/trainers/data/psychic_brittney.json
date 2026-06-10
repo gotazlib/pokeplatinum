@@ -14,7 +14,12 @@
             "form": 0,
             "level": 64,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_ZEN_HEADBUTT",
+                "MOVE_HEADBUTT",
+                "MOVE_POUND"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 66,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_FUTURE_SIGHT",
+                "MOVE_PSYCHO_CUT",
+                "MOVE_PSYBEAM"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

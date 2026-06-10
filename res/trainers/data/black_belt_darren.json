@@ -16,8 +16,10 @@
             "level": 29,
             "item": null,
             "moves": [
+                "MOVE_VITAL_THROW",
+                "MOVE_REVENGE",
                 "MOVE_KARATE_CHOP",
-                "MOVE_FORESIGHT"
+                "MOVE_LOW_KICK"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -28,8 +30,10 @@
             "level": 29,
             "item": null,
             "moves": [
+                "MOVE_FORCE_PALM",
                 "MOVE_CONFUSION",
-                "MOVE_FORCE_PALM"
+                "MOVE_FEINT",
+                "MOVE_BIDE"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -40,8 +44,10 @@
             "level": 29,
             "item": null,
             "moves": [
+                "MOVE_VITAL_THROW",
+                "MOVE_REVENGE",
                 "MOVE_KARATE_CHOP",
-                "MOVE_FORESIGHT"
+                "MOVE_LOW_KICK"
             ],
             "iv_scale": 150,
             "ball_seal": 0

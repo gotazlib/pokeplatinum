@@ -14,7 +14,12 @@
             "form": 0,
             "level": 37,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SPARK",
+                "MOVE_THUNDER_FANG",
+                "MOVE_BITE",
+                "MOVE_TACKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 37,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_HYPER_FANG",
+                "MOVE_HEADBUTT",
+                "MOVE_WATER_GUN",
+                "MOVE_ROLLOUT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 37,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SELFDESTRUCT",
+                "MOVE_EARTHQUAKE",
+                "MOVE_ROCK_THROW",
+                "MOVE_ROLLOUT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

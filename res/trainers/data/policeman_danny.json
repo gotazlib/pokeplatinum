@@ -14,7 +14,12 @@
             "form": 0,
             "level": 30,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TAKE_DOWN",
+                "MOVE_AIR_SLASH",
+                "MOVE_UPROAR",
+                "MOVE_PECK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 33,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_VITAL_THROW",
+                "MOVE_SUBMISSION",
+                "MOVE_REVENGE",
+                "MOVE_KARATE_CHOP"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

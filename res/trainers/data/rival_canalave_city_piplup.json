@@ -15,10 +15,10 @@
             "level": 42,
             "item": null,
             "moves": [
-                "MOVE_AERIAL_ACE",
+                "MOVE_CLOSE_COMBAT",
                 "MOVE_TAKE_DOWN",
-                "MOVE_QUICK_ATTACK",
-                "MOVE_DOUBLE_TEAM"
+                "MOVE_WING_ATTACK",
+                "MOVE_AERIAL_ACE"
             ],
             "iv_scale": 250,
             "ball_seal": 0
@@ -29,9 +29,9 @@
             "level": 41,
             "item": null,
             "moves": [
-                "MOVE_AQUA_JET",
-                "MOVE_PURSUIT",
-                "MOVE_QUICK_ATTACK",
+                "MOVE_CRUNCH",
+                "MOVE_ICE_FANG",
+                "MOVE_WATER_GUN",
                 "MOVE_SWIFT"
             ],
             "iv_scale": 250,
@@ -43,10 +43,10 @@
             "level": 43,
             "item": null,
             "moves": [
+                "MOVE_CLOSE_COMBAT",
                 "MOVE_BRICK_BREAK",
-                "MOVE_AERIAL_ACE",
-                "MOVE_NIGHT_SLASH",
-                "MOVE_HORN_ATTACK"
+                "MOVE_TAKE_DOWN",
+                "MOVE_NIGHT_SLASH"
             ],
             "iv_scale": 250,
             "ball_seal": 0
@@ -57,10 +57,10 @@
             "level": 41,
             "item": null,
             "moves": [
-                "MOVE_FIRE_SPIN",
-                "MOVE_TAKE_DOWN",
-                "MOVE_STOMP",
-                "MOVE_TAIL_WHIP"
+                "MOVE_FIRE_BLAST",
+                "MOVE_MEGAHORN",
+                "MOVE_FLAME_WHEEL",
+                "MOVE_POISON_JAB"
             ],
             "iv_scale": 250,
             "ball_seal": 0
@@ -71,10 +71,10 @@
             "level": 44,
             "item": null,
             "moves": [
+                "MOVE_WOOD_HAMMER",
+                "MOVE_EARTHQUAKE",
                 "MOVE_RAZOR_LEAF",
-                "MOVE_BITE",
-                "MOVE_MEGA_DRAIN",
-                "MOVE_LEECH_SEED"
+                "MOVE_BITE"
             ],
             "iv_scale": 250,
             "ball_seal": 10

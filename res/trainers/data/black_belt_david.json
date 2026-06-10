@@ -17,9 +17,9 @@
             "item": null,
             "moves": [
                 "MOVE_IRON_TAIL",
-                "MOVE_ROCK_SLIDE",
-                "MOVE_SANDSTORM",
-                "MOVE_SCREECH"
+                "MOVE_THUNDER_FANG",
+                "MOVE_ICE_FANG",
+                "MOVE_FIRE_FANG"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -31,9 +31,9 @@
             "item": null,
             "moves": [
                 "MOVE_IRON_TAIL",
-                "MOVE_ROCK_SLIDE",
-                "MOVE_SANDSTORM",
-                "MOVE_SCREECH"
+                "MOVE_THUNDER_FANG",
+                "MOVE_ICE_FANG",
+                "MOVE_FIRE_FANG"
             ],
             "iv_scale": 150,
             "ball_seal": 0

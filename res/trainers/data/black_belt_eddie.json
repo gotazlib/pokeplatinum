@@ -15,7 +15,12 @@
             "form": 0,
             "level": 59,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_CROSS_CHOP",
+                "MOVE_THRASH",
+                "MOVE_ASSURANCE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -24,7 +29,12 @@
             "form": 0,
             "level": 61,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CROSS_CHOP",
+                "MOVE_VITAL_THROW",
+                "MOVE_SUBMISSION",
+                "MOVE_REVENGE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -33,7 +43,12 @@
             "form": 0,
             "level": 64,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_FLARE_BLITZ",
+                "MOVE_FLAME_WHEEL",
+                "MOVE_MACH_PUNCH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

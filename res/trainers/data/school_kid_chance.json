@@ -17,10 +17,10 @@
             "level": 27,
             "item": null,
             "moves": [
-                "MOVE_NIGHT_SHADE",
                 "MOVE_SUCKER_PUNCH",
-                "MOVE_CONFUSE_RAY",
-                "MOVE_HYPNOSIS"
+                "MOVE_PAYBACK",
+                "MOVE_LICK",
+                "MOVE_NIGHT_SHADE"
             ],
             "iv_scale": 150,
             "ball_seal": 0

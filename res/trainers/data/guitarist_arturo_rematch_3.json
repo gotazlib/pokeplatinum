@@ -14,7 +14,12 @@
             "form": 0,
             "level": 61,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_X_SCISSOR",
+                "MOVE_SLASH",
+                "MOVE_NIGHT_SLASH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

@@ -14,7 +14,12 @@
             "form": 0,
             "level": 27,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SPARK",
+                "MOVE_SWIFT",
+                "MOVE_QUICK_ATTACK",
+                "MOVE_BIDE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 27,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TACKLE",
+                "MOVE_LICK",
+                "MOVE_METRONOME",
+                "MOVE_ODOR_SLEUTH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

@@ -15,10 +15,10 @@
             "level": 64,
             "item": null,
             "moves": [
-                "MOVE_WATER_PULSE",
-                "MOVE_RECOVER",
-                "MOVE_PSYCHIC",
-                "MOVE_SWIFT"
+                "MOVE_WATER_GUN",
+                "MOVE_SWIFT",
+                "MOVE_RAPID_SPIN",
+                "MOVE_RECOVER"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 65,
             "item": null,
             "moves": [
+                "MOVE_HYPER_BEAM",
                 "MOVE_DRAGON_BREATH",
-                "MOVE_EARTHQUAKE",
                 "MOVE_FAINT_ATTACK",
-                "MOVE_SCREECH"
+                "MOVE_SAND_TOMB"
             ],
             "iv_scale": 150,
             "ball_seal": 0

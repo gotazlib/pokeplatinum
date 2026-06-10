@@ -15,9 +15,9 @@
             "level": 28,
             "item": null,
             "moves": [
-                "MOVE_SCREECH",
                 "MOVE_FAINT_ATTACK",
                 "MOVE_QUICK_ATTACK",
+                "MOVE_KNOCK_OFF",
                 "MOVE_POISON_STING"
             ],
             "iv_scale": 150,
@@ -29,9 +29,9 @@
             "level": 28,
             "item": null,
             "moves": [
-                "MOVE_AQUA_JET",
+                "MOVE_WATER_GUN",
                 "MOVE_SWIFT",
-                "MOVE_PURSUIT",
+                "MOVE_AQUA_JET",
                 "MOVE_QUICK_ATTACK"
             ],
             "iv_scale": 150,
@@ -43,10 +43,10 @@
             "level": 29,
             "item": null,
             "moves": [
-                "MOVE_SWALLOW",
                 "MOVE_GUST",
-                "MOVE_STOCKPILE",
-                "MOVE_OMINOUS_WIND"
+                "MOVE_PAYBACK",
+                "MOVE_ASTONISH",
+                "MOVE_CONSTRICT"
             ],
             "iv_scale": 150,
             "ball_seal": 0

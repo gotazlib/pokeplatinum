@@ -19,9 +19,9 @@
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_FLAMETHROWER",
-                "MOVE_DARK_PULSE",
-                "MOVE_WILL_O_WISP",
-                "MOVE_THUNDER_FANG"
+                "MOVE_FIRE_FANG",
+                "MOVE_BITE",
+                "MOVE_FAINT_ATTACK"
             ],
             "iv_scale": 250,
             "ball_seal": 0
@@ -32,10 +32,10 @@
             "level": 55,
             "item": "ITEM_NONE",
             "moves": [
-                "MOVE_DRILL_PECK",
+                "MOVE_DARK_PULSE",
                 "MOVE_NIGHT_SLASH",
-                "MOVE_HEAT_WAVE",
-                "MOVE_PSYCHIC"
+                "MOVE_WING_ATTACK",
+                "MOVE_ASTONISH"
             ],
             "iv_scale": 250,
             "ball_seal": 0
@@ -46,10 +46,10 @@
             "level": 53,
             "item": "ITEM_NONE",
             "moves": [
-                "MOVE_CROSS_POISON",
                 "MOVE_AIR_SLASH",
-                "MOVE_TOXIC",
-                "MOVE_CONFUSE_RAY"
+                "MOVE_CROSS_POISON",
+                "MOVE_WING_ATTACK",
+                "MOVE_POISON_FANG"
             ],
             "iv_scale": 250,
             "ball_seal": 0
@@ -60,10 +60,10 @@
             "level": 53,
             "item": "ITEM_NONE",
             "moves": [
-                "MOVE_GIGA_IMPACT",
-                "MOVE_WATERFALL",
-                "MOVE_ICE_FANG",
-                "MOVE_EARTHQUAKE"
+                "MOVE_HYDRO_PUMP",
+                "MOVE_HYPER_BEAM",
+                "MOVE_AQUA_TAIL",
+                "MOVE_THRASH"
             ],
             "iv_scale": 250,
             "ball_seal": 0
@@ -74,10 +74,10 @@
             "level": 56,
             "item": "ITEM_SITRUS_BERRY",
             "moves": [
+                "MOVE_DARK_PULSE",
                 "MOVE_NIGHT_SLASH",
-                "MOVE_ICE_PUNCH",
-                "MOVE_FAKE_OUT",
-                "MOVE_X_SCISSOR"
+                "MOVE_ICY_WIND",
+                "MOVE_REVENGE"
             ],
             "iv_scale": 250,
             "ball_seal": 0

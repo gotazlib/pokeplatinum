@@ -15,7 +15,7 @@
             "level": 20,
             "item": null,
             "moves": [
-                "MOVE_HIDDEN_POWER"
+                "MOVE_TELEPORT"
             ],
             "iv_scale": 150,
             "ball_seal": 0

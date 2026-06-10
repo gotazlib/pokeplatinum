@@ -15,10 +15,10 @@
             "level": 38,
             "item": null,
             "moves": [
-                "MOVE_FURY_SWIPES",
+                "MOVE_SLASH",
+                "MOVE_FAKE_OUT",
                 "MOVE_FAINT_ATTACK",
-                "MOVE_GROWL",
-                "MOVE_FAKE_OUT"
+                "MOVE_SCRATCH"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 38,
             "item": null,
             "moves": [
-                "MOVE_AIR_CUTTER",
                 "MOVE_WING_ATTACK",
+                "MOVE_AIR_CUTTER",
                 "MOVE_BITE",
-                "MOVE_SUPERSONIC"
+                "MOVE_ASTONISH"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -43,9 +43,10 @@
             "level": 42,
             "item": null,
             "moves": [
+                "MOVE_WING_ATTACK",
                 "MOVE_FAINT_ATTACK",
-                "MOVE_NIGHT_SHADE",
-                "MOVE_WING_ATTACK"
+                "MOVE_ASSURANCE",
+                "MOVE_PECK"
             ],
             "iv_scale": 150,
             "ball_seal": 0

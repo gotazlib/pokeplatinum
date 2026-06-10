@@ -14,7 +14,9 @@
             "form": 0,
             "level": 10,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SPLASH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +25,9 @@
             "form": 0,
             "level": 12,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SPLASH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +36,9 @@
             "form": 0,
             "level": 14,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SPLASH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -41,7 +47,9 @@
             "form": 0,
             "level": 14,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SPLASH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -50,7 +58,10 @@
             "form": 0,
             "level": 17,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TACKLE",
+                "MOVE_SPLASH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -59,7 +70,10 @@
             "form": 0,
             "level": 19,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TACKLE",
+                "MOVE_SPLASH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

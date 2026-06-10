@@ -17,8 +17,8 @@
             "moves": [
                 "MOVE_ICE_FANG",
                 "MOVE_CRUNCH",
-                "MOVE_HAIL",
-                "MOVE_PROTECT"
+                "MOVE_ICY_WIND",
+                "MOVE_HEADBUTT"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 46,
             "item": null,
             "moves": [
+                "MOVE_BLIZZARD",
                 "MOVE_ICE_FANG",
                 "MOVE_CRUNCH",
-                "MOVE_HAIL",
-                "MOVE_PROTECT"
+                "MOVE_HEADBUTT"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -43,10 +43,10 @@
             "level": 49,
             "item": null,
             "moves": [
+                "MOVE_ICE_BEAM",
                 "MOVE_ICE_FANG",
                 "MOVE_CRUNCH",
-                "MOVE_HAIL",
-                "MOVE_PROTECT"
+                "MOVE_HEADBUTT"
             ],
             "iv_scale": 150,
             "ball_seal": 0

@@ -14,7 +14,10 @@
             "form": 0,
             "level": 5,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TACKLE",
+                "MOVE_GROWL"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +26,10 @@
             "form": 0,
             "level": 5,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_ABSORB",
+                "MOVE_GROWTH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +38,11 @@
             "form": 0,
             "level": 5,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_QUICK_ATTACK",
+                "MOVE_TACKLE",
+                "MOVE_GROWL"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -41,7 +51,9 @@
             "form": 0,
             "level": 5,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TELEPORT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

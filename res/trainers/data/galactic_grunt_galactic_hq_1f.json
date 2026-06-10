@@ -14,7 +14,12 @@
             "form": 0,
             "level": 48,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SLASH",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_FAKE_OUT",
+                "MOVE_FAINT_ATTACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

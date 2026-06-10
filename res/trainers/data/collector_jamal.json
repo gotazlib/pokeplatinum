@@ -14,7 +14,12 @@
             "form": 0,
             "level": 32,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SIGNAL_BEAM",
+                "MOVE_PSYBEAM",
+                "MOVE_TACKLE",
+                "MOVE_CONVERSION_2"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

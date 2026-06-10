@@ -14,7 +14,12 @@
             "form": 0,
             "level": 71,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_AQUA_TAIL",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_TACKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 71,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_LEAF_BLADE",
+                "MOVE_LAST_RESORT",
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_QUICK_ATTACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

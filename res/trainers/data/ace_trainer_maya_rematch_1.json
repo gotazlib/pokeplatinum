@@ -15,10 +15,10 @@
             "level": 51,
             "item": null,
             "moves": [
-                "MOVE_TOXIC_SPIKES",
-                "MOVE_GIGA_DRAIN",
-                "MOVE_LEECH_SEED",
-                "MOVE_TOXIC"
+                "MOVE_PETAL_DANCE",
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_POISON_STING",
+                "MOVE_GIGA_DRAIN"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -30,9 +30,9 @@
             "item": null,
             "moves": [
                 "MOVE_PSYCHIC",
+                "MOVE_FUTURE_SIGHT",
                 "MOVE_MAGICAL_LEAF",
-                "MOVE_CALM_MIND",
-                "MOVE_DOUBLE_TEAM"
+                "MOVE_CONFUSION"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -43,10 +43,10 @@
             "level": 52,
             "item": null,
             "moves": [
-                "MOVE_SUPERSONIC",
+                "MOVE_POWER_WHIP",
                 "MOVE_STOMP",
-                "MOVE_ROLLOUT",
-                "MOVE_DEFENSE_CURL"
+                "MOVE_SLAM",
+                "MOVE_ROLLOUT"
             ],
             "iv_scale": 150,
             "ball_seal": 0

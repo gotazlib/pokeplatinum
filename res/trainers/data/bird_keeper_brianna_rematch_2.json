@@ -15,10 +15,10 @@
             "level": 68,
             "item": null,
             "moves": [
-                "MOVE_NIGHT_SLASH",
-                "MOVE_SLASH",
                 "MOVE_AIR_SLASH",
-                "MOVE_STEEL_WING"
+                "MOVE_STEEL_WING",
+                "MOVE_AIR_CUTTER",
+                "MOVE_SLASH"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 68,
             "item": null,
             "moves": [
-                "MOVE_HYPNOSIS",
-                "MOVE_PSYCHIC",
-                "MOVE_ROOST",
-                "MOVE_AIR_SLASH"
+                "MOVE_SKY_ATTACK",
+                "MOVE_TAKE_DOWN",
+                "MOVE_AIR_SLASH",
+                "MOVE_DREAM_EATER"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -43,10 +43,10 @@
             "level": 68,
             "item": null,
             "moves": [
-                "MOVE_HYPNOSIS",
-                "MOVE_PSYCHIC",
-                "MOVE_ROOST",
-                "MOVE_AIR_SLASH"
+                "MOVE_SKY_ATTACK",
+                "MOVE_TAKE_DOWN",
+                "MOVE_AIR_SLASH",
+                "MOVE_DREAM_EATER"
             ],
             "iv_scale": 150,
             "ball_seal": 0

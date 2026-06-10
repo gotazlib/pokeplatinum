@@ -18,9 +18,9 @@
             "item": null,
             "moves": [
                 "MOVE_LAST_RESORT",
-                "MOVE_SUPER_FANG",
                 "MOVE_DISCHARGE",
-                "MOVE_SWEET_KISS"
+                "MOVE_SPARK",
+                "MOVE_SWIFT"
             ],
             "iv_scale": 150,
             "ball_seal": 0

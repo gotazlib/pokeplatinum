@@ -15,9 +15,10 @@
             "level": 40,
             "item": null,
             "moves": [
-                "MOVE_MAGNET_BOMB",
+                "MOVE_DISCHARGE",
                 "MOVE_SPARK",
-                "MOVE_THUNDER_WAVE"
+                "MOVE_MAGNET_BOMB",
+                "MOVE_TACKLE"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -28,9 +29,10 @@
             "level": 40,
             "item": null,
             "moves": [
-                "MOVE_MAGNET_BOMB",
+                "MOVE_DISCHARGE",
                 "MOVE_SPARK",
-                "MOVE_THUNDER_WAVE"
+                "MOVE_MAGNET_BOMB",
+                "MOVE_TACKLE"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -41,9 +43,10 @@
             "level": 40,
             "item": null,
             "moves": [
-                "MOVE_MAGNET_BOMB",
+                "MOVE_DISCHARGE",
                 "MOVE_SPARK",
-                "MOVE_THUNDER_WAVE"
+                "MOVE_MAGNET_BOMB",
+                "MOVE_TACKLE"
             ],
             "iv_scale": 150,
             "ball_seal": 0

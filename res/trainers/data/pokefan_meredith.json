@@ -14,7 +14,12 @@
             "form": 0,
             "level": 30,
             "item": "ITEM_SITRUS_BERRY",
-            "moves": null,
+            "moves": [
+                "MOVE_THUNDER_SHOCK",
+                "MOVE_CHARM",
+                "MOVE_TAIL_WHIP",
+                "MOVE_THUNDER_WAVE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 30,
             "item": "ITEM_SITRUS_BERRY",
-            "moves": null,
+            "moves": [
+                "MOVE_DISCHARGE",
+                "MOVE_SPARK",
+                "MOVE_SWIFT",
+                "MOVE_QUICK_ATTACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

@@ -14,7 +14,12 @@
             "form": 0,
             "level": 63,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_WING_ATTACK",
+                "MOVE_FAINT_ATTACK",
+                "MOVE_PECK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 63,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_FUTURE_SIGHT",
+                "MOVE_OMINOUS_WIND",
+                "MOVE_PECK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

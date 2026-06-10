@@ -14,7 +14,12 @@
             "form": 0,
             "level": 38,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATERFALL",
+                "MOVE_WATER_PULSE",
+                "MOVE_HORN_ATTACK",
+                "MOVE_PECK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 38,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TAKE_DOWN",
+                "MOVE_HYPER_FANG",
+                "MOVE_WATER_GUN",
+                "MOVE_ROLLOUT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

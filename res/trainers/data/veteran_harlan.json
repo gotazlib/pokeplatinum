@@ -15,10 +15,10 @@
             "level": 66,
             "item": null,
             "moves": [
-                "MOVE_ENDEAVOR",
-                "MOVE_SUPER_FANG",
-                "MOVE_CRUNCH",
-                "MOVE_QUICK_ATTACK"
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_HYPER_FANG",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_CRUNCH"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -31,8 +31,8 @@
             "moves": [
                 "MOVE_EXPLOSION",
                 "MOVE_SHADOW_BALL",
-                "MOVE_TOXIC",
-                "MOVE_FLY"
+                "MOVE_OMINOUS_WIND",
+                "MOVE_GUST"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -45,8 +45,8 @@
             "moves": [
                 "MOVE_LEAF_STORM",
                 "MOVE_FAINT_ATTACK",
-                "MOVE_EXTRASENSORY",
-                "MOVE_QUICK_ATTACK"
+                "MOVE_RAZOR_LEAF",
+                "MOVE_WHIRLWIND"
             ],
             "iv_scale": 150,
             "ball_seal": 0

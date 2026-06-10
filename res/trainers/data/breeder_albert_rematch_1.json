@@ -14,7 +14,12 @@
             "form": 0,
             "level": 37,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_POISON_STING",
+                "MOVE_MEGA_DRAIN"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 37,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_ROCK_SLIDE",
+                "MOVE_ROCK_THROW",
+                "MOVE_FAINT_ATTACK",
+                "MOVE_FLAIL"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 37,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_DISCHARGE",
+                "MOVE_SLAM",
+                "MOVE_FEINT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -41,7 +56,12 @@
             "form": 0,
             "level": 37,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_QUICK_ATTACK",
+                "MOVE_BITE",
+                "MOVE_TACKLE",
+                "MOVE_TAIL_WHIP"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

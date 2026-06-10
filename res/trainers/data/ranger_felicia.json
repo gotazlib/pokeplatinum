@@ -14,7 +14,12 @@
             "form": 0,
             "level": 68,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BOUNCE",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_U_TURN",
+                "MOVE_MEGA_DRAIN"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 68,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DIZZY_PUNCH",
+                "MOVE_JUMP_KICK",
+                "MOVE_BOUNCE",
+                "MOVE_POUND"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

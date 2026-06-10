@@ -14,7 +14,12 @@
             "form": 0,
             "level": 38,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_POISON_JAB",
+                "MOVE_REVENGE",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_FAINT_ATTACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 38,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SLASH",
+                "MOVE_FAKE_OUT",
+                "MOVE_FAINT_ATTACK",
+                "MOVE_SCRATCH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 38,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_NIGHT_SLASH",
+                "MOVE_SLASH",
+                "MOVE_FEINT",
+                "MOVE_SCRATCH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -41,7 +56,12 @@
             "form": 0,
             "level": 38,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FIRE_FANG",
+                "MOVE_BITE",
+                "MOVE_FAINT_ATTACK",
+                "MOVE_EMBER"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

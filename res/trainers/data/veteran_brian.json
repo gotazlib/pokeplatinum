@@ -15,10 +15,10 @@
             "level": 37,
             "item": null,
             "moves": [
-                "MOVE_INGRAIN",
-                "MOVE_GIGA_DRAIN",
+                "MOVE_MEGA_DRAIN",
                 "MOVE_ANCIENT_POWER",
-                "MOVE_TOXIC"
+                "MOVE_VINE_WHIP",
+                "MOVE_KNOCK_OFF"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,9 +29,10 @@
             "level": 37,
             "item": null,
             "moves": [
-                "MOVE_FIRE_SPIN",
-                "MOVE_STOMP",
-                "MOVE_TAKE_DOWN"
+                "MOVE_FIRE_BLAST",
+                "MOVE_FLAME_WHEEL",
+                "MOVE_TAKE_DOWN",
+                "MOVE_STOMP"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -42,9 +43,9 @@
             "level": 37,
             "item": null,
             "moves": [
+                "MOVE_WATER_GUN",
+                "MOVE_SWIFT",
                 "MOVE_AQUA_JET",
-                "MOVE_WHIRLPOOL",
-                "MOVE_PURSUIT",
                 "MOVE_QUICK_ATTACK"
             ],
             "iv_scale": 150,

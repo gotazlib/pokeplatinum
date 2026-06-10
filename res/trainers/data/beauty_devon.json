@@ -14,7 +14,12 @@
             "form": 0,
             "level": 28,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BUG_BITE",
+                "MOVE_RAZOR_LEAF",
+                "MOVE_CONFUSION",
+                "MOVE_TACKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 1,
             "level": 28,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BUG_BITE",
+                "MOVE_RAZOR_LEAF",
+                "MOVE_CONFUSION",
+                "MOVE_TACKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 2,
             "level": 28,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BUG_BITE",
+                "MOVE_RAZOR_LEAF",
+                "MOVE_CONFUSION",
+                "MOVE_TACKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

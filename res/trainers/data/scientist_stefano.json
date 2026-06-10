@@ -17,10 +17,10 @@
             "level": 35,
             "item": null,
             "moves": [
+                "MOVE_PSYCHO_CUT",
                 "MOVE_PSYBEAM",
-                "MOVE_DISABLE",
-                "MOVE_KINESIS",
-                "MOVE_ICE_PUNCH"
+                "MOVE_CONFUSION",
+                "MOVE_TELEPORT"
             ],
             "iv_scale": 150,
             "ball_seal": 0

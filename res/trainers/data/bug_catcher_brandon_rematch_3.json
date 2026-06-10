@@ -14,7 +14,12 @@
             "form": 0,
             "level": 57,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_SILVER_WIND",
+                "MOVE_PSYBEAM",
+                "MOVE_CONFUSION"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 59,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_X_SCISSOR",
+                "MOVE_SLASH",
+                "MOVE_NIGHT_SLASH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 61,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_X_SCISSOR",
+                "MOVE_IRON_HEAD",
+                "MOVE_RAZOR_WIND",
+                "MOVE_METAL_CLAW"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

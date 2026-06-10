@@ -14,7 +14,12 @@
             "form": 0,
             "level": 50,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CRUNCH",
+                "MOVE_RAZOR_WIND",
+                "MOVE_ICE_FANG",
+                "MOVE_WATER_GUN"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 50,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_POISON_JAB",
+                "MOVE_BUBBLE_BEAM",
+                "MOVE_ACID"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

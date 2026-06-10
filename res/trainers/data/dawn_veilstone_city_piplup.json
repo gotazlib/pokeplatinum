@@ -15,10 +15,10 @@
             "level": 29,
             "item": null,
             "moves": [
-                "MOVE_METRONOME",
-                "MOVE_GRAVITY",
+                "MOVE_POUND",
                 "MOVE_WAKE_UP_SLAP",
-                "MOVE_SING"
+                "MOVE_DOUBLE_SLAP",
+                "MOVE_GROWL"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -30,9 +30,9 @@
             "item": null,
             "moves": [
                 "MOVE_PSYBEAM",
-                "MOVE_PSYCHO_CUT",
-                "MOVE_REFLECT",
-                "MOVE_LIGHT_SCREEN"
+                "MOVE_CONFUSION",
+                "MOVE_TELEPORT",
+                "MOVE_KINESIS"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -44,9 +44,9 @@
             "item": null,
             "moves": [
                 "MOVE_FLAME_WHEEL",
+                "MOVE_EMBER",
                 "MOVE_MACH_PUNCH",
-                "MOVE_FURY_SWIPES",
-                "MOVE_TORMENT"
+                "MOVE_FEINT"
             ],
             "iv_scale": 150,
             "ball_seal": 0

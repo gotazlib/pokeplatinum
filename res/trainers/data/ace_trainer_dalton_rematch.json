@@ -16,9 +16,9 @@
             "item": null,
             "moves": [
                 "MOVE_THUNDERBOLT",
-                "MOVE_SWIFT",
-                "MOVE_QUICK_ATTACK",
-                "MOVE_THUNDER_WAVE"
+                "MOVE_THUNDER",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_SWIFT"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 63,
             "item": null,
             "moves": [
+                "MOVE_FIRE_BLAST",
                 "MOVE_FLAMETHROWER",
-                "MOVE_FAINT_ATTACK",
-                "MOVE_SMOG",
-                "MOVE_WILL_O_WISP"
+                "MOVE_THUNDER_PUNCH",
+                "MOVE_FAINT_ATTACK"
             ],
             "iv_scale": 150,
             "ball_seal": 0

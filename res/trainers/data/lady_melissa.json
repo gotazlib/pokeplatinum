@@ -16,7 +16,12 @@
             "form": 0,
             "level": 32,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_TAKE_DOWN",
+                "MOVE_TACKLE",
+                "MOVE_GROWTH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

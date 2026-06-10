@@ -14,7 +14,12 @@
             "form": 0,
             "level": 48,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_POISON_JAB",
+                "MOVE_BUBBLE_BEAM",
+                "MOVE_ACID"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 52,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATER_PULSE",
+                "MOVE_ZEN_HEADBUTT",
+                "MOVE_AQUA_JET",
+                "MOVE_CONFUSION"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

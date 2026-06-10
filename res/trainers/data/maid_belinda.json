@@ -15,10 +15,10 @@
             "level": 29,
             "item": null,
             "moves": [
-                "MOVE_METRONOME",
-                "MOVE_MINIMIZE",
-                "MOVE_METEOR_MASH",
-                "MOVE_ENDURE"
+                "MOVE_POUND",
+                "MOVE_WAKE_UP_SLAP",
+                "MOVE_DOUBLE_SLAP",
+                "MOVE_GROWL"
             ],
             "iv_scale": 150,
             "ball_seal": 0

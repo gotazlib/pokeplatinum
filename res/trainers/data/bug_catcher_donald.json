@@ -14,7 +14,11 @@
             "form": 1,
             "level": 17,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BUG_BITE",
+                "MOVE_TACKLE",
+                "MOVE_PROTECT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +27,11 @@
             "form": 2,
             "level": 17,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BUG_BITE",
+                "MOVE_TACKLE",
+                "MOVE_PROTECT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

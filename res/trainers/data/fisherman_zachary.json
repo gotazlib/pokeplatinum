@@ -14,7 +14,10 @@
             "form": 0,
             "level": 17,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TACKLE",
+                "MOVE_SPLASH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +26,12 @@
             "form": 0,
             "level": 19,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATER_PULSE",
+                "MOVE_HORN_ATTACK",
+                "MOVE_PECK",
+                "MOVE_TAIL_WHIP"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +40,10 @@
             "form": 0,
             "level": 17,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TACKLE",
+                "MOVE_SPLASH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

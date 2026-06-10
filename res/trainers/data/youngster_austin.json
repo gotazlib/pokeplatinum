@@ -14,7 +14,12 @@
             "form": 0,
             "level": 21,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATER_GUN",
+                "MOVE_SWIFT",
+                "MOVE_AQUA_JET",
+                "MOVE_QUICK_ATTACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 21,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SPARK",
+                "MOVE_BITE",
+                "MOVE_TACKLE",
+                "MOVE_LEER"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 25,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FAINT_ATTACK",
+                "MOVE_QUICK_ATTACK",
+                "MOVE_KNOCK_OFF",
+                "MOVE_POISON_STING"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

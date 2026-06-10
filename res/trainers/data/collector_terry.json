@@ -14,7 +14,12 @@
             "form": 0,
             "level": 26,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TAKE_DOWN",
+                "MOVE_SLASH",
+                "MOVE_SAND_TOMB",
+                "MOVE_DRAGON_RAGE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

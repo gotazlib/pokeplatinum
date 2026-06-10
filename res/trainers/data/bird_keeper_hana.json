@@ -14,7 +14,12 @@
             "form": 0,
             "level": 52,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SKY_ATTACK",
+                "MOVE_TAKE_DOWN",
+                "MOVE_AIR_SLASH",
+                "MOVE_EXTRASENSORY"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 55,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_LAST_RESORT",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_ANCIENT_POWER"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

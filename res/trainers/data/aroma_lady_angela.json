@@ -15,9 +15,10 @@
             "level": 22,
             "item": null,
             "moves": [
+                "MOVE_MAGICAL_LEAF",
                 "MOVE_MEGA_DRAIN",
                 "MOVE_POISON_STING",
-                "MOVE_STUN_SPORE"
+                "MOVE_ABSORB"
             ],
             "iv_scale": 150,
             "ball_seal": 0

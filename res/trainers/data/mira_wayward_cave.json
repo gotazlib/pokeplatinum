@@ -15,9 +15,9 @@
             "level": 30,
             "item": null,
             "moves": [
+                "MOVE_PSYBEAM",
                 "MOVE_CONFUSION",
-                "MOVE_SHOCK_WAVE",
-                "MOVE_FLASH",
+                "MOVE_TELEPORT",
                 "MOVE_KINESIS"
             ],
             "iv_scale": 150,

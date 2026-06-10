@@ -14,7 +14,12 @@
             "form": 0,
             "level": 38,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_NIGHT_SLASH",
+                "MOVE_SLASH",
+                "MOVE_FEINT",
+                "MOVE_SCRATCH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

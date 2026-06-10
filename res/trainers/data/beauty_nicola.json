@@ -14,7 +14,12 @@
             "form": 0,
             "level": 52,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DIZZY_PUNCH",
+                "MOVE_JUMP_KICK",
+                "MOVE_BOUNCE",
+                "MOVE_POUND"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

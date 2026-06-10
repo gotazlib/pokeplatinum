@@ -15,9 +15,9 @@
             "level": 65,
             "item": null,
             "moves": [
-                "MOVE_EXTRASENSORY",
-                "MOVE_FAKE_OUT",
                 "MOVE_FAINT_ATTACK",
+                "MOVE_RAZOR_WIND",
+                "MOVE_EXTRASENSORY",
                 "MOVE_RAZOR_LEAF"
             ],
             "iv_scale": 150,
@@ -29,10 +29,10 @@
             "level": 66,
             "item": null,
             "moves": [
-                "MOVE_AQUA_TAIL",
                 "MOVE_HYDRO_PUMP",
-                "MOVE_DRAGON_DANCE",
-                "MOVE_ICE_FANG"
+                "MOVE_HYPER_BEAM",
+                "MOVE_AQUA_TAIL",
+                "MOVE_THRASH"
             ],
             "iv_scale": 150,
             "ball_seal": 0

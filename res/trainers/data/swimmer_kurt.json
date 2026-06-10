@@ -14,7 +14,12 @@
             "form": 0,
             "level": 59,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CRABHAMMER",
+                "MOVE_BUBBLE_BEAM",
+                "MOVE_STOMP",
+                "MOVE_SLAM"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 59,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CRABHAMMER",
+                "MOVE_BUBBLE_BEAM",
+                "MOVE_CRUNCH",
+                "MOVE_NIGHT_SLASH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 63,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CRABHAMMER",
+                "MOVE_BUBBLE_BEAM",
+                "MOVE_STOMP",
+                "MOVE_SLAM"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

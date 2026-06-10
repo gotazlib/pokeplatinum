@@ -14,7 +14,12 @@
             "form": 0,
             "level": 35,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SILVER_WIND",
+                "MOVE_PSYBEAM",
+                "MOVE_CONFUSION",
+                "MOVE_GUST"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 37,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_X_SCISSOR",
+                "MOVE_SLASH",
+                "MOVE_LEECH_LIFE",
+                "MOVE_BIDE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 40,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WING_ATTACK",
+                "MOVE_RAZOR_WIND",
+                "MOVE_SLASH",
+                "MOVE_VACUUM_WAVE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

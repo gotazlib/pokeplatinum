@@ -14,7 +14,12 @@
             "form": 0,
             "level": 63,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_MEGA_DRAIN",
+                "MOVE_WEATHER_BALL",
+                "MOVE_POISON_STING"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

@@ -16,7 +16,9 @@
             "level": 9,
             "item": null,
             "moves": [
+                "MOVE_WING_ATTACK",
                 "MOVE_QUICK_ATTACK",
+                "MOVE_TACKLE",
                 "MOVE_GROWL"
             ],
             "iv_scale": 250,
@@ -29,7 +31,9 @@
             "item": null,
             "moves": [
                 "MOVE_POUND",
-                "MOVE_GROWL"
+                "MOVE_BUBBLE",
+                "MOVE_GROWL",
+                "MOVE_WATER_SPORT"
             ],
             "iv_scale": 250,
             "ball_seal": 0

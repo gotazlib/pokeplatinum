@@ -14,7 +14,12 @@
             "form": 0,
             "level": 29,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BRICK_BREAK",
+                "MOVE_NIGHT_SLASH",
+                "MOVE_HORN_ATTACK",
+                "MOVE_AERIAL_ACE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

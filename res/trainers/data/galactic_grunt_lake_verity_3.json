@@ -14,7 +14,12 @@
             "form": 0,
             "level": 41,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_NIGHT_SLASH",
+                "MOVE_SLASH",
+                "MOVE_FEINT",
+                "MOVE_SCRATCH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 41,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FIRE_FANG",
+                "MOVE_BITE",
+                "MOVE_FAINT_ATTACK",
+                "MOVE_EMBER"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

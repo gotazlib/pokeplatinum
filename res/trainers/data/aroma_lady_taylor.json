@@ -14,7 +14,12 @@
             "form": 0,
             "level": 11,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_ABSORB",
+                "MOVE_GROWTH",
+                "MOVE_WATER_SPORT",
+                "MOVE_STUN_SPORE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 13,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TACKLE",
+                "MOVE_GROWTH",
+                "MOVE_LEECH_SEED",
+                "MOVE_HELPING_HAND"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

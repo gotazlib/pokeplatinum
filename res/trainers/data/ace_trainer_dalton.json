@@ -16,9 +16,9 @@
             "item": null,
             "moves": [
                 "MOVE_THUNDERBOLT",
+                "MOVE_DISCHARGE",
                 "MOVE_SWIFT",
-                "MOVE_QUICK_ATTACK",
-                "MOVE_THUNDER_WAVE"
+                "MOVE_QUICK_ATTACK"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -30,9 +30,9 @@
             "item": null,
             "moves": [
                 "MOVE_FLAMETHROWER",
+                "MOVE_LAVA_PLUME",
                 "MOVE_FAINT_ATTACK",
-                "MOVE_SMOG",
-                "MOVE_WILL_O_WISP"
+                "MOVE_SMOG"
             ],
             "iv_scale": 150,
             "ball_seal": 0

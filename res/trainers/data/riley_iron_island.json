@@ -15,10 +15,10 @@
             "level": 48,
             "item": null,
             "moves": [
-                "MOVE_METAL_CLAW",
-                "MOVE_FORCE_PALM",
-                "MOVE_QUICK_ATTACK",
-                "MOVE_BONE_RUSH"
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_AURA_SPHERE",
+                "MOVE_DRAGON_PULSE",
+                "MOVE_DARK_PULSE"
             ],
             "iv_scale": 150,
             "ball_seal": 0

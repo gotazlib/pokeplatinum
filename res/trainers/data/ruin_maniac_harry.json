@@ -14,7 +14,12 @@
             "form": 0,
             "level": 33,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_EXTRASENSORY",
+                "MOVE_CONFUSION",
+                "MOVE_TACKLE",
+                "MOVE_HYPNOSIS"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 35,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_EXTRASENSORY",
+                "MOVE_CONFUSION",
+                "MOVE_TACKLE",
+                "MOVE_GYRO_BALL"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 37,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_EXTRASENSORY",
+                "MOVE_FUTURE_SIGHT",
+                "MOVE_TACKLE",
+                "MOVE_GYRO_BALL"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

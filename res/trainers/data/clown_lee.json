@@ -14,7 +14,12 @@
             "form": 0,
             "level": 27,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PSYBEAM",
+                "MOVE_CONFUSION",
+                "MOVE_DOUBLE_SLAP",
+                "MOVE_TICKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 3
         }

@@ -14,7 +14,11 @@
             "form": 0,
             "level": 11,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TACKLE",
+                "MOVE_GROWL",
+                "MOVE_DEFENSE_CURL"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

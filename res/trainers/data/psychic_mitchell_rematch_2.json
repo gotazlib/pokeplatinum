@@ -14,7 +14,12 @@
             "form": 0,
             "level": 68,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_ZEN_HEADBUTT",
+                "MOVE_BOUNCE",
+                "MOVE_POWER_GEM"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 68,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_FUTURE_SIGHT",
+                "MOVE_PSYCHO_CUT",
+                "MOVE_PSYBEAM"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 68,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SHADOW_PUNCH",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_ICE_PUNCH",
+                "MOVE_THUNDER_PUNCH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

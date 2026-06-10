@@ -14,7 +14,12 @@
             "form": 0,
             "level": 13,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BITE",
+                "MOVE_ASTONISH",
+                "MOVE_LEECH_LIFE",
+                "MOVE_SUPERSONIC"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 13,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BITE",
+                "MOVE_ASTONISH",
+                "MOVE_LEECH_LIFE",
+                "MOVE_SUPERSONIC"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

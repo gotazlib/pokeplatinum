@@ -16,10 +16,10 @@
             "level": 67,
             "item": null,
             "moves": [
-                "MOVE_SPORE",
-                "MOVE_MACH_PUNCH",
                 "MOVE_SEED_BOMB",
-                "MOVE_SKY_UPPERCUT"
+                "MOVE_SKY_UPPERCUT",
+                "MOVE_FORCE_PALM",
+                "MOVE_HEADBUTT"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -30,10 +30,10 @@
             "level": 67,
             "item": null,
             "moves": [
-                "MOVE_DETECT",
-                "MOVE_PSYCHIC",
                 "MOVE_HI_JUMP_KICK",
-                "MOVE_ICE_PUNCH"
+                "MOVE_FORCE_PALM",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_THUNDER_PUNCH"
             ],
             "iv_scale": 150,
             "ball_seal": 0

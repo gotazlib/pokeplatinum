@@ -15,10 +15,10 @@
             "level": 64,
             "item": null,
             "moves": [
+                "MOVE_THUNDER",
                 "MOVE_DISCHARGE",
-                "MOVE_POWER_GEM",
                 "MOVE_SIGNAL_BEAM",
-                "MOVE_LIGHT_SCREEN"
+                "MOVE_POWER_GEM"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 65,
             "item": null,
             "moves": [
+                "MOVE_LEAF_STORM",
                 "MOVE_SOLAR_BEAM",
                 "MOVE_AIR_SLASH",
-                "MOVE_SYNTHESIS",
-                "MOVE_SUNNY_DAY"
+                "MOVE_BODY_SLAM"
             ],
             "iv_scale": 150,
             "ball_seal": 19

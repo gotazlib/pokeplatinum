@@ -15,10 +15,10 @@
             "level": 71,
             "item": null,
             "moves": [
-                "MOVE_THUNDER_FANG",
+                "MOVE_POISON_JAB",
                 "MOVE_X_SCISSOR",
-                "MOVE_QUICK_ATTACK",
-                "MOVE_AERIAL_ACE"
+                "MOVE_NIGHT_SLASH",
+                "MOVE_U_TURN"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 71,
             "item": null,
             "moves": [
-                "MOVE_AQUA_JET",
-                "MOVE_SWIFT",
                 "MOVE_CRUNCH",
-                "MOVE_QUICK_ATTACK"
+                "MOVE_RAZOR_WIND",
+                "MOVE_ICE_FANG",
+                "MOVE_WATER_GUN"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -43,10 +43,10 @@
             "level": 68,
             "item": null,
             "moves": [
-                "MOVE_SWALLOW",
-                "MOVE_GUST",
-                "MOVE_STOCKPILE",
-                "MOVE_SHADOW_BALL"
+                "MOVE_EXPLOSION",
+                "MOVE_SHADOW_BALL",
+                "MOVE_OMINOUS_WIND",
+                "MOVE_GUST"
             ],
             "iv_scale": 150,
             "ball_seal": 0

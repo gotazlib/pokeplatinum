@@ -14,7 +14,12 @@
             "form": 0,
             "level": 19,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WING_ATTACK",
+                "MOVE_BITE",
+                "MOVE_ASTONISH",
+                "MOVE_LEECH_LIFE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 21,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_SCRATCH",
+                "MOVE_FAINT_ATTACK",
+                "MOVE_FURY_SWIPES"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

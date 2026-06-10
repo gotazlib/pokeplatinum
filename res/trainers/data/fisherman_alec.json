@@ -14,7 +14,11 @@
             "form": 0,
             "level": 49,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TACKLE",
+                "MOVE_FLAIL",
+                "MOVE_SPLASH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +27,12 @@
             "form": 0,
             "level": 52,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_HYPER_BEAM",
+                "MOVE_AQUA_TAIL",
+                "MOVE_THRASH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

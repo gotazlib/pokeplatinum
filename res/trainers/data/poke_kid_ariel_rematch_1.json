@@ -14,7 +14,12 @@
             "form": 0,
             "level": 36,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_THUNDER_SHOCK",
+                "MOVE_CHARM",
+                "MOVE_TAIL_WHIP",
+                "MOVE_THUNDER_WAVE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 36,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_THUNDER_SHOCK",
+                "MOVE_SLAM",
+                "MOVE_FEINT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 36,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_THUNDER_SHOCK",
+                "MOVE_SLAM",
+                "MOVE_FEINT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

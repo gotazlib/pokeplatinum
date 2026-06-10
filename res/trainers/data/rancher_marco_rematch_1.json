@@ -14,7 +14,12 @@
             "form": 0,
             "level": 49,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_FIRE_BLAST",
+                "MOVE_TAKE_DOWN",
+                "MOVE_BOUNCE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 51,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FIRE_BLAST",
+                "MOVE_MEGAHORN",
+                "MOVE_FLAME_WHEEL",
+                "MOVE_POISON_JAB"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

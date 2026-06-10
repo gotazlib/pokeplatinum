@@ -15,10 +15,10 @@
             "level": 37,
             "item": null,
             "moves": [
-                "MOVE_WATER_GUN",
-                "MOVE_ROLLOUT",
                 "MOVE_HYPER_FANG",
-                "MOVE_YAWN"
+                "MOVE_HEADBUTT",
+                "MOVE_WATER_GUN",
+                "MOVE_ROLLOUT"
             ],
             "iv_scale": 150,
             "ball_seal": 0

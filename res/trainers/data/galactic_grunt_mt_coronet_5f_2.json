@@ -14,7 +14,12 @@
             "form": 0,
             "level": 46,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FLAMETHROWER",
+                "MOVE_FIRE_FANG",
+                "MOVE_BITE",
+                "MOVE_FAINT_ATTACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 49,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SLASH",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_FAKE_OUT",
+                "MOVE_FAINT_ATTACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

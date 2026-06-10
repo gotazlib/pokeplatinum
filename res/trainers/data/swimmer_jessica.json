@@ -14,7 +14,12 @@
             "form": 0,
             "level": 35,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATER_PULSE",
+                "MOVE_HORN_ATTACK",
+                "MOVE_PECK",
+                "MOVE_FURY_ATTACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 35,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATER_PULSE",
+                "MOVE_HORN_ATTACK",
+                "MOVE_PECK",
+                "MOVE_FURY_ATTACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 36,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATER_PULSE",
+                "MOVE_HORN_ATTACK",
+                "MOVE_PECK",
+                "MOVE_FURY_ATTACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -41,7 +56,12 @@
             "form": 0,
             "level": 38,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATER_PULSE",
+                "MOVE_POISON_JAB",
+                "MOVE_HORN_ATTACK",
+                "MOVE_PECK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

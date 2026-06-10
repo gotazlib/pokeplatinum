@@ -15,7 +15,12 @@
             "form": 0,
             "level": 37,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_ROCK_THROW",
+                "MOVE_ROCK_TOMB",
+                "MOVE_SLAM",
+                "MOVE_DRAGON_BREATH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -24,7 +29,12 @@
             "form": 0,
             "level": 40,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_THUNDER_FANG",
+                "MOVE_ICE_FANG",
+                "MOVE_FIRE_FANG",
+                "MOVE_SLAM"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

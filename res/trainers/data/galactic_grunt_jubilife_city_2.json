@@ -14,7 +14,12 @@
             "form": 0,
             "level": 13,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_SCRATCH",
+                "MOVE_GROWL",
+                "MOVE_HYPNOSIS"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

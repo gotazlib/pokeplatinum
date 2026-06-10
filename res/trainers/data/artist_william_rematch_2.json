@@ -14,7 +14,12 @@
             "form": 0,
             "level": 50,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_PSYBEAM",
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_DOUBLE_SLAP"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 50,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WOOD_HAMMER",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_ROCK_SLIDE",
+                "MOVE_HAMMER_ARM"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

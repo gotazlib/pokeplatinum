@@ -15,10 +15,10 @@
             "level": 65,
             "item": null,
             "moves": [
-                "MOVE_NIGHT_SLASH",
-                "MOVE_POISON_FANG",
-                "MOVE_WRING_OUT",
-                "MOVE_GLARE"
+                "MOVE_POISON_JAB",
+                "MOVE_CRUNCH",
+                "MOVE_POISON_TAIL",
+                "MOVE_NIGHT_SLASH"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 65,
             "item": null,
             "moves": [
-                "MOVE_NIGHT_SLASH",
+                "MOVE_SLASH",
                 "MOVE_POWER_GEM",
-                "MOVE_FAINT_ATTACK",
-                "MOVE_FAKE_OUT"
+                "MOVE_NIGHT_SLASH",
+                "MOVE_SCRATCH"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -43,10 +43,10 @@
             "level": 65,
             "item": null,
             "moves": [
+                "MOVE_SUCKER_PUNCH",
                 "MOVE_NIGHT_SLASH",
-                "MOVE_PSYCHO_CUT",
-                "MOVE_SLASH",
-                "MOVE_QUICK_ATTACK"
+                "MOVE_RAZOR_WIND",
+                "MOVE_FUTURE_SIGHT"
             ],
             "iv_scale": 150,
             "ball_seal": 0

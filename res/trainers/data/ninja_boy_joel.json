@@ -14,7 +14,12 @@
             "form": 0,
             "level": 34,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WING_ATTACK",
+                "MOVE_AIR_CUTTER",
+                "MOVE_POISON_FANG",
+                "MOVE_BITE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 34,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BUG_BITE",
+                "MOVE_BITE",
+                "MOVE_POISON_STING",
+                "MOVE_KNOCK_OFF"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 34,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_NIGHT_SLASH",
+                "MOVE_SLASH",
+                "MOVE_FEINT",
+                "MOVE_SCRATCH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -41,7 +56,12 @@
             "form": 0,
             "level": 34,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WING_ATTACK",
+                "MOVE_AIR_CUTTER",
+                "MOVE_BITE",
+                "MOVE_ASTONISH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

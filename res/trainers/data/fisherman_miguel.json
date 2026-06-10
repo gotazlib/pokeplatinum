@@ -14,7 +14,12 @@
             "form": 0,
             "level": 38,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_AQUA_TAIL",
+                "MOVE_THRASH",
+                "MOVE_ICE_FANG",
+                "MOVE_BITE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 38,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_AQUA_TAIL",
+                "MOVE_THRASH",
+                "MOVE_ICE_FANG",
+                "MOVE_BITE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

@@ -15,7 +15,12 @@
             "form": 0,
             "level": 64,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_TACKLE",
+                "MOVE_HELPING_HAND",
+                "MOVE_FORESIGHT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -24,7 +29,12 @@
             "form": 0,
             "level": 68,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_HI_JUMP_KICK",
+                "MOVE_MEGA_KICK",
+                "MOVE_BLAZE_KICK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

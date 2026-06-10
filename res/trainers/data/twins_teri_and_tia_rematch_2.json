@@ -14,7 +14,12 @@
             "form": 0,
             "level": 69,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_THUNDER_SHOCK",
+                "MOVE_QUICK_ATTACK",
+                "MOVE_TAIL_WHIP"
+            ],
             "iv_scale": 150,
             "ball_seal": 20
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 69,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DOUBLE_SLAP",
+                "MOVE_SING",
+                "MOVE_MINIMIZE",
+                "MOVE_METRONOME"
+            ],
             "iv_scale": 150,
             "ball_seal": 20
         }

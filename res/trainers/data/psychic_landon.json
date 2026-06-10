@@ -16,9 +16,9 @@
             "item": null,
             "moves": [
                 "MOVE_SHADOW_BALL",
-                "MOVE_WILL_O_WISP",
                 "MOVE_SUCKER_PUNCH",
-                "MOVE_CONFUSE_RAY"
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_FAINT_ATTACK"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -31,8 +31,8 @@
             "moves": [
                 "MOVE_PSYCHIC",
                 "MOVE_FUTURE_SIGHT",
-                "MOVE_RECOVER",
-                "MOVE_FOCUS_BLAST"
+                "MOVE_PSYCHO_CUT",
+                "MOVE_PSYBEAM"
             ],
             "iv_scale": 150,
             "ball_seal": 0

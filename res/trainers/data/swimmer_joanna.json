@@ -14,7 +14,12 @@
             "form": 0,
             "level": 60,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATER_PULSE",
+                "MOVE_TAKE_DOWN",
+                "MOVE_WATER_GUN",
+                "MOVE_TACKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 63,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_ICE_BEAM",
+                "MOVE_BRINE",
+                "MOVE_BODY_SLAM"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

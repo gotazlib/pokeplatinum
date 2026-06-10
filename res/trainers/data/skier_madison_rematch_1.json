@@ -14,7 +14,12 @@
             "form": 0,
             "level": 52,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BLIZZARD",
+                "MOVE_ICE_FANG",
+                "MOVE_CRUNCH",
+                "MOVE_HEADBUTT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

@@ -14,7 +14,12 @@
             "form": 0,
             "level": 32,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PURSUIT",
+                "MOVE_QUICK_ATTACK",
+                "MOVE_TACKLE",
+                "MOVE_TAIL_WHIP"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 32,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CONFUSION",
+                "MOVE_SWIFT",
+                "MOVE_QUICK_ATTACK",
+                "MOVE_TACKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

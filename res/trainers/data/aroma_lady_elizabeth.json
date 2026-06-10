@@ -15,8 +15,10 @@
             "level": 17,
             "item": null,
             "moves": [
-                "MOVE_GROWTH",
-                "MOVE_MEGA_DRAIN"
+                "MOVE_MEGA_DRAIN",
+                "MOVE_ABSORB",
+                "MOVE_POISON_STING",
+                "MOVE_GROWTH"
             ],
             "iv_scale": 150,
             "ball_seal": 0

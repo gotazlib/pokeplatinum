@@ -16,7 +16,9 @@
             "item": null,
             "moves": [
                 "MOVE_WATER_PULSE",
-                "MOVE_MAGNITUDE"
+                "MOVE_MUD_BOMB",
+                "MOVE_ZEN_HEADBUTT",
+                "MOVE_WATER_GUN"
             ],
             "iv_scale": 150,
             "ball_seal": 0

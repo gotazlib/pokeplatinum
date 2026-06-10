@@ -14,7 +14,12 @@
             "form": 0,
             "level": 41,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CRUNCH",
+                "MOVE_ICE_FANG",
+                "MOVE_WATER_GUN",
+                "MOVE_SWIFT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

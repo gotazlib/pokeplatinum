@@ -16,7 +16,12 @@
             "form": 0,
             "level": 32,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_SCRATCH",
+                "MOVE_FAINT_ATTACK",
+                "MOVE_FURY_SWIPES"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

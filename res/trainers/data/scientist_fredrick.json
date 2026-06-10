@@ -18,9 +18,9 @@
             "item": null,
             "moves": [
                 "MOVE_PSYCHIC",
+                "MOVE_FUTURE_SIGHT",
                 "MOVE_MAGICAL_LEAF",
-                "MOVE_HYPNOSIS",
-                "MOVE_FUTURE_SIGHT"
+                "MOVE_CONFUSION"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -32,9 +32,9 @@
             "item": null,
             "moves": [
                 "MOVE_PSYCHIC",
+                "MOVE_FUTURE_SIGHT",
                 "MOVE_PSYCHO_CUT",
-                "MOVE_THUNDER_WAVE",
-                "MOVE_RECOVER"
+                "MOVE_PSYBEAM"
             ],
             "iv_scale": 150,
             "ball_seal": 0

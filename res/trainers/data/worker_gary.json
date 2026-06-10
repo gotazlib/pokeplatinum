@@ -15,8 +15,10 @@
             "level": 43,
             "item": null,
             "moves": [
+                "MOVE_DISCHARGE",
                 "MOVE_SPARK",
-                "MOVE_MAGNET_BOMB"
+                "MOVE_MAGNET_BOMB",
+                "MOVE_MIRROR_SHOT"
             ],
             "iv_scale": 150,
             "ball_seal": 0

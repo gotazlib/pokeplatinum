@@ -15,10 +15,10 @@
             "level": 64,
             "item": null,
             "moves": [
-                "MOVE_SUPERPOWER",
                 "MOVE_X_SCISSOR",
-                "MOVE_SWORDS_DANCE",
-                "MOVE_ROCK_TOMB"
+                "MOVE_SUPERPOWER",
+                "MOVE_THRASH",
+                "MOVE_BRICK_BREAK"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 65,
             "item": null,
             "moves": [
+                "MOVE_HYDRO_PUMP",
                 "MOVE_DISCHARGE",
-                "MOVE_SIGNAL_BEAM",
-                "MOVE_SURF",
-                "MOVE_CONFUSE_RAY"
+                "MOVE_SPARK",
+                "MOVE_BUBBLE_BEAM"
             ],
             "iv_scale": 150,
             "ball_seal": 0

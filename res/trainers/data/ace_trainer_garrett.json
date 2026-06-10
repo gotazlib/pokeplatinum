@@ -15,10 +15,10 @@
             "level": 43,
             "item": null,
             "moves": [
+                "MOVE_PSYCHIC",
                 "MOVE_PSYBEAM",
-                "MOVE_MIMIC",
-                "MOVE_REFLECT",
-                "MOVE_LIGHT_SCREEN"
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_DOUBLE_SLAP"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 45,
             "item": null,
             "moves": [
-                "MOVE_WILL_O_WISP",
                 "MOVE_SHADOW_PUNCH",
-                "MOVE_PURSUIT",
-                "MOVE_CONFUSE_RAY"
+                "MOVE_FIRE_PUNCH",
+                "MOVE_ICE_PUNCH",
+                "MOVE_THUNDER_PUNCH"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -43,10 +43,10 @@
             "level": 45,
             "item": null,
             "moves": [
-                "MOVE_SLASH",
                 "MOVE_X_SCISSOR",
-                "MOVE_QUICK_ATTACK",
-                "MOVE_FURY_CUTTER"
+                "MOVE_WING_ATTACK",
+                "MOVE_RAZOR_WIND",
+                "MOVE_SLASH"
             ],
             "iv_scale": 150,
             "ball_seal": 0

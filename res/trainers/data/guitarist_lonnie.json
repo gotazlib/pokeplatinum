@@ -16,9 +16,9 @@
             "item": null,
             "moves": [
                 "MOVE_THUNDERBOLT",
-                "MOVE_SLAM",
-                "MOVE_THUNDER_WAVE",
-                "MOVE_QUICK_ATTACK"
+                "MOVE_THUNDER_SHOCK",
+                "MOVE_QUICK_ATTACK",
+                "MOVE_TAIL_WHIP"
             ],
             "iv_scale": 150,
             "ball_seal": 0

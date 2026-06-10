@@ -14,7 +14,12 @@
             "form": 0,
             "level": 65,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATER_SPOUT",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_BOUNCE",
+                "MOVE_ASTONISH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 68,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WATERFALL",
+                "MOVE_MEGAHORN",
+                "MOVE_WATER_PULSE",
+                "MOVE_POISON_JAB"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 68,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_WING_ATTACK",
+                "MOVE_WATER_PULSE",
+                "MOVE_PAYBACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

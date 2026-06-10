@@ -16,7 +16,12 @@
             "form": 0,
             "level": 28,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_POUND",
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_CHARM",
+                "MOVE_ENCORE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -25,7 +30,12 @@
             "form": 0,
             "level": 30,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_POUND",
+                "MOVE_WAKE_UP_SLAP",
+                "MOVE_DOUBLE_SLAP",
+                "MOVE_GROWL"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

@@ -14,7 +14,12 @@
             "form": 0,
             "level": 28,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_MEGA_DRAIN",
+                "MOVE_ABSORB",
+                "MOVE_GROWTH",
+                "MOVE_WATER_SPORT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

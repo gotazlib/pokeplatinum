@@ -15,7 +15,12 @@
             "form": 0,
             "level": 20,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SELFDESTRUCT",
+                "MOVE_ROCK_THROW",
+                "MOVE_TACKLE",
+                "MOVE_MAGNITUDE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -24,7 +29,12 @@
             "form": 0,
             "level": 20,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SELFDESTRUCT",
+                "MOVE_ROCK_THROW",
+                "MOVE_TACKLE",
+                "MOVE_MAGNITUDE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -33,7 +43,12 @@
             "form": 0,
             "level": 22,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_ROCK_THROW",
+                "MOVE_ROCK_TOMB",
+                "MOVE_TACKLE",
+                "MOVE_RAGE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -42,7 +57,12 @@
             "form": 0,
             "level": 22,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SELFDESTRUCT",
+                "MOVE_ROCK_THROW",
+                "MOVE_ROLLOUT",
+                "MOVE_TACKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

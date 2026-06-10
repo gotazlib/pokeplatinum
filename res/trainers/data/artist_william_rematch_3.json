@@ -15,10 +15,7 @@
             "level": 69,
             "item": null,
             "moves": [
-                "MOVE_OMINOUS_WIND",
-                "MOVE_ANCIENT_POWER",
-                "MOVE_SILVER_WIND",
-                "MOVE_BATON_PASS"
+                "MOVE_SKETCH"
             ],
             "iv_scale": 250,
             "ball_seal": 0
@@ -30,9 +27,9 @@
             "item": null,
             "moves": [
                 "MOVE_PSYCHIC",
-                "MOVE_LIGHT_SCREEN",
-                "MOVE_REFLECT",
-                "MOVE_MIMIC"
+                "MOVE_PSYBEAM",
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_DOUBLE_SLAP"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -43,10 +40,10 @@
             "level": 66,
             "item": null,
             "moves": [
-                "MOVE_ROCK_THROW",
-                "MOVE_FLAIL",
-                "MOVE_SUCKER_PUNCH",
-                "MOVE_MIMIC"
+                "MOVE_WOOD_HAMMER",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_ROCK_SLIDE",
+                "MOVE_HAMMER_ARM"
             ],
             "iv_scale": 150,
             "ball_seal": 0

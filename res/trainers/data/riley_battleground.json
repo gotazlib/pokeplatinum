@@ -18,10 +18,10 @@
             "level": 71,
             "item": "ITEM_NONE",
             "moves": [
-                "MOVE_PSYCHO_CUT",
+                "MOVE_SUCKER_PUNCH",
                 "MOVE_NIGHT_SLASH",
-                "MOVE_SWORDS_DANCE",
-                "MOVE_QUICK_ATTACK"
+                "MOVE_RAZOR_WIND",
+                "MOVE_FUTURE_SIGHT"
             ],
             "iv_scale": 200,
             "ball_seal": 0
@@ -32,10 +32,10 @@
             "level": 71,
             "item": "ITEM_NONE",
             "moves": [
-                "MOVE_AVALANCHE",
+                "MOVE_THRASH",
                 "MOVE_SLASH",
-                "MOVE_AERIAL_ACE",
-                "MOVE_SHADOW_CLAW"
+                "MOVE_HAMMER_ARM",
+                "MOVE_FAINT_ATTACK"
             ],
             "iv_scale": 200,
             "ball_seal": 0
@@ -46,10 +46,10 @@
             "level": 72,
             "item": "ITEM_NONE",
             "moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_HYPER_BEAM",
                 "MOVE_METEOR_MASH",
-                "MOVE_ZEN_HEADBUTT",
-                "MOVE_HAMMER_ARM",
-                "MOVE_BULLET_PUNCH"
+                "MOVE_ZEN_HEADBUTT"
             ],
             "iv_scale": 200,
             "ball_seal": 0
@@ -60,10 +60,10 @@
             "level": 73,
             "item": "ITEM_NONE",
             "moves": [
+                "MOVE_FLY",
                 "MOVE_DRAGON_CLAW",
-                "MOVE_CRUNCH",
-                "MOVE_FIRE_FANG",
-                "MOVE_THUNDER_FANG"
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_DRAGON_BREATH"
             ],
             "iv_scale": 200,
             "ball_seal": 0
@@ -74,10 +74,10 @@
             "level": 75,
             "item": "ITEM_SITRUS_BERRY",
             "moves": [
-                "MOVE_EXTREME_SPEED",
                 "MOVE_CLOSE_COMBAT",
-                "MOVE_BONE_RUSH",
-                "MOVE_BLAZE_KICK"
+                "MOVE_AURA_SPHERE",
+                "MOVE_DRAGON_PULSE",
+                "MOVE_DARK_PULSE"
             ],
             "iv_scale": 200,
             "ball_seal": 0

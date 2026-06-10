@@ -18,9 +18,9 @@
             "item": null,
             "moves": [
                 "MOVE_MUD_BOMB",
-                "MOVE_SLAM",
+                "MOVE_MUD_SHOT",
                 "MOVE_WATER_GUN",
-                "MOVE_AMNESIA"
+                "MOVE_SLAM"
             ],
             "iv_scale": 150,
             "ball_seal": 0

@@ -14,7 +14,12 @@
             "form": 0,
             "level": 40,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DISCHARGE",
+                "MOVE_SPARK",
+                "MOVE_MAGNET_BOMB",
+                "MOVE_TACKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 40,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CROSS_CHOP",
+                "MOVE_VITAL_THROW",
+                "MOVE_SUBMISSION",
+                "MOVE_REVENGE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 40,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_EXPLOSION",
+                "MOVE_SELFDESTRUCT",
+                "MOVE_EARTHQUAKE",
+                "MOVE_ROCK_THROW"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

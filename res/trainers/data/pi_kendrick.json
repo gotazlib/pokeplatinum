@@ -16,8 +16,10 @@
             "level": 36,
             "item": null,
             "moves": [
-                "MOVE_HORN_DRILL",
-                "MOVE_REVERSAL"
+                "MOVE_TAKE_DOWN",
+                "MOVE_HORN_ATTACK",
+                "MOVE_ROCK_BLAST",
+                "MOVE_STOMP"
             ],
             "iv_scale": 150,
             "ball_seal": 0

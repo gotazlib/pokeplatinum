@@ -14,7 +14,12 @@
             "form": 0,
             "level": 48,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_AIR_SLASH",
+                "MOVE_WING_ATTACK",
+                "MOVE_WATER_PULSE",
+                "MOVE_WATER_GUN"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 49,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CROSS_CHOP",
+                "MOVE_VITAL_THROW",
+                "MOVE_SUBMISSION",
+                "MOVE_REVENGE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 50,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_MUDDY_WATER",
+                "MOVE_WATER_PULSE",
+                "MOVE_BODY_SLAM",
+                "MOVE_MUD_BOMB"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

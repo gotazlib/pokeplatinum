@@ -15,7 +15,12 @@
             "form": 0,
             "level": 30,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_REVENGE",
+                "MOVE_FAINT_ATTACK",
+                "MOVE_MUD_BOMB",
+                "MOVE_PURSUIT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

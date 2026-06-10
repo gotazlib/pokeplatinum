@@ -14,7 +14,9 @@
             "form": 0,
             "level": 10,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SPLASH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

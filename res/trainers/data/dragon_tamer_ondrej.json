@@ -14,7 +14,12 @@
             "form": 0,
             "level": 52,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PLUCK",
+                "MOVE_DRAGON_BREATH",
+                "MOVE_TAKE_DOWN",
+                "MOVE_PECK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 55,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DRAGON_CLAW",
+                "MOVE_DIG",
+                "MOVE_DRAGON_RUSH",
+                "MOVE_TAKE_DOWN"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

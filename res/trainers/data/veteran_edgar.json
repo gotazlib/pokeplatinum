@@ -15,10 +15,10 @@
             "level": 53,
             "item": null,
             "moves": [
-                "MOVE_HYPER_BEAM",
+                "MOVE_TRI_ATTACK",
+                "MOVE_DISCHARGE",
                 "MOVE_SIGNAL_BEAM",
-                "MOVE_PSYCHIC",
-                "MOVE_THUNDERBOLT"
+                "MOVE_PSYBEAM"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 53,
             "item": null,
             "moves": [
-                "MOVE_POWER_WHIP",
                 "MOVE_MEGA_DRAIN",
-                "MOVE_TOXIC",
-                "MOVE_SLAM"
+                "MOVE_ANCIENT_POWER",
+                "MOVE_SLAM",
+                "MOVE_VINE_WHIP"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -43,10 +43,10 @@
             "level": 53,
             "item": null,
             "moves": [
+                "MOVE_BUBBLE_BEAM",
                 "MOVE_BRINE",
                 "MOVE_DRILL_PECK",
-                "MOVE_METAL_CLAW",
-                "MOVE_GROWL"
+                "MOVE_METAL_CLAW"
             ],
             "iv_scale": 150,
             "ball_seal": 0

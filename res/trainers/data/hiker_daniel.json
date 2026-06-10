@@ -15,7 +15,12 @@
             "form": 0,
             "level": 12,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_ROCK_THROW",
+                "MOVE_TACKLE",
+                "MOVE_DEFENSE_CURL",
+                "MOVE_MUD_SPORT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -24,7 +29,12 @@
             "form": 0,
             "level": 13,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_ROCK_THROW",
+                "MOVE_TACKLE",
+                "MOVE_DEFENSE_CURL",
+                "MOVE_MUD_SPORT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -33,7 +43,12 @@
             "form": 0,
             "level": 14,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_ROCK_THROW",
+                "MOVE_TACKLE",
+                "MOVE_DEFENSE_CURL",
+                "MOVE_MUD_SPORT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

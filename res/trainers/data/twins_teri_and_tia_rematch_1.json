@@ -14,7 +14,12 @@
             "form": 0,
             "level": 51,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_THUNDER",
+                "MOVE_SLAM",
+                "MOVE_FEINT"
+            ],
             "iv_scale": 150,
             "ball_seal": 20
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 51,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_METEOR_MASH",
+                "MOVE_POUND",
+                "MOVE_WAKE_UP_SLAP",
+                "MOVE_DOUBLE_SLAP"
+            ],
             "iv_scale": 150,
             "ball_seal": 20
         }

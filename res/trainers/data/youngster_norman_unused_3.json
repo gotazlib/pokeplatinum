@@ -15,10 +15,10 @@
             "level": 28,
             "item": null,
             "moves": [
+                "MOVE_CHATTER",
+                "MOVE_PECK",
                 "MOVE_FURY_ATTACK",
-                "MOVE_SING",
-                "MOVE_GROWL",
-                "MOVE_PECK"
+                "MOVE_GROWL"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -30,9 +30,9 @@
             "item": null,
             "moves": [
                 "MOVE_PETAL_DANCE",
-                "MOVE_SUNNY_DAY",
                 "MOVE_MAGICAL_LEAF",
-                "MOVE_HELPING_HAND"
+                "MOVE_TACKLE",
+                "MOVE_GROWTH"
             ],
             "iv_scale": 150,
             "ball_seal": 0

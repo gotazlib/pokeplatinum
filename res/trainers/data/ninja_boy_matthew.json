@@ -14,7 +14,12 @@
             "form": 0,
             "level": 45,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_WING_ATTACK",
+                "MOVE_AIR_CUTTER",
+                "MOVE_POISON_FANG",
+                "MOVE_BITE"
+            ],
             "iv_scale": 150,
             "ball_seal": 5
         }

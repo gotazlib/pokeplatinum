@@ -14,7 +14,12 @@
             "form": 0,
             "level": 66,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DRAGON_CLAW",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_DRAGON_BREATH",
+                "MOVE_CRUNCH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 66,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DRAGON_CLAW",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_DRAGON_BREATH",
+                "MOVE_CRUNCH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 66,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_HYPER_BEAM",
+                "MOVE_DRAGON_BREATH",
+                "MOVE_FAINT_ATTACK",
+                "MOVE_SAND_TOMB"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

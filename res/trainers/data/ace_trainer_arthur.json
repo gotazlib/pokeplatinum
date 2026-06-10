@@ -16,9 +16,9 @@
             "item": null,
             "moves": [
                 "MOVE_MUDDY_WATER",
-                "MOVE_RECOVER",
-                "MOVE_TOXIC",
-                "MOVE_WATER_PULSE"
+                "MOVE_WATER_PULSE",
+                "MOVE_BODY_SLAM",
+                "MOVE_MUD_BOMB"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -30,9 +30,9 @@
             "item": null,
             "moves": [
                 "MOVE_POISON_JAB",
-                "MOVE_U_TURN",
-                "MOVE_AERIAL_ACE",
-                "MOVE_SWORDS_DANCE"
+                "MOVE_ASSURANCE",
+                "MOVE_PURSUIT",
+                "MOVE_TWINEEDLE"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -43,10 +43,10 @@
             "level": 64,
             "item": null,
             "moves": [
-                "MOVE_THUNDERBOLT",
-                "MOVE_HYPER_BEAM",
-                "MOVE_ENDURE",
-                "MOVE_EXPLOSION"
+                "MOVE_EXPLOSION",
+                "MOVE_SELFDESTRUCT",
+                "MOVE_SPARK",
+                "MOVE_CHARGE_BEAM"
             ],
             "iv_scale": 150,
             "ball_seal": 0

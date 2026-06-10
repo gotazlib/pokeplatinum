@@ -15,10 +15,10 @@
             "level": 61,
             "item": null,
             "moves": [
-                "MOVE_ACID_ARMOR",
-                "MOVE_TOXIC",
                 "MOVE_SLUDGE_BOMB",
-                "MOVE_DARK_PULSE"
+                "MOVE_GUNK_SHOT",
+                "MOVE_MUD_BOMB",
+                "MOVE_POUND"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 61,
             "item": null,
             "moves": [
-                "MOVE_SUCKER_PUNCH",
-                "MOVE_TAUNT",
+                "MOVE_BITE",
+                "MOVE_TAKE_DOWN",
                 "MOVE_ASSURANCE",
-                "MOVE_TAKE_DOWN"
+                "MOVE_TACKLE"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -44,9 +44,9 @@
             "item": null,
             "moves": [
                 "MOVE_POWER_WHIP",
-                "MOVE_GIGA_IMPACT",
-                "MOVE_SURF",
-                "MOVE_FIRE_BLAST"
+                "MOVE_STOMP",
+                "MOVE_SLAM",
+                "MOVE_ROLLOUT"
             ],
             "iv_scale": 150,
             "ball_seal": 0

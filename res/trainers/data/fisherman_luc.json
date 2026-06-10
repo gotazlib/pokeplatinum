@@ -14,7 +14,12 @@
             "form": 0,
             "level": 34,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BUBBLE_BEAM",
+                "MOVE_WATER_PULSE",
+                "MOVE_PSYBEAM",
+                "MOVE_AURORA_BEAM"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 34,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BUBBLE_BEAM",
+                "MOVE_WATER_PULSE",
+                "MOVE_PSYBEAM",
+                "MOVE_AURORA_BEAM"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 35,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BUBBLE_BEAM",
+                "MOVE_WATER_PULSE",
+                "MOVE_PSYBEAM",
+                "MOVE_AURORA_BEAM"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -41,7 +56,12 @@
             "form": 0,
             "level": 36,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_AQUA_TAIL",
+                "MOVE_THRASH",
+                "MOVE_ICE_FANG",
+                "MOVE_BITE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -50,7 +70,12 @@
             "form": 0,
             "level": 36,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_BUBBLE_BEAM",
+                "MOVE_WATER_PULSE",
+                "MOVE_SIGNAL_BEAM",
+                "MOVE_PSYBEAM"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

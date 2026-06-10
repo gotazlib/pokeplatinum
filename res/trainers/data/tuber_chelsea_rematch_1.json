@@ -14,7 +14,12 @@
             "form": 0,
             "level": 51,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_AQUA_TAIL",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_BUBBLE_BEAM",
+                "MOVE_TACKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 9
         }

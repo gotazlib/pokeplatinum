@@ -15,9 +15,9 @@
             "level": 71,
             "item": null,
             "moves": [
+                "MOVE_GIGA_IMPACT",
                 "MOVE_THRASH",
                 "MOVE_ZEN_HEADBUTT",
-                "MOVE_SWAGGER",
                 "MOVE_PAYBACK"
             ],
             "iv_scale": 150,

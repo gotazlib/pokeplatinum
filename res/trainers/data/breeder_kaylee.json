@@ -14,7 +14,12 @@
             "form": 0,
             "level": 30,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SWIFT",
+                "MOVE_SCRATCH",
+                "MOVE_ASTONISH",
+                "MOVE_FURY_SWIPES"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 30,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_BUBBLE_BEAM",
+                "MOVE_WATER_GUN",
+                "MOVE_TACKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 30,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TAKE_DOWN",
+                "MOVE_PECK",
+                "MOVE_ASTONISH",
+                "MOVE_FURY_ATTACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

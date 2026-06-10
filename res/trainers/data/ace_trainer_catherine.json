@@ -15,10 +15,10 @@
             "level": 27,
             "item": null,
             "moves": [
-                "MOVE_NIGHT_SHADE",
-                "MOVE_CONFUSE_RAY",
+                "MOVE_SHADOW_PUNCH",
                 "MOVE_SUCKER_PUNCH",
-                "MOVE_CURSE"
+                "MOVE_LICK",
+                "MOVE_NIGHT_SHADE"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -30,9 +30,9 @@
             "item": null,
             "moves": [
                 "MOVE_PSYBEAM",
-                "MOVE_PAIN_SPLIT",
-                "MOVE_CONFUSE_RAY",
-                "MOVE_SPITE"
+                "MOVE_ASTONISH",
+                "MOVE_PSYWAVE",
+                "MOVE_GROWL"
             ],
             "iv_scale": 150,
             "ball_seal": 0

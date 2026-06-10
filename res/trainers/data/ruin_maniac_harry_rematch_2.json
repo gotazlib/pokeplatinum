@@ -14,7 +14,12 @@
             "form": 0,
             "level": 58,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_IRON_HEAD",
+                "MOVE_ANCIENT_POWER",
+                "MOVE_TAKE_DOWN",
+                "MOVE_TACKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 58,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_HEAD_SMASH",
+                "MOVE_ANCIENT_POWER",
+                "MOVE_TAKE_DOWN",
+                "MOVE_ZEN_HEADBUTT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 61,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_EXTRASENSORY",
+                "MOVE_FUTURE_SIGHT",
+                "MOVE_FAINT_ATTACK",
+                "MOVE_PAYBACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

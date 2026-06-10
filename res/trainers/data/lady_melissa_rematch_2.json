@@ -18,9 +18,9 @@
             "item": null,
             "moves": [
                 "MOVE_SOLAR_BEAM",
-                "MOVE_SUNNY_DAY",
-                "MOVE_LEECH_SEED",
-                "MOVE_MAGICAL_LEAF"
+                "MOVE_PETAL_DANCE",
+                "MOVE_TAKE_DOWN",
+                "MOVE_TACKLE"
             ],
             "iv_scale": 150,
             "ball_seal": 0

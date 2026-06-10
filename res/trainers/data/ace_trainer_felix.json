@@ -15,10 +15,10 @@
             "level": 64,
             "item": null,
             "moves": [
-                "MOVE_SHADOW_SNEAK",
-                "MOVE_PAYBACK",
-                "MOVE_CURSE",
-                "MOVE_WILL_O_WISP"
+                "MOVE_SHADOW_PUNCH",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_ICE_PUNCH",
+                "MOVE_THUNDER_PUNCH"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,9 +29,9 @@
             "level": 65,
             "item": null,
             "moves": [
+                "MOVE_FLY",
                 "MOVE_DRAGON_CLAW",
-                "MOVE_AERIAL_ACE",
-                "MOVE_ZEN_HEADBUTT",
+                "MOVE_DRAGON_BREATH",
                 "MOVE_CRUNCH"
             ],
             "iv_scale": 150,

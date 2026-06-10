@@ -14,7 +14,12 @@
             "form": 0,
             "level": 48,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PETAL_DANCE",
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_POISON_STING",
+                "MOVE_GIGA_DRAIN"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 48,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_PSYBEAM",
+                "MOVE_MAGICAL_LEAF",
+                "MOVE_DOUBLE_SLAP"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -32,7 +42,12 @@
             "form": 0,
             "level": 48,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_METEOR_MASH",
+                "MOVE_POUND",
+                "MOVE_WAKE_UP_SLAP",
+                "MOVE_DOUBLE_SLAP"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -41,7 +56,12 @@
             "form": 0,
             "level": 48,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FUTURE_SIGHT",
+                "MOVE_PSYBEAM",
+                "MOVE_SWIFT",
+                "MOVE_QUICK_ATTACK"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

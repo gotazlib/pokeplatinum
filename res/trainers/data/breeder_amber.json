@@ -14,7 +14,12 @@
             "form": 0,
             "level": 27,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_EMBER",
+                "MOVE_FAINT_ATTACK",
+                "MOVE_FIRE_SPIN",
+                "MOVE_SMOG"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +28,12 @@
             "form": 0,
             "level": 27,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_GROWL",
+                "MOVE_CHARM",
+                "MOVE_METRONOME",
+                "MOVE_SWEET_KISS"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

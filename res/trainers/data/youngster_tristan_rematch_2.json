@@ -14,7 +14,12 @@
             "form": 0,
             "level": 41,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_TAKE_DOWN",
+                "MOVE_WING_ATTACK",
+                "MOVE_AERIAL_ACE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

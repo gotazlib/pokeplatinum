@@ -15,7 +15,10 @@
             "form": 0,
             "level": 6,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SCRATCH",
+                "MOVE_LEER"
+            ],
             "iv_scale": 250,
             "ball_seal": 0
         }

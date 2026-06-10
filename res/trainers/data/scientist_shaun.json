@@ -18,7 +18,9 @@
             "item": null,
             "moves": [
                 "MOVE_SPARK",
-                "MOVE_MAGNET_BOMB"
+                "MOVE_MAGNET_BOMB",
+                "MOVE_THUNDER_SHOCK",
+                "MOVE_TACKLE"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -30,9 +32,9 @@
             "item": null,
             "moves": [
                 "MOVE_PSYBEAM",
-                "MOVE_DISABLE",
-                "MOVE_KINESIS",
-                "MOVE_THUNDER_PUNCH"
+                "MOVE_CONFUSION",
+                "MOVE_TELEPORT",
+                "MOVE_KINESIS"
             ],
             "iv_scale": 150,
             "ball_seal": 0

@@ -15,10 +15,10 @@
             "level": 45,
             "item": null,
             "moves": [
-                "MOVE_DOUBLE_HIT",
-                "MOVE_U_TURN",
-                "MOVE_SAND_ATTACK",
-                "MOVE_SCREECH"
+                "MOVE_LAST_RESORT",
+                "MOVE_SWIFT",
+                "MOVE_ASTONISH",
+                "MOVE_FLING"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 46,
             "item": null,
             "moves": [
-                "MOVE_PSYBEAM",
+                "MOVE_DISCHARGE",
                 "MOVE_SIGNAL_BEAM",
-                "MOVE_CONVERSION_2",
-                "MOVE_RECOVER"
+                "MOVE_PSYBEAM",
+                "MOVE_TACKLE"
             ],
             "iv_scale": 150,
             "ball_seal": 0

@@ -15,10 +15,10 @@
             "level": 27,
             "item": null,
             "moves": [
-                "MOVE_FORESIGHT",
                 "MOVE_JUMP_KICK",
+                "MOVE_POUND",
                 "MOVE_QUICK_ATTACK",
-                "MOVE_DEFENSE_CURL"
+                "MOVE_FRUSTRATION"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 27,
             "item": null,
             "moves": [
-                "MOVE_AQUA_JET",
+                "MOVE_WATER_GUN",
                 "MOVE_SWIFT",
-                "MOVE_PURSUIT",
-                "MOVE_SONIC_BOOM"
+                "MOVE_AQUA_JET",
+                "MOVE_QUICK_ATTACK"
             ],
             "iv_scale": 150,
             "ball_seal": 0

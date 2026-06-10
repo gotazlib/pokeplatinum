@@ -15,10 +15,10 @@
             "level": 37,
             "item": null,
             "moves": [
-                "MOVE_SLASH",
                 "MOVE_WING_ATTACK",
-                "MOVE_PURSUIT",
-                "MOVE_QUICK_ATTACK"
+                "MOVE_RAZOR_WIND",
+                "MOVE_SLASH",
+                "MOVE_VACUUM_WAVE"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 36,
             "item": null,
             "moves": [
-                "MOVE_THUNDER_WAVE",
                 "MOVE_ROCK_SLIDE",
                 "MOVE_MAGNET_BOMB",
-                "MOVE_IRON_DEFENSE"
+                "MOVE_TACKLE",
+                "MOVE_MAGNET_RISE"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -43,10 +43,10 @@
             "level": 40,
             "item": null,
             "moves": [
-                "MOVE_THUNDERBOLT",
+                "MOVE_SPARK",
+                "MOVE_THUNDER_FANG",
                 "MOVE_CRUNCH",
-                "MOVE_SWAGGER",
-                "MOVE_DOUBLE_TEAM"
+                "MOVE_BITE"
             ],
             "iv_scale": 150,
             "ball_seal": 0

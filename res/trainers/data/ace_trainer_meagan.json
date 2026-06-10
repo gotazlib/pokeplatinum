@@ -16,9 +16,9 @@
             "item": null,
             "moves": [
                 "MOVE_FAKE_OUT",
-                "MOVE_CAPTIVATE",
-                "MOVE_FAINT_ATTACK",
-                "MOVE_DOUBLE_EDGE"
+                "MOVE_DOUBLE_SLAP",
+                "MOVE_ATTRACT",
+                "MOVE_SING"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -29,10 +29,10 @@
             "level": 67,
             "item": null,
             "moves": [
-                "MOVE_ICE_SHARD",
-                "MOVE_AVALANCHE",
-                "MOVE_RAZOR_LEAF",
-                "MOVE_WATER_PULSE"
+                "MOVE_WOOD_HAMMER",
+                "MOVE_BLIZZARD",
+                "MOVE_ICE_PUNCH",
+                "MOVE_RAZOR_LEAF"
             ],
             "iv_scale": 150,
             "ball_seal": 0

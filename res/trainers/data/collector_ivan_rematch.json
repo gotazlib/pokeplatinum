@@ -14,7 +14,12 @@
             "form": 0,
             "level": 63,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SKY_ATTACK",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_AIR_SLASH",
+                "MOVE_AURA_SPHERE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

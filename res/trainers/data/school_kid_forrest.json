@@ -17,8 +17,9 @@
             "level": 55,
             "item": null,
             "moves": [
-                "MOVE_THUNDERBOLT",
-                "MOVE_TRI_ATTACK",
+                "MOVE_DISCHARGE",
+                "MOVE_SPARK",
+                "MOVE_MAGNET_BOMB",
                 "MOVE_MIRROR_SHOT"
             ],
             "iv_scale": 150,

@@ -17,9 +17,9 @@
             "item": null,
             "moves": [
                 "MOVE_SEED_BOMB",
-                "MOVE_MACH_PUNCH",
                 "MOVE_SKY_UPPERCUT",
-                "MOVE_SPORE"
+                "MOVE_FORCE_PALM",
+                "MOVE_HEADBUTT"
             ],
             "iv_scale": 150,
             "ball_seal": 0
@@ -31,9 +31,9 @@
             "item": null,
             "moves": [
                 "MOVE_SLUDGE_BOMB",
-                "MOVE_NASTY_PLOT",
-                "MOVE_FOCUS_BLAST",
-                "MOVE_DARK_PULSE"
+                "MOVE_POISON_JAB",
+                "MOVE_REVENGE",
+                "MOVE_SUCKER_PUNCH"
             ],
             "iv_scale": 150,
             "ball_seal": 0

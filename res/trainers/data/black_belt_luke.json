@@ -15,7 +15,12 @@
             "form": 0,
             "level": 43,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_POISON_JAB",
+                "MOVE_REVENGE",
+                "MOVE_SUCKER_PUNCH"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -24,7 +29,12 @@
             "form": 0,
             "level": 43,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FORCE_PALM",
+                "MOVE_FEINT",
+                "MOVE_QUICK_ATTACK",
+                "MOVE_COUNTER"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -33,7 +43,12 @@
             "form": 0,
             "level": 43,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_CROSS_CHOP",
+                "MOVE_VITAL_THROW",
+                "MOVE_SUBMISSION",
+                "MOVE_REVENGE"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

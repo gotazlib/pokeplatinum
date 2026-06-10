@@ -14,7 +14,12 @@
             "form": 0,
             "level": 52,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_FAINT_ATTACK",
+                "MOVE_ICY_WIND",
+                "MOVE_SLASH",
+                "MOVE_ICE_SHARD"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }

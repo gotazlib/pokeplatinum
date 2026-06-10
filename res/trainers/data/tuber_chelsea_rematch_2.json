@@ -14,7 +14,12 @@
             "form": 0,
             "level": 61,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_AQUA_TAIL",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_TACKLE"
+            ],
             "iv_scale": 150,
             "ball_seal": 9
         }

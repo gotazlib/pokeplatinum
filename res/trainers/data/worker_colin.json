@@ -14,7 +14,11 @@
             "form": 0,
             "level": 7,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_TACKLE",
+                "MOVE_DEFENSE_CURL",
+                "MOVE_MUD_SPORT"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         },
@@ -23,7 +27,12 @@
             "form": 0,
             "level": 10,
             "item": null,
-            "moves": null,
+            "moves": [
+                "MOVE_KARATE_CHOP",
+                "MOVE_LOW_KICK",
+                "MOVE_LEER",
+                "MOVE_FOCUS_ENERGY"
+            ],
             "iv_scale": 150,
             "ball_seal": 0
         }
