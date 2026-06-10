@@ -14,13 +14,13 @@
         {
             "species": "SPECIES_TURTWIG",
             "form": 0,
-            "level": 13,
+            "level": 15,
             "item": null,
             "moves": [
                 "MOVE_ABSORB",
                 "MOVE_TACKLE"
             ],
-            "iv_scale": 30,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

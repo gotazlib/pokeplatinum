@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_GOLBAT",
             "form": 0,
-            "level": 38,
+            "level": 44,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_AIR_CUTTER",
@@ -20,13 +20,13 @@
                 "MOVE_TOXIC",
                 "MOVE_SUPERSONIC"
             ],
-            "iv_scale": 200,
+            "iv_scale": 250,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_BRONZOR",
             "form": 0,
-            "level": 38,
+            "level": 44,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_GYRO_BALL",
@@ -34,13 +34,13 @@
                 "MOVE_ROCK_TOMB",
                 "MOVE_IRON_DEFENSE"
             ],
-            "iv_scale": 200,
+            "iv_scale": 250,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_TOXICROAK",
             "form": 0,
-            "level": 40,
+            "level": 46,
             "item": "ITEM_SITRUS_BERRY",
             "moves": [
                 "MOVE_POISON_JAB",
@@ -48,7 +48,7 @@
                 "MOVE_MUD_BOMB",
                 "MOVE_FAINT_ATTACK"
             ],
-            "iv_scale": 200,
+            "iv_scale": 250,
             "ball_seal": 0
         }
     ],

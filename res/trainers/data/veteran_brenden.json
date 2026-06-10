@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_FORRETRESS",
             "form": 0,
-            "level": 54,
+            "level": 63,
             "item": null,
             "moves": [
                 "MOVE_FLASH_CANNON",
@@ -20,13 +20,13 @@
                 "MOVE_STEALTH_ROCK",
                 "MOVE_TOXIC_SPIKES"
             ],
-            "iv_scale": 100,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_GYARADOS",
             "form": 0,
-            "level": 54,
+            "level": 63,
             "item": null,
             "moves": [
                 "MOVE_EARTHQUAKE",
@@ -34,13 +34,13 @@
                 "MOVE_ICE_FANG",
                 "MOVE_DRAGON_PULSE"
             ],
-            "iv_scale": 100,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_HIPPOWDON",
             "form": 0,
-            "level": 54,
+            "level": 63,
             "item": null,
             "moves": [
                 "MOVE_DIG",
@@ -48,7 +48,7 @@
                 "MOVE_PROTECT",
                 "MOVE_REST"
             ],
-            "iv_scale": 100,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

@@ -12,19 +12,19 @@
         {
             "species": "SPECIES_BIDOOF",
             "form": 0,
-            "level": 12,
+            "level": 14,
             "item": null,
             "moves": null,
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_PACHIRISU",
             "form": 0,
-            "level": 12,
+            "level": 14,
             "item": null,
             "moves": null,
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

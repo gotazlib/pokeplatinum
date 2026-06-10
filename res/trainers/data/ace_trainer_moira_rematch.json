@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_SANDSLASH",
             "form": 0,
-            "level": 59,
+            "level": 68,
             "item": null,
             "moves": [
                 "MOVE_SLASH",
@@ -20,13 +20,13 @@
                 "MOVE_DIG",
                 "MOVE_X_SCISSOR"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_GASTRODON",
             "form": 0,
-            "level": 59,
+            "level": 68,
             "item": null,
             "moves": [
                 "MOVE_MUDDY_WATER",
@@ -34,13 +34,13 @@
                 "MOVE_BODY_SLAM",
                 "MOVE_PROTECT"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_CLAYDOL",
             "form": 0,
-            "level": 60,
+            "level": 69,
             "item": null,
             "moves": [
                 "MOVE_EARTHQUAKE",
@@ -48,7 +48,7 @@
                 "MOVE_ANCIENT_POWER",
                 "MOVE_COSMIC_POWER"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

@@ -5,32 +5,33 @@
     "ai_flags": [
         "AI_FLAG_BASIC",
         "AI_FLAG_EVAL_ATTACK",
-        "AI_FLAG_PRIORITIZE_EXTREMES"
+        "AI_FLAG_PRIORITIZE_EXTREMES",
+        "AI_FLAG_EXPERT"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_STARLY",
             "form": 0,
-            "level": 7,
+            "level": 9,
             "item": null,
             "moves": [
                 "MOVE_QUICK_ATTACK",
                 "MOVE_GROWL"
             ],
-            "iv_scale": 30,
+            "iv_scale": 250,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_PIPLUP",
             "form": 0,
-            "level": 9,
+            "level": 11,
             "item": null,
             "moves": [
                 "MOVE_POUND",
                 "MOVE_GROWL"
             ],
-            "iv_scale": 30,
+            "iv_scale": 250,
             "ball_seal": 0
         }
     ],

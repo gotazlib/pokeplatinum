@@ -4,14 +4,16 @@
     "items": [],
     "ai_flags": [
         "AI_FLAG_BASIC",
-        "AI_FLAG_PRIORITIZE_EXTREMES"
+        "AI_FLAG_PRIORITIZE_EXTREMES",
+        "AI_FLAG_EVAL_ATTACK",
+        "AI_FLAG_EXPERT"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_MACHAMP",
             "form": 0,
-            "level": 60,
+            "level": 69,
             "item": null,
             "moves": [
                 "MOVE_CROSS_CHOP",
@@ -19,7 +21,7 @@
                 "MOVE_ICE_PUNCH",
                 "MOVE_THUNDER_PUNCH"
             ],
-            "iv_scale": 30,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

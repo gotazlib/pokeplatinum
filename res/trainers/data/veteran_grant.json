@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_RIOLU",
             "form": 0,
-            "level": 34,
+            "level": 40,
             "item": null,
             "moves": [
                 "MOVE_FORCE_PALM",
@@ -20,13 +20,13 @@
                 "MOVE_COUNTER",
                 "MOVE_SCREECH"
             ],
-            "iv_scale": 100,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_STARAPTOR",
             "form": 0,
-            "level": 34,
+            "level": 40,
             "item": null,
             "moves": [
                 "MOVE_AERIAL_ACE",
@@ -34,13 +34,13 @@
                 "MOVE_QUICK_ATTACK",
                 "MOVE_GROWL"
             ],
-            "iv_scale": 100,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_GRAVELER",
             "form": 0,
-            "level": 34,
+            "level": 40,
             "item": null,
             "moves": [
                 "MOVE_EARTHQUAKE",
@@ -48,7 +48,7 @@
                 "MOVE_ROCK_POLISH",
                 "MOVE_DEFENSE_CURL"
             ],
-            "iv_scale": 100,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

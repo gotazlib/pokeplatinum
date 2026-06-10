@@ -12,40 +12,40 @@
         {
             "species": "SPECIES_BRONZOR",
             "form": 0,
-            "level": 35,
+            "level": 41,
             "item": null,
             "moves": [
                 "MOVE_GYRO_BALL",
                 "MOVE_EXTRASENSORY",
                 "MOVE_CONFUSE_RAY"
             ],
-            "iv_scale": 60,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_BRONZOR",
             "form": 0,
-            "level": 36,
+            "level": 42,
             "item": null,
             "moves": [
                 "MOVE_GYRO_BALL",
                 "MOVE_EXTRASENSORY",
                 "MOVE_CONFUSE_RAY"
             ],
-            "iv_scale": 60,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_BRONZOR",
             "form": 0,
-            "level": 38,
+            "level": 44,
             "item": null,
             "moves": [
                 "MOVE_GYRO_BALL",
                 "MOVE_EXTRASENSORY",
                 "MOVE_CONFUSE_RAY"
             ],
-            "iv_scale": 60,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

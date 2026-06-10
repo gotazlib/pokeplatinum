@@ -3,27 +3,29 @@
     "class": "TRAINER_CLASS_TUBER_FEMALE",
     "items": [],
     "ai_flags": [
-        "AI_FLAG_BASIC"
+        "AI_FLAG_BASIC",
+        "AI_FLAG_EVAL_ATTACK",
+        "AI_FLAG_EXPERT"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_AZURILL",
             "form": 0,
-            "level": 27,
+            "level": 32,
             "item": null,
             "moves": [
                 "MOVE_WATER_GUN",
                 "MOVE_SLAM",
                 "MOVE_CHARM"
             ],
-            "iv_scale": 10,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_MARILL",
             "form": 0,
-            "level": 29,
+            "level": 34,
             "item": null,
             "moves": [
                 "MOVE_BUBBLE_BEAM",
@@ -31,13 +33,13 @@
                 "MOVE_DEFENSE_CURL",
                 "MOVE_AQUA_RING"
             ],
-            "iv_scale": 10,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_AZUMARILL",
             "form": 0,
-            "level": 31,
+            "level": 36,
             "item": null,
             "moves": [
                 "MOVE_BUBBLE_BEAM",
@@ -45,7 +47,7 @@
                 "MOVE_ROLLOUT",
                 "MOVE_AQUA_RING"
             ],
-            "iv_scale": 10,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_RHYDON",
             "form": 0,
-            "level": 47,
+            "level": 55,
             "item": null,
             "moves": [
                 "MOVE_STONE_EDGE",
@@ -20,13 +20,13 @@
                 "MOVE_HAMMER_ARM",
                 "MOVE_TAKE_DOWN"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_CARNIVINE",
             "form": 0,
-            "level": 48,
+            "level": 56,
             "item": null,
             "moves": [
                 "MOVE_WRING_OUT",
@@ -34,7 +34,7 @@
                 "MOVE_FAINT_ATTACK",
                 "MOVE_INGRAIN"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

@@ -6,14 +6,15 @@
     ],
     "ai_flags": [
         "AI_FLAG_BASIC",
-        "AI_FLAG_EXPERT"
+        "AI_FLAG_EXPERT",
+        "AI_FLAG_EVAL_ATTACK"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_DRIFLOON",
             "form": 0,
-            "level": 21,
+            "level": 25,
             "item": null,
             "moves": [
                 "MOVE_PAYBACK",
@@ -21,20 +22,20 @@
                 "MOVE_ASTONISH",
                 "MOVE_MINIMIZE"
             ],
-            "iv_scale": 10,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_DRIFLOON",
             "form": 0,
-            "level": 21,
+            "level": 25,
             "item": null,
             "moves": [
                 "MOVE_SPIT_UP",
                 "MOVE_SWALLOW",
                 "MOVE_STOCKPILE"
             ],
-            "iv_scale": 10,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

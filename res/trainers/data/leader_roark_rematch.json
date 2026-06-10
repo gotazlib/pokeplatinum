@@ -15,7 +15,7 @@
         {
             "species": "SPECIES_AERODACTYL",
             "form": 0,
-            "level": 62,
+            "level": 72,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_STONE_EDGE",
@@ -23,13 +23,13 @@
                 "MOVE_EARTHQUAKE",
                 "MOVE_DRAGON_CLAW"
             ],
-            "iv_scale": 200,
+            "iv_scale": 250,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_PROBOPASS",
             "form": 0,
-            "level": 61,
+            "level": 71,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_EARTH_POWER",
@@ -37,13 +37,13 @@
                 "MOVE_DISCHARGE",
                 "MOVE_STONE_EDGE"
             ],
-            "iv_scale": 200,
+            "iv_scale": 250,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_GOLEM",
             "form": 0,
-            "level": 61,
+            "level": 71,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_STONE_EDGE",
@@ -51,13 +51,13 @@
                 "MOVE_BRICK_BREAK",
                 "MOVE_FLAMETHROWER"
             ],
-            "iv_scale": 200,
+            "iv_scale": 250,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_RAMPARDOS",
             "form": 0,
-            "level": 63,
+            "level": 73,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_HEAD_SMASH",
@@ -65,13 +65,13 @@
                 "MOVE_AVALANCHE",
                 "MOVE_EARTHQUAKE"
             ],
-            "iv_scale": 200,
+            "iv_scale": 250,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_TYRANITAR",
             "form": 0,
-            "level": 65,
+            "level": 75,
             "item": "ITEM_SITRUS_BERRY",
             "moves": [
                 "MOVE_STONE_EDGE",
@@ -79,7 +79,7 @@
                 "MOVE_AERIAL_ACE",
                 "MOVE_FIRE_FANG"
             ],
-            "iv_scale": 200,
+            "iv_scale": 250,
             "ball_seal": 0
         }
     ],

@@ -3,33 +3,35 @@
     "class": "TRAINER_CLASS_LASS",
     "items": [],
     "ai_flags": [
-        "AI_FLAG_BASIC"
+        "AI_FLAG_BASIC",
+        "AI_FLAG_EVAL_ATTACK",
+        "AI_FLAG_EXPERT"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_CHERUBI",
             "form": 0,
-            "level": 17,
+            "level": 20,
             "item": null,
             "moves": [
                 "MOVE_TACKLE",
                 "MOVE_LEECH_SEED"
             ],
-            "iv_scale": 20,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_ROSELIA",
             "form": 0,
-            "level": 17,
+            "level": 20,
             "item": null,
             "moves": [
                 "MOVE_MEGA_DRAIN",
                 "MOVE_POISON_STING",
                 "MOVE_STUN_SPORE"
             ],
-            "iv_scale": 20,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

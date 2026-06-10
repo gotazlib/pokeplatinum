@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_CHERRIM",
             "form": 0,
-            "level": 52,
+            "level": 60,
             "item": null,
             "moves": [
                 "MOVE_SOLAR_BEAM",
@@ -20,13 +20,13 @@
                 "MOVE_PETAL_DANCE",
                 "MOVE_SUNNY_DAY"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_AZUMARILL",
             "form": 0,
-            "level": 52,
+            "level": 60,
             "item": null,
             "moves": [
                 "MOVE_ICE_BEAM",
@@ -34,13 +34,13 @@
                 "MOVE_AQUA_TAIL",
                 "MOVE_AQUA_RING"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_LOPUNNY",
             "form": 0,
-            "level": 56,
+            "level": 65,
             "item": null,
             "moves": [
                 "MOVE_DIZZY_PUNCH",
@@ -48,7 +48,7 @@
                 "MOVE_QUICK_ATTACK",
                 "MOVE_BOUNCE"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

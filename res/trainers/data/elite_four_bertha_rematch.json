@@ -15,7 +15,7 @@
         {
             "species": "SPECIES_WHISCASH",
             "form": 0,
-            "level": 66,
+            "level": 76,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_EARTH_POWER",
@@ -29,7 +29,7 @@
         {
             "species": "SPECIES_GLISCOR",
             "form": 0,
-            "level": 69,
+            "level": 80,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_EARTHQUAKE",
@@ -43,7 +43,7 @@
         {
             "species": "SPECIES_HIPPOWDON",
             "form": 0,
-            "level": 68,
+            "level": 79,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_EARTHQUAKE",
@@ -57,7 +57,7 @@
         {
             "species": "SPECIES_GOLEM",
             "form": 0,
-            "level": 68,
+            "level": 79,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_EARTHQUAKE",
@@ -71,7 +71,7 @@
         {
             "species": "SPECIES_RHYPERIOR",
             "form": 0,
-            "level": 71,
+            "level": 82,
             "item": "ITEM_SITRUS_BERRY",
             "moves": [
                 "MOVE_EARTHQUAKE",

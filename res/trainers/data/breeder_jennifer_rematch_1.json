@@ -3,44 +3,46 @@
     "class": "TRAINER_CLASS_BREEDER_FEMALE",
     "items": [],
     "ai_flags": [
-        "AI_FLAG_BASIC"
+        "AI_FLAG_BASIC",
+        "AI_FLAG_EVAL_ATTACK",
+        "AI_FLAG_EXPERT"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_ROSELIA",
             "form": 0,
-            "level": 32,
+            "level": 37,
             "item": null,
             "moves": null,
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_MIME_JR",
             "form": 0,
-            "level": 32,
+            "level": 37,
             "item": null,
             "moves": null,
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_CLEFAIRY",
             "form": 0,
-            "level": 32,
+            "level": 37,
             "item": null,
             "moves": null,
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_EEVEE",
             "form": 0,
-            "level": 32,
+            "level": 37,
             "item": null,
             "moves": null,
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

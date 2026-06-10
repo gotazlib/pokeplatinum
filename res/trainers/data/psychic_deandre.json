@@ -4,14 +4,15 @@
     "items": [],
     "ai_flags": [
         "AI_FLAG_BASIC",
-        "AI_FLAG_EXPERT"
+        "AI_FLAG_EXPERT",
+        "AI_FLAG_EVAL_ATTACK"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_DUSKNOIR",
             "form": 0,
-            "level": 56,
+            "level": 65,
             "item": null,
             "moves": [
                 "MOVE_SHADOW_PUNCH",
@@ -19,7 +20,7 @@
                 "MOVE_ICE_PUNCH",
                 "MOVE_THUNDER_PUNCH"
             ],
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

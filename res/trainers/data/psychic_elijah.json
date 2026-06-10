@@ -4,19 +4,20 @@
     "items": [],
     "ai_flags": [
         "AI_FLAG_BASIC",
-        "AI_FLAG_EXPERT"
+        "AI_FLAG_EXPERT",
+        "AI_FLAG_EVAL_ATTACK"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_ABRA",
             "form": 0,
-            "level": 17,
+            "level": 20,
             "item": null,
             "moves": [
                 "MOVE_HIDDEN_POWER"
             ],
-            "iv_scale": 20,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

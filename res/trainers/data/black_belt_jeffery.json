@@ -4,21 +4,23 @@
     "items": [],
     "ai_flags": [
         "AI_FLAG_BASIC",
-        "AI_FLAG_PRIORITIZE_EXTREMES"
+        "AI_FLAG_PRIORITIZE_EXTREMES",
+        "AI_FLAG_EVAL_ATTACK",
+        "AI_FLAG_EXPERT"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_HERACROSS",
             "form": 0,
-            "level": 28,
+            "level": 33,
             "item": null,
             "moves": [
                 "MOVE_BRICK_BREAK",
                 "MOVE_AERIAL_ACE",
                 "MOVE_LEER"
             ],
-            "iv_scale": 40,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

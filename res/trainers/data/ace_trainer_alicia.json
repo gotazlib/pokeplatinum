@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_SNEASEL",
             "form": 0,
-            "level": 40,
+            "level": 46,
             "item": null,
             "moves": [
                 "MOVE_ICY_WIND",
@@ -20,13 +20,13 @@
                 "MOVE_SCREECH",
                 "MOVE_FAINT_ATTACK"
             ],
-            "iv_scale": 60,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_SNEASEL",
             "form": 0,
-            "level": 43,
+            "level": 50,
             "item": null,
             "moves": [
                 "MOVE_ICY_WIND",
@@ -34,7 +34,7 @@
                 "MOVE_SCREECH",
                 "MOVE_FAINT_ATTACK"
             ],
-            "iv_scale": 60,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

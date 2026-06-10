@@ -12,10 +12,10 @@
         {
             "species": "SPECIES_SHIELDON",
             "form": 0,
-            "level": 27,
+            "level": 32,
             "item": null,
             "moves": null,
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

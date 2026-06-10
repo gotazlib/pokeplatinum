@@ -3,14 +3,16 @@
     "class": "TRAINER_CLASS_BIRD_KEEPER",
     "items": [],
     "ai_flags": [
-        "AI_FLAG_BASIC"
+        "AI_FLAG_BASIC",
+        "AI_FLAG_EVAL_ATTACK",
+        "AI_FLAG_EXPERT"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_SKARMORY",
             "form": 0,
-            "level": 59,
+            "level": 68,
             "item": null,
             "moves": [
                 "MOVE_NIGHT_SLASH",
@@ -18,13 +20,13 @@
                 "MOVE_AIR_SLASH",
                 "MOVE_STEEL_WING"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_NOCTOWL",
             "form": 0,
-            "level": 59,
+            "level": 68,
             "item": null,
             "moves": [
                 "MOVE_HYPNOSIS",
@@ -32,13 +34,13 @@
                 "MOVE_ROOST",
                 "MOVE_AIR_SLASH"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_NOCTOWL",
             "form": 0,
-            "level": 59,
+            "level": 68,
             "item": null,
             "moves": [
                 "MOVE_HYPNOSIS",
@@ -46,7 +48,7 @@
                 "MOVE_ROOST",
                 "MOVE_AIR_SLASH"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

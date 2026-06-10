@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_AMPHAROS",
             "form": 0,
-            "level": 61,
+            "level": 71,
             "item": null,
             "moves": [
                 "MOVE_DISCHARGE",
@@ -20,13 +20,13 @@
                 "MOVE_SIGNAL_BEAM",
                 "MOVE_FIRE_PUNCH"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_TROPIUS",
             "form": 0,
-            "level": 62,
+            "level": 72,
             "item": null,
             "moves": [
                 "MOVE_LEAF_STORM",
@@ -34,7 +34,7 @@
                 "MOVE_EARTHQUAKE",
                 "MOVE_SILVER_WIND"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 19
         }
     ],

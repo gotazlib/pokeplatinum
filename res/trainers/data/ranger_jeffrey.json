@@ -12,10 +12,10 @@
         {
             "species": "SPECIES_MONFERNO",
             "form": 0,
-            "level": 31,
+            "level": 36,
             "item": null,
             "moves": null,
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

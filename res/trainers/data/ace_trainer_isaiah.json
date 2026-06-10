@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_PILOSWINE",
             "form": 0,
-            "level": 44,
+            "level": 51,
             "item": null,
             "moves": [
                 "MOVE_EARTHQUAKE",
@@ -20,7 +20,7 @@
                 "MOVE_ICE_FANG",
                 "MOVE_ANCIENT_POWER"
             ],
-            "iv_scale": 60,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

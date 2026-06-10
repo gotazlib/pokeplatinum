@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_STARAVIA",
             "form": 0,
-            "level": 25,
+            "level": 29,
             "item": null,
             "moves": [
                 "MOVE_WING_ATTACK",
@@ -20,13 +20,13 @@
                 "MOVE_ENDEAVOR",
                 "MOVE_DOUBLE_TEAM"
             ],
-            "iv_scale": 50,
+            "iv_scale": 250,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_ROSELIA",
             "form": 0,
-            "level": 23,
+            "level": 27,
             "item": null,
             "moves": [
                 "MOVE_MEGA_DRAIN",
@@ -34,13 +34,13 @@
                 "MOVE_LEECH_SEED",
                 "MOVE_STUN_SPORE"
             ],
-            "iv_scale": 50,
+            "iv_scale": 250,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_PONYTA",
             "form": 0,
-            "level": 23,
+            "level": 27,
             "item": null,
             "moves": [
                 "MOVE_EMBER",
@@ -48,13 +48,13 @@
                 "MOVE_TAIL_WHIP",
                 "MOVE_GROWL"
             ],
-            "iv_scale": 50,
+            "iv_scale": 250,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_PRINPLUP",
             "form": 0,
-            "level": 27,
+            "level": 32,
             "item": null,
             "moves": [
                 "MOVE_BUBBLE_BEAM",
@@ -62,7 +62,7 @@
                 "MOVE_METAL_CLAW",
                 "MOVE_GROWL"
             ],
-            "iv_scale": 50,
+            "iv_scale": 250,
             "ball_seal": 0
         }
     ],

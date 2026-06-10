@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_METAGROSS",
             "form": 0,
-            "level": 60,
+            "level": 69,
             "item": null,
             "moves": [
                 "MOVE_METEOR_MASH",
@@ -20,7 +20,7 @@
                 "MOVE_PSYCHIC",
                 "MOVE_MAGNET_RISE"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 11
         }
     ],

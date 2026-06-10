@@ -15,7 +15,7 @@
         {
             "species": "SPECIES_SHUCKLE",
             "form": 0,
-            "level": 61,
+            "level": 71,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_REST",
@@ -29,7 +29,7 @@
         {
             "species": "SPECIES_UMBREON",
             "form": 0,
-            "level": 62,
+            "level": 72,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_DARK_PULSE",
@@ -43,7 +43,7 @@
         {
             "species": "SPECIES_TORKOAL",
             "form": 0,
-            "level": 61,
+            "level": 71,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_EARTHQUAKE",
@@ -57,7 +57,7 @@
         {
             "species": "SPECIES_DUSKNOIR",
             "form": 0,
-            "level": 63,
+            "level": 73,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_FIRE_PUNCH",
@@ -71,7 +71,7 @@
         {
             "species": "SPECIES_CLAYDOL",
             "form": 0,
-            "level": 65,
+            "level": 75,
             "item": "ITEM_SITRUS_BERRY",
             "moves": [
                 "MOVE_EARTH_POWER",

@@ -3,14 +3,16 @@
     "class": "TRAINER_CLASS_FISHERMAN",
     "items": [],
     "ai_flags": [
-        "AI_FLAG_BASIC"
+        "AI_FLAG_BASIC",
+        "AI_FLAG_EVAL_ATTACK",
+        "AI_FLAG_EXPERT"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_GOLDEEN",
             "form": 0,
-            "level": 28,
+            "level": 33,
             "item": null,
             "moves": [
                 "MOVE_WATER_PULSE",
@@ -18,13 +20,13 @@
                 "MOVE_FLAIL",
                 "MOVE_SUPERSONIC"
             ],
-            "iv_scale": 10,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_SEAKING",
             "form": 0,
-            "level": 31,
+            "level": 36,
             "item": null,
             "moves": [
                 "MOVE_WATER_PULSE",
@@ -32,19 +34,19 @@
                 "MOVE_FLAIL",
                 "MOVE_SUPERSONIC"
             ],
-            "iv_scale": 10,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_GYARADOS",
             "form": 0,
-            "level": 31,
+            "level": 36,
             "item": null,
             "moves": [
                 "MOVE_THRASH",
                 "MOVE_BITE"
             ],
-            "iv_scale": 10,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

@@ -15,7 +15,7 @@
         {
             "species": "SPECIES_HOUNDOOM",
             "form": 0,
-            "level": 56,
+            "level": 65,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_FLAMETHROWER",
@@ -29,7 +29,7 @@
         {
             "species": "SPECIES_FLAREON",
             "form": 0,
-            "level": 56,
+            "level": 65,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_OVERHEAT",
@@ -43,7 +43,7 @@
         {
             "species": "SPECIES_MAGMORTAR",
             "form": 0,
-            "level": 58,
+            "level": 67,
             "item": "ITEM_SITRUS_BERRY",
             "moves": [
                 "MOVE_FLAMETHROWER",

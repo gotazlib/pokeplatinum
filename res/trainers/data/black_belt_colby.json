@@ -4,46 +4,48 @@
     "items": [],
     "ai_flags": [
         "AI_FLAG_BASIC",
-        "AI_FLAG_PRIORITIZE_EXTREMES"
+        "AI_FLAG_PRIORITIZE_EXTREMES",
+        "AI_FLAG_EVAL_ATTACK",
+        "AI_FLAG_EXPERT"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_MACHOKE",
             "form": 0,
-            "level": 23,
+            "level": 27,
             "item": null,
             "moves": [
                 "MOVE_KARATE_CHOP",
                 "MOVE_LEER",
                 "MOVE_FORESIGHT"
             ],
-            "iv_scale": 40,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_MACHOKE",
             "form": 0,
-            "level": 25,
+            "level": 29,
             "item": null,
             "moves": [
                 "MOVE_LOW_KICK",
                 "MOVE_FORESIGHT"
             ],
-            "iv_scale": 40,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_MACHOKE",
             "form": 0,
-            "level": 27,
+            "level": 32,
             "item": null,
             "moves": [
                 "MOVE_SUBMISSION",
                 "MOVE_LEER",
                 "MOVE_FORESIGHT"
             ],
-            "iv_scale": 40,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

@@ -3,26 +3,28 @@
     "class": "TRAINER_CLASS_JOGGER",
     "items": [],
     "ai_flags": [
-        "AI_FLAG_BASIC"
+        "AI_FLAG_BASIC",
+        "AI_FLAG_EVAL_ATTACK",
+        "AI_FLAG_EXPERT"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_LUXIO",
             "form": 0,
-            "level": 43,
+            "level": 50,
             "item": null,
             "moves": null,
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_LUXIO",
             "form": 0,
-            "level": 43,
+            "level": 50,
             "item": null,
             "moves": null,
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

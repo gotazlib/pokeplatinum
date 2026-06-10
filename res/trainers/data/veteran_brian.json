@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_TANGELA",
             "form": 0,
-            "level": 32,
+            "level": 37,
             "item": null,
             "moves": [
                 "MOVE_INGRAIN",
@@ -20,26 +20,26 @@
                 "MOVE_ANCIENT_POWER",
                 "MOVE_TOXIC"
             ],
-            "iv_scale": 100,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_PONYTA",
             "form": 0,
-            "level": 32,
+            "level": 37,
             "item": null,
             "moves": [
                 "MOVE_FIRE_SPIN",
                 "MOVE_STOMP",
                 "MOVE_TAKE_DOWN"
             ],
-            "iv_scale": 100,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_BUIZEL",
             "form": 0,
-            "level": 32,
+            "level": 37,
             "item": null,
             "moves": [
                 "MOVE_AQUA_JET",
@@ -47,7 +47,7 @@
                 "MOVE_PURSUIT",
                 "MOVE_QUICK_ATTACK"
             ],
-            "iv_scale": 100,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

@@ -12,19 +12,19 @@
         {
             "species": "SPECIES_ALTARIA",
             "form": 0,
-            "level": 45,
+            "level": 52,
             "item": null,
             "moves": null,
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_GABITE",
             "form": 0,
-            "level": 47,
+            "level": 55,
             "item": null,
             "moves": null,
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

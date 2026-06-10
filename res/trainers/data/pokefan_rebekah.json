@@ -6,17 +6,19 @@
         "ITEM_SUPER_POTION"
     ],
     "ai_flags": [
-        "AI_FLAG_BASIC"
+        "AI_FLAG_BASIC",
+        "AI_FLAG_EVAL_ATTACK",
+        "AI_FLAG_EXPERT"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_BONSLY",
             "form": 0,
-            "level": 23,
+            "level": 27,
             "item": "ITEM_SITRUS_BERRY",
             "moves": null,
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 6
         }
     ],

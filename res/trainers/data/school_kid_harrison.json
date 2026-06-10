@@ -6,19 +6,20 @@
     ],
     "ai_flags": [
         "AI_FLAG_BASIC",
-        "AI_FLAG_EXPERT"
+        "AI_FLAG_EXPERT",
+        "AI_FLAG_EVAL_ATTACK"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_STARLY",
             "form": 0,
-            "level": 6,
+            "level": 7,
             "item": null,
             "moves": [
                 "MOVE_QUICK_ATTACK"
             ],
-            "iv_scale": 10,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

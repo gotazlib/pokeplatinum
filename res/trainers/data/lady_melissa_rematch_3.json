@@ -5,14 +5,16 @@
         "ITEM_FULL_RESTORE"
     ],
     "ai_flags": [
-        "AI_FLAG_BASIC"
+        "AI_FLAG_BASIC",
+        "AI_FLAG_EVAL_ATTACK",
+        "AI_FLAG_EXPERT"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_HOPPIP",
             "form": 0,
-            "level": 58,
+            "level": 67,
             "item": null,
             "moves": [
                 "MOVE_STUN_SPORE",
@@ -20,13 +22,13 @@
                 "MOVE_GIGA_DRAIN",
                 "MOVE_AERIAL_ACE"
             ],
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_CHERRIM",
             "form": 0,
-            "level": 58,
+            "level": 67,
             "item": null,
             "moves": [
                 "MOVE_SOLAR_BEAM",
@@ -34,13 +36,13 @@
                 "MOVE_LEECH_SEED",
                 "MOVE_MAGICAL_LEAF"
             ],
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_BELLOSSOM",
             "form": 0,
-            "level": 58,
+            "level": 67,
             "item": null,
             "moves": [
                 "MOVE_PETAL_DANCE",
@@ -48,7 +50,7 @@
                 "MOVE_STUN_SPORE",
                 "MOVE_MAGICAL_LEAF"
             ],
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

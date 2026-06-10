@@ -3,47 +3,49 @@
     "class": "TRAINER_CLASS_SAILOR",
     "items": [],
     "ai_flags": [
-        "AI_FLAG_BASIC"
+        "AI_FLAG_BASIC",
+        "AI_FLAG_EVAL_ATTACK",
+        "AI_FLAG_EXPERT"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_WINGULL",
             "form": 0,
-            "level": 29,
+            "level": 34,
             "item": null,
             "moves": [
                 "MOVE_WATER_PULSE",
                 "MOVE_WING_ATTACK",
                 "MOVE_SUPERSONIC"
             ],
-            "iv_scale": 10,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_SHELLOS",
             "form": 0,
-            "level": 30,
+            "level": 35,
             "item": null,
             "moves": [
                 "MOVE_WATER_PULSE",
                 "MOVE_MUD_BOMB",
                 "MOVE_RAIN_DANCE"
             ],
-            "iv_scale": 10,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_GOLDUCK",
             "form": 0,
-            "level": 31,
+            "level": 36,
             "item": null,
             "moves": [
                 "MOVE_FURY_SWIPES",
                 "MOVE_CONFUSION",
                 "MOVE_WATER_PULSE"
             ],
-            "iv_scale": 10,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

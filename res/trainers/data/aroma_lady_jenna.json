@@ -4,47 +4,48 @@
     "items": [],
     "ai_flags": [
         "AI_FLAG_BASIC",
-        "AI_FLAG_EXPERT"
+        "AI_FLAG_EXPERT",
+        "AI_FLAG_EVAL_ATTACK"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_BUDEW",
             "form": 0,
-            "level": 15,
+            "level": 18,
             "item": null,
             "moves": [
                 "MOVE_ABSORB",
                 "MOVE_STUN_SPORE",
                 "MOVE_WATER_SPORT"
             ],
-            "iv_scale": 20,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_BUDEW",
             "form": 0,
-            "level": 16,
+            "level": 19,
             "item": null,
             "moves": [
                 "MOVE_ABSORB",
                 "MOVE_STUN_SPORE",
                 "MOVE_WATER_SPORT"
             ],
-            "iv_scale": 20,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_BUDEW",
             "form": 0,
-            "level": 17,
+            "level": 20,
             "item": null,
             "moves": [
                 "MOVE_ABSORB",
                 "MOVE_STUN_SPORE",
                 "MOVE_WATER_SPORT"
             ],
-            "iv_scale": 20,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

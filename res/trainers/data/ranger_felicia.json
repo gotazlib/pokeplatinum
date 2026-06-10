@@ -12,19 +12,19 @@
         {
             "species": "SPECIES_SKIPLOOM",
             "form": 0,
-            "level": 59,
+            "level": 68,
             "item": null,
             "moves": null,
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_LOPUNNY",
             "form": 0,
-            "level": 59,
+            "level": 68,
             "item": null,
             "moves": null,
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

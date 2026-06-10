@@ -15,7 +15,7 @@
         {
             "species": "SPECIES_JOLTEON",
             "form": 0,
-            "level": 46,
+            "level": 53,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_THUNDER_WAVE",
@@ -29,7 +29,7 @@
         {
             "species": "SPECIES_RAICHU",
             "form": 0,
-            "level": 46,
+            "level": 53,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_CHARGE_BEAM",
@@ -43,7 +43,7 @@
         {
             "species": "SPECIES_LUXRAY",
             "form": 0,
-            "level": 48,
+            "level": 56,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_ICE_FANG",
@@ -57,7 +57,7 @@
         {
             "species": "SPECIES_ELECTIVIRE",
             "form": 0,
-            "level": 50,
+            "level": 58,
             "item": "ITEM_SITRUS_BERRY",
             "moves": [
                 "MOVE_THUNDER_PUNCH",

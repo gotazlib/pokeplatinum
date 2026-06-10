@@ -4,14 +4,15 @@
     "items": [],
     "ai_flags": [
         "AI_FLAG_BASIC",
-        "AI_FLAG_EXPERT"
+        "AI_FLAG_EXPERT",
+        "AI_FLAG_EVAL_ATTACK"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_CHIMECHO",
             "form": 0,
-            "level": 52,
+            "level": 60,
             "item": null,
             "moves": [
                 "MOVE_EXTRASENSORY",
@@ -19,13 +20,13 @@
                 "MOVE_ENERGY_BALL",
                 "MOVE_CHARGE_BEAM"
             ],
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_HAUNTER",
             "form": 0,
-            "level": 52,
+            "level": 60,
             "item": null,
             "moves": [
                 "MOVE_SHADOW_PUNCH",
@@ -33,13 +34,13 @@
                 "MOVE_CONFUSE_RAY",
                 "MOVE_TOXIC"
             ],
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_GENGAR",
             "form": 0,
-            "level": 55,
+            "level": 64,
             "item": null,
             "moves": [
                 "MOVE_SHADOW_BALL",
@@ -47,7 +48,7 @@
                 "MOVE_FRUSTRATION",
                 "MOVE_SLUDGE_BOMB"
             ],
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

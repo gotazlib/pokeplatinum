@@ -4,44 +4,46 @@
     "items": [],
     "ai_flags": [
         "AI_FLAG_BASIC",
-        "AI_FLAG_PRIORITIZE_EXTREMES"
+        "AI_FLAG_PRIORITIZE_EXTREMES",
+        "AI_FLAG_EVAL_ATTACK",
+        "AI_FLAG_EXPERT"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_MACHOP",
             "form": 0,
-            "level": 25,
+            "level": 29,
             "item": null,
             "moves": [
                 "MOVE_KARATE_CHOP",
                 "MOVE_FORESIGHT"
             ],
-            "iv_scale": 40,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_MEDITITE",
             "form": 0,
-            "level": 25,
+            "level": 29,
             "item": null,
             "moves": [
                 "MOVE_CONFUSION",
                 "MOVE_FORCE_PALM"
             ],
-            "iv_scale": 40,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_MACHOKE",
             "form": 0,
-            "level": 25,
+            "level": 29,
             "item": null,
             "moves": [
                 "MOVE_KARATE_CHOP",
                 "MOVE_FORESIGHT"
             ],
-            "iv_scale": 40,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

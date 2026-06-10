@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_HAUNTER",
             "form": 0,
-            "level": 23,
+            "level": 27,
             "item": null,
             "moves": [
                 "MOVE_NIGHT_SHADE",
@@ -20,13 +20,13 @@
                 "MOVE_SUCKER_PUNCH",
                 "MOVE_CURSE"
             ],
-            "iv_scale": 60,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_MISDREAVUS",
             "form": 0,
-            "level": 24,
+            "level": 28,
             "item": null,
             "moves": [
                 "MOVE_PSYBEAM",
@@ -34,7 +34,7 @@
                 "MOVE_CONFUSE_RAY",
                 "MOVE_SPITE"
             ],
-            "iv_scale": 60,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

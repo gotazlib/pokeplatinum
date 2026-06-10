@@ -4,14 +4,15 @@
     "items": [],
     "ai_flags": [
         "AI_FLAG_BASIC",
-        "AI_FLAG_EXPERT"
+        "AI_FLAG_EXPERT",
+        "AI_FLAG_EVAL_ATTACK"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_SHUPPET",
             "form": 0,
-            "level": 53,
+            "level": 61,
             "item": null,
             "moves": [
                 "MOVE_SHADOW_BALL",
@@ -19,13 +20,13 @@
                 "MOVE_SUCKER_PUNCH",
                 "MOVE_CONFUSE_RAY"
             ],
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_ALAKAZAM",
             "form": 0,
-            "level": 55,
+            "level": 64,
             "item": null,
             "moves": [
                 "MOVE_PSYCHIC",
@@ -33,7 +34,7 @@
                 "MOVE_RECOVER",
                 "MOVE_FOCUS_BLAST"
             ],
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

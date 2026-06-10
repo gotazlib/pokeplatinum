@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_CLEFAIRY",
             "form": 0,
-            "level": 25,
+            "level": 29,
             "item": null,
             "moves": [
                 "MOVE_METRONOME",
@@ -20,13 +20,13 @@
                 "MOVE_WAKE_UP_SLAP",
                 "MOVE_SING"
             ],
-            "iv_scale": 60,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_KADABRA",
             "form": 0,
-            "level": 25,
+            "level": 29,
             "item": null,
             "moves": [
                 "MOVE_PSYBEAM",
@@ -34,13 +34,13 @@
                 "MOVE_REFLECT",
                 "MOVE_LIGHT_SCREEN"
             ],
-            "iv_scale": 60,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_MONFERNO",
             "form": 0,
-            "level": 27,
+            "level": 32,
             "item": null,
             "moves": [
                 "MOVE_FLAME_WHEEL",
@@ -48,7 +48,7 @@
                 "MOVE_FURY_SWIPES",
                 "MOVE_TORMENT"
             ],
-            "iv_scale": 60,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

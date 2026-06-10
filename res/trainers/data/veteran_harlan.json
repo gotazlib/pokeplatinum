@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_RATICATE",
             "form": 0,
-            "level": 57,
+            "level": 66,
             "item": null,
             "moves": [
                 "MOVE_ENDEAVOR",
@@ -20,13 +20,13 @@
                 "MOVE_CRUNCH",
                 "MOVE_QUICK_ATTACK"
             ],
-            "iv_scale": 100,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_DRIFBLIM",
             "form": 0,
-            "level": 58,
+            "level": 67,
             "item": null,
             "moves": [
                 "MOVE_EXPLOSION",
@@ -34,13 +34,13 @@
                 "MOVE_TOXIC",
                 "MOVE_FLY"
             ],
-            "iv_scale": 100,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_SHIFTRY",
             "form": 0,
-            "level": 59,
+            "level": 68,
             "item": null,
             "moves": [
                 "MOVE_LEAF_STORM",
@@ -48,7 +48,7 @@
                 "MOVE_EXTRASENSORY",
                 "MOVE_QUICK_ATTACK"
             ],
-            "iv_scale": 100,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

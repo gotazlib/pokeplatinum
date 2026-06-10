@@ -5,14 +5,16 @@
         "ITEM_FULL_RESTORE"
     ],
     "ai_flags": [
-        "AI_FLAG_BASIC"
+        "AI_FLAG_BASIC",
+        "AI_FLAG_EVAL_ATTACK",
+        "AI_FLAG_EXPERT"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_CHERRIM",
             "form": 0,
-            "level": 45,
+            "level": 52,
             "item": null,
             "moves": [
                 "MOVE_SOLAR_BEAM",
@@ -20,7 +22,7 @@
                 "MOVE_LEECH_SEED",
                 "MOVE_MAGICAL_LEAF"
             ],
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

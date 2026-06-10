@@ -12,28 +12,28 @@
         {
             "species": "SPECIES_BASTIODON",
             "form": 0,
-            "level": 50,
+            "level": 58,
             "item": null,
             "moves": null,
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_RAMPARDOS",
             "form": 0,
-            "level": 50,
+            "level": 58,
             "item": null,
             "moves": null,
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_BRONZONG",
             "form": 0,
-            "level": 53,
+            "level": 61,
             "item": null,
             "moves": null,
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

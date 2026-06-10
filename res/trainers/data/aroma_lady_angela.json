@@ -4,21 +4,22 @@
     "items": [],
     "ai_flags": [
         "AI_FLAG_BASIC",
-        "AI_FLAG_EXPERT"
+        "AI_FLAG_EXPERT",
+        "AI_FLAG_EVAL_ATTACK"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_ROSELIA",
             "form": 0,
-            "level": 19,
+            "level": 22,
             "item": null,
             "moves": [
                 "MOVE_MEGA_DRAIN",
                 "MOVE_POISON_STING",
                 "MOVE_STUN_SPORE"
             ],
-            "iv_scale": 20,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

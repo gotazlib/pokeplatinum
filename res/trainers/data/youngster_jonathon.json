@@ -3,20 +3,22 @@
     "class": "TRAINER_CLASS_YOUNGSTER",
     "items": [],
     "ai_flags": [
-        "AI_FLAG_BASIC"
+        "AI_FLAG_BASIC",
+        "AI_FLAG_EVAL_ATTACK",
+        "AI_FLAG_EXPERT"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_GEODUDE",
             "form": 0,
-            "level": 11,
+            "level": 13,
             "item": null,
             "moves": [
                 "MOVE_TACKLE",
                 "MOVE_DEFENSE_CURL"
             ],
-            "iv_scale": 10,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

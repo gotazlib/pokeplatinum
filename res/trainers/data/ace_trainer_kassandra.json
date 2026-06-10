@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_JUMPLUFF",
             "form": 0,
-            "level": 58,
+            "level": 67,
             "item": null,
             "moves": [
                 "MOVE_MEMENTO",
@@ -20,13 +20,13 @@
                 "MOVE_TOXIC",
                 "MOVE_BOUNCE"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_ONIX",
             "form": 0,
-            "level": 58,
+            "level": 67,
             "item": null,
             "moves": [
                 "MOVE_STONE_EDGE",
@@ -34,13 +34,13 @@
                 "MOVE_IRON_TAIL",
                 "MOVE_DRAGON_BREATH"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_AMPHAROS",
             "form": 0,
-            "level": 59,
+            "level": 68,
             "item": null,
             "moves": [
                 "MOVE_THUNDER_PUNCH",
@@ -48,7 +48,7 @@
                 "MOVE_SIGNAL_BEAM",
                 "MOVE_FIRE_PUNCH"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

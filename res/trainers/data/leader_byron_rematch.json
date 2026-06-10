@@ -15,7 +15,7 @@
         {
             "species": "SPECIES_SKARMORY",
             "form": 0,
-            "level": 61,
+            "level": 71,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_NIGHT_SLASH",
@@ -23,13 +23,13 @@
                 "MOVE_ROCK_TOMB",
                 "MOVE_STEALTH_ROCK"
             ],
-            "iv_scale": 200,
+            "iv_scale": 250,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_STEELIX",
             "form": 0,
-            "level": 61,
+            "level": 71,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_GYRO_BALL",
@@ -37,13 +37,13 @@
                 "MOVE_DRAGON_BREATH",
                 "MOVE_SANDSTORM"
             ],
-            "iv_scale": 200,
+            "iv_scale": 250,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_MAGNEZONE",
             "form": 0,
-            "level": 62,
+            "level": 72,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_FLASH_CANNON",
@@ -51,13 +51,13 @@
                 "MOVE_SUPERSONIC",
                 "MOVE_THUNDER_WAVE"
             ],
-            "iv_scale": 200,
+            "iv_scale": 250,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_BASTIODON",
             "form": 0,
-            "level": 63,
+            "level": 73,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_METAL_BURST",
@@ -65,13 +65,13 @@
                 "MOVE_IRON_DEFENSE",
                 "MOVE_REST"
             ],
-            "iv_scale": 200,
+            "iv_scale": 250,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_AGGRON",
             "form": 0,
-            "level": 65,
+            "level": 75,
             "item": "ITEM_SITRUS_BERRY",
             "moves": [
                 "MOVE_METAL_BURST",
@@ -79,7 +79,7 @@
                 "MOVE_EARTHQUAKE",
                 "MOVE_AVALANCHE"
             ],
-            "iv_scale": 200,
+            "iv_scale": 250,
             "ball_seal": 0
         }
     ],

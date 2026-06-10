@@ -3,14 +3,16 @@
     "class": "TRAINER_CLASS_GALACTIC_GRUNT_FEMALE",
     "items": [],
     "ai_flags": [
-        "AI_FLAG_BASIC"
+        "AI_FLAG_BASIC",
+        "AI_FLAG_EVAL_ATTACK",
+        "AI_FLAG_EXPERT"
     ],
     "double_battle": false,
     "party": [
         {
             "species": "SPECIES_GLAMEOW",
             "form": 0,
-            "level": 33,
+            "level": 38,
             "item": null,
             "moves": [
                 "MOVE_FURY_SWIPES",
@@ -18,13 +20,13 @@
                 "MOVE_GROWL",
                 "MOVE_FAKE_OUT"
             ],
-            "iv_scale": 30,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_GOLBAT",
             "form": 0,
-            "level": 33,
+            "level": 38,
             "item": null,
             "moves": [
                 "MOVE_AIR_CUTTER",
@@ -32,20 +34,20 @@
                 "MOVE_BITE",
                 "MOVE_SUPERSONIC"
             ],
-            "iv_scale": 30,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_MURKROW",
             "form": 0,
-            "level": 36,
+            "level": 42,
             "item": null,
             "moves": [
                 "MOVE_FAINT_ATTACK",
                 "MOVE_NIGHT_SHADE",
                 "MOVE_WING_ATTACK"
             ],
-            "iv_scale": 30,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

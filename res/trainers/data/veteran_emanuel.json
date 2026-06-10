@@ -12,27 +12,27 @@
         {
             "species": "SPECIES_MACHOKE",
             "form": 0,
-            "level": 28,
+            "level": 33,
             "item": null,
             "moves": [
                 "MOVE_SEISMIC_TOSS",
                 "MOVE_LOW_KICK",
                 "MOVE_FORESIGHT"
             ],
-            "iv_scale": 100,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_BRONZOR",
             "form": 0,
-            "level": 28,
+            "level": 33,
             "item": null,
             "moves": [
                 "MOVE_EXTRASENSORY",
                 "MOVE_TACKLE",
                 "MOVE_CONFUSE_RAY"
             ],
-            "iv_scale": 100,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

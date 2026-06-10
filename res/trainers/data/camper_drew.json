@@ -12,40 +12,40 @@
         {
             "species": "SPECIES_GASTLY",
             "form": 0,
-            "level": 27,
+            "level": 32,
             "item": null,
             "moves": [
                 "MOVE_PAYBACK",
                 "MOVE_SUCKER_PUNCH",
                 "MOVE_CONFUSE_RAY"
             ],
-            "iv_scale": 10,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_GASTLY",
             "form": 0,
-            "level": 27,
+            "level": 32,
             "item": null,
             "moves": [
                 "MOVE_SUCKER_PUNCH",
                 "MOVE_NIGHT_SHADE",
                 "MOVE_CONFUSE_RAY"
             ],
-            "iv_scale": 10,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_GASTLY",
             "form": 0,
-            "level": 27,
+            "level": 32,
             "item": null,
             "moves": [
                 "MOVE_NIGHT_SHADE",
                 "MOVE_PAYBACK",
                 "MOVE_CONFUSE_RAY"
             ],
-            "iv_scale": 10,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

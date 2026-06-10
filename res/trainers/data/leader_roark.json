@@ -15,7 +15,7 @@
         {
             "species": "SPECIES_CLEFAIRY",
             "form": 0,
-            "level": 17,
+            "level": 20,
             "item": null,
             "moves": [
                 "MOVE_DOUBLE_SLAP",
@@ -29,7 +29,7 @@
         {
             "species": "SPECIES_MILTANK",
             "form": 0,
-            "level": 19,
+            "level": 22,
             "item": "ITEM_LUM_BERRY",
             "moves": [
                 "MOVE_ROLLOUT",

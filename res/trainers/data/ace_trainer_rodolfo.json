@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_STARMIE",
             "form": 0,
-            "level": 55,
+            "level": 64,
             "item": null,
             "moves": [
                 "MOVE_WATER_PULSE",
@@ -20,13 +20,13 @@
                 "MOVE_PSYCHIC",
                 "MOVE_SWIFT"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_VIBRAVA",
             "form": 0,
-            "level": 56,
+            "level": 65,
             "item": null,
             "moves": [
                 "MOVE_DRAGON_BREATH",
@@ -34,7 +34,7 @@
                 "MOVE_FAINT_ATTACK",
                 "MOVE_SCREECH"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

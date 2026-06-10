@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_CLAYDOL",
             "form": 0,
-            "level": 63,
+            "level": 73,
             "item": null,
             "moves": [
                 "MOVE_PSYCHIC",
@@ -20,7 +20,7 @@
                 "MOVE_LIGHT_SCREEN",
                 "MOVE_REFLECT"
             ],
-            "iv_scale": 30,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

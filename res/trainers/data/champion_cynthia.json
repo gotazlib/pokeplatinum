@@ -17,7 +17,7 @@
         {
             "species": "SPECIES_SPIRITOMB",
             "form": 0,
-            "level": 58,
+            "level": 67,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_DARK_PULSE",
@@ -31,7 +31,7 @@
         {
             "species": "SPECIES_ROSERADE",
             "form": 0,
-            "level": 58,
+            "level": 67,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_ENERGY_BALL",
@@ -45,7 +45,7 @@
         {
             "species": "SPECIES_TOGEKISS",
             "form": 0,
-            "level": 60,
+            "level": 69,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_AIR_SLASH",
@@ -59,7 +59,7 @@
         {
             "species": "SPECIES_LUCARIO",
             "form": 0,
-            "level": 60,
+            "level": 69,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_AURA_SPHERE",
@@ -73,7 +73,7 @@
         {
             "species": "SPECIES_MILOTIC",
             "form": 0,
-            "level": 58,
+            "level": 67,
             "item": "ITEM_NONE",
             "moves": [
                 "MOVE_SURF",
@@ -87,7 +87,7 @@
         {
             "species": "SPECIES_GARCHOMP",
             "form": 0,
-            "level": 62,
+            "level": 72,
             "item": "ITEM_SITRUS_BERRY",
             "moves": [
                 "MOVE_DRAGON_RUSH",

@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_STARAVIA",
             "form": 0,
-            "level": 34,
+            "level": 40,
             "item": null,
             "moves": [
                 "MOVE_WING_ATTACK",
@@ -20,13 +20,13 @@
                 "MOVE_ENDEAVOR",
                 "MOVE_DOUBLE_TEAM"
             ],
-            "iv_scale": 80,
+            "iv_scale": 250,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_BUIZEL",
             "form": 0,
-            "level": 32,
+            "level": 37,
             "item": null,
             "moves": [
                 "MOVE_AQUA_JET",
@@ -34,13 +34,13 @@
                 "MOVE_PURSUIT",
                 "MOVE_GROWL"
             ],
-            "iv_scale": 80,
+            "iv_scale": 250,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_ROSELIA",
             "form": 0,
-            "level": 32,
+            "level": 37,
             "item": null,
             "moves": [
                 "MOVE_MEGA_DRAIN",
@@ -48,13 +48,13 @@
                 "MOVE_LEECH_SEED",
                 "MOVE_MAGICAL_LEAF"
             ],
-            "iv_scale": 80,
+            "iv_scale": 250,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_MONFERNO",
             "form": 0,
-            "level": 36,
+            "level": 42,
             "item": null,
             "moves": [
                 "MOVE_FLAME_WHEEL",
@@ -62,7 +62,7 @@
                 "MOVE_FURY_SWIPES",
                 "MOVE_LEER"
             ],
-            "iv_scale": 80,
+            "iv_scale": 250,
             "ball_seal": 10
         }
     ],

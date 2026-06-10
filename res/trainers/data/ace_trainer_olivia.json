@@ -12,7 +12,7 @@
         {
             "species": "SPECIES_KIRLIA",
             "form": 0,
-            "level": 38,
+            "level": 44,
             "item": null,
             "moves": [
                 "MOVE_FUTURE_SIGHT",
@@ -20,13 +20,13 @@
                 "MOVE_MAGICAL_LEAF",
                 "MOVE_LUCKY_CHANT"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_SEAKING",
             "form": 0,
-            "level": 39,
+            "level": 45,
             "item": null,
             "moves": [
                 "MOVE_WATERFALL",
@@ -34,13 +34,13 @@
                 "MOVE_SUPERSONIC",
                 "MOVE_AQUA_RING"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_BUNEARY",
             "form": 0,
-            "level": 38,
+            "level": 44,
             "item": null,
             "moves": [
                 "MOVE_DIZZY_PUNCH",
@@ -48,7 +48,7 @@
                 "MOVE_JUMP_KICK",
                 "MOVE_SHADOW_BALL"
             ],
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

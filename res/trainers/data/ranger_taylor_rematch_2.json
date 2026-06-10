@@ -12,19 +12,19 @@
         {
             "species": "SPECIES_CARNIVINE",
             "form": 0,
-            "level": 44,
+            "level": 51,
             "item": null,
             "moves": null,
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_LUXRAY",
             "form": 0,
-            "level": 46,
+            "level": 53,
             "item": null,
             "moves": null,
-            "iv_scale": 50,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

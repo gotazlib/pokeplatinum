@@ -3,14 +3,16 @@
     "class": "TRAINER_CLASS_DOUBLE_TEAM",
     "items": [],
     "ai_flags": [
-        "AI_FLAG_BASIC"
+        "AI_FLAG_BASIC",
+        "AI_FLAG_EVAL_ATTACK",
+        "AI_FLAG_EXPERT"
     ],
     "double_battle": true,
     "party": [
         {
             "species": "SPECIES_STARAPTOR",
             "form": 0,
-            "level": 50,
+            "level": 58,
             "item": null,
             "moves": [
                 "MOVE_CLOSE_COMBAT",
@@ -18,13 +20,13 @@
                 "MOVE_GROWL",
                 "MOVE_QUICK_ATTACK"
             ],
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_AMBIPOM",
             "form": 0,
-            "level": 50,
+            "level": 58,
             "item": null,
             "moves": [
                 "MOVE_DOUBLE_HIT",
@@ -32,7 +34,7 @@
                 "MOVE_SHOCK_WAVE",
                 "MOVE_WATER_PULSE"
             ],
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],

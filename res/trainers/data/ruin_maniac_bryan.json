@@ -12,19 +12,19 @@
         {
             "species": "SPECIES_BRONZOR",
             "form": 0,
-            "level": 24,
+            "level": 28,
             "item": null,
             "moves": null,
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         },
         {
             "species": "SPECIES_CRANIDOS",
             "form": 0,
-            "level": 26,
+            "level": 30,
             "item": null,
             "moves": null,
-            "iv_scale": 0,
+            "iv_scale": 150,
             "ball_seal": 0
         }
     ],
