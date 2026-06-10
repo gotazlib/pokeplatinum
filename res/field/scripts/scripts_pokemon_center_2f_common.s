@@ -2,6 +2,7 @@
 #include "res/text/bank/pokemon_center_2f_common.h"
 #include "res/text/bank/menu_entries.h"
 #include "constants/map_object.h"
+#include "constants/moves.h"
 
 
     ScriptEntry PokemonCenter2FCommon_OnResume
@@ -442,7 +443,96 @@ PokemonCenter2FCommon_GriseousOrbCouldNotBeRemoved:
     Common_GriseousOrbCouldNotBeRemoved
     End
 
+// ROM hack: free Move Expert (relearner + deleter) on the shared PC 2F, so
+// every town has one. Script ID 9004; objects reference script 9004.
 PokemonCenter2FCommon_UnusedScript9004:
+    PlaySE SEQ_SE_CONFIRM
+    LockAll
+    FacePlayer
+    Message PokemonCenter2FCommon_Text_MoveExpertIntro
+    CloseMessage
+MoveExpert_AskRemember:
+    Message PokemonCenter2FCommon_Text_MoveExpertRemember
+    ShowYesNoMenu VAR_RESULT
+    GoToIfEq VAR_RESULT, MENU_YES, MoveExpert_Relearn
+    GoTo MoveExpert_AskForget
+
+MoveExpert_AskForget:
+    Message PokemonCenter2FCommon_Text_MoveExpertForget
+    ShowYesNoMenu VAR_RESULT
+    GoToIfEq VAR_RESULT, MENU_YES, MoveExpert_Forget
+    GoTo MoveExpert_Bye
+
+MoveExpert_Relearn:
+    Message PokemonCenter2FCommon_Text_MoveExpertWhichPokemon
+    CloseMessage
+    FadeScreenOut
+    WaitFadeScreen
+    SelectMoveTutorPokemon
+    GetSelectedPartySlot VAR_0x8005
+    ReturnToField
+    FadeScreenIn
+    WaitFadeScreen
+    GoToIfEq VAR_0x8005, PARTY_SLOT_NONE, MoveExpert_AskForget
+    GetPartyMonSpecies VAR_0x8005, VAR_RESULT
+    GoToIfEq VAR_RESULT, 0, MoveExpert_Relearn
+    CheckHasLearnableReminderMoves VAR_RESULT, VAR_0x8005
+    GoToIfEq VAR_RESULT, FALSE, MoveExpert_NoMoves
+    Message PokemonCenter2FCommon_Text_MoveExpertWhichMove
+    CloseMessage
+    FadeScreenOut
+    WaitFadeScreen
+    OpenMoveReminderMenu VAR_0x8005
+    CheckLearnedReminderMove VAR_RESULT
+    ReturnToField
+    FadeScreenIn
+    WaitFadeScreen
+    GoTo MoveExpert_Relearn
+
+MoveExpert_NoMoves:
+    Message PokemonCenter2FCommon_Text_MoveExpertNoMoves
+    WaitButton
+    CloseMessage
+    GoTo MoveExpert_Relearn
+
+MoveExpert_Forget:
+    Message PokemonCenter2FCommon_Text_MoveExpertWhichPokemon
+    CloseMessage
+    FadeScreenOut
+    WaitFadeScreen
+    SelectMoveTutorPokemon
+    GetSelectedPartySlot VAR_0x8002
+    ReturnToField
+    FadeScreenIn
+    WaitFadeScreen
+    GoToIfEq VAR_0x8002, PARTY_SLOT_NONE, MoveExpert_Bye
+    GetPartyMonSpecies VAR_0x8002, VAR_0x8001
+    GoToIfEq VAR_0x8001, 0, MoveExpert_Forget
+    GetPartyMonMoveCount VAR_RESULT, VAR_0x8002
+    GoToIfEq VAR_RESULT, 1, MoveExpert_Forget
+    Message PokemonCenter2FCommon_Text_MoveExpertWhichForget
+    CloseMessage
+    FadeScreenOut
+    WaitFadeScreen
+    SelectPartyMonMove VAR_0x8002
+    GetSelectedPartyMonMove VAR_0x8001
+    ReturnToField
+    FadeScreenIn
+    WaitFadeScreen
+    GoToIfEq VAR_0x8001, MOVE_NOT_SELECTED, MoveExpert_Forget
+    ClearPartyMonMoveSlot VAR_0x8002, VAR_0x8001
+    Message PokemonCenter2FCommon_Text_MoveExpertForgot
+    PlayFanfare SEQ_WASURE
+    WaitFanfare
+    WaitButton
+    CloseMessage
+    GoTo MoveExpert_Forget
+
+MoveExpert_Bye:
+    Message PokemonCenter2FCommon_Text_MoveExpertBye
+    WaitButton
+    CloseMessage
+    ReleaseAll
     End
 
 PokemonCenter2FCommon_UnusedScript9005:

@@ -646,6 +646,64 @@
         "You have at least one Pokémon\n",
         "that can’t be taken."
       ]
+    },
+    {
+      "id": "PokemonCenter2FCommon_Text_MoveExpertIntro",
+      "en_US": [
+        "I’m a move expert, and I work\n",
+        "entirely for free!\r"
+      ]
+    },
+    {
+      "id": "PokemonCenter2FCommon_Text_MoveExpertRemember",
+      "en_US": [
+        "Want me to remind a Pokémon of a\n",
+        "move it has forgotten?"
+      ]
+    },
+    {
+      "id": "PokemonCenter2FCommon_Text_MoveExpertForget",
+      "en_US": [
+        "Then… shall I help a Pokémon\n",
+        "forget a move?"
+      ]
+    },
+    {
+      "id": "PokemonCenter2FCommon_Text_MoveExpertWhichPokemon",
+      "en_US": [
+        "Which Pokémon should I help?\r"
+      ]
+    },
+    {
+      "id": "PokemonCenter2FCommon_Text_MoveExpertWhichMove",
+      "en_US": [
+        "Which move should it recall?\r"
+      ]
+    },
+    {
+      "id": "PokemonCenter2FCommon_Text_MoveExpertWhichForget",
+      "en_US": [
+        "Which move should it forget?\r"
+      ]
+    },
+    {
+      "id": "PokemonCenter2FCommon_Text_MoveExpertNoMoves",
+      "en_US": [
+        "This Pokémon has no moves left\n",
+        "for it to recall.\r"
+      ]
+    },
+    {
+      "id": "PokemonCenter2FCommon_Text_MoveExpertForgot",
+      "en_US": [
+        "The Pokémon forgot the move.\r"
+      ]
+    },
+    {
+      "id": "PokemonCenter2FCommon_Text_MoveExpertBye",
+      "en_US": [
+        "Come back any time!\r"
+      ]
     }
   ]
 }
