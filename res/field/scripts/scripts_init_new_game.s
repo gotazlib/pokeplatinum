@@ -8,7 +8,8 @@ InitNewGame:
     SetFlag FLAG_HIDE_TWINLEAF_TOWN_PLAYER_HOUSE_2F_RIVAL
     SetFlag FLAG_HIDE_ROUTE_201_COUNTERPART
     SetFlag FLAG_HIDE_ROUTE_201_PROF_ROWAN
-    SetFlag FLAG_HIDE_ROUTE_201_BRIEFCASE
+    // ROM hack (intro skip): briefcase is on Route 201 from the start.
+    ClearFlag FLAG_HIDE_ROUTE_201_BRIEFCASE
     SetFlag FLAG_HIDE_LAKE_VERITY_LOW_WATER_STARLY
     SetFlag FLAG_HIDE_LAKE_VERITY_LOW_WATER_PROF_ROWAN
     SetFlag FLAG_HIDE_LAKE_VERITY_LOW_WATER_COUNTERPART
@@ -21,7 +22,7 @@ InitNewGame:
     SetFlag FLAG_HIDE_LAKE_ACUITY_JUPITER
     SetFlag FLAG_HIDE_TWINLEAF_TOWN_RIVAL
     SetFlag FLAG_HIDE_TWINLEAF_TOWN_PLAYER_HOUSE_1F_RIVAL_MOM
-    SetVar VAR_TWINLEAF_TOWN_GUITARIST_TRIGGER_STATE, 1
+    SetVar VAR_TWINLEAF_TOWN_GUITARIST_TRIGGER_STATE, 2 // ROM hack: guitarist won't block you toward the rival
     SetFlag FLAG_HIDE_SANDGEM_TOWN_RIVAL
     SetFlag FLAG_HIDE_SANDGEM_TOWN_PROF_ROWAN
     SetFlag FLAG_HIDE_SANDGEM_TOWN_LAB_PROF_OAK
@@ -131,4 +132,9 @@ InitNewGame:
     // end-state that cutscene sets (RIVAL_TRIGGER_STATE 1, rival already hidden),
     // so you just walk downstairs. Downstream opening is unaffected.
     SetVar VAR_PLAYER_HOUSE_RIVAL_TRIGGER_STATE, 1
+    // ROM hack (intro skip v2): disable the town's forced "rival was looking for
+    // you" trigger and the Route 201 rival-follower triggers, so you can walk
+    // straight from the house to the (already-visible) Route 201 briefcase.
+    SetVar VAR_TWINLEAF_TOWN_RIVAL_TRIGGER_STATE, 1
+    SetVar VAR_FOLLOWER_RIVAL_STATE, 4
     End
