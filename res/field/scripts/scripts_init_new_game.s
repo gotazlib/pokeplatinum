@@ -8,8 +8,7 @@ InitNewGame:
     SetFlag FLAG_HIDE_TWINLEAF_TOWN_PLAYER_HOUSE_2F_RIVAL
     SetFlag FLAG_HIDE_ROUTE_201_COUNTERPART
     SetFlag FLAG_HIDE_ROUTE_201_PROF_ROWAN
-    // ROM hack (intro skip): briefcase is on Route 201 from the start.
-    ClearFlag FLAG_HIDE_ROUTE_201_BRIEFCASE
+    SetFlag FLAG_HIDE_ROUTE_201_BRIEFCASE
     SetFlag FLAG_HIDE_LAKE_VERITY_LOW_WATER_STARLY
     SetFlag FLAG_HIDE_LAKE_VERITY_LOW_WATER_PROF_ROWAN
     SetFlag FLAG_HIDE_LAKE_VERITY_LOW_WATER_COUNTERPART
@@ -132,11 +131,4 @@ InitNewGame:
     // end-state that cutscene sets (RIVAL_TRIGGER_STATE 1, rival already hidden),
     // so you just walk downstairs. Downstream opening is unaffected.
     SetVar VAR_PLAYER_HOUSE_RIVAL_TRIGGER_STATE, 1
-    // ROM hack (intro skip): pretend the rival-house fetch + Lake Verity trip are
-    // already done, so the town doesn't force you to the rival's bedroom or the
-    // lake. You can head straight out to the (already-visible) Route 201 briefcase.
-    SetFlag FLAG_RIVAL_LEFT_HOME
-    SetVar VAR_RIVAL_HOUSE_STATE, 1
-    SetVar VAR_VISITED_LAKE_VERITY_WITH_RIVAL, 1
-    SetVar VAR_FOLLOWER_RIVAL_STATE, 4
     End
