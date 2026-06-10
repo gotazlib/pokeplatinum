@@ -284,6 +284,10 @@ Route201_Briefcase:
     WaitFadeScreen
     GetPlayerStarterSpecies VAR_0x8000
     GivePokemon VAR_0x8000, 5, ITEM_NONE, VAR_RESULT
+    // ROM hack: also hand over the other two starters (chosen one stays the lead)
+    CallIfEq VAR_0x8000, SPECIES_TURTWIG, Route201_GiveOthersTurtwig
+    CallIfEq VAR_0x8000, SPECIES_CHIMCHAR, Route201_GiveOthersChimchar
+    CallIfEq VAR_0x8000, SPECIES_PIPLUP, Route201_GiveOthersPiplup
     ApplyMovement LOCALID_PROF_ROWAN, Route201_Movement_ProfRowanFacePlayerSouth
     ApplyMovement LOCALID_RIVAL, Route201_Movement_RivalFaceWest
     ApplyMovement LOCALID_PLAYER, Route201_Movement_PlayerFaceProfRowanNorth
@@ -1254,5 +1258,23 @@ Route201_ArrowSignpostSandgemTown:
 Route201_TrainerTipsSignpost:
     ShowScrollingSign Route201_Text_TrainerTipsTalkToAnyone
     End
+
+    .balign 4, 0
+
+// ROM hack: subroutines that grant the two starters the player did NOT pick.
+Route201_GiveOthersTurtwig:
+    GivePokemon SPECIES_CHIMCHAR, 5, ITEM_NONE, VAR_RESULT
+    GivePokemon SPECIES_PIPLUP, 5, ITEM_NONE, VAR_RESULT
+    Return
+
+Route201_GiveOthersChimchar:
+    GivePokemon SPECIES_TURTWIG, 5, ITEM_NONE, VAR_RESULT
+    GivePokemon SPECIES_PIPLUP, 5, ITEM_NONE, VAR_RESULT
+    Return
+
+Route201_GiveOthersPiplup:
+    GivePokemon SPECIES_TURTWIG, 5, ITEM_NONE, VAR_RESULT
+    GivePokemon SPECIES_CHIMCHAR, 5, ITEM_NONE, VAR_RESULT
+    Return
 
     .balign 4, 0
