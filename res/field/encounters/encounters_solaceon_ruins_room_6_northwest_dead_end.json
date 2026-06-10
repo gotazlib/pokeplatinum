@@ -3,27 +3,27 @@
     "land_encounters": [
         {
             "level": 20,
-            "species": "SPECIES_ELEKID"
-        },
-        {
-            "level": 21,
-            "species": "SPECIES_LOUDRED"
-        },
-        {
-            "level": 22,
             "species": "SPECIES_SPINDA"
         },
         {
-            "level": 23,
+            "level": 21,
+            "species": "SPECIES_ELEKID"
+        },
+        {
+            "level": 22,
             "species": "SPECIES_LUXIO"
         },
         {
-            "level": 24,
+            "level": 23,
             "species": "SPECIES_FLAAFFY"
         },
         {
-            "level": 25,
+            "level": 24,
             "species": "SPECIES_MAGBY"
+        },
+        {
+            "level": 25,
+            "species": "SPECIES_NIDORINO"
         },
         {
             "level": 26,
@@ -31,42 +31,42 @@
         },
         {
             "level": 27,
-            "species": "SPECIES_NIDORINO"
-        },
-        {
-            "level": 28,
             "species": "SPECIES_NOSEPASS"
         },
         {
-            "level": 29,
-            "species": "SPECIES_CORSOLA"
+            "level": 28,
+            "species": "SPECIES_MAWILE"
         },
         {
-            "level": 30,
+            "level": 29,
             "species": "SPECIES_DELCATTY"
         },
         {
             "level": 30,
-            "species": "SPECIES_MAWILE"
+            "species": "SPECIES_SABLEYE"
+        },
+        {
+            "level": 30,
+            "species": "SPECIES_KRICKETUNE"
         }
     ],
     "swarms": [
-        "SPECIES_NOSEPASS",
-        "SPECIES_CORSOLA"
+        "SPECIES_MAWILE",
+        "SPECIES_DELCATTY"
     ],
     "day": [
-        "SPECIES_ELEKID",
-        "SPECIES_LOUDRED"
+        "SPECIES_SPINDA",
+        "SPECIES_ELEKID"
     ],
     "night": [
-        "SPECIES_SPINDA",
-        "SPECIES_LUXIO"
+        "SPECIES_LUXIO",
+        "SPECIES_FLAAFFY"
     ],
     "radar": [
-        "SPECIES_FLAAFFY",
         "SPECIES_MAGBY",
+        "SPECIES_NIDORINO",
         "SPECIES_NIDORINA",
-        "SPECIES_NIDORINO"
+        "SPECIES_NOSEPASS"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

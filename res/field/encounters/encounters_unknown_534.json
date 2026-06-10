@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 45,
-            "species": "SPECIES_EXPLOUD"
+            "species": "SPECIES_MANECTRIC"
+        },
+        {
+            "level": 45,
+            "species": "SPECIES_SKUNTANK"
+        },
+        {
+            "level": 46,
+            "species": "SPECIES_VILEPLUME"
+        },
+        {
+            "level": 45,
+            "species": "SPECIES_SHIFTRY"
+        },
+        {
+            "level": 47,
+            "species": "SPECIES_GLALIE"
+        },
+        {
+            "level": 46,
+            "species": "SPECIES_LOPUNNY"
+        },
+        {
+            "level": 47,
+            "species": "SPECIES_VICTREEBEL"
+        },
+        {
+            "level": 46,
+            "species": "SPECIES_BELLOSSOM"
+        },
+        {
+            "level": 47,
+            "species": "SPECIES_ELECTRODE"
         },
         {
             "level": 45,
             "species": "SPECIES_FROSLASS"
         },
         {
-            "level": 46,
-            "species": "SPECIES_GLALIE"
-        },
-        {
-            "level": 45,
-            "species": "SPECIES_LOPUNNY"
-        },
-        {
-            "level": 47,
-            "species": "SPECIES_LUDICOLO"
-        },
-        {
-            "level": 46,
-            "species": "SPECIES_OCTILLERY"
-        },
-        {
-            "level": 47,
-            "species": "SPECIES_SHIFTRY"
-        },
-        {
-            "level": 46,
-            "species": "SPECIES_VICTREEBEL"
-        },
-        {
-            "level": 47,
-            "species": "SPECIES_VILEPLUME"
-        },
-        {
-            "level": 45,
-            "species": "SPECIES_AMBIPOM"
-        },
-        {
             "level": 48,
-            "species": "SPECIES_HYPNO"
+            "species": "SPECIES_EXPLOUD"
         },
         {
             "level": 47,
-            "species": "SPECIES_GOLEM"
+            "species": "SPECIES_AMBIPOM"
         }
     ],
     "swarms": [
-        "SPECIES_VILEPLUME",
-        "SPECIES_AMBIPOM"
-    ],
-    "day": [
-        "SPECIES_EXPLOUD",
+        "SPECIES_ELECTRODE",
         "SPECIES_FROSLASS"
     ],
+    "day": [
+        "SPECIES_MANECTRIC",
+        "SPECIES_SKUNTANK"
+    ],
     "night": [
-        "SPECIES_GLALIE",
-        "SPECIES_LOPUNNY"
+        "SPECIES_VILEPLUME",
+        "SPECIES_SHIFTRY"
     ],
     "radar": [
-        "SPECIES_LUDICOLO",
-        "SPECIES_OCTILLERY",
-        "SPECIES_SHIFTRY",
-        "SPECIES_VICTREEBEL"
+        "SPECIES_GLALIE",
+        "SPECIES_LOPUNNY",
+        "SPECIES_VICTREEBEL",
+        "SPECIES_BELLOSSOM"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

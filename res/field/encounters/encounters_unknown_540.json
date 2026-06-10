@@ -3,23 +3,31 @@
     "land_encounters": [
         {
             "level": 45,
-            "species": "SPECIES_HONCHKROW"
+            "species": "SPECIES_HOUNDOOM"
         },
         {
             "level": 45,
+            "species": "SPECIES_DONPHAN"
+        },
+        {
+            "level": 46,
             "species": "SPECIES_MACHAMP"
+        },
+        {
+            "level": 45,
+            "species": "SPECIES_SHUCKLE"
+        },
+        {
+            "level": 47,
+            "species": "SPECIES_HONCHKROW"
         },
         {
             "level": 46,
             "species": "SPECIES_NINETALES"
         },
         {
-            "level": 45,
-            "species": "SPECIES_ROSERADE"
-        },
-        {
             "level": 47,
-            "species": "SPECIES_SHUCKLE"
+            "species": "SPECIES_ROSERADE"
         },
         {
             "level": 46,
@@ -27,46 +35,38 @@
         },
         {
             "level": 47,
+            "species": "SPECIES_WEAVILE"
+        },
+        {
+            "level": 45,
             "species": "SPECIES_STEELIX"
         },
         {
-            "level": 46,
-            "species": "SPECIES_WEAVILE"
+            "level": 48,
+            "species": "SPECIES_LICKILICKY"
         },
         {
             "level": 47,
             "species": "SPECIES_AERODACTYL"
-        },
-        {
-            "level": 45,
-            "species": "SPECIES_LICKILICKY"
-        },
-        {
-            "level": 48,
-            "species": "SPECIES_PORYGON2"
-        },
-        {
-            "level": 47,
-            "species": "SPECIES_TENTACRUEL"
         }
     ],
     "swarms": [
-        "SPECIES_AERODACTYL",
-        "SPECIES_LICKILICKY"
+        "SPECIES_WEAVILE",
+        "SPECIES_STEELIX"
     ],
     "day": [
-        "SPECIES_HONCHKROW",
-        "SPECIES_MACHAMP"
+        "SPECIES_HOUNDOOM",
+        "SPECIES_DONPHAN"
     ],
     "night": [
-        "SPECIES_NINETALES",
-        "SPECIES_ROSERADE"
+        "SPECIES_MACHAMP",
+        "SPECIES_SHUCKLE"
     ],
     "radar": [
-        "SPECIES_SHUCKLE",
-        "SPECIES_GLISCOR",
-        "SPECIES_STEELIX",
-        "SPECIES_WEAVILE"
+        "SPECIES_HONCHKROW",
+        "SPECIES_NINETALES",
+        "SPECIES_ROSERADE",
+        "SPECIES_GLISCOR"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

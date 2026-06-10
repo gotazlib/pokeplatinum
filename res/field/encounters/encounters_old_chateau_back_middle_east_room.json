@@ -3,31 +3,43 @@
     "land_encounters": [
         {
             "level": 14,
-            "species": "SPECIES_MAREEP"
+            "species": "SPECIES_CHERUBI"
+        },
+        {
+            "level": 15,
+            "species": "SPECIES_NIDORAN_F"
+        },
+        {
+            "level": 14,
+            "species": "SPECIES_KIRLIA"
         },
         {
             "level": 15,
             "species": "SPECIES_MEDITITE"
         },
         {
-            "level": 14,
-            "species": "SPECIES_SLAKOTH"
+            "level": 16,
+            "species": "SPECIES_MAREEP"
         },
         {
-            "level": 15,
-            "species": "SPECIES_CHINGLING"
+            "level": 17,
+            "species": "SPECIES_BUDEW"
         },
         {
             "level": 16,
-            "species": "SPECIES_PARAS"
+            "species": "SPECIES_SLAKOTH"
+        },
+        {
+            "level": 17,
+            "species": "SPECIES_CHINGLING"
         },
         {
             "level": 17,
             "species": "SPECIES_RIOLU"
         },
         {
-            "level": 16,
-            "species": "SPECIES_BARBOACH"
+            "level": 17,
+            "species": "SPECIES_PARAS"
         },
         {
             "level": 17,
@@ -36,37 +48,25 @@
         {
             "level": 17,
             "species": "SPECIES_EKANS"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_BONSLY"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_MEOWTH"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_PINECO"
         }
     ],
     "swarms": [
-        "SPECIES_EKANS",
-        "SPECIES_BONSLY"
+        "SPECIES_RIOLU",
+        "SPECIES_PARAS"
     ],
     "day": [
-        "SPECIES_MAREEP",
-        "SPECIES_MEDITITE"
+        "SPECIES_CHERUBI",
+        "SPECIES_NIDORAN_F"
     ],
     "night": [
-        "SPECIES_SLAKOTH",
-        "SPECIES_CHINGLING"
+        "SPECIES_KIRLIA",
+        "SPECIES_MEDITITE"
     ],
     "radar": [
-        "SPECIES_PARAS",
-        "SPECIES_RIOLU",
-        "SPECIES_BARBOACH",
-        "SPECIES_DITTO"
+        "SPECIES_MAREEP",
+        "SPECIES_BUDEW",
+        "SPECIES_SLAKOTH",
+        "SPECIES_CHINGLING"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

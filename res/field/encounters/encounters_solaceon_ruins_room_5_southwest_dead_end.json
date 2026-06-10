@@ -3,19 +3,19 @@
     "land_encounters": [
         {
             "level": 20,
-            "species": "SPECIES_SPINDA"
-        },
-        {
-            "level": 21,
             "species": "SPECIES_LUXIO"
         },
         {
-            "level": 22,
+            "level": 21,
             "species": "SPECIES_FLAAFFY"
         },
         {
-            "level": 23,
+            "level": 22,
             "species": "SPECIES_MAGBY"
+        },
+        {
+            "level": 23,
+            "species": "SPECIES_NIDORINO"
         },
         {
             "level": 24,
@@ -23,50 +23,50 @@
         },
         {
             "level": 25,
-            "species": "SPECIES_NIDORINO"
-        },
-        {
-            "level": 26,
             "species": "SPECIES_NOSEPASS"
         },
         {
-            "level": 27,
-            "species": "SPECIES_CORSOLA"
-        },
-        {
-            "level": 28,
-            "species": "SPECIES_DELCATTY"
-        },
-        {
-            "level": 29,
+            "level": 26,
             "species": "SPECIES_MAWILE"
         },
         {
-            "level": 30,
+            "level": 27,
+            "species": "SPECIES_DELCATTY"
+        },
+        {
+            "level": 28,
             "species": "SPECIES_SABLEYE"
         },
         {
-            "level": 30,
+            "level": 29,
             "species": "SPECIES_KRICKETUNE"
+        },
+        {
+            "level": 30,
+            "species": "SPECIES_ONIX"
+        },
+        {
+            "level": 30,
+            "species": "SPECIES_BUTTERFREE"
         }
     ],
     "swarms": [
-        "SPECIES_DELCATTY",
-        "SPECIES_MAWILE"
+        "SPECIES_SABLEYE",
+        "SPECIES_KRICKETUNE"
     ],
     "day": [
-        "SPECIES_SPINDA",
-        "SPECIES_LUXIO"
+        "SPECIES_LUXIO",
+        "SPECIES_FLAAFFY"
     ],
     "night": [
-        "SPECIES_FLAAFFY",
-        "SPECIES_MAGBY"
+        "SPECIES_MAGBY",
+        "SPECIES_NIDORINO"
     ],
     "radar": [
         "SPECIES_NIDORINA",
-        "SPECIES_NIDORINO",
         "SPECIES_NOSEPASS",
-        "SPECIES_CORSOLA"
+        "SPECIES_MAWILE",
+        "SPECIES_DELCATTY"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

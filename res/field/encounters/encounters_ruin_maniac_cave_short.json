@@ -3,15 +3,15 @@
     "land_encounters": [
         {
             "level": 23,
-            "species": "SPECIES_EXEGGCUTE"
+            "species": "SPECIES_CUBONE"
         },
         {
             "level": 22,
-            "species": "SPECIES_GRIMER"
+            "species": "SPECIES_CLEFAIRY"
         },
         {
             "level": 21,
-            "species": "SPECIES_KRABBY"
+            "species": "SPECIES_EEVEE"
         },
         {
             "level": 23,
@@ -19,11 +19,11 @@
         },
         {
             "level": 23,
-            "species": "SPECIES_SEEL"
+            "species": "SPECIES_GRIMER"
         },
         {
             "level": 23,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_EXEGGCUTE"
         },
         {
             "level": 23,
@@ -39,32 +39,32 @@
         },
         {
             "level": 22,
-            "species": "SPECIES_BUIZEL"
+            "species": "SPECIES_SPOINK"
         },
         {
             "level": 23,
-            "species": "SPECIES_CHINCHOU"
+            "species": "SPECIES_VOLTORB"
         },
         {
             "level": 24,
-            "species": "SPECIES_DELIBIRD"
+            "species": "SPECIES_TEDDIURSA"
         }
     ],
     "swarms": [
         "SPECIES_ARON",
-        "SPECIES_BUIZEL"
+        "SPECIES_SPOINK"
     ],
     "day": [
-        "SPECIES_EXEGGCUTE",
-        "SPECIES_GRIMER"
+        "SPECIES_CUBONE",
+        "SPECIES_CLEFAIRY"
     ],
     "night": [
-        "SPECIES_KRABBY",
+        "SPECIES_EEVEE",
         "SPECIES_MAGNEMITE"
     ],
     "radar": [
-        "SPECIES_SEEL",
-        "SPECIES_SHELLOS",
+        "SPECIES_GRIMER",
+        "SPECIES_EXEGGCUTE",
         "SPECIES_DROWZEE",
         "SPECIES_STUNKY"
     ],

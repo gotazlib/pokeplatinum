@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 38,
-            "species": "SPECIES_MANTINE"
+            "species": "SPECIES_MR_MIME"
+        },
+        {
+            "level": 37,
+            "species": "SPECIES_CAMERUPT"
+        },
+        {
+            "level": 39,
+            "species": "SPECIES_TROPIUS"
+        },
+        {
+            "level": 38,
+            "species": "SPECIES_DODRIO"
+        },
+        {
+            "level": 38,
+            "species": "SPECIES_ABSOL"
+        },
+        {
+            "level": 40,
+            "species": "SPECIES_MAGNETON"
+        },
+        {
+            "level": 37,
+            "species": "SPECIES_STANTLER"
         },
         {
             "level": 37,
             "species": "SPECIES_SKARMORY"
         },
         {
-            "level": 39,
-            "species": "SPECIES_STANTLER"
+            "level": 40,
+            "species": "SPECIES_FORRETRESS"
         },
         {
-            "level": 38,
+            "level": 39,
             "species": "SPECIES_SWALOT"
         },
         {
-            "level": 38,
-            "species": "SPECIES_CRAWDAUNT"
-        },
-        {
             "level": 40,
-            "species": "SPECIES_WHISCASH"
-        },
-        {
-            "level": 37,
             "species": "SPECIES_PIDGEOT"
         },
         {
-            "level": 37,
+            "level": 39,
             "species": "SPECIES_GRUMPIG"
-        },
-        {
-            "level": 40,
-            "species": "SPECIES_TORKOAL"
-        },
-        {
-            "level": 39,
-            "species": "SPECIES_XATU"
-        },
-        {
-            "level": 40,
-            "species": "SPECIES_CLEFABLE"
-        },
-        {
-            "level": 39,
-            "species": "SPECIES_HARIYAMA"
         }
     ],
     "swarms": [
-        "SPECIES_TORKOAL",
-        "SPECIES_XATU"
-    ],
-    "day": [
-        "SPECIES_MANTINE",
-        "SPECIES_SKARMORY"
-    ],
-    "night": [
-        "SPECIES_STANTLER",
+        "SPECIES_FORRETRESS",
         "SPECIES_SWALOT"
     ],
+    "day": [
+        "SPECIES_MR_MIME",
+        "SPECIES_CAMERUPT"
+    ],
+    "night": [
+        "SPECIES_TROPIUS",
+        "SPECIES_DODRIO"
+    ],
     "radar": [
-        "SPECIES_CRAWDAUNT",
-        "SPECIES_WHISCASH",
-        "SPECIES_PIDGEOT",
-        "SPECIES_GRUMPIG"
+        "SPECIES_ABSOL",
+        "SPECIES_MAGNETON",
+        "SPECIES_STANTLER",
+        "SPECIES_SKARMORY"
     ],
     "rate_form0": 100,
     "rate_form1": 100,
@@ -99,27 +99,27 @@
         {
             "level_max": 40,
             "level_min": 20,
-            "species": "SPECIES_GOLDUCK"
+            "species": "SPECIES_CORSOLA"
         },
         {
             "level_max": 40,
             "level_min": 20,
-            "species": "SPECIES_GOLDUCK"
+            "species": "SPECIES_POLIWHIRL"
         },
         {
             "level_max": 40,
             "level_min": 20,
-            "species": "SPECIES_GOLDUCK"
+            "species": "SPECIES_WAILMER"
         },
         {
             "level_max": 40,
             "level_min": 20,
-            "species": "SPECIES_GOLDUCK"
+            "species": "SPECIES_PRINPLUP"
         },
         {
             "level_max": 40,
             "level_min": 20,
-            "species": "SPECIES_GOLDUCK"
+            "species": "SPECIES_MARSHTOMP"
         }
     ],
     "old_rod_rate": 25,
@@ -127,27 +127,27 @@
         {
             "level_max": 6,
             "level_min": 4,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_CROCONAW"
         },
         {
             "level_max": 7,
             "level_min": 3,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_WARTORTLE"
         },
         {
             "level_max": 10,
             "level_min": 5,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_AZUMARILL"
         },
         {
             "level_max": 10,
             "level_min": 5,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_PELIPPER"
         },
         {
             "level_max": 15,
             "level_min": 5,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_QWILFISH"
         }
     ],
     "good_rod_rate": 50,
@@ -155,27 +155,27 @@
         {
             "level_max": 20,
             "level_min": 15,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_QUAGSIRE"
         },
         {
             "level_max": 20,
             "level_min": 15,
-            "species": "SPECIES_GOLDEEN"
+            "species": "SPECIES_SEADRA"
         },
         {
             "level_max": 25,
             "level_min": 10,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_SEAKING"
         },
         {
             "level_max": 25,
             "level_min": 10,
-            "species": "SPECIES_GOLDEEN"
+            "species": "SPECIES_LUMINEON"
         },
         {
             "level_max": 25,
             "level_min": 10,
-            "species": "SPECIES_GOLDEEN"
+            "species": "SPECIES_SHARPEDO"
         }
     ],
     "super_rod_rate": 75,
@@ -183,27 +183,27 @@
         {
             "level_max": 40,
             "level_min": 30,
-            "species": "SPECIES_GYARADOS"
+            "species": "SPECIES_LANTURN"
         },
         {
             "level_max": 40,
             "level_min": 30,
-            "species": "SPECIES_SEAKING"
+            "species": "SPECIES_MANTINE"
         },
         {
             "level_max": 55,
             "level_min": 40,
-            "species": "SPECIES_GYARADOS"
+            "species": "SPECIES_CRAWDAUNT"
         },
         {
             "level_max": 55,
             "level_min": 40,
-            "species": "SPECIES_SEAKING"
+            "species": "SPECIES_WHISCASH"
         },
         {
             "level_max": 55,
             "level_min": 40,
-            "species": "SPECIES_SEAKING"
+            "species": "SPECIES_KINGLER"
         }
     ],
     "map_category": {

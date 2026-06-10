@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 48,
-            "species": "SPECIES_PROBOPASS"
+            "species": "SPECIES_FLAREON"
+        },
+        {
+            "level": 47,
+            "species": "SPECIES_HIPPOWDON"
         },
         {
             "level": 47,
             "species": "SPECIES_TORTERRA"
         },
         {
-            "level": 47,
-            "species": "SPECIES_UMBREON"
-        },
-        {
             "level": 49,
-            "species": "SPECIES_VAPOREON"
+            "species": "SPECIES_ESPEON"
         },
         {
             "level": 48,
-            "species": "SPECIES_VENUSAUR"
+            "species": "SPECIES_GLACEON"
         },
         {
             "level": 50,
-            "species": "SPECIES_AGGRON"
+            "species": "SPECIES_UMBREON"
         },
         {
             "level": 50,
-            "species": "SPECIES_BLASTOISE"
+            "species": "SPECIES_LEAFEON"
+        },
+        {
+            "level": 49,
+            "species": "SPECIES_DUSKNOIR"
+        },
+        {
+            "level": 50,
+            "species": "SPECIES_LUCARIO"
+        },
+        {
+            "level": 49,
+            "species": "SPECIES_MAMOSWINE"
+        },
+        {
+            "level": 50,
+            "species": "SPECIES_SCEPTILE"
         },
         {
             "level": 49,
             "species": "SPECIES_BLAZIKEN"
-        },
-        {
-            "level": 50,
-            "species": "SPECIES_EMPOLEON"
-        },
-        {
-            "level": 49,
-            "species": "SPECIES_FERALIGATR"
-        },
-        {
-            "level": 50,
-            "species": "SPECIES_MAMOSWINE"
-        },
-        {
-            "level": 49,
-            "species": "SPECIES_SCEPTILE"
         }
     ],
     "swarms": [
-        "SPECIES_EMPOLEON",
-        "SPECIES_FERALIGATR"
+        "SPECIES_LUCARIO",
+        "SPECIES_MAMOSWINE"
     ],
     "day": [
-        "SPECIES_PROBOPASS",
-        "SPECIES_TORTERRA"
+        "SPECIES_FLAREON",
+        "SPECIES_HIPPOWDON"
     ],
     "night": [
-        "SPECIES_UMBREON",
-        "SPECIES_VAPOREON"
+        "SPECIES_TORTERRA",
+        "SPECIES_ESPEON"
     ],
     "radar": [
-        "SPECIES_VENUSAUR",
-        "SPECIES_AGGRON",
-        "SPECIES_BLASTOISE",
-        "SPECIES_BLAZIKEN"
+        "SPECIES_GLACEON",
+        "SPECIES_UMBREON",
+        "SPECIES_LEAFEON",
+        "SPECIES_DUSKNOIR"
     ],
     "rate_form0": 100,
     "rate_form1": 100,
@@ -99,27 +99,27 @@
         {
             "level_max": 55,
             "level_min": 35,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_RELICANTH"
         },
         {
             "level_max": 55,
             "level_min": 35,
-            "species": "SPECIES_DEWGONG"
+            "species": "SPECIES_GOREBYSS"
         },
         {
             "level_max": 55,
             "level_min": 35,
-            "species": "SPECIES_LAPRAS"
+            "species": "SPECIES_HUNTAIL"
         },
         {
             "level_max": 55,
             "level_min": 35,
-            "species": "SPECIES_LAPRAS"
+            "species": "SPECIES_SLOWKING"
         },
         {
             "level_max": 55,
             "level_min": 35,
-            "species": "SPECIES_LAPRAS"
+            "species": "SPECIES_SLOWBRO"
         }
     ],
     "old_rod_rate": 25,
@@ -127,27 +127,27 @@
         {
             "level_max": 6,
             "level_min": 4,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_FLOATZEL"
         },
         {
             "level_max": 7,
             "level_min": 3,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_POLITOED"
         },
         {
             "level_max": 10,
             "level_min": 5,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_GOLDUCK"
         },
         {
             "level_max": 10,
             "level_min": 5,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_POLIWRATH"
         },
         {
             "level_max": 15,
             "level_min": 5,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_WAILORD"
         }
     ],
     "good_rod_rate": 55,
@@ -155,27 +155,27 @@
         {
             "level_max": 20,
             "level_min": 15,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_TENTACRUEL"
         },
         {
             "level_max": 20,
             "level_min": 15,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_STARMIE"
         },
         {
             "level_max": 25,
             "level_min": 10,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_CLOYSTER"
         },
         {
             "level_max": 25,
             "level_min": 10,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_VAPOREON"
         },
         {
             "level_max": 25,
             "level_min": 10,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_EMPOLEON"
         }
     ],
     "super_rod_rate": 75,
@@ -183,27 +183,27 @@
         {
             "level_max": 40,
             "level_min": 30,
-            "species": "SPECIES_GYARADOS"
+            "species": "SPECIES_BLASTOISE"
         },
         {
             "level_max": 40,
             "level_min": 30,
-            "species": "SPECIES_GYARADOS"
+            "species": "SPECIES_FERALIGATR"
         },
         {
             "level_max": 55,
             "level_min": 40,
-            "species": "SPECIES_GYARADOS"
+            "species": "SPECIES_LAPRAS"
         },
         {
             "level_max": 55,
             "level_min": 40,
-            "species": "SPECIES_GYARADOS"
+            "species": "SPECIES_SWAMPERT"
         },
         {
             "level_max": 55,
             "level_min": 40,
-            "species": "SPECIES_GYARADOS"
+            "species": "SPECIES_KINGDRA"
         }
     ],
     "map_category": {

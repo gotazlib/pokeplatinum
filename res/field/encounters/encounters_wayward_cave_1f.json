@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 18,
-            "species": "SPECIES_GULPIN"
+            "species": "SPECIES_SNORUNT"
         },
         {
             "level": 18,
-            "species": "SPECIES_CARVANHA"
+            "species": "SPECIES_BAGON"
         },
         {
             "level": 17,
-            "species": "SPECIES_MACHOP"
+            "species": "SPECIES_SNUBBULL"
         },
         {
             "level": 19,
-            "species": "SPECIES_MANKEY"
+            "species": "SPECIES_BRONZOR"
+        },
+        {
+            "level": 20,
+            "species": "SPECIES_DRATINI"
+        },
+        {
+            "level": 20,
+            "species": "SPECIES_CROAGUNK"
+        },
+        {
+            "level": 19,
+            "species": "SPECIES_GULPIN"
         },
         {
             "level": 20,
             "species": "SPECIES_NUMEL"
         },
         {
-            "level": 20,
-            "species": "SPECIES_SHELLDER"
+            "level": 17,
+            "species": "SPECIES_MANKEY"
         },
         {
-            "level": 19,
-            "species": "SPECIES_SMOOCHUM"
-        },
-        {
-            "level": 20,
+            "level": 18,
             "species": "SPECIES_VENONAT"
         },
         {
             "level": 17,
-            "species": "SPECIES_CORPHISH"
+            "species": "SPECIES_SMOOCHUM"
         },
         {
             "level": 18,
-            "species": "SPECIES_CHARMANDER"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_CHIMCHAR"
-        },
-        {
-            "level": 18,
-            "species": "SPECIES_CYNDAQUIL"
+            "species": "SPECIES_MACHOP"
         }
     ],
     "swarms": [
-        "SPECIES_CORPHISH",
-        "SPECIES_CHARMANDER"
+        "SPECIES_MANKEY",
+        "SPECIES_VENONAT"
     ],
     "day": [
-        "SPECIES_GULPIN",
-        "SPECIES_CARVANHA"
+        "SPECIES_SNORUNT",
+        "SPECIES_BAGON"
     ],
     "night": [
-        "SPECIES_MACHOP",
-        "SPECIES_MANKEY"
+        "SPECIES_SNUBBULL",
+        "SPECIES_BRONZOR"
     ],
     "radar": [
-        "SPECIES_NUMEL",
-        "SPECIES_SHELLDER",
-        "SPECIES_SMOOCHUM",
-        "SPECIES_VENONAT"
+        "SPECIES_DRATINI",
+        "SPECIES_CROAGUNK",
+        "SPECIES_GULPIN",
+        "SPECIES_NUMEL"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

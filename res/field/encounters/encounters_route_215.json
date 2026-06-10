@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 19,
-            "species": "SPECIES_GOLDEEN"
+            "species": "SPECIES_BULBASAUR"
         },
         {
             "level": 20,
+            "species": "SPECIES_TURTWIG"
+        },
+        {
+            "level": 22,
             "species": "SPECIES_NATU"
         },
         {
-            "level": 22,
+            "level": 21,
             "species": "SPECIES_ODDISH"
         },
         {
-            "level": 21,
-            "species": "SPECIES_PSYDUCK"
-        },
-        {
             "level": 20,
-            "species": "SPECIES_CLEFAIRY"
+            "species": "SPECIES_CUBONE"
         },
         {
             "level": 19,
-            "species": "SPECIES_EEVEE"
+            "species": "SPECIES_CLEFAIRY"
         },
         {
             "level": 20,
-            "species": "SPECIES_EXEGGCUTE"
+            "species": "SPECIES_EEVEE"
         },
         {
             "level": 21,
-            "species": "SPECIES_GRIMER"
-        },
-        {
-            "level": 22,
-            "species": "SPECIES_KRABBY"
-        },
-        {
-            "level": 22,
             "species": "SPECIES_MAGNEMITE"
         },
         {
             "level": 22,
-            "species": "SPECIES_SEEL"
+            "species": "SPECIES_GRIMER"
         },
         {
             "level": 22,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_EXEGGCUTE"
+        },
+        {
+            "level": 22,
+            "species": "SPECIES_DROWZEE"
+        },
+        {
+            "level": 22,
+            "species": "SPECIES_STUNKY"
         }
     ],
     "swarms": [
-        "SPECIES_KRABBY",
-        "SPECIES_MAGNEMITE"
+        "SPECIES_GRIMER",
+        "SPECIES_EXEGGCUTE"
     ],
     "day": [
-        "SPECIES_GOLDEEN",
-        "SPECIES_NATU"
+        "SPECIES_BULBASAUR",
+        "SPECIES_TURTWIG"
     ],
     "night": [
-        "SPECIES_ODDISH",
-        "SPECIES_PSYDUCK"
+        "SPECIES_NATU",
+        "SPECIES_ODDISH"
     ],
     "radar": [
+        "SPECIES_CUBONE",
         "SPECIES_CLEFAIRY",
         "SPECIES_EEVEE",
-        "SPECIES_EXEGGCUTE",
-        "SPECIES_GRIMER"
+        "SPECIES_MAGNEMITE"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

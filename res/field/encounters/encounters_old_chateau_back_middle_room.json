@@ -3,35 +3,43 @@
     "land_encounters": [
         {
             "level": 14,
-            "species": "SPECIES_RIOLU"
+            "species": "SPECIES_MAREEP"
         },
         {
             "level": 15,
-            "species": "SPECIES_BARBOACH"
+            "species": "SPECIES_BUDEW"
         },
         {
             "level": 14,
-            "species": "SPECIES_DITTO"
+            "species": "SPECIES_SLAKOTH"
         },
         {
             "level": 15,
-            "species": "SPECIES_EKANS"
+            "species": "SPECIES_CHINGLING"
         },
         {
             "level": 16,
-            "species": "SPECIES_BONSLY"
+            "species": "SPECIES_RIOLU"
         },
         {
             "level": 17,
-            "species": "SPECIES_MEOWTH"
+            "species": "SPECIES_PARAS"
         },
         {
             "level": 16,
+            "species": "SPECIES_DITTO"
+        },
+        {
+            "level": 17,
+            "species": "SPECIES_EKANS"
+        },
+        {
+            "level": 17,
             "species": "SPECIES_PINECO"
         },
         {
             "level": 17,
-            "species": "SPECIES_SPHEAL"
+            "species": "SPECIES_BONSLY"
         },
         {
             "level": 17,
@@ -39,34 +47,26 @@
         },
         {
             "level": 17,
-            "species": "SPECIES_DUSKULL"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_ELECTRIKE"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_HORSEA"
+            "species": "SPECIES_SPHEAL"
         }
     ],
     "swarms": [
-        "SPECIES_TRAPINCH",
-        "SPECIES_DUSKULL"
+        "SPECIES_PINECO",
+        "SPECIES_BONSLY"
     ],
     "day": [
-        "SPECIES_RIOLU",
-        "SPECIES_BARBOACH"
+        "SPECIES_MAREEP",
+        "SPECIES_BUDEW"
     ],
     "night": [
-        "SPECIES_DITTO",
-        "SPECIES_EKANS"
+        "SPECIES_SLAKOTH",
+        "SPECIES_CHINGLING"
     ],
     "radar": [
-        "SPECIES_BONSLY",
-        "SPECIES_MEOWTH",
-        "SPECIES_PINECO",
-        "SPECIES_SPHEAL"
+        "SPECIES_RIOLU",
+        "SPECIES_PARAS",
+        "SPECIES_DITTO",
+        "SPECIES_EKANS"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

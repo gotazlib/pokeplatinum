@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 31,
-            "species": "SPECIES_DUNSPARCE"
+            "species": "SPECIES_CHATOT"
+        },
+        {
+            "level": 32,
+            "species": "SPECIES_RATICATE"
+        },
+        {
+            "level": 30,
+            "species": "SPECIES_MASQUERAIN"
         },
         {
             "level": 32,
             "species": "SPECIES_FURRET"
         },
         {
-            "level": 30,
-            "species": "SPECIES_CASTFORM"
-        },
-        {
             "level": 32,
-            "species": "SPECIES_DRAGONAIR"
-        },
-        {
-            "level": 32,
-            "species": "SPECIES_LINOONE"
-        },
-        {
-            "level": 33,
-            "species": "SPECIES_METANG"
-        },
-        {
-            "level": 31,
-            "species": "SPECIES_MIGHTYENA"
+            "species": "SPECIES_DUNSPARCE"
         },
         {
             "level": 33,
             "species": "SPECIES_SHELGON"
         },
         {
+            "level": 31,
+            "species": "SPECIES_CASTFORM"
+        },
+        {
+            "level": 33,
+            "species": "SPECIES_DRAGONAIR"
+        },
+        {
             "level": 30,
-            "species": "SPECIES_MOTHIM"
+            "species": "SPECIES_MIGHTYENA"
+        },
+        {
+            "level": 31,
+            "species": "SPECIES_METANG"
+        },
+        {
+            "level": 30,
+            "species": "SPECIES_LINOONE"
         },
         {
             "level": 31,
             "species": "SPECIES_WORMADAM"
-        },
-        {
-            "level": 30,
-            "species": "SPECIES_CHIMECHO"
-        },
-        {
-            "level": 31,
-            "species": "SPECIES_MAROWAK"
         }
     ],
     "swarms": [
-        "SPECIES_MOTHIM",
-        "SPECIES_WORMADAM"
+        "SPECIES_MIGHTYENA",
+        "SPECIES_METANG"
     ],
     "day": [
-        "SPECIES_DUNSPARCE",
-        "SPECIES_FURRET"
+        "SPECIES_CHATOT",
+        "SPECIES_RATICATE"
     ],
     "night": [
-        "SPECIES_CASTFORM",
-        "SPECIES_DRAGONAIR"
+        "SPECIES_MASQUERAIN",
+        "SPECIES_FURRET"
     ],
     "radar": [
-        "SPECIES_LINOONE",
-        "SPECIES_METANG",
-        "SPECIES_MIGHTYENA",
-        "SPECIES_SHELGON"
+        "SPECIES_DUNSPARCE",
+        "SPECIES_SHELGON",
+        "SPECIES_CASTFORM",
+        "SPECIES_DRAGONAIR"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

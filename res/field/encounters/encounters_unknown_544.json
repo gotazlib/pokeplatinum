@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 45,
+            "species": "SPECIES_BASTIODON"
+        },
+        {
+            "level": 45,
+            "species": "SPECIES_MISMAGIUS"
+        },
+        {
+            "level": 46,
             "species": "SPECIES_OMASTAR"
         },
         {
             "level": 45,
-            "species": "SPECIES_RAMPARDOS"
+            "species": "SPECIES_NIDOKING"
+        },
+        {
+            "level": 47,
+            "species": "SPECIES_NIDOQUEEN"
         },
         {
             "level": 46,
             "species": "SPECIES_DRIFBLIM"
         },
         {
-            "level": 45,
-            "species": "SPECIES_AMPHAROS"
-        },
-        {
             "level": 47,
-            "species": "SPECIES_BRONZONG"
-        },
-        {
-            "level": 46,
-            "species": "SPECIES_CLAYDOL"
-        },
-        {
-            "level": 47,
-            "species": "SPECIES_DONPHAN"
-        },
-        {
-            "level": 46,
             "species": "SPECIES_DRAPION"
         },
         {
+            "level": 46,
+            "species": "SPECIES_RAPIDASH"
+        },
+        {
             "level": 47,
-            "species": "SPECIES_GENGAR"
+            "species": "SPECIES_PINSIR"
         },
         {
             "level": 45,
-            "species": "SPECIES_GOLDUCK"
+            "species": "SPECIES_MUK"
         },
         {
             "level": 48,
-            "species": "SPECIES_HERACROSS"
+            "species": "SPECIES_SCIZOR"
         },
         {
             "level": 47,
-            "species": "SPECIES_HOUNDOOM"
+            "species": "SPECIES_SCYTHER"
         }
     ],
     "swarms": [
-        "SPECIES_GENGAR",
-        "SPECIES_GOLDUCK"
+        "SPECIES_PINSIR",
+        "SPECIES_MUK"
     ],
     "day": [
-        "SPECIES_OMASTAR",
-        "SPECIES_RAMPARDOS"
+        "SPECIES_BASTIODON",
+        "SPECIES_MISMAGIUS"
     ],
     "night": [
-        "SPECIES_DRIFBLIM",
-        "SPECIES_AMPHAROS"
+        "SPECIES_OMASTAR",
+        "SPECIES_NIDOKING"
     ],
     "radar": [
-        "SPECIES_BRONZONG",
-        "SPECIES_CLAYDOL",
-        "SPECIES_DONPHAN",
-        "SPECIES_DRAPION"
+        "SPECIES_NIDOQUEEN",
+        "SPECIES_DRIFBLIM",
+        "SPECIES_DRAPION",
+        "SPECIES_RAPIDASH"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

@@ -3,27 +3,19 @@
     "land_encounters": [
         {
             "level": 25,
-            "species": "SPECIES_LUVDISC"
+            "species": "SPECIES_HIPPOPOTAS"
         },
         {
             "level": 24,
-            "species": "SPECIES_PHANPY"
+            "species": "SPECIES_DELIBIRD"
         },
         {
             "level": 23,
-            "species": "SPECIES_SKORUPI"
+            "species": "SPECIES_HOUNDOUR"
         },
         {
             "level": 25,
-            "species": "SPECIES_SPOINK"
-        },
-        {
-            "level": 25,
-            "species": "SPECIES_TEDDIURSA"
-        },
-        {
-            "level": 25,
-            "species": "SPECIES_VOLTORB"
+            "species": "SPECIES_PHANPY"
         },
         {
             "level": 25,
@@ -35,38 +27,46 @@
         },
         {
             "level": 25,
-            "species": "SPECIES_TENTACOOL"
+            "species": "SPECIES_UNOWN"
         },
         {
-            "level": 24,
-            "species": "SPECIES_UNOWN"
+            "level": 25,
+            "species": "SPECIES_STARAVIA"
         },
         {
             "level": 25,
             "species": "SPECIES_KOFFING"
         },
         {
+            "level": 24,
+            "species": "SPECIES_NUZLEAF"
+        },
+        {
+            "level": 25,
+            "species": "SPECIES_VIBRAVA"
+        },
+        {
             "level": 26,
-            "species": "SPECIES_LOMBRE"
+            "species": "SPECIES_SKIPLOOM"
         }
     ],
     "swarms": [
-        "SPECIES_TENTACOOL",
-        "SPECIES_UNOWN"
+        "SPECIES_KOFFING",
+        "SPECIES_NUZLEAF"
     ],
     "day": [
-        "SPECIES_LUVDISC",
-        "SPECIES_PHANPY"
+        "SPECIES_HIPPOPOTAS",
+        "SPECIES_DELIBIRD"
     ],
     "night": [
-        "SPECIES_SKORUPI",
-        "SPECIES_SPOINK"
+        "SPECIES_HOUNDOUR",
+        "SPECIES_PHANPY"
     ],
     "radar": [
-        "SPECIES_TEDDIURSA",
-        "SPECIES_VOLTORB",
         "SPECIES_SNOVER",
-        "SPECIES_CACNEA"
+        "SPECIES_CACNEA",
+        "SPECIES_UNOWN",
+        "SPECIES_STARAVIA"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

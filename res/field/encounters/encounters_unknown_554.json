@@ -3,19 +3,27 @@
     "land_encounters": [
         {
             "level": 45,
-            "species": "SPECIES_HUNTAIL"
+            "species": "SPECIES_AMBIPOM"
         },
         {
             "level": 45,
-            "species": "SPECIES_RELICANTH"
+            "species": "SPECIES_HYPNO"
         },
         {
             "level": 46,
-            "species": "SPECIES_RHYDON"
+            "species": "SPECIES_SPIRITOMB"
         },
         {
             "level": 45,
-            "species": "SPECIES_SPIRITOMB"
+            "species": "SPECIES_GOLEM"
+        },
+        {
+            "level": 47,
+            "species": "SPECIES_RHYDON"
+        },
+        {
+            "level": 46,
+            "species": "SPECIES_TOXICROAK"
         },
         {
             "level": 47,
@@ -23,27 +31,19 @@
         },
         {
             "level": 46,
-            "species": "SPECIES_ALTARIA"
-        },
-        {
-            "level": 47,
-            "species": "SPECIES_ELECTABUZZ"
-        },
-        {
-            "level": 46,
-            "species": "SPECIES_KANGASKHAN"
-        },
-        {
-            "level": 47,
             "species": "SPECIES_MILTANK"
         },
         {
+            "level": 47,
+            "species": "SPECIES_ALTARIA"
+        },
+        {
             "level": 45,
-            "species": "SPECIES_SLOWBRO"
+            "species": "SPECIES_KANGASKHAN"
         },
         {
             "level": 48,
-            "species": "SPECIES_SLOWKING"
+            "species": "SPECIES_WEEZING"
         },
         {
             "level": 47,
@@ -51,22 +51,22 @@
         }
     ],
     "swarms": [
-        "SPECIES_MILTANK",
-        "SPECIES_SLOWBRO"
+        "SPECIES_ALTARIA",
+        "SPECIES_KANGASKHAN"
     ],
     "day": [
-        "SPECIES_HUNTAIL",
-        "SPECIES_RELICANTH"
+        "SPECIES_AMBIPOM",
+        "SPECIES_HYPNO"
     ],
     "night": [
-        "SPECIES_RHYDON",
-        "SPECIES_SPIRITOMB"
+        "SPECIES_SPIRITOMB",
+        "SPECIES_GOLEM"
     ],
     "radar": [
+        "SPECIES_RHYDON",
+        "SPECIES_TOXICROAK",
         "SPECIES_ALAKAZAM",
-        "SPECIES_ALTARIA",
-        "SPECIES_ELECTABUZZ",
-        "SPECIES_KANGASKHAN"
+        "SPECIES_MILTANK"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

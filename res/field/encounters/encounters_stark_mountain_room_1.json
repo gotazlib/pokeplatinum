@@ -3,19 +3,19 @@
     "land_encounters": [
         {
             "level": 54,
-            "species": "SPECIES_BLISSEY"
+            "species": "SPECIES_MAGNEZONE"
         },
         {
             "level": 54,
-            "species": "SPECIES_ELECTIVIRE"
+            "species": "SPECIES_TANGROWTH"
         },
         {
             "level": 52,
-            "species": "SPECIES_GYARADOS"
+            "species": "SPECIES_SNORLAX"
         },
         {
             "level": 51,
-            "species": "SPECIES_KINGDRA"
+            "species": "SPECIES_BLISSEY"
         },
         {
             "level": 52,
@@ -23,23 +23,15 @@
         },
         {
             "level": 53,
-            "species": "SPECIES_MILOTIC"
+            "species": "SPECIES_ELECTIVIRE"
         },
         {
             "level": 51,
-            "species": "SPECIES_SNORLAX"
-        },
-        {
-            "level": 53,
             "species": "SPECIES_TOGEKISS"
         },
         {
-            "level": 52,
+            "level": 53,
             "species": "SPECIES_ARCANINE"
-        },
-        {
-            "level": 52,
-            "species": "SPECIES_DRAGONITE"
         },
         {
             "level": 52,
@@ -47,26 +39,34 @@
         },
         {
             "level": 52,
+            "species": "SPECIES_SALAMENCE"
+        },
+        {
+            "level": 52,
             "species": "SPECIES_METAGROSS"
+        },
+        {
+            "level": 52,
+            "species": "SPECIES_TYRANITAR"
         }
     ],
     "swarms": [
-        "SPECIES_ARCANINE",
-        "SPECIES_DRAGONITE"
+        "SPECIES_GARCHOMP",
+        "SPECIES_SALAMENCE"
     ],
     "day": [
-        "SPECIES_BLISSEY",
-        "SPECIES_ELECTIVIRE"
+        "SPECIES_MAGNEZONE",
+        "SPECIES_TANGROWTH"
     ],
     "night": [
-        "SPECIES_GYARADOS",
-        "SPECIES_KINGDRA"
+        "SPECIES_SNORLAX",
+        "SPECIES_BLISSEY"
     ],
     "radar": [
         "SPECIES_MAGMORTAR",
-        "SPECIES_MILOTIC",
-        "SPECIES_SNORLAX",
-        "SPECIES_TOGEKISS"
+        "SPECIES_ELECTIVIRE",
+        "SPECIES_TOGEKISS",
+        "SPECIES_ARCANINE"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

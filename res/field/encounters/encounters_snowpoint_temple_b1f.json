@@ -3,7 +3,19 @@
     "land_encounters": [
         {
             "level": 47,
-            "species": "SPECIES_AERODACTYL"
+            "species": "SPECIES_ROSERADE"
+        },
+        {
+            "level": 48,
+            "species": "SPECIES_GLISCOR"
+        },
+        {
+            "level": 49,
+            "species": "SPECIES_WEAVILE"
+        },
+        {
+            "level": 50,
+            "species": "SPECIES_STEELIX"
         },
         {
             "level": 48,
@@ -11,15 +23,15 @@
         },
         {
             "level": 49,
-            "species": "SPECIES_PORYGON2"
+            "species": "SPECIES_AERODACTYL"
         },
         {
-            "level": 50,
-            "species": "SPECIES_TENTACRUEL"
-        },
-        {
-            "level": 48,
+            "level": 47,
             "species": "SPECIES_YANMEGA"
+        },
+        {
+            "level": 49,
+            "species": "SPECIES_PORYGON2"
         },
         {
             "level": 49,
@@ -31,42 +43,30 @@
         },
         {
             "level": 49,
-            "species": "SPECIES_EXEGGUTOR"
-        },
-        {
-            "level": 49,
             "species": "SPECIES_FLYGON"
         },
         {
             "level": 47,
-            "species": "SPECIES_STARMIE"
-        },
-        {
-            "level": 49,
-            "species": "SPECIES_LUXRAY"
-        },
-        {
-            "level": 47,
-            "species": "SPECIES_CLOYSTER"
+            "species": "SPECIES_EXEGGUTOR"
         }
     ],
     "swarms": [
-        "SPECIES_FLYGON",
-        "SPECIES_STARMIE"
+        "SPECIES_GALLADE",
+        "SPECIES_GARDEVOIR"
     ],
     "day": [
-        "SPECIES_AERODACTYL",
-        "SPECIES_LICKILICKY"
+        "SPECIES_ROSERADE",
+        "SPECIES_GLISCOR"
     ],
     "night": [
-        "SPECIES_PORYGON2",
-        "SPECIES_TENTACRUEL"
+        "SPECIES_WEAVILE",
+        "SPECIES_STEELIX"
     ],
     "radar": [
+        "SPECIES_LICKILICKY",
+        "SPECIES_AERODACTYL",
         "SPECIES_YANMEGA",
-        "SPECIES_GALLADE",
-        "SPECIES_GARDEVOIR",
-        "SPECIES_EXEGGUTOR"
+        "SPECIES_PORYGON2"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

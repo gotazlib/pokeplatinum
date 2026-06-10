@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 25,
-            "species": "SPECIES_BAYLEEF"
+            "species": "SPECIES_ILLUMISE"
         },
         {
             "level": 25,
-            "species": "SPECIES_CHARMELEON"
+            "species": "SPECIES_ROSELIA"
         },
         {
             "level": 26,
+            "species": "SPECIES_QUILAVA"
+        },
+        {
+            "level": 27,
+            "species": "SPECIES_BAYLEEF"
+        },
+        {
+            "level": 27,
             "species": "SPECIES_COMBUSKEN"
         },
         {
             "level": 27,
-            "species": "SPECIES_CROCONAW"
+            "species": "SPECIES_MINUN"
         },
         {
-            "level": 27,
-            "species": "SPECIES_DUGTRIO"
+            "level": 28,
+            "species": "SPECIES_PACHIRISU"
         },
         {
-            "level": 27,
-            "species": "SPECIES_GROTLE"
+            "level": 26,
+            "species": "SPECIES_CHARMELEON"
+        },
+        {
+            "level": 28,
+            "species": "SPECIES_WOBBUFFET"
         },
         {
             "level": 28,
             "species": "SPECIES_GROVYLE"
         },
         {
-            "level": 26,
-            "species": "SPECIES_HAUNTER"
+            "level": 28,
+            "species": "SPECIES_TOGETIC"
         },
         {
             "level": 28,
             "species": "SPECIES_IVYSAUR"
-        },
-        {
-            "level": 28,
-            "species": "SPECIES_MACHOKE"
-        },
-        {
-            "level": 28,
-            "species": "SPECIES_MARSHTOMP"
-        },
-        {
-            "level": 28,
-            "species": "SPECIES_MINUN"
         }
     ],
     "swarms": [
-        "SPECIES_IVYSAUR",
-        "SPECIES_MACHOKE"
+        "SPECIES_WOBBUFFET",
+        "SPECIES_GROVYLE"
     ],
     "day": [
-        "SPECIES_BAYLEEF",
-        "SPECIES_CHARMELEON"
+        "SPECIES_ILLUMISE",
+        "SPECIES_ROSELIA"
     ],
     "night": [
-        "SPECIES_COMBUSKEN",
-        "SPECIES_CROCONAW"
+        "SPECIES_QUILAVA",
+        "SPECIES_BAYLEEF"
     ],
     "radar": [
-        "SPECIES_DUGTRIO",
-        "SPECIES_GROTLE",
-        "SPECIES_GROVYLE",
-        "SPECIES_HAUNTER"
+        "SPECIES_COMBUSKEN",
+        "SPECIES_MINUN",
+        "SPECIES_PACHIRISU",
+        "SPECIES_CHARMELEON"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

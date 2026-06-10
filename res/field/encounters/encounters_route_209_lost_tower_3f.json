@@ -3,39 +3,39 @@
     "land_encounters": [
         {
             "level": 19,
-            "species": "SPECIES_PIPLUP"
+            "species": "SPECIES_DODUO"
         },
         {
             "level": 18,
-            "species": "SPECIES_SQUIRTLE"
+            "species": "SPECIES_GASTLY"
         },
         {
             "level": 20,
-            "species": "SPECIES_TOTODILE"
+            "species": "SPECIES_TREECKO"
         },
         {
             "level": 18,
-            "species": "SPECIES_SLOWPOKE"
+            "species": "SPECIES_SWABLU"
         },
         {
             "level": 19,
-            "species": "SPECIES_BULBASAUR"
+            "species": "SPECIES_TORCHIC"
         },
         {
             "level": 18,
-            "species": "SPECIES_CHIKORITA"
+            "species": "SPECIES_MIME_JR"
         },
         {
             "level": 20,
+            "species": "SPECIES_CHIKORITA"
+        },
+        {
+            "level": 21,
+            "species": "SPECIES_BULBASAUR"
+        },
+        {
+            "level": 21,
             "species": "SPECIES_TURTWIG"
-        },
-        {
-            "level": 21,
-            "species": "SPECIES_CUBONE"
-        },
-        {
-            "level": 21,
-            "species": "SPECIES_GOLDEEN"
         },
         {
             "level": 21,
@@ -47,26 +47,26 @@
         },
         {
             "level": 21,
-            "species": "SPECIES_PSYDUCK"
+            "species": "SPECIES_CUBONE"
         }
     ],
     "swarms": [
-        "SPECIES_GOLDEEN",
+        "SPECIES_TURTWIG",
         "SPECIES_NATU"
     ],
     "day": [
-        "SPECIES_PIPLUP",
-        "SPECIES_SQUIRTLE"
+        "SPECIES_DODUO",
+        "SPECIES_GASTLY"
     ],
     "night": [
-        "SPECIES_TOTODILE",
-        "SPECIES_SLOWPOKE"
+        "SPECIES_TREECKO",
+        "SPECIES_SWABLU"
     ],
     "radar": [
-        "SPECIES_BULBASAUR",
+        "SPECIES_TORCHIC",
+        "SPECIES_MIME_JR",
         "SPECIES_CHIKORITA",
-        "SPECIES_TURTWIG",
-        "SPECIES_CUBONE"
+        "SPECIES_BULBASAUR"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

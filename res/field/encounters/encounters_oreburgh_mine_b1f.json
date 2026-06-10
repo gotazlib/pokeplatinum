@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 5,
+            "species": "SPECIES_BURMY"
+        },
+        {
+            "level": 6,
             "species": "SPECIES_SHEDINJA"
         },
         {
-            "level": 6,
+            "level": 5,
             "species": "SPECIES_MAKUHITA"
         },
         {
-            "level": 5,
+            "level": 6,
             "species": "SPECIES_WHISMUR"
         },
         {
-            "level": 6,
+            "level": 4,
             "species": "SPECIES_ZIGZAGOON"
         },
         {
-            "level": 4,
+            "level": 7,
             "species": "SPECIES_COMBEE"
         },
         {
-            "level": 7,
-            "species": "SPECIES_STARLY"
-        },
-        {
             "level": 6,
-            "species": "SPECIES_TOGEPI"
-        },
-        {
-            "level": 8,
             "species": "SPECIES_ZUBAT"
         },
         {
             "level": 8,
-            "species": "SPECIES_BIDOOF"
-        },
-        {
-            "level": 7,
-            "species": "SPECIES_HOPPIP"
+            "species": "SPECIES_STARLY"
         },
         {
             "level": 8,
-            "species": "SPECIES_MARILL"
+            "species": "SPECIES_TOGEPI"
         },
         {
             "level": 7,
-            "species": "SPECIES_SLUGMA"
+            "species": "SPECIES_SPINARAK"
+        },
+        {
+            "level": 8,
+            "species": "SPECIES_HOPPIP"
+        },
+        {
+            "level": 7,
+            "species": "SPECIES_SMEARGLE"
         }
     ],
     "swarms": [
-        "SPECIES_BIDOOF",
-        "SPECIES_HOPPIP"
+        "SPECIES_TOGEPI",
+        "SPECIES_SPINARAK"
     ],
     "day": [
-        "SPECIES_SHEDINJA",
-        "SPECIES_MAKUHITA"
+        "SPECIES_BURMY",
+        "SPECIES_SHEDINJA"
     ],
     "night": [
-        "SPECIES_WHISMUR",
-        "SPECIES_ZIGZAGOON"
+        "SPECIES_MAKUHITA",
+        "SPECIES_WHISMUR"
     ],
     "radar": [
+        "SPECIES_ZIGZAGOON",
         "SPECIES_COMBEE",
-        "SPECIES_STARLY",
-        "SPECIES_TOGEPI",
-        "SPECIES_ZUBAT"
+        "SPECIES_ZUBAT",
+        "SPECIES_STARLY"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

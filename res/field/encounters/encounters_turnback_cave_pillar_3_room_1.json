@@ -3,35 +3,43 @@
     "land_encounters": [
         {
             "level": 35,
-            "species": "SPECIES_SOLROCK"
+            "species": "SPECIES_VIGOROTH"
         },
         {
             "level": 35,
-            "species": "SPECIES_VIGOROTH"
+            "species": "SPECIES_PERSIAN"
+        },
+        {
+            "level": 36,
+            "species": "SPECIES_LUNATONE"
+        },
+        {
+            "level": 37,
+            "species": "SPECIES_SOLROCK"
+        },
+        {
+            "level": 37,
+            "species": "SPECIES_ROTOM"
+        },
+        {
+            "level": 37,
+            "species": "SPECIES_KECLEON"
+        },
+        {
+            "level": 38,
+            "species": "SPECIES_NOCTOWL"
         },
         {
             "level": 36,
             "species": "SPECIES_FEAROW"
         },
         {
-            "level": 37,
-            "species": "SPECIES_NOCTOWL"
-        },
-        {
-            "level": 37,
-            "species": "SPECIES_CHANSEY"
-        },
-        {
-            "level": 37,
+            "level": 38,
             "species": "SPECIES_CHERRIM"
         },
         {
             "level": 38,
             "species": "SPECIES_GRANBULL"
-        },
-        {
-            "level": 36,
-            "species": "SPECIES_JUMPLUFF"
         },
         {
             "level": 38,
@@ -40,33 +48,25 @@
         {
             "level": 38,
             "species": "SPECIES_SANDSLASH"
-        },
-        {
-            "level": 38,
-            "species": "SPECIES_SEAKING"
-        },
-        {
-            "level": 38,
-            "species": "SPECIES_VENOMOTH"
         }
     ],
     "swarms": [
-        "SPECIES_PILOSWINE",
-        "SPECIES_SANDSLASH"
+        "SPECIES_CHERRIM",
+        "SPECIES_GRANBULL"
     ],
     "day": [
-        "SPECIES_SOLROCK",
-        "SPECIES_VIGOROTH"
+        "SPECIES_VIGOROTH",
+        "SPECIES_PERSIAN"
     ],
     "night": [
-        "SPECIES_FEAROW",
-        "SPECIES_NOCTOWL"
+        "SPECIES_LUNATONE",
+        "SPECIES_SOLROCK"
     ],
     "radar": [
-        "SPECIES_CHANSEY",
-        "SPECIES_CHERRIM",
-        "SPECIES_GRANBULL",
-        "SPECIES_JUMPLUFF"
+        "SPECIES_ROTOM",
+        "SPECIES_KECLEON",
+        "SPECIES_NOCTOWL",
+        "SPECIES_FEAROW"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

@@ -3,19 +3,15 @@
     "land_encounters": [
         {
             "level": 15,
-            "species": "SPECIES_LARVITAR"
+            "species": "SPECIES_BALTOY"
         },
         {
             "level": 15,
-            "species": "SPECIES_PIKACHU"
+            "species": "SPECIES_GIBLE"
         },
         {
             "level": 16,
-            "species": "SPECIES_POLIWAG"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_REMORAID"
+            "species": "SPECIES_BELDUM"
         },
         {
             "level": 17,
@@ -23,50 +19,54 @@
         },
         {
             "level": 17,
+            "species": "SPECIES_PIKACHU"
+        },
+        {
+            "level": 17,
+            "species": "SPECIES_LARVITAR"
+        },
+        {
+            "level": 18,
+            "species": "SPECIES_GEODUDE"
+        },
+        {
+            "level": 16,
             "species": "SPECIES_SNORUNT"
+        },
+        {
+            "level": 18,
+            "species": "SPECIES_BAGON"
         },
         {
             "level": 18,
             "species": "SPECIES_SNUBBULL"
         },
         {
-            "level": 16,
-            "species": "SPECIES_GULPIN"
+            "level": 18,
+            "species": "SPECIES_BRONZOR"
         },
         {
             "level": 18,
-            "species": "SPECIES_CARVANHA"
-        },
-        {
-            "level": 18,
-            "species": "SPECIES_MACHOP"
-        },
-        {
-            "level": 18,
-            "species": "SPECIES_MANKEY"
-        },
-        {
-            "level": 18,
-            "species": "SPECIES_NUMEL"
+            "species": "SPECIES_DRATINI"
         }
     ],
     "swarms": [
-        "SPECIES_CARVANHA",
-        "SPECIES_MACHOP"
+        "SPECIES_BAGON",
+        "SPECIES_SNUBBULL"
     ],
     "day": [
-        "SPECIES_LARVITAR",
-        "SPECIES_PIKACHU"
+        "SPECIES_BALTOY",
+        "SPECIES_GIBLE"
     ],
     "night": [
-        "SPECIES_POLIWAG",
-        "SPECIES_REMORAID"
+        "SPECIES_BELDUM",
+        "SPECIES_SANDSHREW"
     ],
     "radar": [
-        "SPECIES_SANDSHREW",
-        "SPECIES_SNORUNT",
-        "SPECIES_SNUBBULL",
-        "SPECIES_GULPIN"
+        "SPECIES_PIKACHU",
+        "SPECIES_LARVITAR",
+        "SPECIES_GEODUDE",
+        "SPECIES_SNORUNT"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

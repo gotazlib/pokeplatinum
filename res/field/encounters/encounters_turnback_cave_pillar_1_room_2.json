@@ -3,31 +3,31 @@
     "land_encounters": [
         {
             "level": 15,
-            "species": "SPECIES_BALTOY"
+            "species": "SPECIES_DUSKULL"
         },
         {
             "level": 15,
-            "species": "SPECIES_BELDUM"
+            "species": "SPECIES_ELECTRIKE"
         },
         {
             "level": 16,
+            "species": "SPECIES_SHUPPET"
+        },
+        {
+            "level": 17,
+            "species": "SPECIES_SHROOMISH"
+        },
+        {
+            "level": 17,
+            "species": "SPECIES_VULPIX"
+        },
+        {
+            "level": 17,
             "species": "SPECIES_BELLSPROUT"
         },
         {
-            "level": 17,
-            "species": "SPECIES_BRONZOR"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_CROAGUNK"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_DRATINI"
-        },
-        {
             "level": 18,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_BALTOY"
         },
         {
             "level": 16,
@@ -35,7 +35,11 @@
         },
         {
             "level": 18,
-            "species": "SPECIES_LARVITAR"
+            "species": "SPECIES_BELDUM"
+        },
+        {
+            "level": 18,
+            "species": "SPECIES_SANDSHREW"
         },
         {
             "level": 18,
@@ -43,29 +47,25 @@
         },
         {
             "level": 18,
-            "species": "SPECIES_POLIWAG"
-        },
-        {
-            "level": 18,
-            "species": "SPECIES_REMORAID"
+            "species": "SPECIES_LARVITAR"
         }
     ],
     "swarms": [
-        "SPECIES_LARVITAR",
-        "SPECIES_PIKACHU"
+        "SPECIES_BELDUM",
+        "SPECIES_SANDSHREW"
     ],
     "day": [
-        "SPECIES_BALTOY",
-        "SPECIES_BELDUM"
+        "SPECIES_DUSKULL",
+        "SPECIES_ELECTRIKE"
     ],
     "night": [
-        "SPECIES_BELLSPROUT",
-        "SPECIES_BRONZOR"
+        "SPECIES_SHUPPET",
+        "SPECIES_SHROOMISH"
     ],
     "radar": [
-        "SPECIES_CROAGUNK",
-        "SPECIES_DRATINI",
-        "SPECIES_GEODUDE",
+        "SPECIES_VULPIX",
+        "SPECIES_BELLSPROUT",
+        "SPECIES_BALTOY",
         "SPECIES_GIBLE"
     ],
     "rate_form0": 100,

@@ -3,19 +3,19 @@
     "land_encounters": [
         {
             "level": 45,
-            "species": "SPECIES_BASTIODON"
+            "species": "SPECIES_ABOMASNOW"
+        },
+        {
+            "level": 45,
+            "species": "SPECIES_ARMALDO"
+        },
+        {
+            "level": 46,
+            "species": "SPECIES_RAMPARDOS"
         },
         {
             "level": 45,
             "species": "SPECIES_CRADILY"
-        },
-        {
-            "level": 46,
-            "species": "SPECIES_FLOATZEL"
-        },
-        {
-            "level": 45,
-            "species": "SPECIES_KABUTOPS"
         },
         {
             "level": 47,
@@ -23,15 +23,15 @@
         },
         {
             "level": 46,
-            "species": "SPECIES_MISMAGIUS"
+            "species": "SPECIES_KABUTOPS"
         },
         {
             "level": 47,
-            "species": "SPECIES_NIDOKING"
+            "species": "SPECIES_BASTIODON"
         },
         {
             "level": 46,
-            "species": "SPECIES_NIDOQUEEN"
+            "species": "SPECIES_MISMAGIUS"
         },
         {
             "level": 47,
@@ -39,34 +39,34 @@
         },
         {
             "level": 45,
-            "species": "SPECIES_RAMPARDOS"
+            "species": "SPECIES_NIDOKING"
         },
         {
             "level": 48,
-            "species": "SPECIES_DRIFBLIM"
+            "species": "SPECIES_NIDOQUEEN"
         },
         {
             "level": 47,
-            "species": "SPECIES_AMPHAROS"
+            "species": "SPECIES_DRIFBLIM"
         }
     ],
     "swarms": [
         "SPECIES_OMASTAR",
-        "SPECIES_RAMPARDOS"
+        "SPECIES_NIDOKING"
     ],
     "day": [
-        "SPECIES_BASTIODON",
-        "SPECIES_CRADILY"
+        "SPECIES_ABOMASNOW",
+        "SPECIES_ARMALDO"
     ],
     "night": [
-        "SPECIES_FLOATZEL",
-        "SPECIES_KABUTOPS"
+        "SPECIES_RAMPARDOS",
+        "SPECIES_CRADILY"
     ],
     "radar": [
         "SPECIES_MAGMAR",
-        "SPECIES_MISMAGIUS",
-        "SPECIES_NIDOKING",
-        "SPECIES_NIDOQUEEN"
+        "SPECIES_KABUTOPS",
+        "SPECIES_BASTIODON",
+        "SPECIES_MISMAGIUS"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

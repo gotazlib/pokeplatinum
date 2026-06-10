@@ -3,7 +3,7 @@
     "land_encounters": [
         {
             "level": 37,
-            "species": "SPECIES_JYNX"
+            "species": "SPECIES_DUSCLOPS"
         },
         {
             "level": 38,
@@ -11,62 +11,62 @@
         },
         {
             "level": 37,
-            "species": "SPECIES_NINJASK"
+            "species": "SPECIES_GIRAFARIG"
         },
         {
             "level": 36,
-            "species": "SPECIES_SEVIPER"
+            "species": "SPECIES_BANETTE"
         },
         {
             "level": 39,
-            "species": "SPECIES_ZANGOOSE"
+            "species": "SPECIES_HITMONCHAN"
         },
         {
             "level": 39,
-            "species": "SPECIES_BRELOOM"
+            "species": "SPECIES_GOLBAT"
         },
         {
             "level": 36,
-            "species": "SPECIES_CAMERUPT"
+            "species": "SPECIES_HITMONTOP"
         },
         {
             "level": 37,
-            "species": "SPECIES_DODRIO"
+            "species": "SPECIES_JYNX"
         },
         {
             "level": 38,
-            "species": "SPECIES_LANTURN"
+            "species": "SPECIES_HITMONLEE"
         },
         {
             "level": 38,
-            "species": "SPECIES_LUMINEON"
+            "species": "SPECIES_NINJASK"
         },
         {
             "level": 38,
-            "species": "SPECIES_MR_MIME"
+            "species": "SPECIES_ZANGOOSE"
         },
         {
             "level": 38,
-            "species": "SPECIES_SHARPEDO"
+            "species": "SPECIES_SEVIPER"
         }
     ],
     "swarms": [
-        "SPECIES_LANTURN",
-        "SPECIES_LUMINEON"
+        "SPECIES_HITMONLEE",
+        "SPECIES_NINJASK"
     ],
     "day": [
-        "SPECIES_JYNX",
+        "SPECIES_DUSCLOPS",
         "SPECIES_PRIMEAPE"
     ],
     "night": [
-        "SPECIES_NINJASK",
-        "SPECIES_SEVIPER"
+        "SPECIES_GIRAFARIG",
+        "SPECIES_BANETTE"
     ],
     "radar": [
-        "SPECIES_ZANGOOSE",
-        "SPECIES_BRELOOM",
-        "SPECIES_CAMERUPT",
-        "SPECIES_DODRIO"
+        "SPECIES_HITMONCHAN",
+        "SPECIES_GOLBAT",
+        "SPECIES_HITMONTOP",
+        "SPECIES_JYNX"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

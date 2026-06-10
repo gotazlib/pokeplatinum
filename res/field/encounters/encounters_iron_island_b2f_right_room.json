@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 32,
-            "species": "SPECIES_MOTHIM"
+            "species": "SPECIES_DRAGONAIR"
+        },
+        {
+            "level": 33,
+            "species": "SPECIES_MIGHTYENA"
+        },
+        {
+            "level": 31,
+            "species": "SPECIES_METANG"
+        },
+        {
+            "level": 33,
+            "species": "SPECIES_LINOONE"
         },
         {
             "level": 33,
             "species": "SPECIES_WORMADAM"
         },
         {
-            "level": 31,
-            "species": "SPECIES_CHIMECHO"
+            "level": 34,
+            "species": "SPECIES_MOTHIM"
         },
         {
             "level": 33,
             "species": "SPECIES_MAROWAK"
         },
         {
-            "level": 33,
-            "species": "SPECIES_SUNFLORA"
-        },
-        {
-            "level": 34,
+            "level": 35,
             "species": "SPECIES_WIGGLYTUFF"
         },
         {
-            "level": 33,
+            "level": 31,
+            "species": "SPECIES_SUNFLORA"
+        },
+        {
+            "level": 32,
+            "species": "SPECIES_CHIMECHO"
+        },
+        {
+            "level": 31,
+            "species": "SPECIES_SWELLOW"
+        },
+        {
+            "level": 32,
             "species": "SPECIES_GLIGAR"
-        },
-        {
-            "level": 35,
-            "species": "SPECIES_LAIRON"
-        },
-        {
-            "level": 31,
-            "species": "SPECIES_PELIPPER"
-        },
-        {
-            "level": 32,
-            "species": "SPECIES_QUAGSIRE"
-        },
-        {
-            "level": 31,
-            "species": "SPECIES_QWILFISH"
-        },
-        {
-            "level": 32,
-            "species": "SPECIES_SNEASEL"
         }
     ],
     "swarms": [
-        "SPECIES_PELIPPER",
-        "SPECIES_QUAGSIRE"
+        "SPECIES_SUNFLORA",
+        "SPECIES_CHIMECHO"
     ],
     "day": [
-        "SPECIES_MOTHIM",
-        "SPECIES_WORMADAM"
+        "SPECIES_DRAGONAIR",
+        "SPECIES_MIGHTYENA"
     ],
     "night": [
-        "SPECIES_CHIMECHO",
-        "SPECIES_MAROWAK"
+        "SPECIES_METANG",
+        "SPECIES_LINOONE"
     ],
     "radar": [
-        "SPECIES_SUNFLORA",
-        "SPECIES_WIGGLYTUFF",
-        "SPECIES_GLIGAR",
-        "SPECIES_LAIRON"
+        "SPECIES_WORMADAM",
+        "SPECIES_MOTHIM",
+        "SPECIES_MAROWAK",
+        "SPECIES_WIGGLYTUFF"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 20,
-            "species": "SPECIES_VIBRAVA"
-        },
-        {
-            "level": 21,
-            "species": "SPECIES_CLAMPERL"
-        },
-        {
-            "level": 22,
-            "species": "SPECIES_MANTYKE"
-        },
-        {
-            "level": 23,
-            "species": "SPECIES_RHYHORN"
-        },
-        {
-            "level": 24,
             "species": "SPECIES_DRIFLOON"
         },
         {
-            "level": 25,
+            "level": 21,
             "species": "SPECIES_PIDGEOTTO"
         },
         {
-            "level": 26,
-            "species": "SPECIES_BUNEARY"
-        },
-        {
-            "level": 27,
+            "level": 22,
             "species": "SPECIES_CRANIDOS"
         },
         {
-            "level": 28,
+            "level": 23,
+            "species": "SPECIES_BUNEARY"
+        },
+        {
+            "level": 24,
             "species": "SPECIES_GROWLITHE"
         },
         {
-            "level": 29,
+            "level": 25,
             "species": "SPECIES_SHIELDON"
         },
         {
-            "level": 30,
+            "level": 26,
             "species": "SPECIES_FARFETCHD"
+        },
+        {
+            "level": 27,
+            "species": "SPECIES_OMANYTE"
+        },
+        {
+            "level": 28,
+            "species": "SPECIES_LILEEP"
+        },
+        {
+            "level": 29,
+            "species": "SPECIES_KABUTO"
         },
         {
             "level": 30,
             "species": "SPECIES_ANORITH"
+        },
+        {
+            "level": 30,
+            "species": "SPECIES_LOUDRED"
         }
     ],
     "swarms": [
-        "SPECIES_GROWLITHE",
-        "SPECIES_SHIELDON"
+        "SPECIES_LILEEP",
+        "SPECIES_KABUTO"
     ],
     "day": [
-        "SPECIES_VIBRAVA",
-        "SPECIES_CLAMPERL"
+        "SPECIES_DRIFLOON",
+        "SPECIES_PIDGEOTTO"
     ],
     "night": [
-        "SPECIES_MANTYKE",
-        "SPECIES_RHYHORN"
+        "SPECIES_CRANIDOS",
+        "SPECIES_BUNEARY"
     ],
     "radar": [
-        "SPECIES_DRIFLOON",
-        "SPECIES_PIDGEOTTO",
-        "SPECIES_BUNEARY",
-        "SPECIES_CRANIDOS"
+        "SPECIES_GROWLITHE",
+        "SPECIES_SHIELDON",
+        "SPECIES_FARFETCHD",
+        "SPECIES_OMANYTE"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

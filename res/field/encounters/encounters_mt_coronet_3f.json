@@ -3,35 +3,43 @@
     "land_encounters": [
         {
             "level": 37,
-            "species": "SPECIES_NINJASK"
+            "species": "SPECIES_BANETTE"
         },
         {
             "level": 38,
-            "species": "SPECIES_SEVIPER"
+            "species": "SPECIES_HITMONCHAN"
+        },
+        {
+            "level": 37,
+            "species": "SPECIES_GOLBAT"
+        },
+        {
+            "level": 36,
+            "species": "SPECIES_HITMONTOP"
+        },
+        {
+            "level": 39,
+            "species": "SPECIES_JYNX"
+        },
+        {
+            "level": 39,
+            "species": "SPECIES_HITMONLEE"
+        },
+        {
+            "level": 36,
+            "species": "SPECIES_NINJASK"
         },
         {
             "level": 37,
             "species": "SPECIES_ZANGOOSE"
         },
         {
-            "level": 36,
+            "level": 38,
+            "species": "SPECIES_SEVIPER"
+        },
+        {
+            "level": 38,
             "species": "SPECIES_BRELOOM"
-        },
-        {
-            "level": 39,
-            "species": "SPECIES_CAMERUPT"
-        },
-        {
-            "level": 39,
-            "species": "SPECIES_DODRIO"
-        },
-        {
-            "level": 36,
-            "species": "SPECIES_LANTURN"
-        },
-        {
-            "level": 37,
-            "species": "SPECIES_LUMINEON"
         },
         {
             "level": 38,
@@ -39,34 +47,26 @@
         },
         {
             "level": 38,
-            "species": "SPECIES_SHARPEDO"
-        },
-        {
-            "level": 38,
-            "species": "SPECIES_TROPIUS"
-        },
-        {
-            "level": 38,
-            "species": "SPECIES_ABSOL"
+            "species": "SPECIES_CAMERUPT"
         }
     ],
     "swarms": [
-        "SPECIES_MR_MIME",
-        "SPECIES_SHARPEDO"
-    ],
-    "day": [
-        "SPECIES_NINJASK",
-        "SPECIES_SEVIPER"
-    ],
-    "night": [
-        "SPECIES_ZANGOOSE",
+        "SPECIES_SEVIPER",
         "SPECIES_BRELOOM"
     ],
+    "day": [
+        "SPECIES_BANETTE",
+        "SPECIES_HITMONCHAN"
+    ],
+    "night": [
+        "SPECIES_GOLBAT",
+        "SPECIES_HITMONTOP"
+    ],
     "radar": [
-        "SPECIES_CAMERUPT",
-        "SPECIES_DODRIO",
-        "SPECIES_LANTURN",
-        "SPECIES_LUMINEON"
+        "SPECIES_JYNX",
+        "SPECIES_HITMONLEE",
+        "SPECIES_NINJASK",
+        "SPECIES_ZANGOOSE"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

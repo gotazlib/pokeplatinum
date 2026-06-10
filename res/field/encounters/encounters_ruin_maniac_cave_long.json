@@ -11,19 +11,19 @@
         },
         {
             "level": 22,
-            "species": "SPECIES_BUIZEL"
+            "species": "SPECIES_SPOINK"
         },
         {
             "level": 24,
-            "species": "SPECIES_CHINCHOU"
+            "species": "SPECIES_VOLTORB"
         },
         {
             "level": 24,
-            "species": "SPECIES_DELIBIRD"
+            "species": "SPECIES_TEDDIURSA"
         },
         {
             "level": 24,
-            "species": "SPECIES_FINNEON"
+            "species": "SPECIES_SKORUPI"
         },
         {
             "level": 24,
@@ -31,11 +31,11 @@
         },
         {
             "level": 24,
-            "species": "SPECIES_HOUNDOUR"
+            "species": "SPECIES_DELIBIRD"
         },
         {
             "level": 24,
-            "species": "SPECIES_LUVDISC"
+            "species": "SPECIES_HOUNDOUR"
         },
         {
             "level": 23,
@@ -43,15 +43,15 @@
         },
         {
             "level": 24,
-            "species": "SPECIES_SKORUPI"
+            "species": "SPECIES_SNOVER"
         },
         {
             "level": 25,
-            "species": "SPECIES_SPOINK"
+            "species": "SPECIES_CACNEA"
         }
     ],
     "swarms": [
-        "SPECIES_LUVDISC",
+        "SPECIES_HOUNDOUR",
         "SPECIES_PHANPY"
     ],
     "day": [
@@ -59,14 +59,14 @@
         "SPECIES_ARON"
     ],
     "night": [
-        "SPECIES_BUIZEL",
-        "SPECIES_CHINCHOU"
+        "SPECIES_SPOINK",
+        "SPECIES_VOLTORB"
     ],
     "radar": [
-        "SPECIES_DELIBIRD",
-        "SPECIES_FINNEON",
+        "SPECIES_TEDDIURSA",
+        "SPECIES_SKORUPI",
         "SPECIES_HIPPOPOTAS",
-        "SPECIES_HOUNDOUR"
+        "SPECIES_DELIBIRD"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

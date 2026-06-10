@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 45,
-            "species": "SPECIES_VILEPLUME"
+            "species": "SPECIES_VICTREEBEL"
         },
         {
             "level": 45,
+            "species": "SPECIES_BELLOSSOM"
+        },
+        {
+            "level": 46,
+            "species": "SPECIES_ELECTRODE"
+        },
+        {
+            "level": 45,
+            "species": "SPECIES_FROSLASS"
+        },
+        {
+            "level": 47,
+            "species": "SPECIES_EXPLOUD"
+        },
+        {
+            "level": 46,
             "species": "SPECIES_AMBIPOM"
         },
         {
-            "level": 46,
+            "level": 47,
             "species": "SPECIES_HYPNO"
         },
         {
-            "level": 45,
-            "species": "SPECIES_GOLEM"
-        },
-        {
-            "level": 47,
-            "species": "SPECIES_GOREBYSS"
-        },
-        {
             "level": 46,
-            "species": "SPECIES_HUNTAIL"
-        },
-        {
-            "level": 47,
-            "species": "SPECIES_RELICANTH"
-        },
-        {
-            "level": 46,
-            "species": "SPECIES_RHYDON"
-        },
-        {
-            "level": 47,
             "species": "SPECIES_SPIRITOMB"
         },
         {
+            "level": 47,
+            "species": "SPECIES_GOLEM"
+        },
+        {
             "level": 45,
-            "species": "SPECIES_ALAKAZAM"
+            "species": "SPECIES_RHYDON"
         },
         {
             "level": 48,
-            "species": "SPECIES_ALTARIA"
+            "species": "SPECIES_TOXICROAK"
         },
         {
             "level": 47,
-            "species": "SPECIES_ELECTABUZZ"
+            "species": "SPECIES_ALAKAZAM"
         }
     ],
     "swarms": [
-        "SPECIES_SPIRITOMB",
-        "SPECIES_ALAKAZAM"
+        "SPECIES_GOLEM",
+        "SPECIES_RHYDON"
     ],
     "day": [
-        "SPECIES_VILEPLUME",
-        "SPECIES_AMBIPOM"
+        "SPECIES_VICTREEBEL",
+        "SPECIES_BELLOSSOM"
     ],
     "night": [
-        "SPECIES_HYPNO",
-        "SPECIES_GOLEM"
+        "SPECIES_ELECTRODE",
+        "SPECIES_FROSLASS"
     ],
     "radar": [
-        "SPECIES_GOREBYSS",
-        "SPECIES_HUNTAIL",
-        "SPECIES_RELICANTH",
-        "SPECIES_RHYDON"
+        "SPECIES_EXPLOUD",
+        "SPECIES_AMBIPOM",
+        "SPECIES_HYPNO",
+        "SPECIES_SPIRITOMB"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

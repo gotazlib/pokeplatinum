@@ -3,19 +3,19 @@
     "land_encounters": [
         {
             "level": 45,
-            "species": "SPECIES_AMPHAROS"
+            "species": "SPECIES_OMASTAR"
         },
         {
             "level": 45,
-            "species": "SPECIES_BRONZONG"
+            "species": "SPECIES_NIDOKING"
         },
         {
             "level": 46,
-            "species": "SPECIES_CLAYDOL"
+            "species": "SPECIES_NIDOQUEEN"
         },
         {
             "level": 45,
-            "species": "SPECIES_DONPHAN"
+            "species": "SPECIES_DRIFBLIM"
         },
         {
             "level": 47,
@@ -23,50 +23,50 @@
         },
         {
             "level": 46,
+            "species": "SPECIES_RAPIDASH"
+        },
+        {
+            "level": 47,
+            "species": "SPECIES_PINSIR"
+        },
+        {
+            "level": 46,
+            "species": "SPECIES_MUK"
+        },
+        {
+            "level": 47,
+            "species": "SPECIES_SCIZOR"
+        },
+        {
+            "level": 45,
+            "species": "SPECIES_SCYTHER"
+        },
+        {
+            "level": 48,
             "species": "SPECIES_GENGAR"
         },
         {
             "level": 47,
-            "species": "SPECIES_GOLDUCK"
-        },
-        {
-            "level": 46,
-            "species": "SPECIES_HERACROSS"
-        },
-        {
-            "level": 47,
-            "species": "SPECIES_HOUNDOOM"
-        },
-        {
-            "level": 45,
-            "species": "SPECIES_MUK"
-        },
-        {
-            "level": 48,
-            "species": "SPECIES_PINSIR"
-        },
-        {
-            "level": 47,
-            "species": "SPECIES_POLITOED"
+            "species": "SPECIES_URSARING"
         }
     ],
     "swarms": [
-        "SPECIES_HOUNDOOM",
-        "SPECIES_MUK"
+        "SPECIES_SCIZOR",
+        "SPECIES_SCYTHER"
     ],
     "day": [
-        "SPECIES_AMPHAROS",
-        "SPECIES_BRONZONG"
+        "SPECIES_OMASTAR",
+        "SPECIES_NIDOKING"
     ],
     "night": [
-        "SPECIES_CLAYDOL",
-        "SPECIES_DONPHAN"
+        "SPECIES_NIDOQUEEN",
+        "SPECIES_DRIFBLIM"
     ],
     "radar": [
         "SPECIES_DRAPION",
-        "SPECIES_GENGAR",
-        "SPECIES_GOLDUCK",
-        "SPECIES_HERACROSS"
+        "SPECIES_RAPIDASH",
+        "SPECIES_PINSIR",
+        "SPECIES_MUK"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

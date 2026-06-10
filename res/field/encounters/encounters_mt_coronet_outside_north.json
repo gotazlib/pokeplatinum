@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 36,
-            "species": "SPECIES_WHISCASH"
+            "species": "SPECIES_MAGNETON"
         },
         {
             "level": 38,
+            "species": "SPECIES_STANTLER"
+        },
+        {
+            "level": 38,
+            "species": "SPECIES_SKARMORY"
+        },
+        {
+            "level": 39,
+            "species": "SPECIES_FORRETRESS"
+        },
+        {
+            "level": 40,
+            "species": "SPECIES_SWALOT"
+        },
+        {
+            "level": 40,
             "species": "SPECIES_PIDGEOT"
         },
         {
-            "level": 38,
+            "level": 37,
             "species": "SPECIES_GRUMPIG"
         },
         {
-            "level": 39,
+            "level": 38,
             "species": "SPECIES_TORKOAL"
         },
         {
-            "level": 40,
+            "level": 38,
             "species": "SPECIES_XATU"
         },
         {
-            "level": 40,
+            "level": 39,
             "species": "SPECIES_CLEFABLE"
         },
         {
-            "level": 37,
+            "level": 40,
             "species": "SPECIES_HARIYAMA"
         },
         {
-            "level": 38,
+            "level": 39,
             "species": "SPECIES_VESPIQUEN"
-        },
-        {
-            "level": 38,
-            "species": "SPECIES_CACTURNE"
-        },
-        {
-            "level": 39,
-            "species": "SPECIES_DEWGONG"
-        },
-        {
-            "level": 40,
-            "species": "SPECIES_GASTRODON"
-        },
-        {
-            "level": 39,
-            "species": "SPECIES_KINGLER"
         }
     ],
     "swarms": [
-        "SPECIES_CACTURNE",
-        "SPECIES_DEWGONG"
+        "SPECIES_XATU",
+        "SPECIES_CLEFABLE"
     ],
     "day": [
-        "SPECIES_WHISCASH",
-        "SPECIES_PIDGEOT"
+        "SPECIES_MAGNETON",
+        "SPECIES_STANTLER"
     ],
     "night": [
-        "SPECIES_GRUMPIG",
-        "SPECIES_TORKOAL"
+        "SPECIES_SKARMORY",
+        "SPECIES_FORRETRESS"
     ],
     "radar": [
-        "SPECIES_XATU",
-        "SPECIES_CLEFABLE",
-        "SPECIES_HARIYAMA",
-        "SPECIES_VESPIQUEN"
+        "SPECIES_SWALOT",
+        "SPECIES_PIDGEOT",
+        "SPECIES_GRUMPIG",
+        "SPECIES_TORKOAL"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

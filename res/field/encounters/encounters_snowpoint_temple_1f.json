@@ -3,35 +3,43 @@
     "land_encounters": [
         {
             "level": 47,
-            "species": "SPECIES_PORYGON2"
+            "species": "SPECIES_WEAVILE"
         },
         {
             "level": 48,
-            "species": "SPECIES_TENTACRUEL"
+            "species": "SPECIES_STEELIX"
         },
         {
             "level": 49,
-            "species": "SPECIES_YANMEGA"
+            "species": "SPECIES_LICKILICKY"
         },
         {
             "level": 50,
-            "species": "SPECIES_GALLADE"
+            "species": "SPECIES_AERODACTYL"
         },
         {
             "level": 48,
+            "species": "SPECIES_YANMEGA"
+        },
+        {
+            "level": 49,
+            "species": "SPECIES_PORYGON2"
+        },
+        {
+            "level": 47,
+            "species": "SPECIES_GALLADE"
+        },
+        {
+            "level": 49,
             "species": "SPECIES_GARDEVOIR"
         },
         {
             "level": 49,
-            "species": "SPECIES_EXEGGUTOR"
-        },
-        {
-            "level": 47,
             "species": "SPECIES_FLYGON"
         },
         {
-            "level": 49,
-            "species": "SPECIES_STARMIE"
+            "level": 47,
+            "species": "SPECIES_EXEGGUTOR"
         },
         {
             "level": 49,
@@ -39,34 +47,26 @@
         },
         {
             "level": 47,
-            "species": "SPECIES_CLOYSTER"
-        },
-        {
-            "level": 49,
-            "species": "SPECIES_DUSKNOIR"
-        },
-        {
-            "level": 47,
-            "species": "SPECIES_ESPEON"
+            "species": "SPECIES_JOLTEON"
         }
     ],
     "swarms": [
-        "SPECIES_LUXRAY",
-        "SPECIES_CLOYSTER"
+        "SPECIES_FLYGON",
+        "SPECIES_EXEGGUTOR"
     ],
     "day": [
-        "SPECIES_PORYGON2",
-        "SPECIES_TENTACRUEL"
+        "SPECIES_WEAVILE",
+        "SPECIES_STEELIX"
     ],
     "night": [
-        "SPECIES_YANMEGA",
-        "SPECIES_GALLADE"
+        "SPECIES_LICKILICKY",
+        "SPECIES_AERODACTYL"
     ],
     "radar": [
-        "SPECIES_GARDEVOIR",
-        "SPECIES_EXEGGUTOR",
-        "SPECIES_FLYGON",
-        "SPECIES_STARMIE"
+        "SPECIES_YANMEGA",
+        "SPECIES_PORYGON2",
+        "SPECIES_GALLADE",
+        "SPECIES_GARDEVOIR"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

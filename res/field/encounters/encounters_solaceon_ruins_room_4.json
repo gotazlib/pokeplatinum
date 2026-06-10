@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 20,
-            "species": "SPECIES_SPOINK"
+            "species": "SPECIES_HOUNDOUR"
         },
         {
             "level": 21,
-            "species": "SPECIES_TEDDIURSA"
+            "species": "SPECIES_PHANPY"
         },
         {
             "level": 22,
-            "species": "SPECIES_VOLTORB"
-        },
-        {
-            "level": 23,
             "species": "SPECIES_SNOVER"
         },
         {
-            "level": 24,
+            "level": 23,
             "species": "SPECIES_CACNEA"
         },
         {
-            "level": 25,
-            "species": "SPECIES_TENTACOOL"
-        },
-        {
-            "level": 26,
+            "level": 24,
             "species": "SPECIES_UNOWN"
         },
         {
-            "level": 27,
+            "level": 25,
+            "species": "SPECIES_STARAVIA"
+        },
+        {
+            "level": 26,
             "species": "SPECIES_KOFFING"
         },
         {
-            "level": 28,
-            "species": "SPECIES_LOMBRE"
-        },
-        {
-            "level": 29,
+            "level": 27,
             "species": "SPECIES_NUZLEAF"
         },
         {
-            "level": 30,
+            "level": 28,
+            "species": "SPECIES_VIBRAVA"
+        },
+        {
+            "level": 29,
             "species": "SPECIES_SKIPLOOM"
         },
         {
             "level": 30,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_RHYHORN"
+        },
+        {
+            "level": 30,
+            "species": "SPECIES_DRIFLOON"
         }
     ],
     "swarms": [
-        "SPECIES_LOMBRE",
-        "SPECIES_NUZLEAF"
+        "SPECIES_VIBRAVA",
+        "SPECIES_SKIPLOOM"
     ],
     "day": [
-        "SPECIES_SPOINK",
-        "SPECIES_TEDDIURSA"
+        "SPECIES_HOUNDOUR",
+        "SPECIES_PHANPY"
     ],
     "night": [
-        "SPECIES_VOLTORB",
-        "SPECIES_SNOVER"
+        "SPECIES_SNOVER",
+        "SPECIES_CACNEA"
     ],
     "radar": [
-        "SPECIES_CACNEA",
-        "SPECIES_TENTACOOL",
         "SPECIES_UNOWN",
-        "SPECIES_KOFFING"
+        "SPECIES_STARAVIA",
+        "SPECIES_KOFFING",
+        "SPECIES_NUZLEAF"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

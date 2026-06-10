@@ -3,43 +3,43 @@
     "land_encounters": [
         {
             "level": 18,
-            "species": "SPECIES_MIME_JR"
+            "species": "SPECIES_CYNDAQUIL"
         },
         {
             "level": 18,
-            "species": "SPECIES_MUDKIP"
+            "species": "SPECIES_CHIMCHAR"
         },
         {
             "level": 17,
-            "species": "SPECIES_SWABLU"
+            "species": "SPECIES_GLAMEOW"
         },
         {
             "level": 19,
-            "species": "SPECIES_TORCHIC"
+            "species": "SPECIES_ABRA"
         },
         {
             "level": 20,
+            "species": "SPECIES_DODUO"
+        },
+        {
+            "level": 20,
+            "species": "SPECIES_GASTLY"
+        },
+        {
+            "level": 19,
             "species": "SPECIES_TREECKO"
         },
         {
             "level": 20,
-            "species": "SPECIES_PIPLUP"
-        },
-        {
-            "level": 19,
-            "species": "SPECIES_SQUIRTLE"
+            "species": "SPECIES_SWABLU"
         },
         {
             "level": 20,
-            "species": "SPECIES_TOTODILE"
-        },
-        {
-            "level": 20,
-            "species": "SPECIES_SLOWPOKE"
+            "species": "SPECIES_TORCHIC"
         },
         {
             "level": 18,
-            "species": "SPECIES_BULBASAUR"
+            "species": "SPECIES_MIME_JR"
         },
         {
             "level": 20,
@@ -47,26 +47,26 @@
         },
         {
             "level": 18,
-            "species": "SPECIES_TURTWIG"
+            "species": "SPECIES_BULBASAUR"
         }
     ],
     "swarms": [
-        "SPECIES_SLOWPOKE",
-        "SPECIES_BULBASAUR"
+        "SPECIES_TORCHIC",
+        "SPECIES_MIME_JR"
     ],
     "day": [
-        "SPECIES_MIME_JR",
-        "SPECIES_MUDKIP"
+        "SPECIES_CYNDAQUIL",
+        "SPECIES_CHIMCHAR"
     ],
     "night": [
-        "SPECIES_SWABLU",
-        "SPECIES_TORCHIC"
+        "SPECIES_GLAMEOW",
+        "SPECIES_ABRA"
     ],
     "radar": [
+        "SPECIES_DODUO",
+        "SPECIES_GASTLY",
         "SPECIES_TREECKO",
-        "SPECIES_PIPLUP",
-        "SPECIES_SQUIRTLE",
-        "SPECIES_TOTODILE"
+        "SPECIES_SWABLU"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

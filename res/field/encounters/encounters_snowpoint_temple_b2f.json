@@ -3,7 +3,27 @@
     "land_encounters": [
         {
             "level": 47,
-            "species": "SPECIES_ESPEON"
+            "species": "SPECIES_EXEGGUTOR"
+        },
+        {
+            "level": 48,
+            "species": "SPECIES_LUXRAY"
+        },
+        {
+            "level": 49,
+            "species": "SPECIES_JOLTEON"
+        },
+        {
+            "level": 50,
+            "species": "SPECIES_MEGANIUM"
+        },
+        {
+            "level": 48,
+            "species": "SPECIES_PROBOPASS"
+        },
+        {
+            "level": 50,
+            "species": "SPECIES_VENUSAUR"
         },
         {
             "level": 48,
@@ -11,62 +31,42 @@
         },
         {
             "level": 49,
-            "species": "SPECIES_GLACEON"
-        },
-        {
-            "level": 50,
             "species": "SPECIES_HIPPOWDON"
         },
         {
-            "level": 48,
-            "species": "SPECIES_JOLTEON"
-        },
-        {
             "level": 50,
-            "species": "SPECIES_LEAFEON"
-        },
-        {
-            "level": 48,
-            "species": "SPECIES_LUCARIO"
-        },
-        {
-            "level": 49,
-            "species": "SPECIES_MEGANIUM"
-        },
-        {
-            "level": 50,
-            "species": "SPECIES_PROBOPASS"
-        },
-        {
-            "level": 47,
             "species": "SPECIES_TORTERRA"
         },
         {
+            "level": 47,
+            "species": "SPECIES_ESPEON"
+        },
+        {
             "level": 50,
-            "species": "SPECIES_UMBREON"
+            "species": "SPECIES_GLACEON"
         },
         {
             "level": 47,
-            "species": "SPECIES_VAPOREON"
+            "species": "SPECIES_UMBREON"
         }
     ],
     "swarms": [
-        "SPECIES_PROBOPASS",
-        "SPECIES_TORTERRA"
+        "SPECIES_TORTERRA",
+        "SPECIES_ESPEON"
     ],
     "day": [
-        "SPECIES_ESPEON",
-        "SPECIES_FLAREON"
+        "SPECIES_EXEGGUTOR",
+        "SPECIES_LUXRAY"
     ],
     "night": [
-        "SPECIES_GLACEON",
-        "SPECIES_HIPPOWDON"
+        "SPECIES_JOLTEON",
+        "SPECIES_MEGANIUM"
     ],
     "radar": [
-        "SPECIES_JOLTEON",
-        "SPECIES_LEAFEON",
-        "SPECIES_LUCARIO",
-        "SPECIES_MEGANIUM"
+        "SPECIES_PROBOPASS",
+        "SPECIES_VENUSAUR",
+        "SPECIES_FLAREON",
+        "SPECIES_HIPPOWDON"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

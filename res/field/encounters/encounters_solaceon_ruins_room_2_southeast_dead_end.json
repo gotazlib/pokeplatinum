@@ -11,11 +11,11 @@
         },
         {
             "level": 22,
-            "species": "SPECIES_TENTACOOL"
+            "species": "SPECIES_UNOWN"
         },
         {
             "level": 23,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_STARAVIA"
         },
         {
             "level": 24,
@@ -23,11 +23,11 @@
         },
         {
             "level": 25,
-            "species": "SPECIES_LOMBRE"
+            "species": "SPECIES_NUZLEAF"
         },
         {
             "level": 26,
-            "species": "SPECIES_NUZLEAF"
+            "species": "SPECIES_VIBRAVA"
         },
         {
             "level": 27,
@@ -35,37 +35,37 @@
         },
         {
             "level": 28,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_RHYHORN"
         },
         {
             "level": 29,
-            "species": "SPECIES_STARYU"
+            "species": "SPECIES_DRIFLOON"
         },
         {
             "level": 30,
-            "species": "SPECIES_VIBRAVA"
+            "species": "SPECIES_PIDGEOTTO"
         },
         {
             "level": 30,
-            "species": "SPECIES_CLAMPERL"
+            "species": "SPECIES_CRANIDOS"
         }
     ],
     "swarms": [
-        "SPECIES_STARAVIA",
-        "SPECIES_STARYU"
+        "SPECIES_RHYHORN",
+        "SPECIES_DRIFLOON"
     ],
     "day": [
         "SPECIES_SNOVER",
         "SPECIES_CACNEA"
     ],
     "night": [
-        "SPECIES_TENTACOOL",
-        "SPECIES_UNOWN"
+        "SPECIES_UNOWN",
+        "SPECIES_STARAVIA"
     ],
     "radar": [
         "SPECIES_KOFFING",
-        "SPECIES_LOMBRE",
         "SPECIES_NUZLEAF",
+        "SPECIES_VIBRAVA",
         "SPECIES_SKIPLOOM"
     ],
     "rate_form0": 100,

@@ -3,15 +3,15 @@
     "land_encounters": [
         {
             "level": 26,
-            "species": "SPECIES_LEDIAN"
+            "species": "SPECIES_WEEPINBELL"
         },
         {
             "level": 25,
-            "species": "SPECIES_MUNCHLAX"
+            "species": "SPECIES_LEDIAN"
         },
         {
             "level": 26,
-            "species": "SPECIES_WEEPINBELL"
+            "species": "SPECIES_MUNCHLAX"
         },
         {
             "level": 27,
@@ -27,23 +27,23 @@
         },
         {
             "level": 28,
-            "species": "SPECIES_ILLUMISE"
-        },
-        {
-            "level": 26,
             "species": "SPECIES_KADABRA"
         },
         {
-            "level": 28,
-            "species": "SPECIES_ROSELIA"
-        },
-        {
-            "level": 27,
+            "level": 26,
             "species": "SPECIES_VOLBEAT"
         },
         {
             "level": 28,
-            "species": "SPECIES_WAILMER"
+            "species": "SPECIES_ILLUMISE"
+        },
+        {
+            "level": 27,
+            "species": "SPECIES_ROSELIA"
+        },
+        {
+            "level": 28,
+            "species": "SPECIES_QUILAVA"
         },
         {
             "level": 27,
@@ -51,22 +51,22 @@
         }
     ],
     "swarms": [
-        "SPECIES_ROSELIA",
-        "SPECIES_VOLBEAT"
+        "SPECIES_ILLUMISE",
+        "SPECIES_ROSELIA"
     ],
     "day": [
-        "SPECIES_LEDIAN",
-        "SPECIES_MUNCHLAX"
+        "SPECIES_WEEPINBELL",
+        "SPECIES_LEDIAN"
     ],
     "night": [
-        "SPECIES_WEEPINBELL",
+        "SPECIES_MUNCHLAX",
         "SPECIES_YANMA"
     ],
     "radar": [
         "SPECIES_GLOOM",
         "SPECIES_PORYGON",
-        "SPECIES_ILLUMISE",
-        "SPECIES_KADABRA"
+        "SPECIES_KADABRA",
+        "SPECIES_VOLBEAT"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

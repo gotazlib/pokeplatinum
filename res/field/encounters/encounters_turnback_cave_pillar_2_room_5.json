@@ -3,19 +3,19 @@
     "land_encounters": [
         {
             "level": 25,
-            "species": "SPECIES_YANMA"
+            "species": "SPECIES_MUNCHLAX"
         },
         {
             "level": 25,
-            "species": "SPECIES_GLOOM"
+            "species": "SPECIES_YANMA"
         },
         {
             "level": 26,
-            "species": "SPECIES_PORYGON"
+            "species": "SPECIES_GLOOM"
         },
         {
             "level": 27,
-            "species": "SPECIES_ILLUMISE"
+            "species": "SPECIES_PORYGON"
         },
         {
             "level": 27,
@@ -23,15 +23,19 @@
         },
         {
             "level": 27,
+            "species": "SPECIES_VOLBEAT"
+        },
+        {
+            "level": 28,
+            "species": "SPECIES_ILLUMISE"
+        },
+        {
+            "level": 26,
             "species": "SPECIES_ROSELIA"
         },
         {
             "level": 28,
-            "species": "SPECIES_VOLBEAT"
-        },
-        {
-            "level": 26,
-            "species": "SPECIES_WAILMER"
+            "species": "SPECIES_QUILAVA"
         },
         {
             "level": 28,
@@ -39,34 +43,30 @@
         },
         {
             "level": 28,
-            "species": "SPECIES_CHARMELEON"
-        },
-        {
-            "level": 28,
             "species": "SPECIES_COMBUSKEN"
         },
         {
             "level": 28,
-            "species": "SPECIES_CROCONAW"
+            "species": "SPECIES_MINUN"
         }
     ],
     "swarms": [
-        "SPECIES_BAYLEEF",
-        "SPECIES_CHARMELEON"
+        "SPECIES_QUILAVA",
+        "SPECIES_BAYLEEF"
     ],
     "day": [
-        "SPECIES_YANMA",
-        "SPECIES_GLOOM"
+        "SPECIES_MUNCHLAX",
+        "SPECIES_YANMA"
     ],
     "night": [
-        "SPECIES_PORYGON",
-        "SPECIES_ILLUMISE"
+        "SPECIES_GLOOM",
+        "SPECIES_PORYGON"
     ],
     "radar": [
         "SPECIES_KADABRA",
-        "SPECIES_ROSELIA",
         "SPECIES_VOLBEAT",
-        "SPECIES_WAILMER"
+        "SPECIES_ILLUMISE",
+        "SPECIES_ROSELIA"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

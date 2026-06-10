@@ -3,19 +3,27 @@
     "land_encounters": [
         {
             "level": 14,
-            "species": "SPECIES_NIDORAN_F"
+            "species": "SPECIES_JIGGLYPUFF"
         },
         {
             "level": 15,
-            "species": "SPECIES_KIRLIA"
+            "species": "SPECIES_TAILLOW"
         },
         {
             "level": 14,
-            "species": "SPECIES_BUDEW"
+            "species": "SPECIES_NIDORAN_M"
         },
         {
             "level": 15,
-            "species": "SPECIES_MAREEP"
+            "species": "SPECIES_CHERUBI"
+        },
+        {
+            "level": 16,
+            "species": "SPECIES_NIDORAN_F"
+        },
+        {
+            "level": 17,
+            "species": "SPECIES_KIRLIA"
         },
         {
             "level": 16,
@@ -23,50 +31,42 @@
         },
         {
             "level": 17,
+            "species": "SPECIES_MAREEP"
+        },
+        {
+            "level": 17,
+            "species": "SPECIES_BUDEW"
+        },
+        {
+            "level": 17,
             "species": "SPECIES_SLAKOTH"
         },
         {
-            "level": 16,
+            "level": 17,
             "species": "SPECIES_CHINGLING"
         },
         {
             "level": 17,
-            "species": "SPECIES_PARAS"
-        },
-        {
-            "level": 17,
             "species": "SPECIES_RIOLU"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_BARBOACH"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_DITTO"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_EKANS"
         }
     ],
     "swarms": [
-        "SPECIES_RIOLU",
-        "SPECIES_BARBOACH"
+        "SPECIES_BUDEW",
+        "SPECIES_SLAKOTH"
     ],
     "day": [
-        "SPECIES_NIDORAN_F",
-        "SPECIES_KIRLIA"
+        "SPECIES_JIGGLYPUFF",
+        "SPECIES_TAILLOW"
     ],
     "night": [
-        "SPECIES_BUDEW",
-        "SPECIES_MAREEP"
+        "SPECIES_NIDORAN_M",
+        "SPECIES_CHERUBI"
     ],
     "radar": [
+        "SPECIES_NIDORAN_F",
+        "SPECIES_KIRLIA",
         "SPECIES_MEDITITE",
-        "SPECIES_SLAKOTH",
-        "SPECIES_CHINGLING",
-        "SPECIES_PARAS"
+        "SPECIES_MAREEP"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

@@ -3,19 +3,19 @@
     "land_encounters": [
         {
             "level": 53,
-            "species": "SPECIES_KINGDRA"
+            "species": "SPECIES_SNORLAX"
         },
         {
             "level": 55,
-            "species": "SPECIES_MAGMORTAR"
+            "species": "SPECIES_BLISSEY"
         },
         {
             "level": 53,
-            "species": "SPECIES_MILOTIC"
+            "species": "SPECIES_MAGMORTAR"
         },
         {
             "level": 52,
-            "species": "SPECIES_SNORLAX"
+            "species": "SPECIES_ELECTIVIRE"
         },
         {
             "level": 55,
@@ -27,11 +27,11 @@
         },
         {
             "level": 52,
-            "species": "SPECIES_DRAGONITE"
+            "species": "SPECIES_GARCHOMP"
         },
         {
             "level": 54,
-            "species": "SPECIES_GARCHOMP"
+            "species": "SPECIES_SALAMENCE"
         },
         {
             "level": 53,
@@ -39,11 +39,11 @@
         },
         {
             "level": 53,
-            "species": "SPECIES_SALAMENCE"
+            "species": "SPECIES_TYRANITAR"
         },
         {
             "level": 53,
-            "species": "SPECIES_TYRANITAR"
+            "species": "SPECIES_DRAGONITE"
         },
         {
             "level": 53,
@@ -52,21 +52,21 @@
     ],
     "swarms": [
         "SPECIES_METAGROSS",
-        "SPECIES_SALAMENCE"
+        "SPECIES_TYRANITAR"
     ],
     "day": [
-        "SPECIES_KINGDRA",
-        "SPECIES_MAGMORTAR"
+        "SPECIES_SNORLAX",
+        "SPECIES_BLISSEY"
     ],
     "night": [
-        "SPECIES_MILOTIC",
-        "SPECIES_SNORLAX"
+        "SPECIES_MAGMORTAR",
+        "SPECIES_ELECTIVIRE"
     ],
     "radar": [
         "SPECIES_TOGEKISS",
         "SPECIES_ARCANINE",
-        "SPECIES_DRAGONITE",
-        "SPECIES_GARCHOMP"
+        "SPECIES_GARCHOMP",
+        "SPECIES_SALAMENCE"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

@@ -15,10 +15,6 @@
         },
         {
             "level": 3,
-            "species": "SPECIES_CATERPIE"
-        },
-        {
-            "level": 3,
             "species": "SPECIES_WEEDLE"
         },
         {
@@ -27,19 +23,23 @@
         },
         {
             "level": 3,
+            "species": "SPECIES_CATERPIE"
+        },
+        {
+            "level": 3,
             "species": "SPECIES_RALTS"
         },
         {
             "level": 3,
-            "species": "SPECIES_FEEBAS"
+            "species": "SPECIES_PICHU"
         },
         {
             "level": 2,
-            "species": "SPECIES_MAGIKARP"
+            "species": "SPECIES_SILCOON"
         },
         {
             "level": 2,
-            "species": "SPECIES_CASCOON"
+            "species": "SPECIES_METAPOD"
         },
         {
             "level": 2,
@@ -47,12 +47,12 @@
         },
         {
             "level": 2,
-            "species": "SPECIES_METAPOD"
+            "species": "SPECIES_CASCOON"
         }
     ],
     "swarms": [
-        "SPECIES_MAGIKARP",
-        "SPECIES_CASCOON"
+        "SPECIES_SILCOON",
+        "SPECIES_METAPOD"
     ],
     "day": [
         "SPECIES_SUNKERN",
@@ -60,13 +60,13 @@
     ],
     "night": [
         "SPECIES_KRICKETOT",
-        "SPECIES_CATERPIE"
+        "SPECIES_WEEDLE"
     ],
     "radar": [
-        "SPECIES_WEEDLE",
         "SPECIES_WURMPLE",
+        "SPECIES_CATERPIE",
         "SPECIES_RALTS",
-        "SPECIES_FEEBAS"
+        "SPECIES_PICHU"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

@@ -3,11 +3,11 @@
     "land_encounters": [
         {
             "level": 32,
-            "species": "SPECIES_QWILFISH"
+            "species": "SPECIES_SUNFLORA"
         },
         {
             "level": 33,
-            "species": "SPECIES_SNEASEL"
+            "species": "SPECIES_CHIMECHO"
         },
         {
             "level": 33,
@@ -15,23 +15,31 @@
         },
         {
             "level": 33,
+            "species": "SPECIES_GLIGAR"
+        },
+        {
+            "level": 34,
+            "species": "SPECIES_LAIRON"
+        },
+        {
+            "level": 34,
+            "species": "SPECIES_SNEASEL"
+        },
+        {
+            "level": 34,
             "species": "SPECIES_MISDREAVUS"
         },
         {
-            "level": 34,
+            "level": 32,
             "species": "SPECIES_TANGELA"
         },
         {
-            "level": 34,
+            "level": 35,
             "species": "SPECIES_ARBOK"
         },
         {
-            "level": 34,
-            "species": "SPECIES_KECLEON"
-        },
-        {
-            "level": 32,
-            "species": "SPECIES_LUNATONE"
+            "level": 35,
+            "species": "SPECIES_VIGOROTH"
         },
         {
             "level": 35,
@@ -39,34 +47,26 @@
         },
         {
             "level": 35,
-            "species": "SPECIES_ROTOM"
-        },
-        {
-            "level": 35,
-            "species": "SPECIES_SEADRA"
-        },
-        {
-            "level": 35,
-            "species": "SPECIES_SOLROCK"
+            "species": "SPECIES_LUNATONE"
         }
     ],
     "swarms": [
-        "SPECIES_PERSIAN",
-        "SPECIES_ROTOM"
+        "SPECIES_ARBOK",
+        "SPECIES_VIGOROTH"
     ],
     "day": [
-        "SPECIES_QWILFISH",
-        "SPECIES_SNEASEL"
+        "SPECIES_SUNFLORA",
+        "SPECIES_CHIMECHO"
     ],
     "night": [
         "SPECIES_SWELLOW",
-        "SPECIES_MISDREAVUS"
+        "SPECIES_GLIGAR"
     ],
     "radar": [
-        "SPECIES_TANGELA",
-        "SPECIES_ARBOK",
-        "SPECIES_KECLEON",
-        "SPECIES_LUNATONE"
+        "SPECIES_LAIRON",
+        "SPECIES_SNEASEL",
+        "SPECIES_MISDREAVUS",
+        "SPECIES_TANGELA"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

@@ -3,11 +3,11 @@
     "land_encounters": [
         {
             "level": 45,
-            "species": "SPECIES_TAUROS"
+            "species": "SPECIES_ALTARIA"
         },
         {
             "level": 45,
-            "species": "SPECIES_TOXICROAK"
+            "species": "SPECIES_KANGASKHAN"
         },
         {
             "level": 46,
@@ -15,6 +15,14 @@
         },
         {
             "level": 45,
+            "species": "SPECIES_TAUROS"
+        },
+        {
+            "level": 47,
+            "species": "SPECIES_ELECTABUZZ"
+        },
+        {
+            "level": 46,
             "species": "SPECIES_ABOMASNOW"
         },
         {
@@ -23,19 +31,11 @@
         },
         {
             "level": 46,
-            "species": "SPECIES_BASTIODON"
+            "species": "SPECIES_RAMPARDOS"
         },
         {
             "level": 47,
             "species": "SPECIES_CRADILY"
-        },
-        {
-            "level": 46,
-            "species": "SPECIES_FLOATZEL"
-        },
-        {
-            "level": 47,
-            "species": "SPECIES_KABUTOPS"
         },
         {
             "level": 45,
@@ -43,30 +43,30 @@
         },
         {
             "level": 48,
-            "species": "SPECIES_MISMAGIUS"
+            "species": "SPECIES_KABUTOPS"
         },
         {
             "level": 47,
-            "species": "SPECIES_NIDOKING"
+            "species": "SPECIES_BASTIODON"
         }
     ],
     "swarms": [
-        "SPECIES_KABUTOPS",
+        "SPECIES_CRADILY",
         "SPECIES_MAGMAR"
     ],
     "day": [
-        "SPECIES_TAUROS",
-        "SPECIES_TOXICROAK"
+        "SPECIES_ALTARIA",
+        "SPECIES_KANGASKHAN"
     ],
     "night": [
         "SPECIES_WEEZING",
-        "SPECIES_ABOMASNOW"
+        "SPECIES_TAUROS"
     ],
     "radar": [
+        "SPECIES_ELECTABUZZ",
+        "SPECIES_ABOMASNOW",
         "SPECIES_ARMALDO",
-        "SPECIES_BASTIODON",
-        "SPECIES_CRADILY",
-        "SPECIES_FLOATZEL"
+        "SPECIES_RAMPARDOS"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

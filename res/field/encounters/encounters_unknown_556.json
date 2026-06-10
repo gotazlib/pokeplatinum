@@ -3,7 +3,7 @@
     "land_encounters": [
         {
             "level": 45,
-            "species": "SPECIES_ROSERADE"
+            "species": "SPECIES_MACHAMP"
         },
         {
             "level": 45,
@@ -11,11 +11,19 @@
         },
         {
             "level": 46,
-            "species": "SPECIES_GLISCOR"
+            "species": "SPECIES_HONCHKROW"
         },
         {
             "level": 45,
-            "species": "SPECIES_STEELIX"
+            "species": "SPECIES_NINETALES"
+        },
+        {
+            "level": 47,
+            "species": "SPECIES_ROSERADE"
+        },
+        {
+            "level": 46,
+            "species": "SPECIES_GLISCOR"
         },
         {
             "level": 47,
@@ -23,50 +31,42 @@
         },
         {
             "level": 46,
-            "species": "SPECIES_AERODACTYL"
+            "species": "SPECIES_STEELIX"
         },
         {
             "level": 47,
             "species": "SPECIES_LICKILICKY"
         },
         {
-            "level": 46,
-            "species": "SPECIES_PORYGON2"
-        },
-        {
-            "level": 47,
-            "species": "SPECIES_TENTACRUEL"
-        },
-        {
             "level": 45,
-            "species": "SPECIES_YANMEGA"
+            "species": "SPECIES_AERODACTYL"
         },
         {
             "level": 48,
-            "species": "SPECIES_GALLADE"
+            "species": "SPECIES_YANMEGA"
         },
         {
             "level": 47,
-            "species": "SPECIES_GARDEVOIR"
+            "species": "SPECIES_PORYGON2"
         }
     ],
     "swarms": [
-        "SPECIES_TENTACRUEL",
-        "SPECIES_YANMEGA"
+        "SPECIES_LICKILICKY",
+        "SPECIES_AERODACTYL"
     ],
     "day": [
-        "SPECIES_ROSERADE",
+        "SPECIES_MACHAMP",
         "SPECIES_SHUCKLE"
     ],
     "night": [
-        "SPECIES_GLISCOR",
-        "SPECIES_STEELIX"
+        "SPECIES_HONCHKROW",
+        "SPECIES_NINETALES"
     ],
     "radar": [
+        "SPECIES_ROSERADE",
+        "SPECIES_GLISCOR",
         "SPECIES_WEAVILE",
-        "SPECIES_AERODACTYL",
-        "SPECIES_LICKILICKY",
-        "SPECIES_PORYGON2"
+        "SPECIES_STEELIX"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

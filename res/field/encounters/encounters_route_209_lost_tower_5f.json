@@ -3,30 +3,34 @@
     "land_encounters": [
         {
             "level": 20,
+            "species": "SPECIES_MIME_JR"
+        },
+        {
+            "level": 19,
+            "species": "SPECIES_CHIKORITA"
+        },
+        {
+            "level": 21,
+            "species": "SPECIES_BULBASAUR"
+        },
+        {
+            "level": 19,
             "species": "SPECIES_TURTWIG"
         },
         {
-            "level": 19,
-            "species": "SPECIES_CUBONE"
-        },
-        {
-            "level": 21,
-            "species": "SPECIES_GOLDEEN"
-        },
-        {
-            "level": 19,
+            "level": 20,
             "species": "SPECIES_NATU"
         },
         {
-            "level": 20,
+            "level": 19,
             "species": "SPECIES_ODDISH"
         },
         {
-            "level": 19,
-            "species": "SPECIES_PSYDUCK"
+            "level": 21,
+            "species": "SPECIES_CUBONE"
         },
         {
-            "level": 21,
+            "level": 22,
             "species": "SPECIES_CLEFAIRY"
         },
         {
@@ -35,7 +39,7 @@
         },
         {
             "level": 22,
-            "species": "SPECIES_EXEGGCUTE"
+            "species": "SPECIES_MAGNEMITE"
         },
         {
             "level": 22,
@@ -43,30 +47,26 @@
         },
         {
             "level": 22,
-            "species": "SPECIES_KRABBY"
-        },
-        {
-            "level": 22,
-            "species": "SPECIES_MAGNEMITE"
+            "species": "SPECIES_EXEGGCUTE"
         }
     ],
     "swarms": [
-        "SPECIES_EXEGGCUTE",
-        "SPECIES_GRIMER"
+        "SPECIES_EEVEE",
+        "SPECIES_MAGNEMITE"
     ],
     "day": [
-        "SPECIES_TURTWIG",
-        "SPECIES_CUBONE"
+        "SPECIES_MIME_JR",
+        "SPECIES_CHIKORITA"
     ],
     "night": [
-        "SPECIES_GOLDEEN",
-        "SPECIES_NATU"
+        "SPECIES_BULBASAUR",
+        "SPECIES_TURTWIG"
     ],
     "radar": [
+        "SPECIES_NATU",
         "SPECIES_ODDISH",
-        "SPECIES_PSYDUCK",
-        "SPECIES_CLEFAIRY",
-        "SPECIES_EEVEE"
+        "SPECIES_CUBONE",
+        "SPECIES_CLEFAIRY"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

@@ -3,19 +3,27 @@
     "land_encounters": [
         {
             "level": 45,
-            "species": "SPECIES_GLISCOR"
+            "species": "SPECIES_HONCHKROW"
         },
         {
             "level": 45,
-            "species": "SPECIES_STEELIX"
+            "species": "SPECIES_NINETALES"
         },
         {
             "level": 46,
-            "species": "SPECIES_WEAVILE"
+            "species": "SPECIES_ROSERADE"
         },
         {
             "level": 45,
-            "species": "SPECIES_AERODACTYL"
+            "species": "SPECIES_GLISCOR"
+        },
+        {
+            "level": 47,
+            "species": "SPECIES_WEAVILE"
+        },
+        {
+            "level": 46,
+            "species": "SPECIES_STEELIX"
         },
         {
             "level": 47,
@@ -23,50 +31,42 @@
         },
         {
             "level": 46,
-            "species": "SPECIES_PORYGON2"
+            "species": "SPECIES_AERODACTYL"
         },
         {
             "level": 47,
-            "species": "SPECIES_TENTACRUEL"
-        },
-        {
-            "level": 46,
             "species": "SPECIES_YANMEGA"
         },
         {
-            "level": 47,
-            "species": "SPECIES_GALLADE"
-        },
-        {
             "level": 45,
-            "species": "SPECIES_GARDEVOIR"
+            "species": "SPECIES_PORYGON2"
         },
         {
             "level": 48,
-            "species": "SPECIES_EXEGGUTOR"
+            "species": "SPECIES_GALLADE"
         },
         {
             "level": 47,
-            "species": "SPECIES_FLYGON"
+            "species": "SPECIES_GARDEVOIR"
         }
     ],
     "swarms": [
-        "SPECIES_GALLADE",
-        "SPECIES_GARDEVOIR"
+        "SPECIES_YANMEGA",
+        "SPECIES_PORYGON2"
     ],
     "day": [
-        "SPECIES_GLISCOR",
-        "SPECIES_STEELIX"
+        "SPECIES_HONCHKROW",
+        "SPECIES_NINETALES"
     ],
     "night": [
-        "SPECIES_WEAVILE",
-        "SPECIES_AERODACTYL"
+        "SPECIES_ROSERADE",
+        "SPECIES_GLISCOR"
     ],
     "radar": [
+        "SPECIES_WEAVILE",
+        "SPECIES_STEELIX",
         "SPECIES_LICKILICKY",
-        "SPECIES_PORYGON2",
-        "SPECIES_TENTACRUEL",
-        "SPECIES_YANMEGA"
+        "SPECIES_AERODACTYL"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

@@ -3,39 +3,39 @@
     "land_encounters": [
         {
             "level": 27,
+            "species": "SPECIES_HAUNTER"
+        },
+        {
+            "level": 28,
+            "species": "SPECIES_DUGTRIO"
+        },
+        {
+            "level": 28,
+            "species": "SPECIES_MACHOKE"
+        },
+        {
+            "level": 29,
+            "species": "SPECIES_PARASECT"
+        },
+        {
+            "level": 28,
+            "species": "SPECIES_MURKROW"
+        },
+        {
+            "level": 29,
             "species": "SPECIES_PLUSLE"
         },
         {
-            "level": 28,
-            "species": "SPECIES_PRINPLUP"
-        },
-        {
-            "level": 28,
-            "species": "SPECIES_QUILAVA"
-        },
-        {
-            "level": 29,
-            "species": "SPECIES_TOGETIC"
-        },
-        {
-            "level": 28,
-            "species": "SPECIES_WARTORTLE"
-        },
-        {
-            "level": 29,
-            "species": "SPECIES_WOBBUFFET"
-        },
-        {
             "level": 30,
-            "species": "SPECIES_AZUMARILL"
+            "species": "SPECIES_MONFERNO"
         },
         {
             "level": 29,
-            "species": "SPECIES_BIBAREL"
-        },
-        {
-            "level": 30,
             "species": "SPECIES_GABITE"
+        },
+        {
+            "level": 30,
+            "species": "SPECIES_PUPITAR"
         },
         {
             "level": 29,
@@ -43,30 +43,30 @@
         },
         {
             "level": 30,
-            "species": "SPECIES_MEDICHAM"
+            "species": "SPECIES_SUDOWOODO"
         },
         {
             "level": 29,
-            "species": "SPECIES_PONYTA"
+            "species": "SPECIES_BIBAREL"
         }
     ],
     "swarms": [
-        "SPECIES_GABITE",
+        "SPECIES_PUPITAR",
         "SPECIES_MAGCARGO"
     ],
     "day": [
-        "SPECIES_PLUSLE",
-        "SPECIES_PRINPLUP"
+        "SPECIES_HAUNTER",
+        "SPECIES_DUGTRIO"
     ],
     "night": [
-        "SPECIES_QUILAVA",
-        "SPECIES_TOGETIC"
+        "SPECIES_MACHOKE",
+        "SPECIES_PARASECT"
     ],
     "radar": [
-        "SPECIES_WARTORTLE",
-        "SPECIES_WOBBUFFET",
-        "SPECIES_AZUMARILL",
-        "SPECIES_BIBAREL"
+        "SPECIES_MURKROW",
+        "SPECIES_PLUSLE",
+        "SPECIES_MONFERNO",
+        "SPECIES_GABITE"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

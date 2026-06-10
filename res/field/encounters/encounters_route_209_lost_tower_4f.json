@@ -3,31 +3,35 @@
     "land_encounters": [
         {
             "level": 19,
-            "species": "SPECIES_TORCHIC"
+            "species": "SPECIES_GLAMEOW"
         },
         {
             "level": 18,
-            "species": "SPECIES_TREECKO"
+            "species": "SPECIES_ABRA"
         },
         {
             "level": 20,
-            "species": "SPECIES_PIPLUP"
+            "species": "SPECIES_DODUO"
         },
         {
             "level": 18,
-            "species": "SPECIES_SQUIRTLE"
+            "species": "SPECIES_GASTLY"
         },
         {
             "level": 19,
-            "species": "SPECIES_TOTODILE"
+            "species": "SPECIES_TREECKO"
         },
         {
             "level": 18,
-            "species": "SPECIES_SLOWPOKE"
+            "species": "SPECIES_SWABLU"
         },
         {
             "level": 20,
-            "species": "SPECIES_BULBASAUR"
+            "species": "SPECIES_TORCHIC"
+        },
+        {
+            "level": 21,
+            "species": "SPECIES_MIME_JR"
         },
         {
             "level": 21,
@@ -35,15 +39,11 @@
         },
         {
             "level": 21,
+            "species": "SPECIES_BULBASAUR"
+        },
+        {
+            "level": 21,
             "species": "SPECIES_TURTWIG"
-        },
-        {
-            "level": 21,
-            "species": "SPECIES_CUBONE"
-        },
-        {
-            "level": 21,
-            "species": "SPECIES_GOLDEEN"
         },
         {
             "level": 21,
@@ -51,22 +51,22 @@
         }
     ],
     "swarms": [
-        "SPECIES_TURTWIG",
-        "SPECIES_CUBONE"
+        "SPECIES_CHIKORITA",
+        "SPECIES_BULBASAUR"
     ],
     "day": [
-        "SPECIES_TORCHIC",
-        "SPECIES_TREECKO"
+        "SPECIES_GLAMEOW",
+        "SPECIES_ABRA"
     ],
     "night": [
-        "SPECIES_PIPLUP",
-        "SPECIES_SQUIRTLE"
+        "SPECIES_DODUO",
+        "SPECIES_GASTLY"
     ],
     "radar": [
-        "SPECIES_TOTODILE",
-        "SPECIES_SLOWPOKE",
-        "SPECIES_BULBASAUR",
-        "SPECIES_CHIKORITA"
+        "SPECIES_TREECKO",
+        "SPECIES_SWABLU",
+        "SPECIES_TORCHIC",
+        "SPECIES_MIME_JR"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

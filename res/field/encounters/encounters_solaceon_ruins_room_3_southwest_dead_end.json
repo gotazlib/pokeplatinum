@@ -7,11 +7,11 @@
         },
         {
             "level": 21,
-            "species": "SPECIES_NIDORINA"
+            "species": "SPECIES_NIDORINO"
         },
         {
             "level": 22,
-            "species": "SPECIES_NIDORINO"
+            "species": "SPECIES_NIDORINA"
         },
         {
             "level": 23,
@@ -19,7 +19,7 @@
         },
         {
             "level": 24,
-            "species": "SPECIES_CORSOLA"
+            "species": "SPECIES_MAWILE"
         },
         {
             "level": 25,
@@ -27,46 +27,46 @@
         },
         {
             "level": 26,
-            "species": "SPECIES_MAWILE"
-        },
-        {
-            "level": 27,
             "species": "SPECIES_SABLEYE"
         },
         {
-            "level": 28,
+            "level": 27,
             "species": "SPECIES_KRICKETUNE"
         },
         {
+            "level": 28,
+            "species": "SPECIES_ONIX"
+        },
+        {
             "level": 29,
+            "species": "SPECIES_BUTTERFREE"
+        },
+        {
+            "level": 30,
             "species": "SPECIES_BEAUTIFLY"
         },
         {
             "level": 30,
             "species": "SPECIES_BEEDRILL"
-        },
-        {
-            "level": 30,
-            "species": "SPECIES_BUTTERFREE"
         }
     ],
     "swarms": [
-        "SPECIES_KRICKETUNE",
-        "SPECIES_BEAUTIFLY"
+        "SPECIES_ONIX",
+        "SPECIES_BUTTERFREE"
     ],
     "day": [
         "SPECIES_MAGBY",
-        "SPECIES_NIDORINA"
+        "SPECIES_NIDORINO"
     ],
     "night": [
-        "SPECIES_NIDORINO",
+        "SPECIES_NIDORINA",
         "SPECIES_NOSEPASS"
     ],
     "radar": [
-        "SPECIES_CORSOLA",
-        "SPECIES_DELCATTY",
         "SPECIES_MAWILE",
-        "SPECIES_SABLEYE"
+        "SPECIES_DELCATTY",
+        "SPECIES_SABLEYE",
+        "SPECIES_KRICKETUNE"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

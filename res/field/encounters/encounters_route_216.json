@@ -3,35 +3,43 @@
     "land_encounters": [
         {
             "level": 32,
-            "species": "SPECIES_KECLEON"
+            "species": "SPECIES_SNEASEL"
         },
         {
             "level": 33,
-            "species": "SPECIES_LUNATONE"
+            "species": "SPECIES_MISDREAVUS"
         },
         {
             "level": 32,
-            "species": "SPECIES_PERSIAN"
+            "species": "SPECIES_TANGELA"
         },
         {
             "level": 33,
-            "species": "SPECIES_ROTOM"
+            "species": "SPECIES_ARBOK"
         },
         {
             "level": 33,
-            "species": "SPECIES_SEADRA"
-        },
-        {
-            "level": 34,
-            "species": "SPECIES_SOLROCK"
-        },
-        {
-            "level": 34,
             "species": "SPECIES_VIGOROTH"
         },
         {
+            "level": 34,
+            "species": "SPECIES_PERSIAN"
+        },
+        {
+            "level": 34,
+            "species": "SPECIES_LUNATONE"
+        },
+        {
             "level": 35,
-            "species": "SPECIES_FEAROW"
+            "species": "SPECIES_SOLROCK"
+        },
+        {
+            "level": 35,
+            "species": "SPECIES_ROTOM"
+        },
+        {
+            "level": 35,
+            "species": "SPECIES_KECLEON"
         },
         {
             "level": 35,
@@ -39,34 +47,26 @@
         },
         {
             "level": 35,
-            "species": "SPECIES_CHANSEY"
-        },
-        {
-            "level": 35,
-            "species": "SPECIES_CHERRIM"
-        },
-        {
-            "level": 35,
-            "species": "SPECIES_GRANBULL"
+            "species": "SPECIES_FEAROW"
         }
     ],
     "swarms": [
-        "SPECIES_NOCTOWL",
-        "SPECIES_CHANSEY"
+        "SPECIES_ROTOM",
+        "SPECIES_KECLEON"
     ],
     "day": [
-        "SPECIES_KECLEON",
-        "SPECIES_LUNATONE"
+        "SPECIES_SNEASEL",
+        "SPECIES_MISDREAVUS"
     ],
     "night": [
-        "SPECIES_PERSIAN",
-        "SPECIES_ROTOM"
+        "SPECIES_TANGELA",
+        "SPECIES_ARBOK"
     ],
     "radar": [
-        "SPECIES_SEADRA",
-        "SPECIES_SOLROCK",
         "SPECIES_VIGOROTH",
-        "SPECIES_FEAROW"
+        "SPECIES_PERSIAN",
+        "SPECIES_LUNATONE",
+        "SPECIES_SOLROCK"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

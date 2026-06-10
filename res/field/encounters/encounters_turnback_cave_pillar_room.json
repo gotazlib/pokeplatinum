@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 35,
-            "species": "SPECIES_FEAROW"
+            "species": "SPECIES_LUNATONE"
         },
         {
             "level": 35,
-            "species": "SPECIES_NOCTOWL"
+            "species": "SPECIES_SOLROCK"
         },
         {
             "level": 36,
-            "species": "SPECIES_CHANSEY"
+            "species": "SPECIES_ROTOM"
         },
         {
             "level": 37,
+            "species": "SPECIES_KECLEON"
+        },
+        {
+            "level": 37,
+            "species": "SPECIES_NOCTOWL"
+        },
+        {
+            "level": 37,
+            "species": "SPECIES_FEAROW"
+        },
+        {
+            "level": 38,
             "species": "SPECIES_CHERRIM"
         },
         {
-            "level": 37,
+            "level": 36,
             "species": "SPECIES_GRANBULL"
-        },
-        {
-            "level": 37,
-            "species": "SPECIES_JUMPLUFF"
         },
         {
             "level": 38,
             "species": "SPECIES_PILOSWINE"
         },
         {
-            "level": 36,
+            "level": 38,
             "species": "SPECIES_SANDSLASH"
         },
         {
             "level": 38,
-            "species": "SPECIES_SEAKING"
+            "species": "SPECIES_CHANSEY"
         },
         {
             "level": 38,
-            "species": "SPECIES_VENOMOTH"
-        },
-        {
-            "level": 38,
-            "species": "SPECIES_PURUGLY"
-        },
-        {
-            "level": 38,
-            "species": "SPECIES_CARNIVINE"
+            "species": "SPECIES_JUMPLUFF"
         }
     ],
     "swarms": [
-        "SPECIES_SEAKING",
-        "SPECIES_VENOMOTH"
-    ],
-    "day": [
-        "SPECIES_FEAROW",
-        "SPECIES_NOCTOWL"
-    ],
-    "night": [
-        "SPECIES_CHANSEY",
-        "SPECIES_CHERRIM"
-    ],
-    "radar": [
-        "SPECIES_GRANBULL",
-        "SPECIES_JUMPLUFF",
         "SPECIES_PILOSWINE",
         "SPECIES_SANDSLASH"
+    ],
+    "day": [
+        "SPECIES_LUNATONE",
+        "SPECIES_SOLROCK"
+    ],
+    "night": [
+        "SPECIES_ROTOM",
+        "SPECIES_KECLEON"
+    ],
+    "radar": [
+        "SPECIES_NOCTOWL",
+        "SPECIES_FEAROW",
+        "SPECIES_CHERRIM",
+        "SPECIES_GRANBULL"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

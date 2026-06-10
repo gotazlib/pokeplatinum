@@ -3,15 +3,15 @@
     "land_encounters": [
         {
             "level": 25,
-            "species": "SPECIES_ILLUMISE"
+            "species": "SPECIES_GLOOM"
         },
         {
             "level": 25,
-            "species": "SPECIES_KADABRA"
+            "species": "SPECIES_PORYGON"
         },
         {
             "level": 26,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_KADABRA"
         },
         {
             "level": 27,
@@ -19,54 +19,54 @@
         },
         {
             "level": 27,
-            "species": "SPECIES_WAILMER"
+            "species": "SPECIES_ILLUMISE"
         },
         {
             "level": 27,
+            "species": "SPECIES_ROSELIA"
+        },
+        {
+            "level": 28,
+            "species": "SPECIES_QUILAVA"
+        },
+        {
+            "level": 26,
             "species": "SPECIES_BAYLEEF"
         },
         {
             "level": 28,
-            "species": "SPECIES_CHARMELEON"
-        },
-        {
-            "level": 26,
             "species": "SPECIES_COMBUSKEN"
         },
         {
             "level": 28,
-            "species": "SPECIES_CROCONAW"
+            "species": "SPECIES_MINUN"
         },
         {
             "level": 28,
-            "species": "SPECIES_DUGTRIO"
+            "species": "SPECIES_PACHIRISU"
         },
         {
             "level": 28,
-            "species": "SPECIES_GROTLE"
-        },
-        {
-            "level": 28,
-            "species": "SPECIES_GROVYLE"
+            "species": "SPECIES_CHARMELEON"
         }
     ],
     "swarms": [
-        "SPECIES_CROCONAW",
-        "SPECIES_DUGTRIO"
+        "SPECIES_COMBUSKEN",
+        "SPECIES_MINUN"
     ],
     "day": [
-        "SPECIES_ILLUMISE",
-        "SPECIES_KADABRA"
+        "SPECIES_GLOOM",
+        "SPECIES_PORYGON"
     ],
     "night": [
-        "SPECIES_ROSELIA",
+        "SPECIES_KADABRA",
         "SPECIES_VOLBEAT"
     ],
     "radar": [
-        "SPECIES_WAILMER",
-        "SPECIES_BAYLEEF",
-        "SPECIES_CHARMELEON",
-        "SPECIES_COMBUSKEN"
+        "SPECIES_ILLUMISE",
+        "SPECIES_ROSELIA",
+        "SPECIES_QUILAVA",
+        "SPECIES_BAYLEEF"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

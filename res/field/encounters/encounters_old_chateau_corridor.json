@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 14,
-            "species": "SPECIES_EKANS"
+            "species": "SPECIES_SLAKOTH"
         },
         {
             "level": 15,
-            "species": "SPECIES_BONSLY"
+            "species": "SPECIES_CHINGLING"
         },
         {
             "level": 14,
-            "species": "SPECIES_MEOWTH"
+            "species": "SPECIES_RIOLU"
         },
         {
             "level": 15,
-            "species": "SPECIES_PINECO"
+            "species": "SPECIES_PARAS"
         },
         {
             "level": 16,
-            "species": "SPECIES_SPHEAL"
+            "species": "SPECIES_DITTO"
+        },
+        {
+            "level": 17,
+            "species": "SPECIES_EKANS"
+        },
+        {
+            "level": 16,
+            "species": "SPECIES_PINECO"
+        },
+        {
+            "level": 17,
+            "species": "SPECIES_BONSLY"
         },
         {
             "level": 17,
             "species": "SPECIES_TRAPINCH"
         },
         {
-            "level": 16,
+            "level": 17,
+            "species": "SPECIES_SPHEAL"
+        },
+        {
+            "level": 17,
+            "species": "SPECIES_MEOWTH"
+        },
+        {
+            "level": 17,
             "species": "SPECIES_DUSKULL"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_ELECTRIKE"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_HORSEA"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_SHROOMISH"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_SHUPPET"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_VULPIX"
         }
     ],
     "swarms": [
-        "SPECIES_HORSEA",
-        "SPECIES_SHROOMISH"
+        "SPECIES_TRAPINCH",
+        "SPECIES_SPHEAL"
     ],
     "day": [
-        "SPECIES_EKANS",
-        "SPECIES_BONSLY"
+        "SPECIES_SLAKOTH",
+        "SPECIES_CHINGLING"
     ],
     "night": [
-        "SPECIES_MEOWTH",
-        "SPECIES_PINECO"
+        "SPECIES_RIOLU",
+        "SPECIES_PARAS"
     ],
     "radar": [
-        "SPECIES_SPHEAL",
-        "SPECIES_TRAPINCH",
-        "SPECIES_DUSKULL",
-        "SPECIES_ELECTRIKE"
+        "SPECIES_DITTO",
+        "SPECIES_EKANS",
+        "SPECIES_PINECO",
+        "SPECIES_BONSLY"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

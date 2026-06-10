@@ -15,19 +15,19 @@
         },
         {
             "level": 7,
-            "species": "SPECIES_STARLY"
-        },
-        {
-            "level": 5,
-            "species": "SPECIES_TOGEPI"
-        },
-        {
-            "level": 8,
             "species": "SPECIES_ZUBAT"
         },
         {
+            "level": 5,
+            "species": "SPECIES_STARLY"
+        },
+        {
+            "level": 8,
+            "species": "SPECIES_TOGEPI"
+        },
+        {
             "level": 7,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_SPINARAK"
         },
         {
             "level": 9,
@@ -35,24 +35,24 @@
         },
         {
             "level": 9,
-            "species": "SPECIES_MARILL"
-        },
-        {
-            "level": 8,
-            "species": "SPECIES_SLUGMA"
-        },
-        {
-            "level": 9,
             "species": "SPECIES_SMEARGLE"
         },
         {
             "level": 8,
-            "species": "SPECIES_SPINARAK"
+            "species": "SPECIES_BIDOOF"
+        },
+        {
+            "level": 9,
+            "species": "SPECIES_SLUGMA"
+        },
+        {
+            "level": 8,
+            "species": "SPECIES_SWINUB"
         }
     ],
     "swarms": [
-        "SPECIES_MARILL",
-        "SPECIES_SLUGMA"
+        "SPECIES_SMEARGLE",
+        "SPECIES_BIDOOF"
     ],
     "day": [
         "SPECIES_WHISMUR",
@@ -60,12 +60,12 @@
     ],
     "night": [
         "SPECIES_COMBEE",
-        "SPECIES_STARLY"
+        "SPECIES_ZUBAT"
     ],
     "radar": [
+        "SPECIES_STARLY",
         "SPECIES_TOGEPI",
-        "SPECIES_ZUBAT",
-        "SPECIES_BIDOOF",
+        "SPECIES_SPINARAK",
         "SPECIES_HOPPIP"
     ],
     "rate_form0": 0,

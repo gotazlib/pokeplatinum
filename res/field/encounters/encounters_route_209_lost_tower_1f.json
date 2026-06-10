@@ -3,39 +3,43 @@
     "land_encounters": [
         {
             "level": 18,
+            "species": "SPECIES_VENONAT"
+        },
+        {
+            "level": 17,
+            "species": "SPECIES_SMOOCHUM"
+        },
+        {
+            "level": 19,
+            "species": "SPECIES_MACHOP"
+        },
+        {
+            "level": 17,
+            "species": "SPECIES_CHARMANDER"
+        },
+        {
+            "level": 18,
             "species": "SPECIES_CYNDAQUIL"
         },
         {
             "level": 17,
-            "species": "SPECIES_ABRA"
+            "species": "SPECIES_CHIMCHAR"
         },
         {
             "level": 19,
-            "species": "SPECIES_DODUO"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_GASTLY"
-        },
-        {
-            "level": 18,
             "species": "SPECIES_GLAMEOW"
         },
         {
-            "level": 17,
-            "species": "SPECIES_MIME_JR"
-        },
-        {
-            "level": 19,
-            "species": "SPECIES_MUDKIP"
+            "level": 20,
+            "species": "SPECIES_ABRA"
         },
         {
             "level": 20,
-            "species": "SPECIES_SWABLU"
+            "species": "SPECIES_DODUO"
         },
         {
             "level": 20,
-            "species": "SPECIES_TORCHIC"
+            "species": "SPECIES_GASTLY"
         },
         {
             "level": 20,
@@ -43,30 +47,26 @@
         },
         {
             "level": 20,
-            "species": "SPECIES_PIPLUP"
-        },
-        {
-            "level": 20,
-            "species": "SPECIES_SQUIRTLE"
+            "species": "SPECIES_SWABLU"
         }
     ],
     "swarms": [
-        "SPECIES_TORCHIC",
-        "SPECIES_TREECKO"
-    ],
-    "day": [
-        "SPECIES_CYNDAQUIL",
-        "SPECIES_ABRA"
-    ],
-    "night": [
         "SPECIES_DODUO",
         "SPECIES_GASTLY"
     ],
+    "day": [
+        "SPECIES_VENONAT",
+        "SPECIES_SMOOCHUM"
+    ],
+    "night": [
+        "SPECIES_MACHOP",
+        "SPECIES_CHARMANDER"
+    ],
     "radar": [
+        "SPECIES_CYNDAQUIL",
+        "SPECIES_CHIMCHAR",
         "SPECIES_GLAMEOW",
-        "SPECIES_MIME_JR",
-        "SPECIES_MUDKIP",
-        "SPECIES_SWABLU"
+        "SPECIES_ABRA"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

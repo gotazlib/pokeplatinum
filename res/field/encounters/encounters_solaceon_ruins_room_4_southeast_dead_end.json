@@ -7,39 +7,39 @@
         },
         {
             "level": 21,
-            "species": "SPECIES_DUSTOX"
+            "species": "SPECIES_BEAUTIFLY"
         },
         {
             "level": 22,
-            "species": "SPECIES_LICKITUNG"
+            "species": "SPECIES_BEEDRILL"
         },
         {
             "level": 23,
-            "species": "SPECIES_ONIX"
+            "species": "SPECIES_DUSTOX"
         },
         {
             "level": 24,
-            "species": "SPECIES_POLIWHIRL"
+            "species": "SPECIES_LICKITUNG"
         },
         {
             "level": 25,
-            "species": "SPECIES_ARIADOS"
-        },
-        {
-            "level": 26,
             "species": "SPECIES_GRAVELER"
         },
         {
+            "level": 26,
+            "species": "SPECIES_ARIADOS"
+        },
+        {
             "level": 27,
-            "species": "SPECIES_LEDIAN"
+            "species": "SPECIES_WEEPINBELL"
         },
         {
             "level": 28,
-            "species": "SPECIES_MUNCHLAX"
+            "species": "SPECIES_LEDIAN"
         },
         {
             "level": 29,
-            "species": "SPECIES_WEEPINBELL"
+            "species": "SPECIES_MUNCHLAX"
         },
         {
             "level": 30,
@@ -51,22 +51,22 @@
         }
     ],
     "swarms": [
-        "SPECIES_MUNCHLAX",
-        "SPECIES_WEEPINBELL"
+        "SPECIES_LEDIAN",
+        "SPECIES_MUNCHLAX"
     ],
     "day": [
         "SPECIES_BUTTERFREE",
-        "SPECIES_DUSTOX"
+        "SPECIES_BEAUTIFLY"
     ],
     "night": [
-        "SPECIES_LICKITUNG",
-        "SPECIES_ONIX"
+        "SPECIES_BEEDRILL",
+        "SPECIES_DUSTOX"
     ],
     "radar": [
-        "SPECIES_POLIWHIRL",
-        "SPECIES_ARIADOS",
+        "SPECIES_LICKITUNG",
         "SPECIES_GRAVELER",
-        "SPECIES_LEDIAN"
+        "SPECIES_ARIADOS",
+        "SPECIES_WEEPINBELL"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

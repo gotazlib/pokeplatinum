@@ -3,23 +3,31 @@
     "land_encounters": [
         {
             "level": 45,
-            "species": "SPECIES_ELECTABUZZ"
+            "species": "SPECIES_RHYDON"
         },
         {
             "level": 45,
-            "species": "SPECIES_KANGASKHAN"
+            "species": "SPECIES_TOXICROAK"
         },
         {
             "level": 46,
-            "species": "SPECIES_MILTANK"
+            "species": "SPECIES_ALAKAZAM"
         },
         {
             "level": 45,
-            "species": "SPECIES_SLOWBRO"
+            "species": "SPECIES_MILTANK"
         },
         {
             "level": 47,
-            "species": "SPECIES_SLOWKING"
+            "species": "SPECIES_ALTARIA"
+        },
+        {
+            "level": 46,
+            "species": "SPECIES_KANGASKHAN"
+        },
+        {
+            "level": 47,
+            "species": "SPECIES_WEEZING"
         },
         {
             "level": 46,
@@ -27,46 +35,38 @@
         },
         {
             "level": 47,
-            "species": "SPECIES_TOXICROAK"
-        },
-        {
-            "level": 46,
-            "species": "SPECIES_WEEZING"
-        },
-        {
-            "level": 47,
-            "species": "SPECIES_ABOMASNOW"
+            "species": "SPECIES_ELECTABUZZ"
         },
         {
             "level": 45,
-            "species": "SPECIES_ARMALDO"
+            "species": "SPECIES_ABOMASNOW"
         },
         {
             "level": 48,
-            "species": "SPECIES_BASTIODON"
+            "species": "SPECIES_ARMALDO"
         },
         {
             "level": 47,
-            "species": "SPECIES_CRADILY"
+            "species": "SPECIES_RAMPARDOS"
         }
     ],
     "swarms": [
-        "SPECIES_ABOMASNOW",
-        "SPECIES_ARMALDO"
+        "SPECIES_ELECTABUZZ",
+        "SPECIES_ABOMASNOW"
     ],
     "day": [
-        "SPECIES_ELECTABUZZ",
-        "SPECIES_KANGASKHAN"
+        "SPECIES_RHYDON",
+        "SPECIES_TOXICROAK"
     ],
     "night": [
-        "SPECIES_MILTANK",
-        "SPECIES_SLOWBRO"
+        "SPECIES_ALAKAZAM",
+        "SPECIES_MILTANK"
     ],
     "radar": [
-        "SPECIES_SLOWKING",
-        "SPECIES_TAUROS",
-        "SPECIES_TOXICROAK",
-        "SPECIES_WEEZING"
+        "SPECIES_ALTARIA",
+        "SPECIES_KANGASKHAN",
+        "SPECIES_WEEZING",
+        "SPECIES_TAUROS"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

@@ -3,10 +3,14 @@
     "land_encounters": [
         {
             "level": 53,
-            "species": "SPECIES_MAGNEZONE"
+            "species": "SPECIES_CHARIZARD"
         },
         {
             "level": 54,
+            "species": "SPECIES_CROBAT"
+        },
+        {
+            "level": 51,
             "species": "SPECIES_PORYGON_Z"
         },
         {
@@ -14,59 +18,55 @@
             "species": "SPECIES_RHYPERIOR"
         },
         {
-            "level": 51,
-            "species": "SPECIES_SWAMPERT"
+            "level": 53,
+            "species": "SPECIES_MAGNEZONE"
         },
         {
-            "level": 53,
+            "level": 52,
             "species": "SPECIES_TANGROWTH"
         },
         {
-            "level": 52,
+            "level": 53,
+            "species": "SPECIES_SNORLAX"
+        },
+        {
+            "level": 53,
             "species": "SPECIES_BLISSEY"
         },
         {
-            "level": 53,
-            "species": "SPECIES_ELECTIVIRE"
-        },
-        {
-            "level": 53,
-            "species": "SPECIES_GYARADOS"
-        },
-        {
             "level": 51,
-            "species": "SPECIES_KINGDRA"
-        },
-        {
-            "level": 52,
             "species": "SPECIES_MAGMORTAR"
         },
         {
+            "level": 52,
+            "species": "SPECIES_ELECTIVIRE"
+        },
+        {
             "level": 51,
-            "species": "SPECIES_MILOTIC"
+            "species": "SPECIES_TOGEKISS"
         },
         {
             "level": 52,
-            "species": "SPECIES_SNORLAX"
+            "species": "SPECIES_ARCANINE"
         }
     ],
     "swarms": [
-        "SPECIES_KINGDRA",
-        "SPECIES_MAGMORTAR"
+        "SPECIES_MAGMORTAR",
+        "SPECIES_ELECTIVIRE"
     ],
     "day": [
-        "SPECIES_MAGNEZONE",
-        "SPECIES_PORYGON_Z"
+        "SPECIES_CHARIZARD",
+        "SPECIES_CROBAT"
     ],
     "night": [
-        "SPECIES_RHYPERIOR",
-        "SPECIES_SWAMPERT"
+        "SPECIES_PORYGON_Z",
+        "SPECIES_RHYPERIOR"
     ],
     "radar": [
+        "SPECIES_MAGNEZONE",
         "SPECIES_TANGROWTH",
-        "SPECIES_BLISSEY",
-        "SPECIES_ELECTIVIRE",
-        "SPECIES_GYARADOS"
+        "SPECIES_SNORLAX",
+        "SPECIES_BLISSEY"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

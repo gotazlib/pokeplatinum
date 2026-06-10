@@ -3,6 +3,18 @@
     "land_encounters": [
         {
             "level": 13,
+            "species": "SPECIES_HOOTHOOT"
+        },
+        {
+            "level": 14,
+            "species": "SPECIES_SHINX"
+        },
+        {
+            "level": 14,
+            "species": "SPECIES_DIGLETT"
+        },
+        {
+            "level": 15,
             "species": "SPECIES_LEDYBA"
         },
         {
@@ -14,7 +26,7 @@
             "species": "SPECIES_SURSKIT"
         },
         {
-            "level": 15,
+            "level": 16,
             "species": "SPECIES_JIGGLYPUFF"
         },
         {
@@ -22,15 +34,11 @@
             "species": "SPECIES_TAILLOW"
         },
         {
-            "level": 14,
-            "species": "SPECIES_WINGULL"
-        },
-        {
-            "level": 16,
+            "level": 15,
             "species": "SPECIES_NIDORAN_M"
         },
         {
-            "level": 14,
+            "level": 16,
             "species": "SPECIES_CHERUBI"
         },
         {
@@ -40,33 +48,25 @@
         {
             "level": 16,
             "species": "SPECIES_KIRLIA"
-        },
-        {
-            "level": 15,
-            "species": "SPECIES_BUDEW"
-        },
-        {
-            "level": 16,
-            "species": "SPECIES_MAREEP"
         }
     ],
     "swarms": [
-        "SPECIES_NIDORAN_F",
-        "SPECIES_KIRLIA"
-    ],
-    "day": [
-        "SPECIES_LEDYBA",
-        "SPECIES_NINCADA"
-    ],
-    "night": [
-        "SPECIES_SURSKIT",
-        "SPECIES_JIGGLYPUFF"
-    ],
-    "radar": [
-        "SPECIES_TAILLOW",
-        "SPECIES_WINGULL",
         "SPECIES_NIDORAN_M",
         "SPECIES_CHERUBI"
+    ],
+    "day": [
+        "SPECIES_HOOTHOOT",
+        "SPECIES_SHINX"
+    ],
+    "night": [
+        "SPECIES_DIGLETT",
+        "SPECIES_LEDYBA"
+    ],
+    "radar": [
+        "SPECIES_NINCADA",
+        "SPECIES_SURSKIT",
+        "SPECIES_JIGGLYPUFF",
+        "SPECIES_TAILLOW"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

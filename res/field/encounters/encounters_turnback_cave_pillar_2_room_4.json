@@ -3,7 +3,7 @@
     "land_encounters": [
         {
             "level": 25,
-            "species": "SPECIES_ARIADOS"
+            "species": "SPECIES_LICKITUNG"
         },
         {
             "level": 25,
@@ -11,11 +11,7 @@
         },
         {
             "level": 26,
-            "species": "SPECIES_LEDIAN"
-        },
-        {
-            "level": 27,
-            "species": "SPECIES_MUNCHLAX"
+            "species": "SPECIES_ARIADOS"
         },
         {
             "level": 27,
@@ -23,19 +19,23 @@
         },
         {
             "level": 27,
+            "species": "SPECIES_LEDIAN"
+        },
+        {
+            "level": 27,
+            "species": "SPECIES_MUNCHLAX"
+        },
+        {
+            "level": 28,
             "species": "SPECIES_YANMA"
         },
         {
-            "level": 28,
+            "level": 26,
             "species": "SPECIES_GLOOM"
         },
         {
-            "level": 26,
-            "species": "SPECIES_PORYGON"
-        },
-        {
             "level": 28,
-            "species": "SPECIES_ILLUMISE"
+            "species": "SPECIES_PORYGON"
         },
         {
             "level": 28,
@@ -43,30 +43,30 @@
         },
         {
             "level": 28,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_VOLBEAT"
         },
         {
             "level": 28,
-            "species": "SPECIES_VOLBEAT"
+            "species": "SPECIES_ILLUMISE"
         }
     ],
     "swarms": [
-        "SPECIES_ILLUMISE",
+        "SPECIES_PORYGON",
         "SPECIES_KADABRA"
     ],
     "day": [
-        "SPECIES_ARIADOS",
+        "SPECIES_LICKITUNG",
         "SPECIES_GRAVELER"
     ],
     "night": [
-        "SPECIES_LEDIAN",
-        "SPECIES_MUNCHLAX"
+        "SPECIES_ARIADOS",
+        "SPECIES_WEEPINBELL"
     ],
     "radar": [
-        "SPECIES_WEEPINBELL",
+        "SPECIES_LEDIAN",
+        "SPECIES_MUNCHLAX",
         "SPECIES_YANMA",
-        "SPECIES_GLOOM",
-        "SPECIES_PORYGON"
+        "SPECIES_GLOOM"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

@@ -3,6 +3,14 @@
     "land_encounters": [
         {
             "level": 41,
+            "species": "SPECIES_VESPIQUEN"
+        },
+        {
+            "level": 42,
+            "species": "SPECIES_CACTURNE"
+        },
+        {
+            "level": 41,
             "species": "SPECIES_RAICHU"
         },
         {
@@ -10,63 +18,55 @@
             "species": "SPECIES_STARAPTOR"
         },
         {
-            "level": 41,
+            "level": 44,
+            "species": "SPECIES_MANECTRIC"
+        },
+        {
+            "level": 43,
             "species": "SPECIES_SKUNTANK"
         },
         {
-            "level": 42,
-            "species": "SPECIES_BELLOSSOM"
-        },
-        {
             "level": 44,
-            "species": "SPECIES_ELECTRODE"
-        },
-        {
-            "level": 43,
-            "species": "SPECIES_EXPLOUD"
-        },
-        {
-            "level": 44,
-            "species": "SPECIES_FROSLASS"
-        },
-        {
-            "level": 43,
-            "species": "SPECIES_GLALIE"
-        },
-        {
-            "level": 42,
-            "species": "SPECIES_LOPUNNY"
-        },
-        {
-            "level": 43,
-            "species": "SPECIES_LUDICOLO"
-        },
-        {
-            "level": 42,
-            "species": "SPECIES_OCTILLERY"
+            "species": "SPECIES_VILEPLUME"
         },
         {
             "level": 43,
             "species": "SPECIES_SHIFTRY"
+        },
+        {
+            "level": 42,
+            "species": "SPECIES_GLALIE"
+        },
+        {
+            "level": 43,
+            "species": "SPECIES_LOPUNNY"
+        },
+        {
+            "level": 42,
+            "species": "SPECIES_VICTREEBEL"
+        },
+        {
+            "level": 43,
+            "species": "SPECIES_BELLOSSOM"
         }
     ],
     "swarms": [
-        "SPECIES_LOPUNNY",
-        "SPECIES_LUDICOLO"
+        "SPECIES_GLALIE",
+        "SPECIES_LOPUNNY"
     ],
     "day": [
+        "SPECIES_VESPIQUEN",
+        "SPECIES_CACTURNE"
+    ],
+    "night": [
         "SPECIES_RAICHU",
         "SPECIES_STARAPTOR"
     ],
-    "night": [
-        "SPECIES_SKUNTANK",
-        "SPECIES_BELLOSSOM"
-    ],
     "radar": [
-        "SPECIES_ELECTRODE",
-        "SPECIES_EXPLOUD",
-        "SPECIES_FROSLASS",
-        "SPECIES_GLALIE"
+        "SPECIES_MANECTRIC",
+        "SPECIES_SKUNTANK",
+        "SPECIES_VILEPLUME",
+        "SPECIES_SHIFTRY"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

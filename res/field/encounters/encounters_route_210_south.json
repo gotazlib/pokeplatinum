@@ -3,30 +3,34 @@
     "land_encounters": [
         {
             "level": 19,
-            "species": "SPECIES_SLOWPOKE"
+            "species": "SPECIES_TREECKO"
         },
         {
             "level": 18,
-            "species": "SPECIES_BULBASAUR"
+            "species": "SPECIES_SWABLU"
         },
         {
             "level": 21,
+            "species": "SPECIES_TORCHIC"
+        },
+        {
+            "level": 20,
+            "species": "SPECIES_MIME_JR"
+        },
+        {
+            "level": 20,
             "species": "SPECIES_CHIKORITA"
         },
         {
-            "level": 20,
+            "level": 19,
+            "species": "SPECIES_BULBASAUR"
+        },
+        {
+            "level": 19,
             "species": "SPECIES_TURTWIG"
         },
         {
-            "level": 20,
-            "species": "SPECIES_CUBONE"
-        },
-        {
-            "level": 19,
-            "species": "SPECIES_GOLDEEN"
-        },
-        {
-            "level": 19,
+            "level": 21,
             "species": "SPECIES_NATU"
         },
         {
@@ -34,39 +38,35 @@
             "species": "SPECIES_ODDISH"
         },
         {
-            "level": 21,
-            "species": "SPECIES_PSYDUCK"
+            "level": 19,
+            "species": "SPECIES_CUBONE"
         },
         {
-            "level": 19,
+            "level": 21,
             "species": "SPECIES_CLEFAIRY"
         },
         {
             "level": 21,
             "species": "SPECIES_EEVEE"
-        },
-        {
-            "level": 21,
-            "species": "SPECIES_EXEGGCUTE"
         }
     ],
     "swarms": [
-        "SPECIES_PSYDUCK",
-        "SPECIES_CLEFAIRY"
+        "SPECIES_ODDISH",
+        "SPECIES_CUBONE"
     ],
     "day": [
-        "SPECIES_SLOWPOKE",
-        "SPECIES_BULBASAUR"
+        "SPECIES_TREECKO",
+        "SPECIES_SWABLU"
     ],
     "night": [
-        "SPECIES_CHIKORITA",
-        "SPECIES_TURTWIG"
+        "SPECIES_TORCHIC",
+        "SPECIES_MIME_JR"
     ],
     "radar": [
-        "SPECIES_CUBONE",
-        "SPECIES_GOLDEEN",
-        "SPECIES_NATU",
-        "SPECIES_ODDISH"
+        "SPECIES_CHIKORITA",
+        "SPECIES_BULBASAUR",
+        "SPECIES_TURTWIG",
+        "SPECIES_NATU"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

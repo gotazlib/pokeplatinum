@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 20,
-            "species": "SPECIES_TENTACOOL"
-        },
-        {
-            "level": 21,
-            "species": "SPECIES_UNOWN"
-        },
-        {
-            "level": 22,
-            "species": "SPECIES_KOFFING"
-        },
-        {
-            "level": 23,
-            "species": "SPECIES_LOMBRE"
-        },
-        {
-            "level": 24,
-            "species": "SPECIES_NUZLEAF"
-        },
-        {
-            "level": 25,
-            "species": "SPECIES_SKIPLOOM"
-        },
-        {
-            "level": 26,
             "species": "SPECIES_STARAVIA"
         },
         {
-            "level": 27,
-            "species": "SPECIES_STARYU"
+            "level": 21,
+            "species": "SPECIES_KOFFING"
         },
         {
-            "level": 28,
+            "level": 22,
+            "species": "SPECIES_NUZLEAF"
+        },
+        {
+            "level": 23,
             "species": "SPECIES_VIBRAVA"
         },
         {
-            "level": 29,
-            "species": "SPECIES_CLAMPERL"
+            "level": 24,
+            "species": "SPECIES_SKIPLOOM"
         },
         {
-            "level": 30,
-            "species": "SPECIES_MANTYKE"
-        },
-        {
-            "level": 30,
+            "level": 25,
             "species": "SPECIES_RHYHORN"
+        },
+        {
+            "level": 26,
+            "species": "SPECIES_DRIFLOON"
+        },
+        {
+            "level": 27,
+            "species": "SPECIES_PIDGEOTTO"
+        },
+        {
+            "level": 28,
+            "species": "SPECIES_CRANIDOS"
+        },
+        {
+            "level": 29,
+            "species": "SPECIES_BUNEARY"
+        },
+        {
+            "level": 30,
+            "species": "SPECIES_GROWLITHE"
+        },
+        {
+            "level": 30,
+            "species": "SPECIES_SHIELDON"
         }
     ],
     "swarms": [
-        "SPECIES_VIBRAVA",
-        "SPECIES_CLAMPERL"
+        "SPECIES_CRANIDOS",
+        "SPECIES_BUNEARY"
     ],
     "day": [
-        "SPECIES_TENTACOOL",
-        "SPECIES_UNOWN"
+        "SPECIES_STARAVIA",
+        "SPECIES_KOFFING"
     ],
     "night": [
-        "SPECIES_KOFFING",
-        "SPECIES_LOMBRE"
+        "SPECIES_NUZLEAF",
+        "SPECIES_VIBRAVA"
     ],
     "radar": [
-        "SPECIES_NUZLEAF",
         "SPECIES_SKIPLOOM",
-        "SPECIES_STARAVIA",
-        "SPECIES_STARYU"
+        "SPECIES_RHYHORN",
+        "SPECIES_DRIFLOON",
+        "SPECIES_PIDGEOTTO"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

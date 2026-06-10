@@ -3,31 +3,31 @@
     "land_encounters": [
         {
             "level": 47,
-            "species": "SPECIES_AGGRON"
+            "species": "SPECIES_UMBREON"
         },
         {
             "level": 48,
-            "species": "SPECIES_BLASTOISE"
+            "species": "SPECIES_LEAFEON"
+        },
+        {
+            "level": 49,
+            "species": "SPECIES_DUSKNOIR"
+        },
+        {
+            "level": 50,
+            "species": "SPECIES_LUCARIO"
+        },
+        {
+            "level": 48,
+            "species": "SPECIES_MAMOSWINE"
+        },
+        {
+            "level": 51,
+            "species": "SPECIES_SCEPTILE"
         },
         {
             "level": 49,
             "species": "SPECIES_BLAZIKEN"
-        },
-        {
-            "level": 50,
-            "species": "SPECIES_EMPOLEON"
-        },
-        {
-            "level": 48,
-            "species": "SPECIES_FERALIGATR"
-        },
-        {
-            "level": 51,
-            "species": "SPECIES_MAMOSWINE"
-        },
-        {
-            "level": 49,
-            "species": "SPECIES_SCEPTILE"
         },
         {
             "level": 49,
@@ -35,37 +35,37 @@
         },
         {
             "level": 51,
-            "species": "SPECIES_CHARIZARD"
+            "species": "SPECIES_AGGRON"
         },
         {
             "level": 47,
-            "species": "SPECIES_INFERNAPE"
-        },
-        {
-            "level": 51,
             "species": "SPECIES_TYPHLOSION"
         },
         {
+            "level": 51,
+            "species": "SPECIES_INFERNAPE"
+        },
+        {
             "level": 47,
-            "species": "SPECIES_CROBAT"
+            "species": "SPECIES_CHARIZARD"
         }
     ],
     "swarms": [
-        "SPECIES_CHARIZARD",
-        "SPECIES_INFERNAPE"
+        "SPECIES_AGGRON",
+        "SPECIES_TYPHLOSION"
     ],
     "day": [
-        "SPECIES_AGGRON",
-        "SPECIES_BLASTOISE"
+        "SPECIES_UMBREON",
+        "SPECIES_LEAFEON"
     ],
     "night": [
-        "SPECIES_BLAZIKEN",
-        "SPECIES_EMPOLEON"
+        "SPECIES_DUSKNOIR",
+        "SPECIES_LUCARIO"
     ],
     "radar": [
-        "SPECIES_FERALIGATR",
         "SPECIES_MAMOSWINE",
         "SPECIES_SCEPTILE",
+        "SPECIES_BLAZIKEN",
         "SPECIES_WALREIN"
     ],
     "rate_form0": 0,

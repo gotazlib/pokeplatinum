@@ -3,15 +3,15 @@
     "land_encounters": [
         {
             "level": 20,
-            "species": "SPECIES_GROWLITHE"
+            "species": "SPECIES_OMANYTE"
         },
         {
             "level": 21,
-            "species": "SPECIES_SHIELDON"
+            "species": "SPECIES_LILEEP"
         },
         {
             "level": 22,
-            "species": "SPECIES_FARFETCHD"
+            "species": "SPECIES_KABUTO"
         },
         {
             "level": 23,
@@ -19,54 +19,54 @@
         },
         {
             "level": 24,
-            "species": "SPECIES_KABUTO"
-        },
-        {
-            "level": 25,
-            "species": "SPECIES_LILEEP"
-        },
-        {
-            "level": 26,
-            "species": "SPECIES_OMANYTE"
-        },
-        {
-            "level": 27,
-            "species": "SPECIES_AIPOM"
-        },
-        {
-            "level": 28,
-            "species": "SPECIES_ELEKID"
-        },
-        {
-            "level": 29,
             "species": "SPECIES_LOUDRED"
         },
         {
-            "level": 30,
+            "level": 25,
+            "species": "SPECIES_AIPOM"
+        },
+        {
+            "level": 26,
             "species": "SPECIES_SPINDA"
         },
         {
-            "level": 30,
+            "level": 27,
+            "species": "SPECIES_ELEKID"
+        },
+        {
+            "level": 28,
             "species": "SPECIES_LUXIO"
+        },
+        {
+            "level": 29,
+            "species": "SPECIES_FLAAFFY"
+        },
+        {
+            "level": 30,
+            "species": "SPECIES_MAGBY"
+        },
+        {
+            "level": 30,
+            "species": "SPECIES_NIDORINO"
         }
     ],
     "swarms": [
-        "SPECIES_ELEKID",
-        "SPECIES_LOUDRED"
+        "SPECIES_LUXIO",
+        "SPECIES_FLAAFFY"
     ],
     "day": [
-        "SPECIES_GROWLITHE",
-        "SPECIES_SHIELDON"
+        "SPECIES_OMANYTE",
+        "SPECIES_LILEEP"
     ],
     "night": [
-        "SPECIES_FARFETCHD",
+        "SPECIES_KABUTO",
         "SPECIES_ANORITH"
     ],
     "radar": [
-        "SPECIES_KABUTO",
-        "SPECIES_LILEEP",
-        "SPECIES_OMANYTE",
-        "SPECIES_AIPOM"
+        "SPECIES_LOUDRED",
+        "SPECIES_AIPOM",
+        "SPECIES_SPINDA",
+        "SPECIES_ELEKID"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

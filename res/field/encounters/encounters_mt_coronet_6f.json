@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 37,
-            "species": "SPECIES_ABSOL"
+            "species": "SPECIES_SEVIPER"
         },
         {
             "level": 38,
-            "species": "SPECIES_FORRETRESS"
+            "species": "SPECIES_BRELOOM"
+        },
+        {
+            "level": 37,
+            "species": "SPECIES_MR_MIME"
+        },
+        {
+            "level": 36,
+            "species": "SPECIES_CAMERUPT"
+        },
+        {
+            "level": 39,
+            "species": "SPECIES_TROPIUS"
+        },
+        {
+            "level": 39,
+            "species": "SPECIES_DODRIO"
+        },
+        {
+            "level": 39,
+            "species": "SPECIES_ABSOL"
         },
         {
             "level": 37,
             "species": "SPECIES_MAGNETON"
         },
         {
-            "level": 36,
-            "species": "SPECIES_MANTINE"
-        },
-        {
-            "level": 39,
-            "species": "SPECIES_SKARMORY"
-        },
-        {
-            "level": 39,
+            "level": 38,
             "species": "SPECIES_STANTLER"
         },
         {
-            "level": 39,
-            "species": "SPECIES_SWALOT"
-        },
-        {
-            "level": 37,
-            "species": "SPECIES_CRAWDAUNT"
-        },
-        {
-            "level": 38,
-            "species": "SPECIES_WHISCASH"
-        },
-        {
             "level": 40,
-            "species": "SPECIES_PIDGEOT"
+            "species": "SPECIES_SKARMORY"
         },
         {
             "level": 38,
-            "species": "SPECIES_GRUMPIG"
+            "species": "SPECIES_FORRETRESS"
         },
         {
             "level": 41,
-            "species": "SPECIES_TORKOAL"
+            "species": "SPECIES_SWALOT"
         }
     ],
     "swarms": [
-        "SPECIES_WHISCASH",
-        "SPECIES_PIDGEOT"
+        "SPECIES_STANTLER",
+        "SPECIES_SKARMORY"
     ],
     "day": [
-        "SPECIES_ABSOL",
-        "SPECIES_FORRETRESS"
+        "SPECIES_SEVIPER",
+        "SPECIES_BRELOOM"
     ],
     "night": [
-        "SPECIES_MAGNETON",
-        "SPECIES_MANTINE"
+        "SPECIES_MR_MIME",
+        "SPECIES_CAMERUPT"
     ],
     "radar": [
-        "SPECIES_SKARMORY",
-        "SPECIES_STANTLER",
-        "SPECIES_SWALOT",
-        "SPECIES_CRAWDAUNT"
+        "SPECIES_TROPIUS",
+        "SPECIES_DODRIO",
+        "SPECIES_ABSOL",
+        "SPECIES_MAGNETON"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

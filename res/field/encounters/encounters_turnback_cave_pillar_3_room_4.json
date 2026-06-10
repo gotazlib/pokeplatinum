@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 35,
-            "species": "SPECIES_SEAKING"
+            "species": "SPECIES_GRANBULL"
         },
         {
             "level": 35,
-            "species": "SPECIES_VENOMOTH"
+            "species": "SPECIES_PILOSWINE"
         },
         {
             "level": 36,
+            "species": "SPECIES_SANDSLASH"
+        },
+        {
+            "level": 37,
+            "species": "SPECIES_CHANSEY"
+        },
+        {
+            "level": 37,
+            "species": "SPECIES_JUMPLUFF"
+        },
+        {
+            "level": 37,
+            "species": "SPECIES_VENOMOTH"
+        },
+        {
+            "level": 38,
             "species": "SPECIES_PURUGLY"
         },
         {
-            "level": 37,
+            "level": 36,
             "species": "SPECIES_CARNIVINE"
         },
         {
-            "level": 37,
-            "species": "SPECIES_BANETTE"
+            "level": 38,
+            "species": "SPECIES_DUSCLOPS"
         },
         {
-            "level": 37,
-            "species": "SPECIES_DUSCLOPS"
+            "level": 38,
+            "species": "SPECIES_PRIMEAPE"
         },
         {
             "level": 38,
             "species": "SPECIES_GIRAFARIG"
         },
         {
-            "level": 36,
-            "species": "SPECIES_GOLBAT"
-        },
-        {
             "level": 38,
-            "species": "SPECIES_HITMONCHAN"
-        },
-        {
-            "level": 38,
-            "species": "SPECIES_HITMONLEE"
-        },
-        {
-            "level": 38,
-            "species": "SPECIES_HITMONTOP"
-        },
-        {
-            "level": 38,
-            "species": "SPECIES_JYNX"
+            "species": "SPECIES_BANETTE"
         }
     ],
     "swarms": [
-        "SPECIES_HITMONCHAN",
-        "SPECIES_HITMONLEE"
+        "SPECIES_DUSCLOPS",
+        "SPECIES_PRIMEAPE"
     ],
     "day": [
-        "SPECIES_SEAKING",
-        "SPECIES_VENOMOTH"
+        "SPECIES_GRANBULL",
+        "SPECIES_PILOSWINE"
     ],
     "night": [
-        "SPECIES_PURUGLY",
-        "SPECIES_CARNIVINE"
+        "SPECIES_SANDSLASH",
+        "SPECIES_CHANSEY"
     ],
     "radar": [
-        "SPECIES_BANETTE",
-        "SPECIES_DUSCLOPS",
-        "SPECIES_GIRAFARIG",
-        "SPECIES_GOLBAT"
+        "SPECIES_JUMPLUFF",
+        "SPECIES_VENOMOTH",
+        "SPECIES_PURUGLY",
+        "SPECIES_CARNIVINE"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

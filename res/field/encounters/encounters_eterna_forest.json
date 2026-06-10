@@ -3,23 +3,27 @@
     "land_encounters": [
         {
             "level": 11,
+            "species": "SPECIES_SLUGMA"
+        },
+        {
+            "level": 10,
+            "species": "SPECIES_SWINUB"
+        },
+        {
+            "level": 10,
             "species": "SPECIES_PIDGEY"
         },
         {
-            "level": 10,
+            "level": 12,
             "species": "SPECIES_RATTATA"
         },
         {
-            "level": 10,
-            "species": "SPECIES_SKITTY"
-        },
-        {
-            "level": 12,
+            "level": 11,
             "species": "SPECIES_WYNAUT"
         },
         {
-            "level": 11,
-            "species": "SPECIES_HOOTHOOT"
+            "level": 12,
+            "species": "SPECIES_SKITTY"
         },
         {
             "level": 12,
@@ -27,46 +31,42 @@
         },
         {
             "level": 12,
+            "species": "SPECIES_HOOTHOOT"
+        },
+        {
+            "level": 13,
             "species": "SPECIES_SHINX"
         },
         {
-            "level": 12,
+            "level": 13,
             "species": "SPECIES_DIGLETT"
         },
         {
-            "level": 13,
+            "level": 14,
             "species": "SPECIES_LEDYBA"
         },
         {
-            "level": 13,
+            "level": 14,
             "species": "SPECIES_NINCADA"
-        },
-        {
-            "level": 14,
-            "species": "SPECIES_SURSKIT"
-        },
-        {
-            "level": 14,
-            "species": "SPECIES_JIGGLYPUFF"
         }
     ],
     "swarms": [
-        "SPECIES_LEDYBA",
-        "SPECIES_NINCADA"
+        "SPECIES_SHINX",
+        "SPECIES_DIGLETT"
     ],
     "day": [
+        "SPECIES_SLUGMA",
+        "SPECIES_SWINUB"
+    ],
+    "night": [
         "SPECIES_PIDGEY",
         "SPECIES_RATTATA"
     ],
-    "night": [
-        "SPECIES_SKITTY",
-        "SPECIES_WYNAUT"
-    ],
     "radar": [
-        "SPECIES_HOOTHOOT",
+        "SPECIES_WYNAUT",
+        "SPECIES_SKITTY",
         "SPECIES_SPEAROW",
-        "SPECIES_SHINX",
-        "SPECIES_DIGLETT"
+        "SPECIES_HOOTHOOT"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

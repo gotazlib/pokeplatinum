@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 35,
-            "species": "SPECIES_CHERRIM"
+            "species": "SPECIES_ROTOM"
         },
         {
             "level": 35,
-            "species": "SPECIES_GRANBULL"
+            "species": "SPECIES_KECLEON"
         },
         {
             "level": 36,
-            "species": "SPECIES_JUMPLUFF"
+            "species": "SPECIES_NOCTOWL"
         },
         {
             "level": 37,
+            "species": "SPECIES_FEAROW"
+        },
+        {
+            "level": 37,
+            "species": "SPECIES_CHERRIM"
+        },
+        {
+            "level": 37,
+            "species": "SPECIES_GRANBULL"
+        },
+        {
+            "level": 38,
             "species": "SPECIES_PILOSWINE"
         },
         {
-            "level": 37,
+            "level": 36,
             "species": "SPECIES_SANDSLASH"
         },
         {
-            "level": 37,
-            "species": "SPECIES_SEAKING"
+            "level": 38,
+            "species": "SPECIES_CHANSEY"
+        },
+        {
+            "level": 38,
+            "species": "SPECIES_JUMPLUFF"
         },
         {
             "level": 38,
             "species": "SPECIES_VENOMOTH"
         },
         {
-            "level": 36,
+            "level": 38,
             "species": "SPECIES_PURUGLY"
-        },
-        {
-            "level": 38,
-            "species": "SPECIES_CARNIVINE"
-        },
-        {
-            "level": 38,
-            "species": "SPECIES_BANETTE"
-        },
-        {
-            "level": 38,
-            "species": "SPECIES_DUSCLOPS"
-        },
-        {
-            "level": 38,
-            "species": "SPECIES_GIRAFARIG"
         }
     ],
     "swarms": [
-        "SPECIES_CARNIVINE",
-        "SPECIES_BANETTE"
+        "SPECIES_CHANSEY",
+        "SPECIES_JUMPLUFF"
     ],
     "day": [
-        "SPECIES_CHERRIM",
-        "SPECIES_GRANBULL"
+        "SPECIES_ROTOM",
+        "SPECIES_KECLEON"
     ],
     "night": [
-        "SPECIES_JUMPLUFF",
-        "SPECIES_PILOSWINE"
+        "SPECIES_NOCTOWL",
+        "SPECIES_FEAROW"
     ],
     "radar": [
-        "SPECIES_SANDSLASH",
-        "SPECIES_SEAKING",
-        "SPECIES_VENOMOTH",
-        "SPECIES_PURUGLY"
+        "SPECIES_CHERRIM",
+        "SPECIES_GRANBULL",
+        "SPECIES_PILOSWINE",
+        "SPECIES_SANDSLASH"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

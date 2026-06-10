@@ -3,35 +3,43 @@
     "land_encounters": [
         {
             "level": 35,
-            "species": "SPECIES_PERSIAN"
+            "species": "SPECIES_TANGELA"
         },
         {
             "level": 35,
-            "species": "SPECIES_ROTOM"
+            "species": "SPECIES_ARBOK"
         },
         {
             "level": 36,
-            "species": "SPECIES_SEADRA"
+            "species": "SPECIES_VIGOROTH"
+        },
+        {
+            "level": 37,
+            "species": "SPECIES_PERSIAN"
+        },
+        {
+            "level": 37,
+            "species": "SPECIES_LUNATONE"
         },
         {
             "level": 37,
             "species": "SPECIES_SOLROCK"
         },
         {
+            "level": 38,
+            "species": "SPECIES_ROTOM"
+        },
+        {
+            "level": 36,
+            "species": "SPECIES_KECLEON"
+        },
+        {
             "level": 37,
-            "species": "SPECIES_VIGOROTH"
+            "species": "SPECIES_NOCTOWL"
         },
         {
             "level": 37,
             "species": "SPECIES_FEAROW"
-        },
-        {
-            "level": 38,
-            "species": "SPECIES_NOCTOWL"
-        },
-        {
-            "level": 36,
-            "species": "SPECIES_CHANSEY"
         },
         {
             "level": 37,
@@ -40,33 +48,25 @@
         {
             "level": 37,
             "species": "SPECIES_GRANBULL"
-        },
-        {
-            "level": 37,
-            "species": "SPECIES_JUMPLUFF"
-        },
-        {
-            "level": 37,
-            "species": "SPECIES_PILOSWINE"
         }
     ],
     "swarms": [
-        "SPECIES_CHERRIM",
-        "SPECIES_GRANBULL"
+        "SPECIES_NOCTOWL",
+        "SPECIES_FEAROW"
     ],
     "day": [
-        "SPECIES_PERSIAN",
-        "SPECIES_ROTOM"
+        "SPECIES_TANGELA",
+        "SPECIES_ARBOK"
     ],
     "night": [
-        "SPECIES_SEADRA",
-        "SPECIES_SOLROCK"
+        "SPECIES_VIGOROTH",
+        "SPECIES_PERSIAN"
     ],
     "radar": [
-        "SPECIES_VIGOROTH",
-        "SPECIES_FEAROW",
-        "SPECIES_NOCTOWL",
-        "SPECIES_CHANSEY"
+        "SPECIES_LUNATONE",
+        "SPECIES_SOLROCK",
+        "SPECIES_ROTOM",
+        "SPECIES_KECLEON"
     ],
     "rate_form0": 100,
     "rate_form1": 100,
