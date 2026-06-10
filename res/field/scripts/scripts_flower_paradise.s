@@ -7,6 +7,8 @@
     ScriptEntry FlowerParadise_OnTransition
     ScriptEntry FlowerParadise_OnLoad
     ScriptEntry FlowerParadise_Shaymin
+    ScriptEntry Legend_Celebi
+    ScriptEntry Legend_Latias
     ScriptEntryEnd
 
 FlowerParadise_OnTransition:
@@ -65,6 +67,42 @@ FlowerParadise_BlackOut:
     BlackOutFromBattle
     ClearFlag FLAG_HIDE_FLOWER_PARADISE_SHAYMIN
     ReleaseAll
+    End
+
+    .balign 4, 0
+
+// ROM hack: static legendary spawn (SPECIES_CELEBI). Gated behind beating the League
+// (FLAG_DEFEATED_CYNTHIA); re-battleable mysterious Poké Ball.
+Legend_Celebi:
+    GoToIfUnset FLAG_DEFEATED_CYNTHIA, Legend_Celebi_Locked
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_CELEBI
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_CELEBI, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+Legend_Celebi_Locked:
+    End
+
+// ROM hack: static legendary spawn (SPECIES_LATIAS). Gated behind beating the League
+// (FLAG_DEFEATED_CYNTHIA); re-battleable mysterious Poké Ball.
+Legend_Latias:
+    GoToIfUnset FLAG_DEFEATED_CYNTHIA, Legend_Latias_Locked
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_LATIAS
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_LATIAS, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+Legend_Latias_Locked:
     End
 
     .balign 4, 0

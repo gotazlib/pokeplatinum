@@ -9,10 +9,6 @@
     ScriptEntry StarkMountainRoom2_Unused4
     ScriptEntry StarkMountainRoom2_Unused5
     ScriptEntry StarkMountainRoom2_OnTransition
-    ScriptEntry Legend_Raikou
-    ScriptEntry Legend_Entei
-    ScriptEntry Legend_Suicune
-    ScriptEntry Legend_Phione
     ScriptEntryEnd
 
 StarkMountainRoom2_OnTransition:
@@ -197,56 +193,6 @@ StarkMountainRoom2_Unused4:
 
 StarkMountainRoom2_Unused5:
     NPCMessage StarkMountainRoom2_Text_Dummy7
-    End
-
-    .balign 4, 0
-
-// ROM hack: static legendary spawn (SPECIES_RAIKOU), re-battleable mysterious Poké Ball.
-Legend_Raikou:
-    LockAll
-    FacePlayer
-    PlayCry SPECIES_RAIKOU
-    WaitCry
-    SetFlag FLAG_MAP_LOCAL
-    StartLegendaryBattle SPECIES_RAIKOU, 70
-    ClearFlag FLAG_MAP_LOCAL
-    ReleaseAll
-    End
-
-// ROM hack: static legendary spawn (SPECIES_ENTEI), re-battleable mysterious Poké Ball.
-Legend_Entei:
-    LockAll
-    FacePlayer
-    PlayCry SPECIES_ENTEI
-    WaitCry
-    SetFlag FLAG_MAP_LOCAL
-    StartLegendaryBattle SPECIES_ENTEI, 70
-    ClearFlag FLAG_MAP_LOCAL
-    ReleaseAll
-    End
-
-// ROM hack: static legendary spawn (SPECIES_SUICUNE), re-battleable mysterious Poké Ball.
-Legend_Suicune:
-    LockAll
-    FacePlayer
-    PlayCry SPECIES_SUICUNE
-    WaitCry
-    SetFlag FLAG_MAP_LOCAL
-    StartLegendaryBattle SPECIES_SUICUNE, 70
-    ClearFlag FLAG_MAP_LOCAL
-    ReleaseAll
-    End
-
-// ROM hack: static legendary spawn (SPECIES_PHIONE), re-battleable mysterious Poké Ball.
-Legend_Phione:
-    LockAll
-    FacePlayer
-    PlayCry SPECIES_PHIONE
-    WaitCry
-    SetFlag FLAG_MAP_LOCAL
-    StartLegendaryBattle SPECIES_PHIONE, 50
-    ClearFlag FLAG_MAP_LOCAL
-    ReleaseAll
     End
 
     .balign 4, 0

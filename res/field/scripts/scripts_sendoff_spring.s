@@ -6,6 +6,10 @@
     ScriptEntry SendoffSpring_OnFrameCynthia
     ScriptEntry SendoffSpring_Cynthia
     ScriptEntry SendoffSpring_OnTransition
+    ScriptEntry Legend_Mewtwo
+    ScriptEntry Legend_Mew
+    ScriptEntry Legend_Jirachi
+    ScriptEntry Legend_Deoxys
     ScriptEntryEnd
 
 SendoffSpring_OnTransition:
@@ -85,6 +89,76 @@ SendoffSpring_CynthiaEnd:
     WaitButton
     CloseMessage
     ReleaseAll
+    End
+
+    .balign 4, 0
+
+// ROM hack: static legendary spawn (SPECIES_MEWTWO). Gated behind beating the League
+// (FLAG_DEFEATED_CYNTHIA); re-battleable mysterious Poké Ball.
+Legend_Mewtwo:
+    GoToIfUnset FLAG_DEFEATED_CYNTHIA, Legend_Mewtwo_Locked
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_MEWTWO
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_MEWTWO, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+Legend_Mewtwo_Locked:
+    End
+
+// ROM hack: static legendary spawn (SPECIES_MEW). Gated behind beating the League
+// (FLAG_DEFEATED_CYNTHIA); re-battleable mysterious Poké Ball.
+Legend_Mew:
+    GoToIfUnset FLAG_DEFEATED_CYNTHIA, Legend_Mew_Locked
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_MEW
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_MEW, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+Legend_Mew_Locked:
+    End
+
+// ROM hack: static legendary spawn (SPECIES_JIRACHI). Gated behind beating the League
+// (FLAG_DEFEATED_CYNTHIA); re-battleable mysterious Poké Ball.
+Legend_Jirachi:
+    GoToIfUnset FLAG_DEFEATED_CYNTHIA, Legend_Jirachi_Locked
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_JIRACHI
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_JIRACHI, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+Legend_Jirachi_Locked:
+    End
+
+// ROM hack: static legendary spawn (SPECIES_DEOXYS). Gated behind beating the League
+// (FLAG_DEFEATED_CYNTHIA); re-battleable mysterious Poké Ball.
+Legend_Deoxys:
+    GoToIfUnset FLAG_DEFEATED_CYNTHIA, Legend_Deoxys_Locked
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_DEOXYS
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_DEOXYS, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+Legend_Deoxys_Locked:
     End
 
     .balign 4, 0

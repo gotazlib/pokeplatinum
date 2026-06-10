@@ -15,6 +15,36 @@
             "x": 911,
             "z": 203,
             "y": 0
+        },
+        {
+            "id": "LOCALID_CELEBI",
+            "graphics_id": "OBJ_EVENT_GFX_POKEBALL",
+            "movement_type": "MOVEMENT_TYPE_NONE",
+            "trainer_type": "TRAINER_TYPE_NONE",
+            "hidden_flag": "0",
+            "script": 4,
+            "initial_dir": 0,
+            "data": [],
+            "movement_range_x": 0,
+            "movement_range_z": 0,
+            "x": 912,
+            "z": 203,
+            "y": 0
+        },
+        {
+            "id": "LOCALID_LATIAS",
+            "graphics_id": "OBJ_EVENT_GFX_POKEBALL",
+            "movement_type": "MOVEMENT_TYPE_NONE",
+            "trainer_type": "TRAINER_TYPE_NONE",
+            "hidden_flag": "0",
+            "script": 5,
+            "initial_dir": 0,
+            "data": [],
+            "movement_range_x": 0,
+            "movement_range_z": 0,
+            "x": 910,
+            "z": 203,
+            "y": 0
         }
     ],
     "warp_events": [],

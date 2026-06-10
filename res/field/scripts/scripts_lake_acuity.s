@@ -4,6 +4,8 @@
 
 
     ScriptEntry LakeAcuity_TriggerJupiterRival
+    ScriptEntry Legend_Suicune
+    ScriptEntry Legend_Latios
     ScriptEntryEnd
 
 LakeAcuity_TriggerJupiterRival:
@@ -187,3 +189,39 @@ LakeAcuity_Movement_CameraMoveNorth:
 LakeAcuity_Movement_CameraMoveSouth:
     WalkNormalSouth 5
     EndMovement
+
+// ROM hack: static legendary spawn (SPECIES_SUICUNE). Gated behind beating the League
+// (FLAG_DEFEATED_CYNTHIA); re-battleable mysterious Poké Ball.
+Legend_Suicune:
+    GoToIfUnset FLAG_DEFEATED_CYNTHIA, Legend_Suicune_Locked
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_SUICUNE
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_SUICUNE, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+Legend_Suicune_Locked:
+    End
+
+// ROM hack: static legendary spawn (SPECIES_LATIOS). Gated behind beating the League
+// (FLAG_DEFEATED_CYNTHIA); re-battleable mysterious Poké Ball.
+Legend_Latios:
+    GoToIfUnset FLAG_DEFEATED_CYNTHIA, Legend_Latios_Locked
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_LATIOS
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_LATIOS, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+Legend_Latios_Locked:
+    End
+
+    .balign 4, 0

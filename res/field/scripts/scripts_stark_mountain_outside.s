@@ -7,6 +7,9 @@
     ScriptEntry StarkMountainOutside_SignStarkMountain
     ScriptEntry StarkMountainOutside_TriggerGrunts
     ScriptEntry StarkMountainOutside_OnFrameLookerBuck
+    ScriptEntry Legend_Groudon
+    ScriptEntry Legend_Entei
+    ScriptEntry Legend_HoOh
     ScriptEntryEnd
 
 StarkMountainOutside_OnTransition:
@@ -201,3 +204,56 @@ StarkMountainOutside_Movement_PlayerWalkOnSpotWest:
 StarkMountainOutside_Movement_PlayerWalkOnSpotNorth:
     WalkOnSpotNormalNorth
     EndMovement
+
+// ROM hack: static legendary spawn (SPECIES_GROUDON). Gated behind beating the League
+// (FLAG_DEFEATED_CYNTHIA); re-battleable mysterious Poké Ball.
+Legend_Groudon:
+    GoToIfUnset FLAG_DEFEATED_CYNTHIA, Legend_Groudon_Locked
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_GROUDON
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_GROUDON, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+Legend_Groudon_Locked:
+    End
+
+// ROM hack: static legendary spawn (SPECIES_ENTEI). Gated behind beating the League
+// (FLAG_DEFEATED_CYNTHIA); re-battleable mysterious Poké Ball.
+Legend_Entei:
+    GoToIfUnset FLAG_DEFEATED_CYNTHIA, Legend_Entei_Locked
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_ENTEI
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_ENTEI, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+Legend_Entei_Locked:
+    End
+
+// ROM hack: static legendary spawn (SPECIES_HO_OH). Gated behind beating the League
+// (FLAG_DEFEATED_CYNTHIA); re-battleable mysterious Poké Ball.
+Legend_HoOh:
+    GoToIfUnset FLAG_DEFEATED_CYNTHIA, Legend_HoOh_Locked
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_HO_OH
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_HO_OH, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+Legend_HoOh_Locked:
+    End
+
+    .balign 4, 0

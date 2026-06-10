@@ -6,6 +6,8 @@
     ScriptEntry Route228_ArrowSignpostRt229
     ScriptEntry Route228_OnTransition
     ScriptEntry Route228_OnLoad
+    ScriptEntry Legend_Rayquaza
+    ScriptEntry Legend_Raikou
     ScriptEntryEnd
 
 Route228_OnTransition:
@@ -39,6 +41,42 @@ Route228_ArrowSignpostRt226:
 
 Route228_ArrowSignpostRt229:
     ShowArrowSign Route228_Text_SignRt228Rt229
+    End
+
+    .balign 4, 0
+
+// ROM hack: static legendary spawn (SPECIES_RAYQUAZA). Gated behind beating the League
+// (FLAG_DEFEATED_CYNTHIA); re-battleable mysterious Poké Ball.
+Legend_Rayquaza:
+    GoToIfUnset FLAG_DEFEATED_CYNTHIA, Legend_Rayquaza_Locked
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_RAYQUAZA
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_RAYQUAZA, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+Legend_Rayquaza_Locked:
+    End
+
+// ROM hack: static legendary spawn (SPECIES_RAIKOU). Gated behind beating the League
+// (FLAG_DEFEATED_CYNTHIA); re-battleable mysterious Poké Ball.
+Legend_Raikou:
+    GoToIfUnset FLAG_DEFEATED_CYNTHIA, Legend_Raikou_Locked
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_RAIKOU
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_RAIKOU, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+Legend_Raikou_Locked:
     End
 
     .balign 4, 0

@@ -45,6 +45,36 @@
             "x": 17,
             "z": 45,
             "y": 0
+        },
+        {
+            "id": "LOCALID_SUICUNE",
+            "graphics_id": "OBJ_EVENT_GFX_POKEBALL",
+            "movement_type": "MOVEMENT_TYPE_NONE",
+            "trainer_type": "TRAINER_TYPE_NONE",
+            "hidden_flag": "0",
+            "script": 2,
+            "initial_dir": 0,
+            "data": [],
+            "movement_range_x": 0,
+            "movement_range_z": 0,
+            "x": 39,
+            "z": 8,
+            "y": 0
+        },
+        {
+            "id": "LOCALID_LATIOS",
+            "graphics_id": "OBJ_EVENT_GFX_POKEBALL",
+            "movement_type": "MOVEMENT_TYPE_NONE",
+            "trainer_type": "TRAINER_TYPE_NONE",
+            "hidden_flag": "0",
+            "script": 3,
+            "initial_dir": 0,
+            "data": [],
+            "movement_range_x": 0,
+            "movement_range_z": 0,
+            "x": 37,
+            "z": 8,
+            "y": 0
         }
     ],
     "warp_events": [
