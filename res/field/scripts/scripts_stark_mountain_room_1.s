@@ -5,11 +5,33 @@
 
     ScriptEntry StarkMountainOutside_OnTransition
     ScriptEntry StarkMountainOutside_OnFrameTeamGalactic
+    ScriptEntry StarkMountainRoom1_Mewtwo
+    ScriptEntry Legend_Mew
+    ScriptEntry Legend_Lugia
+    ScriptEntry Legend_HoOh
+    ScriptEntry Legend_Celebi
+    ScriptEntry Legend_Jirachi
+    ScriptEntry Legend_Latias
+    ScriptEntry Legend_Latios
+    ScriptEntry Legend_Deoxys
     ScriptEntryEnd
 
 StarkMountainOutside_OnTransition:
     SetFlag FLAG_FIRST_ARRIVAL_STARK_MOUNTAIN_INTERIOR
     SetFlag FLAG_HIDE_ROUTE_227_BUCK
+    End
+
+// ROM hack: a "mysterious Poké Ball" that triggers a static legendary battle.
+// Re-battleable by design (no caught flag), so the player can retry.
+StarkMountainRoom1_Mewtwo:
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_MEWTWO
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_MEWTWO, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
     End
 
 StarkMountainOutside_OnFrameTeamGalactic:
@@ -194,3 +216,101 @@ StarkMountainRoom1_Movement_GruntM2Leave:
     WalkNormalWest
     WalkNormalNorth 7
     EndMovement
+
+// ROM hack: static legendary spawn (SPECIES_MEW), re-battleable mysterious Poké Ball.
+Legend_Mew:
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_MEW
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_MEW, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+// ROM hack: static legendary spawn (SPECIES_LUGIA), re-battleable mysterious Poké Ball.
+Legend_Lugia:
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_LUGIA
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_LUGIA, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+// ROM hack: static legendary spawn (SPECIES_HO_OH), re-battleable mysterious Poké Ball.
+Legend_HoOh:
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_HO_OH
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_HO_OH, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+// ROM hack: static legendary spawn (SPECIES_CELEBI), re-battleable mysterious Poké Ball.
+Legend_Celebi:
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_CELEBI
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_CELEBI, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+// ROM hack: static legendary spawn (SPECIES_JIRACHI), re-battleable mysterious Poké Ball.
+Legend_Jirachi:
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_JIRACHI
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_JIRACHI, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+// ROM hack: static legendary spawn (SPECIES_LATIAS), re-battleable mysterious Poké Ball.
+Legend_Latias:
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_LATIAS
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_LATIAS, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+// ROM hack: static legendary spawn (SPECIES_LATIOS), re-battleable mysterious Poké Ball.
+Legend_Latios:
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_LATIOS
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_LATIOS, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+// ROM hack: static legendary spawn (SPECIES_DEOXYS), re-battleable mysterious Poké Ball.
+Legend_Deoxys:
+    LockAll
+    FacePlayer
+    PlayCry SPECIES_DEOXYS
+    WaitCry
+    SetFlag FLAG_MAP_LOCAL
+    StartLegendaryBattle SPECIES_DEOXYS, 70
+    ClearFlag FLAG_MAP_LOCAL
+    ReleaseAll
+    End
+
+    .balign 4, 0
