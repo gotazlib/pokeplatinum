@@ -2,8 +2,9 @@
     "name": "Gardenia",
     "class": "TRAINER_CLASS_LEADER_GARDENIA",
     "items": [
-        "ITEM_SUPER_POTION",
-        "ITEM_SUPER_POTION"
+        "ITEM_FULL_RESTORE",
+        "ITEM_FULL_RESTORE",
+        "ITEM_FULL_RESTORE"
     ],
     "ai_flags": [
         "AI_FLAG_BASIC",
@@ -13,43 +14,57 @@
     "double_battle": false,
     "party": [
         {
-            "species": "SPECIES_TURTWIG",
+            "species": "SPECIES_JUMPLUFF",
             "form": 0,
             "level": 23,
-            "item": "ITEM_NONE",
+            "item": null,
             "moves": [
-                "MOVE_GRASS_KNOT",
-                "MOVE_RAZOR_LEAF",
-                "MOVE_SUNNY_DAY",
-                "MOVE_REFLECT"
-            ],
-            "iv_scale": 250,
-            "ball_seal": 0
-        },
-        {
-            "species": "SPECIES_CHERRIM",
-            "form": 0,
-            "level": 23,
-            "item": "ITEM_NONE",
-            "moves": [
-                "MOVE_GRASS_KNOT",
+                "MOVE_U_TURN",
                 "MOVE_LEECH_SEED",
-                "MOVE_MAGICAL_LEAF",
-                "MOVE_SAFEGUARD"
+                "MOVE_SUNNY_DAY",
+                "MOVE_GIGA_DRAIN"
             ],
             "iv_scale": 250,
             "ball_seal": 0
         },
         {
-            "species": "SPECIES_ROSERADE",
+            "species": "SPECIES_TANGELA",
+            "form": 0,
+            "level": 24,
+            "item": null,
+            "moves": [
+                "MOVE_ANCIENT_POWER",
+                "MOVE_WRING_OUT",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "iv_scale": 250,
+            "ball_seal": 0
+        },
+        {
+            "species": "SPECIES_VICTREEBEL",
+            "form": 0,
+            "level": 26,
+            "item": null,
+            "moves": [
+                "MOVE_SUNNY_DAY",
+                "MOVE_SYNTHESIS",
+                "MOVE_GRASS_KNOT",
+                "MOVE_LEAF_STORM"
+            ],
+            "iv_scale": 250,
+            "ball_seal": 0
+        },
+        {
+            "species": "SPECIES_BELLOSSOM",
             "form": 0,
             "level": 26,
             "item": "ITEM_SITRUS_BERRY",
             "moves": [
-                "MOVE_GRASS_KNOT",
-                "MOVE_MAGICAL_LEAF",
-                "MOVE_POISON_STING",
-                "MOVE_STUN_SPORE"
+                "MOVE_SUNNY_DAY",
+                "MOVE_SYNTHESIS",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_SOLAR_BEAM"
             ],
             "iv_scale": 250,
             "ball_seal": 0

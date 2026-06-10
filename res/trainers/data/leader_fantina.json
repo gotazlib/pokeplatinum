@@ -2,8 +2,8 @@
     "name": "Fantina",
     "class": "TRAINER_CLASS_LEADER_FANTINA",
     "items": [
-        "ITEM_SUPER_POTION",
-        "ITEM_SUPER_POTION"
+        "ITEM_HYPER_POTION",
+        "ITEM_HYPER_POTION"
     ],
     "ai_flags": [
         "AI_FLAG_BASIC",
@@ -13,15 +13,15 @@
     "double_battle": false,
     "party": [
         {
-            "species": "SPECIES_DUSKULL",
+            "species": "SPECIES_GASTLY",
             "form": 0,
             "level": 28,
-            "item": "ITEM_NONE",
+            "item": null,
             "moves": [
-                "MOVE_WILL_O_WISP",
-                "MOVE_PURSUIT",
-                "MOVE_SHADOW_SNEAK",
-                "MOVE_FUTURE_SIGHT"
+                "MOVE_LICK",
+                "MOVE_SPITE",
+                "MOVE_MEAN_LOOK",
+                "MOVE_CURSE"
             ],
             "iv_scale": 250,
             "ball_seal": 0
@@ -30,26 +30,40 @@
             "species": "SPECIES_HAUNTER",
             "form": 0,
             "level": 28,
-            "item": "ITEM_NONE",
+            "item": null,
             "moves": [
-                "MOVE_SHADOW_CLAW",
-                "MOVE_SUCKER_PUNCH",
                 "MOVE_HYPNOSIS",
-                "MOVE_CONFUSE_RAY"
+                "MOVE_DREAM_EATER",
+                "MOVE_CURSE",
+                "MOVE_NIGHTMARE"
             ],
             "iv_scale": 250,
             "ball_seal": 0
         },
         {
-            "species": "SPECIES_MISMAGIUS",
+            "species": "SPECIES_HAUNTER",
+            "form": 0,
+            "level": 29,
+            "item": null,
+            "moves": [
+                "MOVE_CURSE",
+                "MOVE_MEAN_LOOK",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_NIGHT_SHADE"
+            ],
+            "iv_scale": 250,
+            "ball_seal": 0
+        },
+        {
+            "species": "SPECIES_GENGAR",
             "form": 0,
             "level": 30,
             "item": "ITEM_SITRUS_BERRY",
             "moves": [
+                "MOVE_HYPNOSIS",
                 "MOVE_SHADOW_BALL",
-                "MOVE_PSYBEAM",
-                "MOVE_MAGICAL_LEAF",
-                "MOVE_CONFUSE_RAY"
+                "MOVE_MEAN_LOOK",
+                "MOVE_SUCKER_PUNCH"
             ],
             "iv_scale": 250,
             "ball_seal": 0
