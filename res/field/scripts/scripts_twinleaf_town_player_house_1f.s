@@ -852,9 +852,9 @@ TwinleafTownPlayerHouse1F_GiveStarterKit:
     Return
 
 // ROM hack: gives a Lv5 Pikachu with perfect IVs holding a Light Ball, but only
-// once the first rival battle is done (VAR_PLAYER_HOUSE_STATE reaches 3).
+// once the first rival battle is done (FLAG_UNUSED_0x053D, set by the briefcase).
 TwinleafTownPlayerHouse1F_MaybeGivePikachu:
-    GoToIfGe VAR_PLAYER_HOUSE_STATE, 3, TwinleafTownPlayerHouse1F_GivePikachuNow
+    GoToIfSet FLAG_UNUSED_0x053D, TwinleafTownPlayerHouse1F_GivePikachuNow
     Return
 
 TwinleafTownPlayerHouse1F_GivePikachuNow:

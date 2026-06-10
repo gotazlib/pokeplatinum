@@ -413,8 +413,12 @@
     {
       "id": "TwinleafTownPlayerHouse1F_Text_MomGiftKit",
       "en_US": [
-        "Mom: Before you head out, take all\n",
-        "of this with you for your journey!\r"
+        "Mom: Take all of this with you!\n",
+        "Running Shoes, Bicycle, Poké Radar,\f",
+        "Vs. Seeker, fishing rods, Exp. Share,\n",
+        "Amulet Coin and 999 Rare Candies.\f",
+        "Plenty of Balls and healing items,\n",
+        "too. It’s all in your Bag now!\r"
       ]
     }
   ]

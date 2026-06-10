@@ -312,7 +312,10 @@ Route201_SkipRivalDone:
     ReturnToField
     FadeScreenIn
     WaitFadeScreen
-    SetVar VAR_PLAYER_HOUSE_STATE, 3
+    // ROM hack: mark the first rival battle done WITHOUT touching
+    // VAR_PLAYER_HOUSE_STATE (setting it to 3 triggered the house's
+    // "after rival battle" cutscene and dumped the player into the void).
+    SetFlag FLAG_UNUSED_0x053D
     ReleaseAll
     End
 
