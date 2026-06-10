@@ -123,4 +123,8 @@ InitNewGame:
     SetFlag FLAG_HIDE_FIGHT_AREA_PALMER
     SetFlag FLAG_HIDE_VILLA_DELIVERY_GUY
     SetFlag FLAG_HIDE_VILLA_BOOK
+    // ROM hack: trim the intro -- skip the forced Route 202 catching tutorial
+    // by starting it already "done" (the 5 free Poké Balls it gave are covered
+    // by the early-boost kit).
+    SetVar VAR_ROUTE_202_STATE, 1
     End
