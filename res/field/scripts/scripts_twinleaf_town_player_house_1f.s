@@ -168,6 +168,8 @@ TwinleafTownPlayerHouse1F_Mom:
     PlaySE SEQ_SE_CONFIRM
     LockAll
     FacePlayer
+    // ROM hack: on the very first talk, Mom hands over the whole kit (once).
+    CallIfUnset FLAG_UNUSED_0x0538, TwinleafTownPlayerHouse1F_GiveStarterKit
     GoToIfSet FLAG_UNK_0x0002, TwinleafTownPlayerHouse1F_DoMomMessage
     GoToIfGe VAR_PLAYER_HOUSE_STATE, 7, TwinleafTownPlayerHouse1F_CallTakeAQuickRest2
     GoToIfEq VAR_PLAYER_HOUSE_STATE, 6, TwinleafTownPlayerHouse1F_EnjoyYourAdventure
@@ -813,5 +815,33 @@ TwinleafTownPlayerHouse1F_KitchenSink:
 TwinleafTownPlayerHouse1F_KitchenCounter:
     EventMessage TwinleafTownPlayerHouse1F_Text_ThisIsWhereMomDoesHerDeliciousCooking
     End
+
+    .balign 4, 0
+
+// ROM hack: Mom's one-time starter kit -- running shoes, key items and a
+// stuffed bag (incl. 999 Rare Candies). Granted silently on the first talk.
+TwinleafTownPlayerHouse1F_GiveStarterKit:
+    SetFlag FLAG_UNUSED_0x0538
+    GiveRunningShoes
+    AddItem ITEM_BICYCLE, 1, VAR_RESULT
+    AddItem ITEM_POKE_RADAR, 1, VAR_RESULT
+    AddItem ITEM_VS_SEEKER, 1, VAR_RESULT
+    AddItem ITEM_OLD_ROD, 1, VAR_RESULT
+    AddItem ITEM_GOOD_ROD, 1, VAR_RESULT
+    AddItem ITEM_SUPER_ROD, 1, VAR_RESULT
+    AddItem ITEM_EXP_SHARE, 1, VAR_RESULT
+    AddItem ITEM_AMULET_COIN, 1, VAR_RESULT
+    AddItem ITEM_RARE_CANDY, 999, VAR_RESULT
+    AddItem ITEM_POKE_BALL, 50, VAR_RESULT
+    AddItem ITEM_GREAT_BALL, 30, VAR_RESULT
+    AddItem ITEM_ULTRA_BALL, 20, VAR_RESULT
+    AddItem ITEM_POTION, 20, VAR_RESULT
+    AddItem ITEM_SUPER_POTION, 20, VAR_RESULT
+    AddItem ITEM_HYPER_POTION, 10, VAR_RESULT
+    AddItem ITEM_FULL_RESTORE, 10, VAR_RESULT
+    AddItem ITEM_FULL_HEAL, 10, VAR_RESULT
+    AddItem ITEM_REVIVE, 10, VAR_RESULT
+    AddItem ITEM_MAX_REPEL, 10, VAR_RESULT
+    Return
 
     .balign 4, 0

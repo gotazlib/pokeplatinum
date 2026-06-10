@@ -287,21 +287,7 @@ Route201_Briefcase:
     GetPlayerStarterSpecies VAR_0x8000
     GivePokemon VAR_0x8000, 5, ITEM_NONE, VAR_RESULT
     SetFlag FLAG_UNUSED_0x040F
-    // ROM hack: early gifts -- running shoes, bike, radar, rod, and a stuffed bag
-    GiveRunningShoes
-    AddItem ITEM_BICYCLE, 1, VAR_RESULT
-    AddItem ITEM_POKE_RADAR, 1, VAR_RESULT
-    AddItem ITEM_VS_SEEKER, 1, VAR_RESULT
-    AddItem ITEM_SUPER_ROD, 1, VAR_RESULT
-    AddItem ITEM_EXP_SHARE, 1, VAR_RESULT
-    AddItem ITEM_AMULET_COIN, 1, VAR_RESULT
-    AddItem ITEM_POKE_BALL, 30, VAR_RESULT
-    AddItem ITEM_GREAT_BALL, 20, VAR_RESULT
-    AddItem ITEM_POTION, 20, VAR_RESULT
-    AddItem ITEM_SUPER_POTION, 10, VAR_RESULT
-    AddItem ITEM_SUPER_REPEL, 10, VAR_RESULT
-    AddItem ITEM_RARE_CANDY, 5, VAR_RESULT
-    AddItem ITEM_FULL_HEAL, 5, VAR_RESULT
+    // (early gifts are now handed out by Mom in the player's house)
     ApplyMovement LOCALID_PROF_ROWAN, Route201_Movement_ProfRowanFacePlayerSouth
     ApplyMovement LOCALID_RIVAL, Route201_Movement_RivalFaceWest
     ApplyMovement LOCALID_PLAYER, Route201_Movement_PlayerFaceProfRowanNorth
