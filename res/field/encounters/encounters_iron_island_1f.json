@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 31,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_CHATOT"
         },
         {
             "level": 32,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_RATICATE"
         },
         {
             "level": 30,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_MASQUERAIN"
         },
         {
             "level": 32,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_DUNSPARCE"
         },
         {
             "level": 32,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_FURRET"
         },
         {
             "level": 33,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_CASTFORM"
         },
         {
             "level": 31,
-            "species": "SPECIES_ONIX"
+            "species": "SPECIES_DRAGONAIR"
         },
         {
             "level": 33,
-            "species": "SPECIES_ONIX"
+            "species": "SPECIES_LINOONE"
         },
         {
             "level": 30,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_METANG"
         },
         {
             "level": 31,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_MIGHTYENA"
         },
         {
             "level": 30,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_SHELGON"
         },
         {
             "level": 31,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_MOTHIM"
         }
     ],
     "swarms": [
-        "SPECIES_GEODUDE",
-        "SPECIES_GRAVELER"
+        "SPECIES_METANG",
+        "SPECIES_MIGHTYENA"
     ],
     "day": [
-        "SPECIES_ZUBAT",
-        "SPECIES_GOLBAT"
+        "SPECIES_CHATOT",
+        "SPECIES_RATICATE"
     ],
     "night": [
-        "SPECIES_ZUBAT",
-        "SPECIES_GOLBAT"
+        "SPECIES_MASQUERAIN",
+        "SPECIES_DUNSPARCE"
     ],
     "radar": [
-        "SPECIES_GEODUDE",
-        "SPECIES_GRAVELER",
-        "SPECIES_GEODUDE",
-        "SPECIES_GRAVELER"
+        "SPECIES_FURRET",
+        "SPECIES_CASTFORM",
+        "SPECIES_DRAGONAIR",
+        "SPECIES_LINOONE"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

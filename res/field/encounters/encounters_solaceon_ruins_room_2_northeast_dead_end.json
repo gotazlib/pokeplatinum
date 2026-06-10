@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 20,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_LILEEP"
         },
         {
             "level": 21,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_OMANYTE"
         },
         {
             "level": 22,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_AIPOM"
         },
         {
             "level": 23,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_ELEKID"
         },
         {
             "level": 24,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_LOUDRED"
         },
         {
             "level": 25,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_SPINDA"
         },
         {
             "level": 26,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_LUXIO"
         },
         {
             "level": 27,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_FLAAFFY"
         },
         {
             "level": 28,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_MAGBY"
         },
         {
             "level": 29,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_NIDORINA"
         },
         {
             "level": 30,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_NIDORINO"
         },
         {
             "level": 30,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_NOSEPASS"
         }
     ],
     "swarms": [
-        "SPECIES_UNOWN",
-        "SPECIES_UNOWN"
+        "SPECIES_MAGBY",
+        "SPECIES_NIDORINA"
     ],
     "day": [
-        "SPECIES_UNOWN",
-        "SPECIES_UNOWN"
+        "SPECIES_LILEEP",
+        "SPECIES_OMANYTE"
     ],
     "night": [
-        "SPECIES_UNOWN",
-        "SPECIES_UNOWN"
+        "SPECIES_AIPOM",
+        "SPECIES_ELEKID"
     ],
     "radar": [
-        "SPECIES_UNOWN",
-        "SPECIES_UNOWN",
-        "SPECIES_UNOWN",
-        "SPECIES_UNOWN"
+        "SPECIES_LOUDRED",
+        "SPECIES_SPINDA",
+        "SPECIES_LUXIO",
+        "SPECIES_FLAAFFY"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

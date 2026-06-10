@@ -3,15 +3,19 @@
     "land_encounters": [
         {
             "level": 35,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_CARNIVINE"
         },
         {
             "level": 35,
-            "species": "SPECIES_BRONZONG"
+            "species": "SPECIES_BANETTE"
         },
         {
             "level": 36,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_DUSCLOPS"
+        },
+        {
+            "level": 37,
+            "species": "SPECIES_GIRAFARIG"
         },
         {
             "level": 37,
@@ -19,54 +23,50 @@
         },
         {
             "level": 37,
-            "species": "SPECIES_HAUNTER"
-        },
-        {
-            "level": 37,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_HITMONCHAN"
         },
         {
             "level": 38,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_HITMONLEE"
         },
         {
             "level": 36,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_HITMONTOP"
         },
         {
             "level": 38,
-            "species": "SPECIES_DUSCLOPS"
+            "species": "SPECIES_JYNX"
         },
         {
             "level": 38,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_PRIMEAPE"
         },
         {
             "level": 38,
-            "species": "SPECIES_DUSCLOPS"
+            "species": "SPECIES_NINJASK"
         },
         {
             "level": 38,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_SEVIPER"
         }
     ],
     "swarms": [
-        "SPECIES_HAUNTER",
-        "SPECIES_BRONZONG"
+        "SPECIES_JYNX",
+        "SPECIES_PRIMEAPE"
     ],
     "day": [
-        "SPECIES_HAUNTER",
-        "SPECIES_GOLBAT"
+        "SPECIES_CARNIVINE",
+        "SPECIES_BANETTE"
     ],
     "night": [
         "SPECIES_DUSCLOPS",
-        "SPECIES_GOLBAT"
+        "SPECIES_GIRAFARIG"
     ],
     "radar": [
-        "SPECIES_HAUNTER",
         "SPECIES_GOLBAT",
-        "SPECIES_DUSCLOPS",
-        "SPECIES_CHIMECHO"
+        "SPECIES_HITMONCHAN",
+        "SPECIES_HITMONLEE",
+        "SPECIES_HITMONTOP"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

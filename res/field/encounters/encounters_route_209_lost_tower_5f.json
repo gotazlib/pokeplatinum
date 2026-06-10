@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 20,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_TURTWIG"
         },
         {
             "level": 19,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_CUBONE"
         },
         {
             "level": 21,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_GOLDEEN"
         },
         {
             "level": 19,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_NATU"
         },
         {
             "level": 20,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_ODDISH"
         },
         {
             "level": 19,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_PSYDUCK"
         },
         {
             "level": 21,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_CLEFAIRY"
         },
         {
             "level": 22,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_EEVEE"
         },
         {
             "level": 22,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_EXEGGCUTE"
         },
         {
             "level": 22,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_GRIMER"
         },
         {
             "level": 22,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_KRABBY"
         },
         {
             "level": 22,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_MAGNEMITE"
         }
     ],
     "swarms": [
-        "SPECIES_GASTLY",
-        "SPECIES_ZUBAT"
+        "SPECIES_EXEGGCUTE",
+        "SPECIES_GRIMER"
     ],
     "day": [
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_TURTWIG",
+        "SPECIES_CUBONE"
     ],
     "night": [
-        "SPECIES_DUSKULL",
-        "SPECIES_DUSKULL"
+        "SPECIES_GOLDEEN",
+        "SPECIES_NATU"
     ],
     "radar": [
-        "SPECIES_ZUBAT",
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_ODDISH",
+        "SPECIES_PSYDUCK",
+        "SPECIES_CLEFAIRY",
+        "SPECIES_EEVEE"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

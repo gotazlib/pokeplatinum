@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 20,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_ELEKID"
         },
         {
             "level": 21,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_LOUDRED"
         },
         {
             "level": 22,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_SPINDA"
         },
         {
             "level": 23,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_LUXIO"
         },
         {
             "level": 24,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_FLAAFFY"
         },
         {
             "level": 25,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_MAGBY"
         },
         {
             "level": 26,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_NIDORINA"
         },
         {
             "level": 27,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_NIDORINO"
         },
         {
             "level": 28,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_NOSEPASS"
         },
         {
             "level": 29,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_CORSOLA"
         },
         {
             "level": 30,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_DELCATTY"
         },
         {
             "level": 30,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_MAWILE"
         }
     ],
     "swarms": [
-        "SPECIES_UNOWN",
-        "SPECIES_UNOWN"
+        "SPECIES_NOSEPASS",
+        "SPECIES_CORSOLA"
     ],
     "day": [
-        "SPECIES_UNOWN",
-        "SPECIES_UNOWN"
+        "SPECIES_ELEKID",
+        "SPECIES_LOUDRED"
     ],
     "night": [
-        "SPECIES_UNOWN",
-        "SPECIES_UNOWN"
+        "SPECIES_SPINDA",
+        "SPECIES_LUXIO"
     ],
     "radar": [
-        "SPECIES_UNOWN",
-        "SPECIES_UNOWN",
-        "SPECIES_UNOWN",
-        "SPECIES_UNOWN"
+        "SPECIES_FLAAFFY",
+        "SPECIES_MAGBY",
+        "SPECIES_NIDORINA",
+        "SPECIES_NIDORINO"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

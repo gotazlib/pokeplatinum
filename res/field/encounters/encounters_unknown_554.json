@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 45,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_HUNTAIL"
         },
         {
             "level": 45,
-            "species": "SPECIES_BRONZONG"
+            "species": "SPECIES_RELICANTH"
         },
         {
             "level": 46,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_RHYDON"
         },
         {
             "level": 45,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_SPIRITOMB"
         },
         {
             "level": 47,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_ALAKAZAM"
         },
         {
             "level": 46,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_ALTARIA"
         },
         {
             "level": 47,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_ELECTABUZZ"
         },
         {
             "level": 46,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_KANGASKHAN"
         },
         {
             "level": 47,
-            "species": "SPECIES_DUSCLOPS"
+            "species": "SPECIES_MILTANK"
         },
         {
             "level": 45,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_SLOWBRO"
         },
         {
             "level": 48,
-            "species": "SPECIES_DUSCLOPS"
+            "species": "SPECIES_SLOWKING"
         },
         {
             "level": 47,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_TAUROS"
         }
     ],
     "swarms": [
-        "SPECIES_HAUNTER",
-        "SPECIES_BRONZONG"
+        "SPECIES_MILTANK",
+        "SPECIES_SLOWBRO"
     ],
     "day": [
-        "SPECIES_HAUNTER",
-        "SPECIES_GOLBAT"
+        "SPECIES_HUNTAIL",
+        "SPECIES_RELICANTH"
     ],
     "night": [
-        "SPECIES_DUSCLOPS",
-        "SPECIES_GOLBAT"
+        "SPECIES_RHYDON",
+        "SPECIES_SPIRITOMB"
     ],
     "radar": [
-        "SPECIES_HAUNTER",
-        "SPECIES_GOLBAT",
-        "SPECIES_DUSCLOPS",
-        "SPECIES_CHIMECHO"
+        "SPECIES_ALAKAZAM",
+        "SPECIES_ALTARIA",
+        "SPECIES_ELECTABUZZ",
+        "SPECIES_KANGASKHAN"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 45,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_GLISCOR"
         },
         {
             "level": 45,
-            "species": "SPECIES_BRONZONG"
+            "species": "SPECIES_STEELIX"
         },
         {
             "level": 46,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_WEAVILE"
         },
         {
             "level": 45,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_AERODACTYL"
         },
         {
             "level": 47,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_LICKILICKY"
         },
         {
             "level": 46,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_PORYGON2"
         },
         {
             "level": 47,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_TENTACRUEL"
         },
         {
             "level": 46,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_YANMEGA"
         },
         {
             "level": 47,
-            "species": "SPECIES_DUSCLOPS"
+            "species": "SPECIES_GALLADE"
         },
         {
             "level": 45,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_GARDEVOIR"
         },
         {
             "level": 48,
-            "species": "SPECIES_DUSCLOPS"
+            "species": "SPECIES_EXEGGUTOR"
         },
         {
             "level": 47,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_FLYGON"
         }
     ],
     "swarms": [
-        "SPECIES_HAUNTER",
-        "SPECIES_BRONZONG"
+        "SPECIES_GALLADE",
+        "SPECIES_GARDEVOIR"
     ],
     "day": [
-        "SPECIES_HAUNTER",
-        "SPECIES_GOLBAT"
+        "SPECIES_GLISCOR",
+        "SPECIES_STEELIX"
     ],
     "night": [
-        "SPECIES_DUSCLOPS",
-        "SPECIES_GOLBAT"
+        "SPECIES_WEAVILE",
+        "SPECIES_AERODACTYL"
     ],
     "radar": [
-        "SPECIES_HAUNTER",
-        "SPECIES_GOLBAT",
-        "SPECIES_DUSCLOPS",
-        "SPECIES_CHIMECHO"
+        "SPECIES_LICKILICKY",
+        "SPECIES_PORYGON2",
+        "SPECIES_TENTACRUEL",
+        "SPECIES_YANMEGA"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

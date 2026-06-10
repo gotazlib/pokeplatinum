@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 23,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_CHINCHOU"
         },
         {
             "level": 24,
-            "species": "SPECIES_QUAGSIRE"
+            "species": "SPECIES_DELIBIRD"
         },
         {
             "level": 25,
-            "species": "SPECIES_BUIZEL"
+            "species": "SPECIES_FINNEON"
         },
         {
             "level": 24,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_HIPPOPOTAS"
         },
         {
             "level": 26,
-            "species": "SPECIES_QUAGSIRE"
+            "species": "SPECIES_HOUNDOUR"
         },
         {
             "level": 25,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_LUVDISC"
         },
         {
             "level": 24,
-            "species": "SPECIES_CROAGUNK"
+            "species": "SPECIES_PHANPY"
         },
         {
             "level": 25,
-            "species": "SPECIES_CROAGUNK"
+            "species": "SPECIES_SKORUPI"
         },
         {
             "level": 23,
-            "species": "SPECIES_BUIZEL"
+            "species": "SPECIES_SPOINK"
         },
         {
             "level": 26,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_TEDDIURSA"
         },
         {
             "level": 23,
-            "species": "SPECIES_BUIZEL"
+            "species": "SPECIES_VOLTORB"
         },
         {
             "level": 26,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_SNOVER"
         }
     ],
     "swarms": [
-        "SPECIES_SHELLOS",
-        "SPECIES_QUAGSIRE"
+        "SPECIES_SPOINK",
+        "SPECIES_TEDDIURSA"
     ],
     "day": [
-        "SPECIES_BUIZEL",
-        "SPECIES_SHELLOS"
+        "SPECIES_CHINCHOU",
+        "SPECIES_DELIBIRD"
     ],
     "night": [
-        "SPECIES_BUIZEL",
-        "SPECIES_SHELLOS"
+        "SPECIES_FINNEON",
+        "SPECIES_HIPPOPOTAS"
     ],
     "radar": [
-        "SPECIES_GRIMER",
-        "SPECIES_GRIMER",
-        "SPECIES_GRIMER",
-        "SPECIES_GRIMER"
+        "SPECIES_HOUNDOUR",
+        "SPECIES_LUVDISC",
+        "SPECIES_PHANPY",
+        "SPECIES_SKORUPI"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

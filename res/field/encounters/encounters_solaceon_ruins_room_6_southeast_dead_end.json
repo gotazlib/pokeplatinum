@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 20,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_VIBRAVA"
         },
         {
             "level": 21,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_CLAMPERL"
         },
         {
             "level": 22,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_MANTYKE"
         },
         {
             "level": 23,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_RHYHORN"
         },
         {
             "level": 24,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_DRIFLOON"
         },
         {
             "level": 25,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_PIDGEOTTO"
         },
         {
             "level": 26,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_BUNEARY"
         },
         {
             "level": 27,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_CRANIDOS"
         },
         {
             "level": 28,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_GROWLITHE"
         },
         {
             "level": 29,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_SHIELDON"
         },
         {
             "level": 30,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_FARFETCHD"
         },
         {
             "level": 30,
-            "species": "SPECIES_UNOWN"
+            "species": "SPECIES_ANORITH"
         }
     ],
     "swarms": [
-        "SPECIES_UNOWN",
-        "SPECIES_UNOWN"
+        "SPECIES_GROWLITHE",
+        "SPECIES_SHIELDON"
     ],
     "day": [
-        "SPECIES_UNOWN",
-        "SPECIES_UNOWN"
+        "SPECIES_VIBRAVA",
+        "SPECIES_CLAMPERL"
     ],
     "night": [
-        "SPECIES_UNOWN",
-        "SPECIES_UNOWN"
+        "SPECIES_MANTYKE",
+        "SPECIES_RHYHORN"
     ],
     "radar": [
-        "SPECIES_UNOWN",
-        "SPECIES_UNOWN",
-        "SPECIES_UNOWN",
-        "SPECIES_UNOWN"
+        "SPECIES_DRIFLOON",
+        "SPECIES_PIDGEOTTO",
+        "SPECIES_BUNEARY",
+        "SPECIES_CRANIDOS"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

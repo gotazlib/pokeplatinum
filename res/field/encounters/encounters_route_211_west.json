@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 13,
-            "species": "SPECIES_MEDITITE"
+            "species": "SPECIES_LEDYBA"
         },
         {
             "level": 14,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_NINCADA"
         },
         {
             "level": 14,
-            "species": "SPECIES_MEDITITE"
+            "species": "SPECIES_SURSKIT"
         },
         {
             "level": 15,
-            "species": "SPECIES_MEDITITE"
+            "species": "SPECIES_JIGGLYPUFF"
         },
         {
             "level": 14,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_TAILLOW"
         },
         {
             "level": 14,
-            "species": "SPECIES_MACHOP"
+            "species": "SPECIES_WINGULL"
         },
         {
             "level": 16,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_NIDORAN_M"
         },
         {
             "level": 14,
-            "species": "SPECIES_BRONZOR"
+            "species": "SPECIES_CHERUBI"
         },
         {
             "level": 15,
-            "species": "SPECIES_MACHOP"
+            "species": "SPECIES_NIDORAN_F"
         },
         {
             "level": 16,
-            "species": "SPECIES_BRONZOR"
+            "species": "SPECIES_KIRLIA"
         },
         {
             "level": 15,
-            "species": "SPECIES_MACHOP"
+            "species": "SPECIES_BUDEW"
         },
         {
             "level": 16,
-            "species": "SPECIES_BRONZOR"
+            "species": "SPECIES_MAREEP"
         }
     ],
     "swarms": [
-        "SPECIES_MEDITITE",
-        "SPECIES_BIDOOF"
+        "SPECIES_NIDORAN_F",
+        "SPECIES_KIRLIA"
     ],
     "day": [
-        "SPECIES_MEDITITE",
-        "SPECIES_MEDITITE"
+        "SPECIES_LEDYBA",
+        "SPECIES_NINCADA"
     ],
     "night": [
-        "SPECIES_ZUBAT",
-        "SPECIES_HOOTHOOT"
+        "SPECIES_SURSKIT",
+        "SPECIES_JIGGLYPUFF"
     ],
     "radar": [
-        "SPECIES_TYROGUE",
-        "SPECIES_TYROGUE",
-        "SPECIES_TYROGUE",
-        "SPECIES_TYROGUE"
+        "SPECIES_TAILLOW",
+        "SPECIES_WINGULL",
+        "SPECIES_NIDORAN_M",
+        "SPECIES_CHERUBI"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

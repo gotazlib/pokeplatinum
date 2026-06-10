@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 3,
-            "species": "SPECIES_SHINX"
+            "species": "SPECIES_CATERPIE"
         },
         {
             "level": 3,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_WEEDLE"
         },
         {
             "level": 4,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_WURMPLE"
         },
         {
             "level": 3,
-            "species": "SPECIES_KRICKETOT"
+            "species": "SPECIES_RALTS"
         },
         {
             "level": 4,
-            "species": "SPECIES_SHINX"
+            "species": "SPECIES_FEEBAS"
         },
         {
             "level": 3,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_MAGIKARP"
         },
         {
             "level": 4,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_CASCOON"
         },
         {
             "level": 4,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_KAKUNA"
         },
         {
             "level": 2,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_METAPOD"
         },
         {
             "level": 2,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_PICHU"
         },
         {
             "level": 2,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_SILCOON"
         },
         {
             "level": 2,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_IGGLYBUFF"
         }
     ],
     "swarms": [
-        "SPECIES_ZIGZAGOON",
-        "SPECIES_ZIGZAGOON"
+        "SPECIES_METAPOD",
+        "SPECIES_PICHU"
     ],
     "day": [
-        "SPECIES_STARLY",
-        "SPECIES_BIDOOF"
+        "SPECIES_CATERPIE",
+        "SPECIES_WEEDLE"
     ],
     "night": [
-        "SPECIES_KRICKETOT",
-        "SPECIES_BIDOOF"
+        "SPECIES_WURMPLE",
+        "SPECIES_RALTS"
     ],
     "radar": [
-        "SPECIES_SENTRET",
-        "SPECIES_SENTRET",
-        "SPECIES_SENTRET",
-        "SPECIES_SENTRET"
+        "SPECIES_FEEBAS",
+        "SPECIES_MAGIKARP",
+        "SPECIES_CASCOON",
+        "SPECIES_KAKUNA"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

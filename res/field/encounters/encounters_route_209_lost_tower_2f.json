@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 18,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_CORPHISH"
         },
         {
             "level": 17,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_CHARMANDER"
         },
         {
             "level": 19,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_CHIMCHAR"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_CYNDAQUIL"
         },
         {
             "level": 18,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_ABRA"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_DODUO"
         },
         {
             "level": 19,
-            "species": "SPECIES_ZUBAT"
-        },
-        {
-            "level": 20,
             "species": "SPECIES_GASTLY"
         },
         {
             "level": 20,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_GLAMEOW"
         },
         {
             "level": 20,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_MIME_JR"
         },
         {
             "level": 20,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_MUDKIP"
         },
         {
             "level": 20,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_SWABLU"
+        },
+        {
+            "level": 20,
+            "species": "SPECIES_TORCHIC"
         }
     ],
     "swarms": [
-        "SPECIES_GASTLY",
-        "SPECIES_ZUBAT"
+        "SPECIES_MIME_JR",
+        "SPECIES_MUDKIP"
     ],
     "day": [
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_CORPHISH",
+        "SPECIES_CHARMANDER"
     ],
     "night": [
-        "SPECIES_DUSKULL",
-        "SPECIES_DUSKULL"
+        "SPECIES_CHIMCHAR",
+        "SPECIES_CYNDAQUIL"
     ],
     "radar": [
-        "SPECIES_ZUBAT",
+        "SPECIES_ABRA",
+        "SPECIES_DODUO",
         "SPECIES_GASTLY",
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_GLAMEOW"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

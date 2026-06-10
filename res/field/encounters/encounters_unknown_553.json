@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 45,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_TAUROS"
         },
         {
             "level": 45,
-            "species": "SPECIES_BRONZONG"
+            "species": "SPECIES_TOXICROAK"
         },
         {
             "level": 46,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_WEEZING"
         },
         {
             "level": 45,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_ABOMASNOW"
         },
         {
             "level": 47,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_ARMALDO"
         },
         {
             "level": 46,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_BASTIODON"
         },
         {
             "level": 47,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_CRADILY"
         },
         {
             "level": 46,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_FLOATZEL"
         },
         {
             "level": 47,
-            "species": "SPECIES_DUSCLOPS"
+            "species": "SPECIES_KABUTOPS"
         },
         {
             "level": 45,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_MAGMAR"
         },
         {
             "level": 48,
-            "species": "SPECIES_DUSCLOPS"
+            "species": "SPECIES_MISMAGIUS"
         },
         {
             "level": 47,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_NIDOKING"
         }
     ],
     "swarms": [
-        "SPECIES_HAUNTER",
-        "SPECIES_BRONZONG"
+        "SPECIES_KABUTOPS",
+        "SPECIES_MAGMAR"
     ],
     "day": [
-        "SPECIES_HAUNTER",
-        "SPECIES_GOLBAT"
+        "SPECIES_TAUROS",
+        "SPECIES_TOXICROAK"
     ],
     "night": [
-        "SPECIES_DUSCLOPS",
-        "SPECIES_GOLBAT"
+        "SPECIES_WEEZING",
+        "SPECIES_ABOMASNOW"
     ],
     "radar": [
-        "SPECIES_HAUNTER",
-        "SPECIES_GOLBAT",
-        "SPECIES_DUSCLOPS",
-        "SPECIES_CHIMECHO"
+        "SPECIES_ARMALDO",
+        "SPECIES_BASTIODON",
+        "SPECIES_CRADILY",
+        "SPECIES_FLOATZEL"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

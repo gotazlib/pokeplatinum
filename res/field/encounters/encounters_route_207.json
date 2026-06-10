@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 7,
-            "species": "SPECIES_MACHOP"
+            "species": "SPECIES_POOCHYENA"
         },
         {
             "level": 5,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_SEEDOT"
         },
         {
             "level": 6,
-            "species": "SPECIES_PONYTA"
+            "species": "SPECIES_BURMY"
         },
         {
             "level": 5,
-            "species": "SPECIES_KRICKETOT"
+            "species": "SPECIES_SHEDINJA"
         },
         {
             "level": 5,
-            "species": "SPECIES_PONYTA"
+            "species": "SPECIES_MAKUHITA"
         },
         {
             "level": 6,
-            "species": "SPECIES_MACHOP"
+            "species": "SPECIES_WHISMUR"
         },
         {
             "level": 8,
-            "species": "SPECIES_MACHOP"
+            "species": "SPECIES_ZIGZAGOON"
         },
         {
             "level": 6,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_COMBEE"
         },
         {
             "level": 7,
-            "species": "SPECIES_PONYTA"
+            "species": "SPECIES_STARLY"
         },
         {
             "level": 7,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_TOGEPI"
         },
         {
             "level": 7,
-            "species": "SPECIES_PONYTA"
+            "species": "SPECIES_ZUBAT"
         },
         {
             "level": 7,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_BIDOOF"
         }
     ],
     "swarms": [
-        "SPECIES_PHANPY",
-        "SPECIES_PHANPY"
+        "SPECIES_STARLY",
+        "SPECIES_TOGEPI"
     ],
     "day": [
-        "SPECIES_PONYTA",
-        "SPECIES_MACHOP"
+        "SPECIES_POOCHYENA",
+        "SPECIES_SEEDOT"
     ],
     "night": [
-        "SPECIES_KRICKETOT",
-        "SPECIES_ZUBAT"
+        "SPECIES_BURMY",
+        "SPECIES_SHEDINJA"
     ],
     "radar": [
-        "SPECIES_STANTLER",
-        "SPECIES_STANTLER",
-        "SPECIES_STANTLER",
-        "SPECIES_STANTLER"
+        "SPECIES_MAKUHITA",
+        "SPECIES_WHISMUR",
+        "SPECIES_ZIGZAGOON",
+        "SPECIES_COMBEE"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

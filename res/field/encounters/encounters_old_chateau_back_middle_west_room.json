@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 14,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_MEOWTH"
         },
         {
             "level": 15,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_PINECO"
         },
         {
             "level": 14,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_SPHEAL"
         },
         {
             "level": 15,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_TRAPINCH"
         },
         {
             "level": 16,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_DUSKULL"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_ELECTRIKE"
         },
         {
             "level": 16,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_HORSEA"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_SHROOMISH"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_SHUPPET"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_VULPIX"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_BAGON"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_BALTOY"
         }
     ],
     "swarms": [
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_SHUPPET",
+        "SPECIES_VULPIX"
     ],
     "day": [
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_MEOWTH",
+        "SPECIES_PINECO"
     ],
     "night": [
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_SPHEAL",
+        "SPECIES_TRAPINCH"
     ],
     "radar": [
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_DUSKULL",
+        "SPECIES_ELECTRIKE",
+        "SPECIES_HORSEA",
+        "SPECIES_SHROOMISH"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 38,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_MANTINE"
         },
         {
             "level": 37,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_SKARMORY"
         },
         {
             "level": 39,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_STANTLER"
         },
         {
             "level": 38,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_SWALOT"
         },
         {
             "level": 38,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_CRAWDAUNT"
         },
         {
             "level": 40,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_WHISCASH"
         },
         {
             "level": 37,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_PIDGEOT"
         },
         {
             "level": 37,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_GRUMPIG"
         },
         {
             "level": 40,
-            "species": "SPECIES_DUSCLOPS"
+            "species": "SPECIES_TORKOAL"
         },
         {
             "level": 39,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_XATU"
         },
         {
             "level": 40,
-            "species": "SPECIES_DUSCLOPS"
+            "species": "SPECIES_CLEFABLE"
         },
         {
             "level": 39,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_HARIYAMA"
         }
     ],
     "swarms": [
-        "SPECIES_GRAVELER",
-        "SPECIES_BIBAREL"
+        "SPECIES_TORKOAL",
+        "SPECIES_XATU"
     ],
     "day": [
-        "SPECIES_GRAVELER",
-        "SPECIES_STARAVIA"
+        "SPECIES_MANTINE",
+        "SPECIES_SKARMORY"
     ],
     "night": [
-        "SPECIES_DUSCLOPS",
-        "SPECIES_GOLBAT"
+        "SPECIES_STANTLER",
+        "SPECIES_SWALOT"
     ],
     "radar": [
-        "SPECIES_BIBAREL",
-        "SPECIES_STARAVIA",
-        "SPECIES_DUSCLOPS",
-        "SPECIES_CHINGLING"
+        "SPECIES_CRAWDAUNT",
+        "SPECIES_WHISCASH",
+        "SPECIES_PIDGEOT",
+        "SPECIES_GRUMPIG"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

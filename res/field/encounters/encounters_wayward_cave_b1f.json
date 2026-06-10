@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 18,
-            "species": "SPECIES_BRONZOR"
+            "species": "SPECIES_MIME_JR"
         },
         {
             "level": 18,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_MUDKIP"
         },
         {
             "level": 17,
-            "species": "SPECIES_GIBLE"
+            "species": "SPECIES_SWABLU"
         },
         {
             "level": 19,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_TORCHIC"
         },
         {
             "level": 20,
-            "species": "SPECIES_BRONZOR"
+            "species": "SPECIES_TREECKO"
         },
         {
             "level": 20,
-            "species": "SPECIES_ONIX"
+            "species": "SPECIES_PIPLUP"
         },
         {
             "level": 19,
-            "species": "SPECIES_GIBLE"
+            "species": "SPECIES_SQUIRTLE"
         },
         {
             "level": 20,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_TOTODILE"
         },
         {
             "level": 20,
-            "species": "SPECIES_GIBLE"
+            "species": "SPECIES_SLOWPOKE"
         },
         {
             "level": 18,
-            "species": "SPECIES_ONIX"
+            "species": "SPECIES_BULBASAUR"
         },
         {
             "level": 20,
-            "species": "SPECIES_GIBLE"
+            "species": "SPECIES_CHIKORITA"
         },
         {
             "level": 18,
-            "species": "SPECIES_ONIX"
+            "species": "SPECIES_TURTWIG"
         }
     ],
     "swarms": [
-        "SPECIES_BRONZOR",
-        "SPECIES_GEODUDE"
+        "SPECIES_SLOWPOKE",
+        "SPECIES_BULBASAUR"
     ],
     "day": [
-        "SPECIES_GIBLE",
-        "SPECIES_ZUBAT"
+        "SPECIES_MIME_JR",
+        "SPECIES_MUDKIP"
     ],
     "night": [
-        "SPECIES_GIBLE",
-        "SPECIES_ZUBAT"
+        "SPECIES_SWABLU",
+        "SPECIES_TORCHIC"
     ],
     "radar": [
-        "SPECIES_BRONZOR",
-        "SPECIES_ONIX",
-        "SPECIES_GIBLE",
-        "SPECIES_ONIX"
+        "SPECIES_TREECKO",
+        "SPECIES_PIPLUP",
+        "SPECIES_SQUIRTLE",
+        "SPECIES_TOTODILE"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

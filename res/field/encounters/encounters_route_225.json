@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 48,
-            "species": "SPECIES_MACHOKE"
+            "species": "SPECIES_GALLADE"
         },
         {
             "level": 49,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_GARDEVOIR"
         },
         {
             "level": 48,
-            "species": "SPECIES_FEAROW"
+            "species": "SPECIES_EXEGGUTOR"
         },
         {
             "level": 50,
-            "species": "SPECIES_FEAROW"
+            "species": "SPECIES_FLYGON"
         },
         {
             "level": 49,
-            "species": "SPECIES_FEAROW"
+            "species": "SPECIES_STARMIE"
         },
         {
             "level": 50,
-            "species": "SPECIES_RATICATE"
+            "species": "SPECIES_LUXRAY"
         },
         {
             "level": 50,
-            "species": "SPECIES_MACHOKE"
+            "species": "SPECIES_CLOYSTER"
         },
         {
             "level": 49,
-            "species": "SPECIES_RATICATE"
+            "species": "SPECIES_DUSKNOIR"
         },
         {
             "level": 47,
-            "species": "SPECIES_SPEAROW"
+            "species": "SPECIES_ESPEON"
         },
         {
             "level": 47,
-            "species": "SPECIES_RATTATA"
+            "species": "SPECIES_FLAREON"
         },
         {
             "level": 47,
-            "species": "SPECIES_SPEAROW"
+            "species": "SPECIES_GLACEON"
         },
         {
             "level": 47,
-            "species": "SPECIES_RATTATA"
+            "species": "SPECIES_HIPPOWDON"
         }
     ],
     "swarms": [
-        "SPECIES_MAKUHITA",
-        "SPECIES_MAKUHITA"
+        "SPECIES_ESPEON",
+        "SPECIES_FLAREON"
     ],
     "day": [
-        "SPECIES_FEAROW",
-        "SPECIES_FEAROW"
+        "SPECIES_GALLADE",
+        "SPECIES_GARDEVOIR"
     ],
     "night": [
-        "SPECIES_BANETTE",
-        "SPECIES_BANETTE"
+        "SPECIES_EXEGGUTOR",
+        "SPECIES_FLYGON"
     ],
     "radar": [
-        "SPECIES_PRIMEAPE",
-        "SPECIES_PRIMEAPE",
-        "SPECIES_MANKEY",
-        "SPECIES_MANKEY"
+        "SPECIES_STARMIE",
+        "SPECIES_LUXRAY",
+        "SPECIES_CLOYSTER",
+        "SPECIES_DUSKNOIR"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

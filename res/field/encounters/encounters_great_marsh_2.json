@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 28,
-            "species": "SPECIES_WOOPER"
+            "species": "SPECIES_WOBBUFFET"
+        },
+        {
+            "level": 28,
+            "species": "SPECIES_AZUMARILL"
         },
         {
             "level": 28,
             "species": "SPECIES_BIBAREL"
         },
         {
-            "level": 28,
-            "species": "SPECIES_TROPIUS"
-        },
-        {
             "level": 30,
-            "species": "SPECIES_TROPIUS"
+            "species": "SPECIES_GABITE"
         },
         {
             "level": 29,
-            "species": "SPECIES_WOOPER"
+            "species": "SPECIES_MAGCARGO"
         },
         {
             "level": 30,
-            "species": "SPECIES_QUAGSIRE"
+            "species": "SPECIES_MEDICHAM"
         },
         {
             "level": 28,
-            "species": "SPECIES_WOOPER"
+            "species": "SPECIES_PONYTA"
         },
         {
             "level": 30,
-            "species": "SPECIES_WOOPER"
+            "species": "SPECIES_PUPITAR"
         },
         {
             "level": 30,
-            "species": "SPECIES_YANMA"
+            "species": "SPECIES_SEALEO"
         },
         {
             "level": 30,
-            "species": "SPECIES_TANGELA"
+            "species": "SPECIES_SUDOWOODO"
         },
         {
             "level": 31,
-            "species": "SPECIES_YANMA"
+            "species": "SPECIES_CHATOT"
         },
         {
             "level": 31,
-            "species": "SPECIES_TANGELA"
+            "species": "SPECIES_RATICATE"
         }
     ],
     "swarms": [
-        "SPECIES_WOOPER",
-        "SPECIES_BIBAREL"
+        "SPECIES_SEALEO",
+        "SPECIES_SUDOWOODO"
     ],
     "day": [
-        "SPECIES_TROPIUS",
-        "SPECIES_TROPIUS"
+        "SPECIES_WOBBUFFET",
+        "SPECIES_AZUMARILL"
     ],
     "night": [
-        "SPECIES_NOCTOWL",
-        "SPECIES_NOCTOWL"
+        "SPECIES_BIBAREL",
+        "SPECIES_GABITE"
     ],
     "radar": [
-        "SPECIES_WOOPER",
-        "SPECIES_QUAGSIRE",
-        "SPECIES_YANMA",
-        "SPECIES_TANGELA"
+        "SPECIES_MAGCARGO",
+        "SPECIES_MEDICHAM",
+        "SPECIES_PONYTA",
+        "SPECIES_PUPITAR"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

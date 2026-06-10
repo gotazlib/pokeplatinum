@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 25,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_ILLUMISE"
         },
         {
             "level": 25,
-            "species": "SPECIES_BRONZOR"
+            "species": "SPECIES_KADABRA"
         },
         {
             "level": 26,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_ROSELIA"
         },
         {
             "level": 27,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_VOLBEAT"
         },
         {
             "level": 27,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_WAILMER"
         },
         {
             "level": 27,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_BAYLEEF"
         },
         {
             "level": 28,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_CHARMELEON"
         },
         {
             "level": 26,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_COMBUSKEN"
         },
         {
             "level": 28,
-            "species": "SPECIES_DUSKULL"
+            "species": "SPECIES_CROCONAW"
         },
         {
             "level": 28,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_DUGTRIO"
         },
         {
             "level": 28,
-            "species": "SPECIES_DUSCLOPS"
+            "species": "SPECIES_GROTLE"
         },
         {
             "level": 28,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_GROVYLE"
         }
     ],
     "swarms": [
-        "SPECIES_HAUNTER",
-        "SPECIES_BRONZOR"
+        "SPECIES_CROCONAW",
+        "SPECIES_DUGTRIO"
     ],
     "day": [
-        "SPECIES_HAUNTER",
-        "SPECIES_GOLBAT"
+        "SPECIES_ILLUMISE",
+        "SPECIES_KADABRA"
     ],
     "night": [
-        "SPECIES_DUSCLOPS",
-        "SPECIES_GOLBAT"
+        "SPECIES_ROSELIA",
+        "SPECIES_VOLBEAT"
     ],
     "radar": [
-        "SPECIES_HAUNTER",
-        "SPECIES_GOLBAT",
-        "SPECIES_DUSCLOPS",
-        "SPECIES_CHINGLING"
+        "SPECIES_WAILMER",
+        "SPECIES_BAYLEEF",
+        "SPECIES_CHARMELEON",
+        "SPECIES_COMBUSKEN"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

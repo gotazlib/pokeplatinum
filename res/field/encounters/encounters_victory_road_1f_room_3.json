@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 47,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_UMBREON"
         },
         {
             "level": 47,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_VAPOREON"
         },
         {
             "level": 49,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_VENUSAUR"
         },
         {
             "level": 48,
-            "species": "SPECIES_ONIX"
+            "species": "SPECIES_AGGRON"
         },
         {
             "level": 50,
-            "species": "SPECIES_ONIX"
+            "species": "SPECIES_BLASTOISE"
         },
         {
             "level": 48,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_BLAZIKEN"
         },
         {
             "level": 49,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_EMPOLEON"
         },
         {
             "level": 49,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_FERALIGATR"
         },
         {
             "level": 50,
-            "species": "SPECIES_STEELIX"
+            "species": "SPECIES_MAMOSWINE"
         },
         {
             "level": 50,
-            "species": "SPECIES_GABITE"
+            "species": "SPECIES_SCEPTILE"
         },
         {
             "level": 50,
-            "species": "SPECIES_STEELIX"
+            "species": "SPECIES_WALREIN"
         },
         {
             "level": 50,
-            "species": "SPECIES_GABITE"
+            "species": "SPECIES_CHARIZARD"
         }
     ],
     "swarms": [
-        "SPECIES_GRAVELER",
-        "SPECIES_FLOATZEL"
+        "SPECIES_MAMOSWINE",
+        "SPECIES_SCEPTILE"
     ],
     "day": [
-        "SPECIES_GRAVELER",
-        "SPECIES_ONIX"
+        "SPECIES_UMBREON",
+        "SPECIES_VAPOREON"
     ],
     "night": [
-        "SPECIES_GOLBAT",
-        "SPECIES_ONIX"
+        "SPECIES_VENUSAUR",
+        "SPECIES_AGGRON"
     ],
     "radar": [
-        "SPECIES_ONIX",
-        "SPECIES_FLOATZEL",
-        "SPECIES_STEELIX",
-        "SPECIES_GABITE"
+        "SPECIES_BLASTOISE",
+        "SPECIES_BLAZIKEN",
+        "SPECIES_EMPOLEON",
+        "SPECIES_FERALIGATR"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

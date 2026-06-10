@@ -3,7 +3,7 @@
     "land_encounters": [
         {
             "level": 9,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_ZUBAT"
         },
         {
             "level": 9,
@@ -11,62 +11,62 @@
         },
         {
             "level": 9,
-            "species": "SPECIES_WURMPLE"
+            "species": "SPECIES_HOPPIP"
         },
         {
             "level": 8,
-            "species": "SPECIES_KRICKETOT"
+            "species": "SPECIES_MARILL"
         },
         {
             "level": 9,
-            "species": "SPECIES_BUDEW"
+            "species": "SPECIES_SLUGMA"
         },
         {
             "level": 9,
-            "species": "SPECIES_SHINX"
+            "species": "SPECIES_SMEARGLE"
         },
         {
             "level": 10,
-            "species": "SPECIES_BUDEW"
+            "species": "SPECIES_SPINARAK"
         },
         {
             "level": 10,
-            "species": "SPECIES_SHINX"
+            "species": "SPECIES_SWINUB"
         },
         {
             "level": 10,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_PIDGEY"
         },
         {
             "level": 10,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_RATTATA"
         },
         {
             "level": 11,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_SKITTY"
         },
         {
             "level": 11,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_WYNAUT"
         }
     ],
     "swarms": [
-        "SPECIES_STARLY",
-        "SPECIES_BIDOOF"
+        "SPECIES_PIDGEY",
+        "SPECIES_RATTATA"
     ],
     "day": [
-        "SPECIES_WURMPLE",
-        "SPECIES_BUDEW"
+        "SPECIES_ZUBAT",
+        "SPECIES_BIDOOF"
     ],
     "night": [
-        "SPECIES_KRICKETOT",
-        "SPECIES_ZUBAT"
+        "SPECIES_HOPPIP",
+        "SPECIES_MARILL"
     ],
     "radar": [
-        "SPECIES_SUNKERN",
-        "SPECIES_SUNKERN",
-        "SPECIES_SUNKERN",
-        "SPECIES_SUNKERN"
+        "SPECIES_SLUGMA",
+        "SPECIES_SMEARGLE",
+        "SPECIES_SPINARAK",
+        "SPECIES_SWINUB"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

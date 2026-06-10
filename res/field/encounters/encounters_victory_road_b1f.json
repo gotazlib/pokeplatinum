@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 42,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_BELLOSSOM"
         },
         {
             "level": 41,
-            "species": "SPECIES_AZUMARILL"
+            "species": "SPECIES_ELECTRODE"
         },
         {
             "level": 41,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_EXPLOUD"
         },
         {
             "level": 43,
-            "species": "SPECIES_AZUMARILL"
+            "species": "SPECIES_FROSLASS"
         },
         {
             "level": 42,
-            "species": "SPECIES_ONIX"
+            "species": "SPECIES_GLALIE"
         },
         {
             "level": 44,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_LOPUNNY"
         },
         {
             "level": 44,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_LUDICOLO"
         },
         {
             "level": 43,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_OCTILLERY"
         },
         {
             "level": 44,
-            "species": "SPECIES_STEELIX"
+            "species": "SPECIES_SHIFTRY"
         },
         {
             "level": 43,
-            "species": "SPECIES_GABITE"
+            "species": "SPECIES_VICTREEBEL"
         },
         {
             "level": 44,
-            "species": "SPECIES_STEELIX"
+            "species": "SPECIES_VILEPLUME"
         },
         {
             "level": 43,
-            "species": "SPECIES_GABITE"
+            "species": "SPECIES_AMBIPOM"
         }
     ],
     "swarms": [
-        "SPECIES_FLOATZEL",
-        "SPECIES_AZUMARILL"
+        "SPECIES_SHIFTRY",
+        "SPECIES_VICTREEBEL"
     ],
     "day": [
-        "SPECIES_GRAVELER",
-        "SPECIES_AZUMARILL"
+        "SPECIES_BELLOSSOM",
+        "SPECIES_ELECTRODE"
     ],
     "night": [
-        "SPECIES_GOLBAT",
-        "SPECIES_AZUMARILL"
+        "SPECIES_EXPLOUD",
+        "SPECIES_FROSLASS"
     ],
     "radar": [
-        "SPECIES_ONIX",
-        "SPECIES_FLOATZEL",
-        "SPECIES_STEELIX",
-        "SPECIES_GABITE"
+        "SPECIES_GLALIE",
+        "SPECIES_LOPUNNY",
+        "SPECIES_LUDICOLO",
+        "SPECIES_OCTILLERY"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

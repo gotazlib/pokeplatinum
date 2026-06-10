@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 10,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_SPINARAK"
         },
         {
             "level": 11,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_SWINUB"
         },
         {
             "level": 10,
-            "species": "SPECIES_BUIZEL"
+            "species": "SPECIES_PIDGEY"
         },
         {
             "level": 9,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_RATTATA"
         },
         {
             "level": 10,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_SKITTY"
         },
         {
             "level": 11,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_WYNAUT"
         },
         {
             "level": 9,
-            "species": "SPECIES_PACHIRISU"
+            "species": "SPECIES_HOOTHOOT"
         },
         {
             "level": 11,
-            "species": "SPECIES_PACHIRISU"
+            "species": "SPECIES_SPEAROW"
         },
         {
             "level": 11,
-            "species": "SPECIES_BUIZEL"
+            "species": "SPECIES_SHINX"
         },
         {
             "level": 12,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_DIGLETT"
         },
         {
             "level": 11,
-            "species": "SPECIES_BUIZEL"
+            "species": "SPECIES_LEDYBA"
         },
         {
             "level": 12,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_NINCADA"
         }
     ],
     "swarms": [
-        "SPECIES_SHELLOS",
-        "SPECIES_SHELLOS"
+        "SPECIES_SHINX",
+        "SPECIES_DIGLETT"
     ],
     "day": [
-        "SPECIES_BUIZEL",
-        "SPECIES_SHELLOS"
+        "SPECIES_SPINARAK",
+        "SPECIES_SWINUB"
     ],
     "night": [
-        "SPECIES_BUIZEL",
-        "SPECIES_SHELLOS"
+        "SPECIES_PIDGEY",
+        "SPECIES_RATTATA"
     ],
     "radar": [
-        "SPECIES_HOPPIP",
-        "SPECIES_HOPPIP",
-        "SPECIES_HOPPIP",
-        "SPECIES_HOPPIP"
+        "SPECIES_SKITTY",
+        "SPECIES_WYNAUT",
+        "SPECIES_HOOTHOOT",
+        "SPECIES_SPEAROW"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

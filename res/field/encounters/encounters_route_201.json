@@ -3,15 +3,11 @@
     "land_encounters": [
         {
             "level": 2,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_SUNKERN"
         },
         {
             "level": 2,
-            "species": "SPECIES_BIDOOF"
-        },
-        {
-            "level": 3,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_AZURILL"
         },
         {
             "level": 3,
@@ -19,54 +15,58 @@
         },
         {
             "level": 3,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_CATERPIE"
         },
         {
             "level": 3,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_WEEDLE"
         },
         {
             "level": 3,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_WURMPLE"
         },
         {
             "level": 3,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_RALTS"
+        },
+        {
+            "level": 3,
+            "species": "SPECIES_FEEBAS"
         },
         {
             "level": 2,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_MAGIKARP"
         },
         {
             "level": 2,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_CASCOON"
         },
         {
             "level": 2,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_KAKUNA"
         },
         {
             "level": 2,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_METAPOD"
         }
     ],
     "swarms": [
-        "SPECIES_DODUO",
-        "SPECIES_DODUO"
+        "SPECIES_MAGIKARP",
+        "SPECIES_CASCOON"
     ],
     "day": [
-        "SPECIES_STARLY",
-        "SPECIES_BIDOOF"
+        "SPECIES_SUNKERN",
+        "SPECIES_AZURILL"
     ],
     "night": [
         "SPECIES_KRICKETOT",
-        "SPECIES_BIDOOF"
+        "SPECIES_CATERPIE"
     ],
     "radar": [
-        "SPECIES_NIDORAN_M",
-        "SPECIES_NIDORAN_F",
-        "SPECIES_NIDORAN_M",
-        "SPECIES_NIDORAN_F"
+        "SPECIES_WEEDLE",
+        "SPECIES_WURMPLE",
+        "SPECIES_RALTS",
+        "SPECIES_FEEBAS"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

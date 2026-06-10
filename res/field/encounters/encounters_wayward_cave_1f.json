@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 18,
-            "species": "SPECIES_BRONZOR"
+            "species": "SPECIES_GULPIN"
         },
         {
             "level": 18,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_CARVANHA"
         },
         {
             "level": 17,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_MACHOP"
         },
         {
             "level": 19,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_MANKEY"
         },
         {
             "level": 20,
-            "species": "SPECIES_BRONZOR"
+            "species": "SPECIES_NUMEL"
         },
         {
             "level": 20,
-            "species": "SPECIES_ONIX"
+            "species": "SPECIES_SHELLDER"
         },
         {
             "level": 19,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_SMOOCHUM"
         },
         {
             "level": 20,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_VENONAT"
         },
         {
             "level": 17,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_CORPHISH"
         },
         {
             "level": 18,
-            "species": "SPECIES_ONIX"
+            "species": "SPECIES_CHARMANDER"
         },
         {
             "level": 17,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_CHIMCHAR"
         },
         {
             "level": 18,
-            "species": "SPECIES_ONIX"
+            "species": "SPECIES_CYNDAQUIL"
         }
     ],
     "swarms": [
-        "SPECIES_BRONZOR",
-        "SPECIES_GEODUDE"
+        "SPECIES_CORPHISH",
+        "SPECIES_CHARMANDER"
     ],
     "day": [
-        "SPECIES_GEODUDE",
-        "SPECIES_ZUBAT"
+        "SPECIES_GULPIN",
+        "SPECIES_CARVANHA"
     ],
     "night": [
-        "SPECIES_GEODUDE",
-        "SPECIES_ZUBAT"
+        "SPECIES_MACHOP",
+        "SPECIES_MANKEY"
     ],
     "radar": [
-        "SPECIES_BRONZOR",
-        "SPECIES_ONIX",
-        "SPECIES_GEODUDE",
-        "SPECIES_ONIX"
+        "SPECIES_NUMEL",
+        "SPECIES_SHELLDER",
+        "SPECIES_SMOOCHUM",
+        "SPECIES_VENONAT"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

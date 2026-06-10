@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 47,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_LUXRAY"
         },
         {
             "level": 48,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_CLOYSTER"
         },
         {
             "level": 49,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_DUSKNOIR"
         },
         {
             "level": 50,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_ESPEON"
         },
         {
             "level": 48,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_FLAREON"
         },
         {
             "level": 50,
-            "species": "SPECIES_SNEASEL"
+            "species": "SPECIES_GLACEON"
         },
         {
             "level": 48,
-            "species": "SPECIES_JYNX"
+            "species": "SPECIES_HIPPOWDON"
         },
         {
             "level": 49,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_JOLTEON"
         },
         {
             "level": 50,
-            "species": "SPECIES_JYNX"
+            "species": "SPECIES_LEAFEON"
         },
         {
             "level": 47,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_LUCARIO"
         },
         {
             "level": 50,
-            "species": "SPECIES_JYNX"
+            "species": "SPECIES_MEGANIUM"
         },
         {
             "level": 47,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_PROBOPASS"
         }
     ],
     "swarms": [
-        "SPECIES_GOLBAT",
-        "SPECIES_GOLBAT"
+        "SPECIES_LEAFEON",
+        "SPECIES_LUCARIO"
     ],
     "day": [
-        "SPECIES_GOLBAT",
-        "SPECIES_GOLBAT"
+        "SPECIES_LUXRAY",
+        "SPECIES_CLOYSTER"
     ],
     "night": [
-        "SPECIES_GOLBAT",
-        "SPECIES_GOLBAT"
+        "SPECIES_DUSKNOIR",
+        "SPECIES_ESPEON"
     ],
     "radar": [
-        "SPECIES_GOLBAT",
-        "SPECIES_SNEASEL",
-        "SPECIES_JYNX",
-        "SPECIES_GOLBAT"
+        "SPECIES_FLAREON",
+        "SPECIES_GLACEON",
+        "SPECIES_HIPPOWDON",
+        "SPECIES_JOLTEON"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 37,
-            "species": "SPECIES_BRONZONG"
+            "species": "SPECIES_JYNX"
         },
         {
             "level": 38,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_PRIMEAPE"
         },
         {
             "level": 37,
-            "species": "SPECIES_MEDICHAM"
+            "species": "SPECIES_NINJASK"
         },
         {
             "level": 36,
-            "species": "SPECIES_CLEFAIRY"
+            "species": "SPECIES_SEVIPER"
         },
         {
             "level": 39,
-            "species": "SPECIES_MACHOKE"
+            "species": "SPECIES_ZANGOOSE"
         },
         {
             "level": 39,
-            "species": "SPECIES_MEDICHAM"
+            "species": "SPECIES_BRELOOM"
         },
         {
             "level": 36,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_CAMERUPT"
         },
         {
             "level": 37,
-            "species": "SPECIES_NOSEPASS"
+            "species": "SPECIES_DODRIO"
         },
         {
             "level": 38,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_LANTURN"
         },
         {
             "level": 38,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_LUMINEON"
         },
         {
             "level": 38,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_MR_MIME"
         },
         {
             "level": 38,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_SHARPEDO"
         }
     ],
     "swarms": [
-        "SPECIES_BRONZONG",
-        "SPECIES_GRAVELER"
+        "SPECIES_LANTURN",
+        "SPECIES_LUMINEON"
     ],
     "day": [
-        "SPECIES_MEDICHAM",
-        "SPECIES_GRAVELER"
+        "SPECIES_JYNX",
+        "SPECIES_PRIMEAPE"
     ],
     "night": [
-        "SPECIES_GOLBAT",
-        "SPECIES_CLEFAIRY"
+        "SPECIES_NINJASK",
+        "SPECIES_SEVIPER"
     ],
     "radar": [
-        "SPECIES_MACHOKE",
-        "SPECIES_MEDICHAM",
-        "SPECIES_GOLBAT",
-        "SPECIES_CHINGLING"
+        "SPECIES_ZANGOOSE",
+        "SPECIES_BRELOOM",
+        "SPECIES_CAMERUPT",
+        "SPECIES_DODRIO"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

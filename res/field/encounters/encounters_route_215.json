@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 19,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_GOLDEEN"
         },
         {
             "level": 20,
-            "species": "SPECIES_MARILL"
+            "species": "SPECIES_NATU"
         },
         {
             "level": 22,
-            "species": "SPECIES_SCYTHER"
+            "species": "SPECIES_ODDISH"
         },
         {
             "level": 21,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_PSYDUCK"
         },
         {
             "level": 20,
-            "species": "SPECIES_LICKITUNG"
+            "species": "SPECIES_CLEFAIRY"
         },
         {
             "level": 19,
-            "species": "SPECIES_ABRA"
+            "species": "SPECIES_EEVEE"
         },
         {
             "level": 20,
-            "species": "SPECIES_SCYTHER"
+            "species": "SPECIES_EXEGGCUTE"
         },
         {
             "level": 21,
-            "species": "SPECIES_KADABRA"
+            "species": "SPECIES_GRIMER"
         },
         {
             "level": 22,
-            "species": "SPECIES_MARILL"
+            "species": "SPECIES_KRABBY"
         },
         {
             "level": 22,
-            "species": "SPECIES_KADABRA"
+            "species": "SPECIES_MAGNEMITE"
         },
         {
             "level": 22,
-            "species": "SPECIES_MARILL"
+            "species": "SPECIES_SEEL"
         },
         {
             "level": 22,
-            "species": "SPECIES_KADABRA"
+            "species": "SPECIES_SHELLOS"
         }
     ],
     "swarms": [
-        "SPECIES_DROWZEE",
-        "SPECIES_DROWZEE"
+        "SPECIES_KRABBY",
+        "SPECIES_MAGNEMITE"
     ],
     "day": [
-        "SPECIES_STARAVIA",
-        "SPECIES_STARAVIA"
+        "SPECIES_GOLDEEN",
+        "SPECIES_NATU"
     ],
     "night": [
-        "SPECIES_MARILL",
-        "SPECIES_MARILL"
+        "SPECIES_ODDISH",
+        "SPECIES_PSYDUCK"
     ],
     "radar": [
-        "SPECIES_LICKITUNG",
-        "SPECIES_ABRA",
-        "SPECIES_MARILL",
-        "SPECIES_KADABRA"
+        "SPECIES_CLEFAIRY",
+        "SPECIES_EEVEE",
+        "SPECIES_EXEGGCUTE",
+        "SPECIES_GRIMER"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

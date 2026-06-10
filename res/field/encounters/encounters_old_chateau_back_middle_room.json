@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 14,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_RIOLU"
         },
         {
             "level": 15,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_BARBOACH"
         },
         {
             "level": 14,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_DITTO"
         },
         {
             "level": 15,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_EKANS"
         },
         {
             "level": 16,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_BONSLY"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_MEOWTH"
         },
         {
             "level": 16,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_PINECO"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_SPHEAL"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_TRAPINCH"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_DUSKULL"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_ELECTRIKE"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_HORSEA"
         }
     ],
     "swarms": [
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_TRAPINCH",
+        "SPECIES_DUSKULL"
     ],
     "day": [
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_RIOLU",
+        "SPECIES_BARBOACH"
     ],
     "night": [
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_DITTO",
+        "SPECIES_EKANS"
     ],
     "radar": [
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_BONSLY",
+        "SPECIES_MEOWTH",
+        "SPECIES_PINECO",
+        "SPECIES_SPHEAL"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

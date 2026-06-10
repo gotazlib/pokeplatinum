@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 28,
-            "species": "SPECIES_WOOPER"
+            "species": "SPECIES_QUILAVA"
         },
         {
             "level": 28,
+            "species": "SPECIES_TOGETIC"
+        },
+        {
+            "level": 28,
+            "species": "SPECIES_WARTORTLE"
+        },
+        {
+            "level": 30,
+            "species": "SPECIES_WOBBUFFET"
+        },
+        {
+            "level": 29,
+            "species": "SPECIES_AZUMARILL"
+        },
+        {
+            "level": 30,
             "species": "SPECIES_BIBAREL"
         },
         {
             "level": 28,
-            "species": "SPECIES_TROPIUS"
+            "species": "SPECIES_GABITE"
         },
         {
             "level": 30,
-            "species": "SPECIES_TROPIUS"
-        },
-        {
-            "level": 29,
-            "species": "SPECIES_WOOPER"
+            "species": "SPECIES_MAGCARGO"
         },
         {
             "level": 30,
-            "species": "SPECIES_QUAGSIRE"
-        },
-        {
-            "level": 28,
-            "species": "SPECIES_WOOPER"
+            "species": "SPECIES_MEDICHAM"
         },
         {
             "level": 30,
-            "species": "SPECIES_WOOPER"
-        },
-        {
-            "level": 30,
-            "species": "SPECIES_YANMA"
-        },
-        {
-            "level": 30,
-            "species": "SPECIES_TANGELA"
+            "species": "SPECIES_PONYTA"
         },
         {
             "level": 31,
-            "species": "SPECIES_YANMA"
+            "species": "SPECIES_PUPITAR"
         },
         {
             "level": 31,
-            "species": "SPECIES_TANGELA"
+            "species": "SPECIES_SEALEO"
         }
     ],
     "swarms": [
-        "SPECIES_WOOPER",
-        "SPECIES_BIBAREL"
+        "SPECIES_MEDICHAM",
+        "SPECIES_PONYTA"
     ],
     "day": [
-        "SPECIES_TROPIUS",
-        "SPECIES_TROPIUS"
+        "SPECIES_QUILAVA",
+        "SPECIES_TOGETIC"
     ],
     "night": [
-        "SPECIES_NOCTOWL",
-        "SPECIES_NOCTOWL"
+        "SPECIES_WARTORTLE",
+        "SPECIES_WOBBUFFET"
     ],
     "radar": [
-        "SPECIES_WOOPER",
-        "SPECIES_QUAGSIRE",
-        "SPECIES_YANMA",
-        "SPECIES_TANGELA"
+        "SPECIES_AZUMARILL",
+        "SPECIES_BIBAREL",
+        "SPECIES_GABITE",
+        "SPECIES_MAGCARGO"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

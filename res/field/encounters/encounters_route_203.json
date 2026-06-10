@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 4,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_WOOPER"
         },
         {
             "level": 4,
-            "species": "SPECIES_SHINX"
+            "species": "SPECIES_SENTRET"
         },
         {
             "level": 5,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_CLEFFA"
         },
         {
             "level": 4,
-            "species": "SPECIES_KRICKETOT"
+            "species": "SPECIES_HAPPINY"
         },
         {
             "level": 5,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_LOTAD"
         },
         {
             "level": 4,
-            "species": "SPECIES_ABRA"
+            "species": "SPECIES_POOCHYENA"
         },
         {
             "level": 5,
-            "species": "SPECIES_ABRA"
+            "species": "SPECIES_SEEDOT"
         },
         {
             "level": 5,
-            "species": "SPECIES_SHINX"
+            "species": "SPECIES_BURMY"
         },
         {
             "level": 6,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_SHEDINJA"
         },
         {
             "level": 6,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_MAKUHITA"
         },
         {
             "level": 7,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_WHISMUR"
         },
         {
             "level": 7,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_ZIGZAGOON"
         }
     ],
     "swarms": [
-        "SPECIES_CUBONE",
-        "SPECIES_CUBONE"
+        "SPECIES_SHEDINJA",
+        "SPECIES_MAKUHITA"
     ],
     "day": [
-        "SPECIES_STARLY",
-        "SPECIES_BIDOOF"
+        "SPECIES_WOOPER",
+        "SPECIES_SENTRET"
     ],
     "night": [
-        "SPECIES_KRICKETOT",
-        "SPECIES_ZUBAT"
+        "SPECIES_CLEFFA",
+        "SPECIES_HAPPINY"
     ],
     "radar": [
-        "SPECIES_BIDOOF",
-        "SPECIES_ABRA",
-        "SPECIES_STARLY",
-        "SPECIES_BIDOOF"
+        "SPECIES_LOTAD",
+        "SPECIES_POOCHYENA",
+        "SPECIES_SEEDOT",
+        "SPECIES_BURMY"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

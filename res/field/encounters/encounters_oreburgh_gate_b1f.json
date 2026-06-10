@@ -3,11 +3,11 @@
     "land_encounters": [
         {
             "level": 6,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_STARLY"
         },
         {
             "level": 8,
-            "species": "SPECIES_PSYDUCK"
+            "species": "SPECIES_TOGEPI"
         },
         {
             "level": 7,
@@ -15,58 +15,58 @@
         },
         {
             "level": 9,
-            "species": "SPECIES_PSYDUCK"
+            "species": "SPECIES_BIDOOF"
         },
         {
             "level": 6,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_HOPPIP"
         },
         {
             "level": 8,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_MARILL"
         },
         {
             "level": 10,
-            "species": "SPECIES_PSYDUCK"
+            "species": "SPECIES_SLUGMA"
         },
         {
             "level": 8,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_SMEARGLE"
         },
         {
             "level": 9,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_SPINARAK"
         },
         {
             "level": 10,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_SWINUB"
         },
         {
             "level": 9,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_PIDGEY"
         },
         {
             "level": 10,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_RATTATA"
         }
     ],
     "swarms": [
-        "SPECIES_ZUBAT",
-        "SPECIES_PSYDUCK"
+        "SPECIES_SPINARAK",
+        "SPECIES_SWINUB"
     ],
     "day": [
-        "SPECIES_ZUBAT",
-        "SPECIES_PSYDUCK"
+        "SPECIES_STARLY",
+        "SPECIES_TOGEPI"
     ],
     "night": [
         "SPECIES_ZUBAT",
-        "SPECIES_PSYDUCK"
+        "SPECIES_BIDOOF"
     ],
     "radar": [
-        "SPECIES_GEODUDE",
-        "SPECIES_ZUBAT",
-        "SPECIES_ZUBAT",
-        "SPECIES_GOLBAT"
+        "SPECIES_HOPPIP",
+        "SPECIES_MARILL",
+        "SPECIES_SLUGMA",
+        "SPECIES_SMEARGLE"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 4,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_SILCOON"
         },
         {
             "level": 4,
-            "species": "SPECIES_PSYDUCK"
+            "species": "SPECIES_IGGLYBUFF"
         },
         {
             "level": 5,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_TYROGUE"
         },
         {
             "level": 5,
-            "species": "SPECIES_PSYDUCK"
+            "species": "SPECIES_WOOPER"
         },
         {
             "level": 3,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_SENTRET"
         },
         {
             "level": 3,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_CLEFFA"
         },
         {
             "level": 6,
-            "species": "SPECIES_PSYDUCK"
+            "species": "SPECIES_HAPPINY"
         },
         {
             "level": 6,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_LOTAD"
         },
         {
             "level": 6,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_POOCHYENA"
         },
         {
             "level": 6,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_SEEDOT"
         },
         {
             "level": 6,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_BURMY"
         },
         {
             "level": 6,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_SHEDINJA"
         }
     ],
     "swarms": [
-        "SPECIES_ZUBAT",
-        "SPECIES_PSYDUCK"
+        "SPECIES_POOCHYENA",
+        "SPECIES_SEEDOT"
     ],
     "day": [
-        "SPECIES_ZUBAT",
-        "SPECIES_PSYDUCK"
+        "SPECIES_SILCOON",
+        "SPECIES_IGGLYBUFF"
     ],
     "night": [
-        "SPECIES_ZUBAT",
-        "SPECIES_PSYDUCK"
+        "SPECIES_TYROGUE",
+        "SPECIES_WOOPER"
     ],
     "radar": [
-        "SPECIES_ZUBAT",
-        "SPECIES_ZUBAT",
-        "SPECIES_ZUBAT",
-        "SPECIES_ZUBAT"
+        "SPECIES_SENTRET",
+        "SPECIES_CLEFFA",
+        "SPECIES_HAPPINY",
+        "SPECIES_LOTAD"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

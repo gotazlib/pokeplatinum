@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 15,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_POLIWAG"
         },
         {
             "level": 15,
-            "species": "SPECIES_BRONZOR"
+            "species": "SPECIES_REMORAID"
         },
         {
             "level": 16,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_SANDSHREW"
         },
         {
             "level": 17,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_SNORUNT"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_SNUBBULL"
         },
         {
             "level": 17,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_GULPIN"
         },
         {
             "level": 18,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_CARVANHA"
         },
         {
             "level": 16,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_MACHOP"
         },
         {
             "level": 18,
-            "species": "SPECIES_DUSKULL"
+            "species": "SPECIES_MANKEY"
         },
         {
             "level": 18,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_NUMEL"
         },
         {
             "level": 18,
-            "species": "SPECIES_DUSKULL"
+            "species": "SPECIES_SHELLDER"
         },
         {
             "level": 18,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_SMOOCHUM"
         }
     ],
     "swarms": [
-        "SPECIES_GASTLY",
-        "SPECIES_BRONZOR"
+        "SPECIES_MANKEY",
+        "SPECIES_NUMEL"
     ],
     "day": [
-        "SPECIES_GASTLY",
-        "SPECIES_GOLBAT"
+        "SPECIES_POLIWAG",
+        "SPECIES_REMORAID"
     ],
     "night": [
-        "SPECIES_DUSCLOPS",
-        "SPECIES_GOLBAT"
+        "SPECIES_SANDSHREW",
+        "SPECIES_SNORUNT"
     ],
     "radar": [
-        "SPECIES_GASTLY",
-        "SPECIES_GOLBAT",
-        "SPECIES_DUSCLOPS",
-        "SPECIES_CHINGLING"
+        "SPECIES_SNUBBULL",
+        "SPECIES_GULPIN",
+        "SPECIES_CARVANHA",
+        "SPECIES_MACHOP"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

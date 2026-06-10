@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 38,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_CACTURNE"
         },
         {
             "level": 39,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_DEWGONG"
         },
         {
             "level": 40,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_GASTRODON"
         },
         {
             "level": 41,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_KINGLER"
         },
         {
             "level": 40,
-            "species": "SPECIES_GOLDUCK"
+            "species": "SPECIES_MANECTRIC"
         },
         {
             "level": 38,
-            "species": "SPECIES_PSYDUCK"
+            "species": "SPECIES_RAICHU"
         },
         {
             "level": 41,
-            "species": "SPECIES_GOLDUCK"
+            "species": "SPECIES_STARAPTOR"
         },
         {
             "level": 39,
-            "species": "SPECIES_PSYDUCK"
+            "species": "SPECIES_SKUNTANK"
         },
         {
             "level": 40,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_BELLOSSOM"
         },
         {
             "level": 41,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_ELECTRODE"
         },
         {
             "level": 40,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_EXPLOUD"
         },
         {
             "level": 41,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_FROSLASS"
         }
     ],
     "swarms": [
-        "SPECIES_STARAVIA",
-        "SPECIES_BIBAREL"
+        "SPECIES_BELLOSSOM",
+        "SPECIES_ELECTRODE"
     ],
     "day": [
-        "SPECIES_STARAVIA",
-        "SPECIES_BIBAREL"
+        "SPECIES_CACTURNE",
+        "SPECIES_DEWGONG"
     ],
     "night": [
-        "SPECIES_STARAVIA",
-        "SPECIES_BIBAREL"
+        "SPECIES_GASTRODON",
+        "SPECIES_KINGLER"
     ],
     "radar": [
-        "SPECIES_WOBBUFFET",
-        "SPECIES_WOBBUFFET",
-        "SPECIES_WOBBUFFET",
-        "SPECIES_WOBBUFFET"
+        "SPECIES_MANECTRIC",
+        "SPECIES_RAICHU",
+        "SPECIES_STARAPTOR",
+        "SPECIES_SKUNTANK"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

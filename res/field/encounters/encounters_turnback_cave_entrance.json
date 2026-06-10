@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 15,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_ELECTRIKE"
         },
         {
             "level": 15,
+            "species": "SPECIES_HORSEA"
+        },
+        {
+            "level": 16,
+            "species": "SPECIES_SHROOMISH"
+        },
+        {
+            "level": 17,
+            "species": "SPECIES_SHUPPET"
+        },
+        {
+            "level": 17,
+            "species": "SPECIES_VULPIX"
+        },
+        {
+            "level": 17,
+            "species": "SPECIES_BAGON"
+        },
+        {
+            "level": 18,
+            "species": "SPECIES_BALTOY"
+        },
+        {
+            "level": 16,
+            "species": "SPECIES_BELDUM"
+        },
+        {
+            "level": 18,
+            "species": "SPECIES_BELLSPROUT"
+        },
+        {
+            "level": 18,
             "species": "SPECIES_BRONZOR"
         },
         {
-            "level": 16,
-            "species": "SPECIES_GASTLY"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_GOLBAT"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_GASTLY"
-        },
-        {
-            "level": 17,
-            "species": "SPECIES_GOLBAT"
+            "level": 18,
+            "species": "SPECIES_CROAGUNK"
         },
         {
             "level": 18,
-            "species": "SPECIES_GOLBAT"
-        },
-        {
-            "level": 16,
-            "species": "SPECIES_CHINGLING"
-        },
-        {
-            "level": 18,
-            "species": "SPECIES_DUSKULL"
-        },
-        {
-            "level": 18,
-            "species": "SPECIES_CHINGLING"
-        },
-        {
-            "level": 18,
-            "species": "SPECIES_DUSKULL"
-        },
-        {
-            "level": 18,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_DRATINI"
         }
     ],
     "swarms": [
-        "SPECIES_GASTLY",
+        "SPECIES_BELLSPROUT",
         "SPECIES_BRONZOR"
     ],
     "day": [
-        "SPECIES_GASTLY",
-        "SPECIES_GOLBAT"
+        "SPECIES_ELECTRIKE",
+        "SPECIES_HORSEA"
     ],
     "night": [
-        "SPECIES_DUSCLOPS",
-        "SPECIES_GOLBAT"
+        "SPECIES_SHROOMISH",
+        "SPECIES_SHUPPET"
     ],
     "radar": [
-        "SPECIES_GASTLY",
-        "SPECIES_GOLBAT",
-        "SPECIES_DUSCLOPS",
-        "SPECIES_CHINGLING"
+        "SPECIES_VULPIX",
+        "SPECIES_BAGON",
+        "SPECIES_BALTOY",
+        "SPECIES_BELDUM"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 25,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_BAYLEEF"
         },
         {
             "level": 25,
-            "species": "SPECIES_BRONZOR"
+            "species": "SPECIES_CHARMELEON"
+        },
+        {
+            "level": 26,
+            "species": "SPECIES_COMBUSKEN"
+        },
+        {
+            "level": 27,
+            "species": "SPECIES_CROCONAW"
+        },
+        {
+            "level": 27,
+            "species": "SPECIES_DUGTRIO"
+        },
+        {
+            "level": 27,
+            "species": "SPECIES_GROTLE"
+        },
+        {
+            "level": 28,
+            "species": "SPECIES_GROVYLE"
         },
         {
             "level": 26,
             "species": "SPECIES_HAUNTER"
         },
         {
-            "level": 27,
-            "species": "SPECIES_GOLBAT"
-        },
-        {
-            "level": 27,
-            "species": "SPECIES_HAUNTER"
-        },
-        {
-            "level": 27,
-            "species": "SPECIES_GOLBAT"
+            "level": 28,
+            "species": "SPECIES_IVYSAUR"
         },
         {
             "level": 28,
-            "species": "SPECIES_GOLBAT"
-        },
-        {
-            "level": 26,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_MACHOKE"
         },
         {
             "level": 28,
-            "species": "SPECIES_DUSKULL"
+            "species": "SPECIES_MARSHTOMP"
         },
         {
             "level": 28,
-            "species": "SPECIES_CHINGLING"
-        },
-        {
-            "level": 28,
-            "species": "SPECIES_DUSCLOPS"
-        },
-        {
-            "level": 28,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_MINUN"
         }
     ],
     "swarms": [
-        "SPECIES_HAUNTER",
-        "SPECIES_BRONZOR"
+        "SPECIES_IVYSAUR",
+        "SPECIES_MACHOKE"
     ],
     "day": [
-        "SPECIES_HAUNTER",
-        "SPECIES_GOLBAT"
+        "SPECIES_BAYLEEF",
+        "SPECIES_CHARMELEON"
     ],
     "night": [
-        "SPECIES_DUSCLOPS",
-        "SPECIES_GOLBAT"
+        "SPECIES_COMBUSKEN",
+        "SPECIES_CROCONAW"
     ],
     "radar": [
-        "SPECIES_HAUNTER",
-        "SPECIES_GOLBAT",
-        "SPECIES_DUSCLOPS",
-        "SPECIES_CHINGLING"
+        "SPECIES_DUGTRIO",
+        "SPECIES_GROTLE",
+        "SPECIES_GROVYLE",
+        "SPECIES_HAUNTER"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

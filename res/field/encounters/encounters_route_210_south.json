@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 19,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_SLOWPOKE"
         },
         {
             "level": 18,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_BULBASAUR"
         },
         {
             "level": 21,
-            "species": "SPECIES_SCYTHER"
+            "species": "SPECIES_CHIKORITA"
         },
         {
             "level": 20,
-            "species": "SPECIES_PONYTA"
+            "species": "SPECIES_TURTWIG"
         },
         {
             "level": 20,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_CUBONE"
         },
         {
             "level": 19,
-            "species": "SPECIES_PONYTA"
+            "species": "SPECIES_GOLDEEN"
         },
         {
             "level": 19,
-            "species": "SPECIES_SCYTHER"
+            "species": "SPECIES_NATU"
         },
         {
             "level": 21,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_ODDISH"
         },
         {
             "level": 21,
-            "species": "SPECIES_PONYTA"
+            "species": "SPECIES_PSYDUCK"
         },
         {
             "level": 19,
-            "species": "SPECIES_CHANSEY"
+            "species": "SPECIES_CLEFAIRY"
         },
         {
             "level": 21,
-            "species": "SPECIES_PONYTA"
+            "species": "SPECIES_EEVEE"
         },
         {
             "level": 21,
-            "species": "SPECIES_CHANSEY"
+            "species": "SPECIES_EXEGGCUTE"
         }
     ],
     "swarms": [
-        "SPECIES_STARAVIA",
-        "SPECIES_GEODUDE"
+        "SPECIES_PSYDUCK",
+        "SPECIES_CLEFAIRY"
     ],
     "day": [
-        "SPECIES_PONYTA",
-        "SPECIES_PONYTA"
+        "SPECIES_SLOWPOKE",
+        "SPECIES_BULBASAUR"
     ],
     "night": [
-        "SPECIES_NOCTOWL",
-        "SPECIES_HOOTHOOT"
+        "SPECIES_CHIKORITA",
+        "SPECIES_TURTWIG"
     ],
     "radar": [
-        "SPECIES_MILTANK",
-        "SPECIES_TAUROS",
-        "SPECIES_MILTANK",
-        "SPECIES_TAUROS"
+        "SPECIES_CUBONE",
+        "SPECIES_GOLDEEN",
+        "SPECIES_NATU",
+        "SPECIES_ODDISH"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

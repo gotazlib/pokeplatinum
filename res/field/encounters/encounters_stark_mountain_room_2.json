@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 53,
-            "species": "SPECIES_MAGCARGO"
+            "species": "SPECIES_KINGDRA"
         },
         {
             "level": 55,
-            "species": "SPECIES_MAGCARGO"
+            "species": "SPECIES_MAGMORTAR"
         },
         {
             "level": 53,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_MILOTIC"
         },
         {
             "level": 52,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_SNORLAX"
         },
         {
             "level": 55,
-            "species": "SPECIES_RHYDON"
+            "species": "SPECIES_TOGEKISS"
         },
         {
             "level": 54,
-            "species": "SPECIES_WEEZING"
+            "species": "SPECIES_ARCANINE"
         },
         {
             "level": 52,
-            "species": "SPECIES_WEEZING"
+            "species": "SPECIES_DRAGONITE"
         },
         {
             "level": 54,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_GARCHOMP"
         },
         {
             "level": 53,
-            "species": "SPECIES_SLUGMA"
+            "species": "SPECIES_METAGROSS"
         },
         {
             "level": 53,
-            "species": "SPECIES_KOFFING"
+            "species": "SPECIES_SALAMENCE"
         },
         {
             "level": 53,
-            "species": "SPECIES_SLUGMA"
+            "species": "SPECIES_TYRANITAR"
         },
         {
             "level": 53,
-            "species": "SPECIES_KOFFING"
+            "species": "SPECIES_SLAKING"
         }
     ],
     "swarms": [
-        "SPECIES_MAGCARGO",
-        "SPECIES_MAGCARGO"
+        "SPECIES_METAGROSS",
+        "SPECIES_SALAMENCE"
     ],
     "day": [
-        "SPECIES_GOLBAT",
-        "SPECIES_GRAVELER"
+        "SPECIES_KINGDRA",
+        "SPECIES_MAGMORTAR"
     ],
     "night": [
-        "SPECIES_GOLBAT",
-        "SPECIES_GRAVELER"
+        "SPECIES_MILOTIC",
+        "SPECIES_SNORLAX"
     ],
     "radar": [
-        "SPECIES_RHYDON",
-        "SPECIES_WEEZING",
-        "SPECIES_SLUGMA",
-        "SPECIES_KOFFING"
+        "SPECIES_TOGEKISS",
+        "SPECIES_ARCANINE",
+        "SPECIES_DRAGONITE",
+        "SPECIES_GARCHOMP"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

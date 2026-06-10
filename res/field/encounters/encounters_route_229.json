@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 48,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_LEAFEON"
         },
         {
             "level": 49,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_LUCARIO"
         },
         {
             "level": 50,
-            "species": "SPECIES_LEDIAN"
+            "species": "SPECIES_MEGANIUM"
         },
         {
             "level": 50,
-            "species": "SPECIES_LEDIAN"
+            "species": "SPECIES_PROBOPASS"
         },
         {
             "level": 49,
-            "species": "SPECIES_VOLBEAT"
+            "species": "SPECIES_TORTERRA"
         },
         {
             "level": 49,
-            "species": "SPECIES_ILLUMISE"
+            "species": "SPECIES_UMBREON"
         },
         {
             "level": 47,
-            "species": "SPECIES_PIDGEY"
+            "species": "SPECIES_VAPOREON"
         },
         {
             "level": 50,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_VENUSAUR"
         },
         {
             "level": 48,
-            "species": "SPECIES_BEAUTIFLY"
+            "species": "SPECIES_AGGRON"
         },
         {
             "level": 48,
-            "species": "SPECIES_DUSTOX"
+            "species": "SPECIES_BLASTOISE"
         },
         {
             "level": 48,
-            "species": "SPECIES_BEAUTIFLY"
+            "species": "SPECIES_BLAZIKEN"
         },
         {
             "level": 48,
-            "species": "SPECIES_DUSTOX"
+            "species": "SPECIES_EMPOLEON"
         }
     ],
     "swarms": [
-        "SPECIES_PINSIR",
-        "SPECIES_PINSIR"
+        "SPECIES_AGGRON",
+        "SPECIES_BLASTOISE"
     ],
     "day": [
-        "SPECIES_PIDGEY",
-        "SPECIES_PIDGEY"
+        "SPECIES_LEAFEON",
+        "SPECIES_LUCARIO"
     ],
     "night": [
-        "SPECIES_ARIADOS",
-        "SPECIES_ARIADOS"
+        "SPECIES_MEGANIUM",
+        "SPECIES_PROBOPASS"
     ],
     "radar": [
-        "SPECIES_VENOMOTH",
-        "SPECIES_VENOMOTH",
-        "SPECIES_VENONAT",
-        "SPECIES_VENONAT"
+        "SPECIES_TORTERRA",
+        "SPECIES_UMBREON",
+        "SPECIES_VAPOREON",
+        "SPECIES_VENUSAUR"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

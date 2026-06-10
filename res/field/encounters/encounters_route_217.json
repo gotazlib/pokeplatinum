@@ -3,11 +3,7 @@
     "land_encounters": [
         {
             "level": 32,
-            "species": "SPECIES_SNOVER"
-        },
-        {
-            "level": 33,
-            "species": "SPECIES_SWINUB"
+            "species": "SPECIES_QWILFISH"
         },
         {
             "level": 33,
@@ -15,58 +11,62 @@
         },
         {
             "level": 33,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_SWELLOW"
+        },
+        {
+            "level": 33,
+            "species": "SPECIES_MISDREAVUS"
         },
         {
             "level": 34,
-            "species": "SPECIES_SNEASEL"
+            "species": "SPECIES_TANGELA"
         },
         {
             "level": 34,
-            "species": "SPECIES_SWINUB"
+            "species": "SPECIES_ARBOK"
         },
         {
             "level": 34,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_KECLEON"
         },
         {
             "level": 32,
-            "species": "SPECIES_SWINUB"
+            "species": "SPECIES_LUNATONE"
         },
         {
             "level": 35,
-            "species": "SPECIES_SNEASEL"
+            "species": "SPECIES_PERSIAN"
         },
         {
             "level": 35,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_ROTOM"
         },
         {
             "level": 35,
-            "species": "SPECIES_SNEASEL"
+            "species": "SPECIES_SEADRA"
         },
         {
             "level": 35,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_SOLROCK"
         }
     ],
     "swarms": [
-        "SPECIES_DELIBIRD",
-        "SPECIES_DELIBIRD"
+        "SPECIES_PERSIAN",
+        "SPECIES_ROTOM"
     ],
     "day": [
-        "SPECIES_SNEASEL",
-        "SPECIES_SNOVER"
+        "SPECIES_QWILFISH",
+        "SPECIES_SNEASEL"
     ],
     "night": [
-        "SPECIES_SNORUNT",
-        "SPECIES_SNORUNT"
+        "SPECIES_SWELLOW",
+        "SPECIES_MISDREAVUS"
     ],
     "radar": [
-        "SPECIES_PILOSWINE",
-        "SPECIES_PILOSWINE",
-        "SPECIES_PILOSWINE",
-        "SPECIES_PILOSWINE"
+        "SPECIES_TANGELA",
+        "SPECIES_ARBOK",
+        "SPECIES_KECLEON",
+        "SPECIES_LUNATONE"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 25,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_LUVDISC"
         },
         {
             "level": 24,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_PHANPY"
         },
         {
             "level": 23,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_SKORUPI"
         },
         {
             "level": 25,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_SPOINK"
         },
         {
             "level": 25,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_TEDDIURSA"
         },
         {
             "level": 25,
-            "species": "SPECIES_HIPPOPOTAS"
+            "species": "SPECIES_VOLTORB"
         },
         {
             "level": 25,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_SNOVER"
         },
         {
             "level": 25,
-            "species": "SPECIES_HIPPOPOTAS"
+            "species": "SPECIES_CACNEA"
         },
         {
             "level": 25,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_TENTACOOL"
         },
         {
             "level": 24,
-            "species": "SPECIES_HIPPOPOTAS"
+            "species": "SPECIES_UNOWN"
         },
         {
             "level": 25,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_KOFFING"
         },
         {
             "level": 26,
-            "species": "SPECIES_HIPPOPOTAS"
+            "species": "SPECIES_LOMBRE"
         }
     ],
     "swarms": [
-        "SPECIES_GEODUDE",
-        "SPECIES_GEODUDE"
+        "SPECIES_TENTACOOL",
+        "SPECIES_UNOWN"
     ],
     "day": [
-        "SPECIES_GEODUDE",
-        "SPECIES_GEODUDE"
+        "SPECIES_LUVDISC",
+        "SPECIES_PHANPY"
     ],
     "night": [
-        "SPECIES_GEODUDE",
-        "SPECIES_GEODUDE"
+        "SPECIES_SKORUPI",
+        "SPECIES_SPOINK"
     ],
     "radar": [
-        "SPECIES_GEODUDE",
-        "SPECIES_HIPPOPOTAS",
-        "SPECIES_GEODUDE",
-        "SPECIES_HIPPOPOTAS"
+        "SPECIES_TEDDIURSA",
+        "SPECIES_VOLTORB",
+        "SPECIES_SNOVER",
+        "SPECIES_CACNEA"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

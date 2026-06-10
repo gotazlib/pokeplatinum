@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 11,
-            "species": "SPECIES_BUNEARY"
+            "species": "SPECIES_PIDGEY"
         },
         {
             "level": 10,
-            "species": "SPECIES_BUDEW"
+            "species": "SPECIES_RATTATA"
         },
         {
             "level": 10,
-            "species": "SPECIES_WURMPLE"
+            "species": "SPECIES_SKITTY"
         },
         {
             "level": 12,
-            "species": "SPECIES_KRICKETOT"
+            "species": "SPECIES_WYNAUT"
         },
         {
             "level": 11,
-            "species": "SPECIES_BUDEW"
+            "species": "SPECIES_HOOTHOOT"
         },
         {
             "level": 12,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_SPEAROW"
         },
         {
             "level": 12,
-            "species": "SPECIES_SILCOON"
+            "species": "SPECIES_SHINX"
         },
         {
             "level": 12,
-            "species": "SPECIES_CASCOON"
+            "species": "SPECIES_DIGLETT"
         },
         {
             "level": 13,
-            "species": "SPECIES_BUNEARY"
+            "species": "SPECIES_LEDYBA"
         },
         {
             "level": 13,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_NINCADA"
         },
         {
             "level": 14,
-            "species": "SPECIES_BEAUTIFLY"
+            "species": "SPECIES_SURSKIT"
         },
         {
             "level": 14,
-            "species": "SPECIES_DUSTOX"
+            "species": "SPECIES_JIGGLYPUFF"
         }
     ],
     "swarms": [
-        "SPECIES_SLAKOTH",
-        "SPECIES_SLAKOTH"
+        "SPECIES_LEDYBA",
+        "SPECIES_NINCADA"
     ],
     "day": [
-        "SPECIES_WURMPLE",
-        "SPECIES_BUDEW"
+        "SPECIES_PIDGEY",
+        "SPECIES_RATTATA"
     ],
     "night": [
-        "SPECIES_KRICKETOT",
-        "SPECIES_HOOTHOOT"
+        "SPECIES_SKITTY",
+        "SPECIES_WYNAUT"
     ],
     "radar": [
-        "SPECIES_NINCADA",
-        "SPECIES_NINCADA",
-        "SPECIES_NINCADA",
-        "SPECIES_NINCADA"
+        "SPECIES_HOOTHOOT",
+        "SPECIES_SPEAROW",
+        "SPECIES_SHINX",
+        "SPECIES_DIGLETT"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

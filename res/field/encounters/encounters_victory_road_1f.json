@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 40,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_GASTRODON"
         },
         {
             "level": 41,
-            "species": "SPECIES_RHYHORN"
+            "species": "SPECIES_KINGLER"
         },
         {
             "level": 42,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_MANECTRIC"
         },
         {
             "level": 41,
-            "species": "SPECIES_ONIX"
+            "species": "SPECIES_RAICHU"
         },
         {
             "level": 42,
-            "species": "SPECIES_ONIX"
+            "species": "SPECIES_STARAPTOR"
         },
         {
             "level": 41,
-            "species": "SPECIES_RHYDON"
+            "species": "SPECIES_SKUNTANK"
         },
         {
             "level": 43,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_BELLOSSOM"
         },
         {
             "level": 43,
-            "species": "SPECIES_RHYDON"
+            "species": "SPECIES_ELECTRODE"
         },
         {
             "level": 42,
-            "species": "SPECIES_STEELIX"
+            "species": "SPECIES_EXPLOUD"
         },
         {
             "level": 41,
-            "species": "SPECIES_GABITE"
+            "species": "SPECIES_FROSLASS"
         },
         {
             "level": 42,
-            "species": "SPECIES_STEELIX"
+            "species": "SPECIES_GLALIE"
         },
         {
             "level": 41,
-            "species": "SPECIES_GABITE"
+            "species": "SPECIES_LOPUNNY"
         }
     ],
     "swarms": [
-        "SPECIES_GRAVELER",
-        "SPECIES_RHYHORN"
+        "SPECIES_EXPLOUD",
+        "SPECIES_FROSLASS"
     ],
     "day": [
-        "SPECIES_GRAVELER",
-        "SPECIES_ONIX"
+        "SPECIES_GASTRODON",
+        "SPECIES_KINGLER"
     ],
     "night": [
-        "SPECIES_GOLBAT",
-        "SPECIES_ONIX"
+        "SPECIES_MANECTRIC",
+        "SPECIES_RAICHU"
     ],
     "radar": [
-        "SPECIES_ONIX",
-        "SPECIES_RHYDON",
-        "SPECIES_STEELIX",
-        "SPECIES_GABITE"
+        "SPECIES_STARAPTOR",
+        "SPECIES_SKUNTANK",
+        "SPECIES_BELLOSSOM",
+        "SPECIES_ELECTRODE"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 14,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_WINGULL"
         },
         {
             "level": 15,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_NIDORAN_M"
         },
         {
             "level": 14,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_CHERUBI"
         },
         {
             "level": 15,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_NIDORAN_F"
         },
         {
             "level": 16,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_KIRLIA"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_BUDEW"
         },
         {
             "level": 16,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_MAREEP"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_MEDITITE"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_SLAKOTH"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_CHINGLING"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_PARAS"
         },
         {
             "level": 17,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_RIOLU"
         }
     ],
     "swarms": [
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_SLAKOTH",
+        "SPECIES_CHINGLING"
     ],
     "day": [
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_WINGULL",
+        "SPECIES_NIDORAN_M"
     ],
     "night": [
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_CHERUBI",
+        "SPECIES_NIDORAN_F"
     ],
     "radar": [
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_KIRLIA",
+        "SPECIES_BUDEW",
+        "SPECIES_MAREEP",
+        "SPECIES_MEDITITE"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

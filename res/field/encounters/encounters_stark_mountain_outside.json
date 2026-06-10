@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 53,
-            "species": "SPECIES_CAMERUPT"
+            "species": "SPECIES_MAGNEZONE"
         },
         {
             "level": 54,
-            "species": "SPECIES_RHYDON"
+            "species": "SPECIES_PORYGON_Z"
         },
         {
             "level": 51,
-            "species": "SPECIES_FEAROW"
+            "species": "SPECIES_RHYPERIOR"
         },
         {
             "level": 51,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_SWAMPERT"
         },
         {
             "level": 53,
-            "species": "SPECIES_FEAROW"
+            "species": "SPECIES_TANGROWTH"
         },
         {
             "level": 52,
-            "species": "SPECIES_WEEZING"
+            "species": "SPECIES_BLISSEY"
         },
         {
             "level": 53,
-            "species": "SPECIES_SKARMORY"
+            "species": "SPECIES_ELECTIVIRE"
         },
         {
             "level": 53,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_GYARADOS"
         },
         {
             "level": 51,
-            "species": "SPECIES_NUMEL"
+            "species": "SPECIES_KINGDRA"
         },
         {
             "level": 52,
-            "species": "SPECIES_RHYHORN"
+            "species": "SPECIES_MAGMORTAR"
         },
         {
             "level": 51,
-            "species": "SPECIES_NUMEL"
+            "species": "SPECIES_MILOTIC"
         },
         {
             "level": 52,
-            "species": "SPECIES_RHYHORN"
+            "species": "SPECIES_SNORLAX"
         }
     ],
     "swarms": [
-        "SPECIES_CAMERUPT",
-        "SPECIES_RHYDON"
+        "SPECIES_KINGDRA",
+        "SPECIES_MAGMORTAR"
     ],
     "day": [
-        "SPECIES_FEAROW",
-        "SPECIES_GRAVELER"
+        "SPECIES_MAGNEZONE",
+        "SPECIES_PORYGON_Z"
     ],
     "night": [
-        "SPECIES_GOLBAT",
-        "SPECIES_GRAVELER"
+        "SPECIES_RHYPERIOR",
+        "SPECIES_SWAMPERT"
     ],
     "radar": [
-        "SPECIES_TORKOAL",
-        "SPECIES_TORKOAL",
-        "SPECIES_TORKOAL",
-        "SPECIES_TORKOAL"
+        "SPECIES_TANGROWTH",
+        "SPECIES_BLISSEY",
+        "SPECIES_ELECTIVIRE",
+        "SPECIES_GYARADOS"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

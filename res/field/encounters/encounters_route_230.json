@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 48,
-            "species": "SPECIES_PELIPPER"
+            "species": "SPECIES_HIPPOWDON"
         },
         {
             "level": 48,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_JOLTEON"
         },
         {
             "level": 47,
-            "species": "SPECIES_BELLSPROUT"
+            "species": "SPECIES_LEAFEON"
         },
         {
             "level": 47,
-            "species": "SPECIES_BELLSPROUT"
+            "species": "SPECIES_LUCARIO"
         },
         {
             "level": 49,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_MEGANIUM"
         },
         {
             "level": 50,
-            "species": "SPECIES_PELIPPER"
+            "species": "SPECIES_PROBOPASS"
         },
         {
             "level": 49,
-            "species": "SPECIES_GLOOM"
+            "species": "SPECIES_TORTERRA"
         },
         {
             "level": 49,
-            "species": "SPECIES_WEEPINBELL"
+            "species": "SPECIES_UMBREON"
         },
         {
             "level": 48,
-            "species": "SPECIES_WINGULL"
+            "species": "SPECIES_VAPOREON"
         },
         {
             "level": 50,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_VENUSAUR"
         },
         {
             "level": 48,
-            "species": "SPECIES_WINGULL"
+            "species": "SPECIES_AGGRON"
         },
         {
             "level": 50,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_BLASTOISE"
         }
     ],
     "swarms": [
-        "SPECIES_CORSOLA",
-        "SPECIES_CORSOLA"
+        "SPECIES_VAPOREON",
+        "SPECIES_VENUSAUR"
     ],
     "day": [
-        "SPECIES_BELLSPROUT",
-        "SPECIES_BELLSPROUT"
+        "SPECIES_HIPPOWDON",
+        "SPECIES_JOLTEON"
     ],
     "night": [
-        "SPECIES_ODDISH",
-        "SPECIES_ODDISH"
+        "SPECIES_LEAFEON",
+        "SPECIES_LUCARIO"
     ],
     "radar": [
-        "SPECIES_TOGEPI",
-        "SPECIES_TOGEPI",
-        "SPECIES_TOGEPI",
-        "SPECIES_TOGEPI"
+        "SPECIES_MEGANIUM",
+        "SPECIES_PROBOPASS",
+        "SPECIES_TORTERRA",
+        "SPECIES_UMBREON"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

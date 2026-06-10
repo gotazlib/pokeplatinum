@@ -3,11 +3,11 @@
     "land_encounters": [
         {
             "level": 28,
-            "species": "SPECIES_GASTRODON"
+            "species": "SPECIES_SEALEO"
         },
         {
             "level": 29,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_SUDOWOODO"
         },
         {
             "level": 28,
@@ -15,58 +15,58 @@
         },
         {
             "level": 30,
-            "species": "SPECIES_CHATOT"
+            "species": "SPECIES_RATICATE"
         },
         {
             "level": 29,
-            "species": "SPECIES_MR_MIME"
+            "species": "SPECIES_MASQUERAIN"
         },
         {
             "level": 30,
-            "species": "SPECIES_MR_MIME"
+            "species": "SPECIES_DUNSPARCE"
         },
         {
             "level": 30,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_FURRET"
         },
         {
             "level": 31,
-            "species": "SPECIES_MR_MIME"
+            "species": "SPECIES_CASTFORM"
         },
         {
             "level": 31,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_DRAGONAIR"
         },
         {
             "level": 30,
-            "species": "SPECIES_GASTRODON"
+            "species": "SPECIES_LINOONE"
         },
         {
             "level": 31,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_METANG"
         },
         {
             "level": 30,
-            "species": "SPECIES_GASTRODON"
+            "species": "SPECIES_MIGHTYENA"
         }
     ],
     "swarms": [
-        "SPECIES_VOLTORB",
-        "SPECIES_VOLTORB"
+        "SPECIES_DRAGONAIR",
+        "SPECIES_LINOONE"
     ],
     "day": [
-        "SPECIES_CHATOT",
-        "SPECIES_CHATOT"
+        "SPECIES_SEALEO",
+        "SPECIES_SUDOWOODO"
     ],
     "night": [
-        "SPECIES_GASTRODON",
-        "SPECIES_FLOATZEL"
+        "SPECIES_CHATOT",
+        "SPECIES_RATICATE"
     ],
     "radar": [
-        "SPECIES_MR_MIME",
-        "SPECIES_MR_MIME",
-        "SPECIES_FLOATZEL",
-        "SPECIES_GASTRODON"
+        "SPECIES_MASQUERAIN",
+        "SPECIES_DUNSPARCE",
+        "SPECIES_FURRET",
+        "SPECIES_CASTFORM"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

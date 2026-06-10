@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 18,
-            "species": "SPECIES_BRONZOR"
+            "species": "SPECIES_SMOOCHUM"
         },
         {
             "level": 19,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_VENONAT"
         },
         {
             "level": 18,
-            "species": "SPECIES_MEDITITE"
+            "species": "SPECIES_CORPHISH"
         },
         {
             "level": 17,
-            "species": "SPECIES_CLEFAIRY"
+            "species": "SPECIES_CHARMANDER"
         },
         {
             "level": 20,
-            "species": "SPECIES_MACHOP"
+            "species": "SPECIES_CHIMCHAR"
         },
         {
             "level": 20,
-            "species": "SPECIES_MEDITITE"
+            "species": "SPECIES_CYNDAQUIL"
         },
         {
             "level": 17,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_ABRA"
         },
         {
             "level": 18,
-            "species": "SPECIES_NOSEPASS"
+            "species": "SPECIES_DODUO"
         },
         {
             "level": 19,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_GASTLY"
         },
         {
             "level": 19,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_GLAMEOW"
         },
         {
             "level": 19,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_MIME_JR"
         },
         {
             "level": 19,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_MUDKIP"
         }
     ],
     "swarms": [
-        "SPECIES_BRONZOR",
-        "SPECIES_GEODUDE"
+        "SPECIES_GASTLY",
+        "SPECIES_GLAMEOW"
     ],
     "day": [
-        "SPECIES_MEDITITE",
-        "SPECIES_GEODUDE"
+        "SPECIES_SMOOCHUM",
+        "SPECIES_VENONAT"
     ],
     "night": [
-        "SPECIES_ZUBAT",
-        "SPECIES_CLEFAIRY"
+        "SPECIES_CORPHISH",
+        "SPECIES_CHARMANDER"
     ],
     "radar": [
-        "SPECIES_MACHOP",
-        "SPECIES_MEDITITE",
-        "SPECIES_ZUBAT",
-        "SPECIES_CHINGLING"
+        "SPECIES_CHIMCHAR",
+        "SPECIES_CYNDAQUIL",
+        "SPECIES_ABRA",
+        "SPECIES_DODUO"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

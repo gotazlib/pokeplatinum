@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 18,
-            "species": "SPECIES_BUDEW"
+            "species": "SPECIES_GASTLY"
         },
         {
             "level": 18,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_GLAMEOW"
         },
         {
             "level": 19,
-            "species": "SPECIES_BUDEW"
+            "species": "SPECIES_MIME_JR"
         },
         {
             "level": 17,
-            "species": "SPECIES_RALTS"
+            "species": "SPECIES_MUDKIP"
         },
         {
             "level": 19,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_SWABLU"
         },
         {
             "level": 18,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_TORCHIC"
         },
         {
             "level": 18,
-            "species": "SPECIES_RALTS"
+            "species": "SPECIES_TREECKO"
         },
         {
             "level": 19,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_PIPLUP"
         },
         {
             "level": 20,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_SQUIRTLE"
         },
         {
             "level": 20,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_TOTODILE"
         },
         {
             "level": 20,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_SLOWPOKE"
         },
         {
             "level": 20,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_BULBASAUR"
         }
     ],
     "swarms": [
-        "SPECIES_DUNSPARCE",
-        "SPECIES_DUNSPARCE"
+        "SPECIES_SQUIRTLE",
+        "SPECIES_TOTODILE"
     ],
     "day": [
-        "SPECIES_BUDEW",
-        "SPECIES_RALTS"
+        "SPECIES_GASTLY",
+        "SPECIES_GLAMEOW"
     ],
     "night": [
-        "SPECIES_ZUBAT",
-        "SPECIES_RALTS"
+        "SPECIES_MIME_JR",
+        "SPECIES_MUDKIP"
     ],
     "radar": [
-        "SPECIES_SMEARGLE",
-        "SPECIES_SMEARGLE",
-        "SPECIES_SMEARGLE",
-        "SPECIES_SMEARGLE"
+        "SPECIES_SWABLU",
+        "SPECIES_TORCHIC",
+        "SPECIES_TREECKO",
+        "SPECIES_PIPLUP"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

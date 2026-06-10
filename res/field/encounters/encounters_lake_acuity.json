@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 38,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_CLEFABLE"
         },
         {
             "level": 39,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_HARIYAMA"
         },
         {
             "level": 39,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_VESPIQUEN"
         },
         {
             "level": 40,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_CACTURNE"
         },
         {
             "level": 40,
-            "species": "SPECIES_GOLDUCK"
+            "species": "SPECIES_DEWGONG"
         },
         {
             "level": 41,
-            "species": "SPECIES_SNEASEL"
+            "species": "SPECIES_GASTRODON"
         },
         {
             "level": 39,
-            "species": "SPECIES_GOLDUCK"
+            "species": "SPECIES_KINGLER"
         },
         {
             "level": 38,
-            "species": "SPECIES_PSYDUCK"
+            "species": "SPECIES_MANECTRIC"
         },
         {
             "level": 41,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_RAICHU"
         },
         {
             "level": 40,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_STARAPTOR"
         },
         {
             "level": 41,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_SKUNTANK"
         },
         {
             "level": 40,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_BELLOSSOM"
         }
     ],
     "swarms": [
-        "SPECIES_SNOVER",
-        "SPECIES_BIBAREL"
+        "SPECIES_RAICHU",
+        "SPECIES_STARAPTOR"
     ],
     "day": [
-        "SPECIES_SNOVER",
-        "SPECIES_SNOVER"
+        "SPECIES_CLEFABLE",
+        "SPECIES_HARIYAMA"
     ],
     "night": [
-        "SPECIES_SNORUNT",
-        "SPECIES_SNORUNT"
+        "SPECIES_VESPIQUEN",
+        "SPECIES_CACTURNE"
     ],
     "radar": [
-        "SPECIES_GOLDUCK",
-        "SPECIES_SNEASEL",
-        "SPECIES_SNOVER",
-        "SPECIES_BIBAREL"
+        "SPECIES_DEWGONG",
+        "SPECIES_GASTRODON",
+        "SPECIES_KINGLER",
+        "SPECIES_MANECTRIC"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 21,
-            "species": "SPECIES_PICHU"
+            "species": "SPECIES_PSYDUCK"
         },
         {
             "level": 22,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_CLEFAIRY"
         },
         {
             "level": 22,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_EEVEE"
         },
         {
             "level": 23,
-            "species": "SPECIES_KRICKETUNE"
+            "species": "SPECIES_EXEGGCUTE"
         },
         {
             "level": 23,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_GRIMER"
         },
         {
             "level": 24,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_KRABBY"
         },
         {
             "level": 22,
-            "species": "SPECIES_PIKACHU"
+            "species": "SPECIES_MAGNEMITE"
         },
         {
             "level": 22,
-            "species": "SPECIES_PICHU"
+            "species": "SPECIES_SEEL"
         },
         {
             "level": 24,
-            "species": "SPECIES_PIKACHU"
+            "species": "SPECIES_SHELLOS"
         },
         {
             "level": 22,
-            "species": "SPECIES_PICHU"
+            "species": "SPECIES_DROWZEE"
         },
         {
             "level": 24,
-            "species": "SPECIES_PIKACHU"
+            "species": "SPECIES_STUNKY"
         },
         {
             "level": 22,
-            "species": "SPECIES_PICHU"
+            "species": "SPECIES_ARON"
         }
     ],
     "swarms": [
-        "SPECIES_PICHU",
-        "SPECIES_ROSELIA"
+        "SPECIES_SHELLOS",
+        "SPECIES_DROWZEE"
     ],
     "day": [
-        "SPECIES_STARAVIA",
-        "SPECIES_STARAVIA"
+        "SPECIES_PSYDUCK",
+        "SPECIES_CLEFAIRY"
     ],
     "night": [
-        "SPECIES_KRICKETUNE",
-        "SPECIES_KRICKETUNE"
+        "SPECIES_EEVEE",
+        "SPECIES_EXEGGCUTE"
     ],
     "radar": [
-        "SPECIES_ROSELIA",
-        "SPECIES_STARAVIA",
-        "SPECIES_PIKACHU",
-        "SPECIES_PICHU"
+        "SPECIES_GRIMER",
+        "SPECIES_KRABBY",
+        "SPECIES_MAGNEMITE",
+        "SPECIES_SEEL"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

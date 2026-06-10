@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 32,
-            "species": "SPECIES_STEELIX"
+            "species": "SPECIES_METANG"
         },
         {
             "level": 33,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_MIGHTYENA"
         },
         {
             "level": 31,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_SHELGON"
         },
         {
             "level": 33,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_MOTHIM"
         },
         {
             "level": 33,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_WORMADAM"
         },
         {
             "level": 34,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_CHIMECHO"
         },
         {
             "level": 33,
-            "species": "SPECIES_STEELIX"
+            "species": "SPECIES_MAROWAK"
         },
         {
             "level": 35,
-            "species": "SPECIES_STEELIX"
+            "species": "SPECIES_SUNFLORA"
         },
         {
             "level": 31,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_WIGGLYTUFF"
         },
         {
             "level": 32,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_GLIGAR"
         },
         {
             "level": 31,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_LAIRON"
         },
         {
             "level": 32,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_PELIPPER"
         }
     ],
     "swarms": [
-        "SPECIES_ONIX",
-        "SPECIES_GRAVELER"
+        "SPECIES_WIGGLYTUFF",
+        "SPECIES_GLIGAR"
     ],
     "day": [
-        "SPECIES_GOLBAT",
-        "SPECIES_GOLBAT"
+        "SPECIES_METANG",
+        "SPECIES_MIGHTYENA"
     ],
     "night": [
-        "SPECIES_GOLBAT",
-        "SPECIES_GOLBAT"
+        "SPECIES_SHELGON",
+        "SPECIES_MOTHIM"
     ],
     "radar": [
-        "SPECIES_GRAVELER",
-        "SPECIES_GRAVELER",
-        "SPECIES_GRAVELER",
-        "SPECIES_GRAVELER"
+        "SPECIES_WORMADAM",
+        "SPECIES_CHIMECHO",
+        "SPECIES_MAROWAK",
+        "SPECIES_SUNFLORA"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

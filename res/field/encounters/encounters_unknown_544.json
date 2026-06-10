@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 45,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_OMASTAR"
         },
         {
             "level": 45,
+            "species": "SPECIES_RAMPARDOS"
+        },
+        {
+            "level": 46,
+            "species": "SPECIES_DRIFBLIM"
+        },
+        {
+            "level": 45,
+            "species": "SPECIES_AMPHAROS"
+        },
+        {
+            "level": 47,
             "species": "SPECIES_BRONZONG"
         },
         {
             "level": 46,
-            "species": "SPECIES_HAUNTER"
-        },
-        {
-            "level": 45,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_CLAYDOL"
         },
         {
             "level": 47,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_DONPHAN"
         },
         {
             "level": 46,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_DRAPION"
         },
         {
             "level": 47,
-            "species": "SPECIES_GOLBAT"
-        },
-        {
-            "level": 46,
-            "species": "SPECIES_CHIMECHO"
-        },
-        {
-            "level": 47,
-            "species": "SPECIES_DUSCLOPS"
+            "species": "SPECIES_GENGAR"
         },
         {
             "level": 45,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_GOLDUCK"
         },
         {
             "level": 48,
-            "species": "SPECIES_DUSCLOPS"
+            "species": "SPECIES_HERACROSS"
         },
         {
             "level": 47,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_HOUNDOOM"
         }
     ],
     "swarms": [
-        "SPECIES_HAUNTER",
-        "SPECIES_BRONZONG"
+        "SPECIES_GENGAR",
+        "SPECIES_GOLDUCK"
     ],
     "day": [
-        "SPECIES_HAUNTER",
-        "SPECIES_GOLBAT"
+        "SPECIES_OMASTAR",
+        "SPECIES_RAMPARDOS"
     ],
     "night": [
-        "SPECIES_DUSCLOPS",
-        "SPECIES_GOLBAT"
+        "SPECIES_DRIFBLIM",
+        "SPECIES_AMPHAROS"
     ],
     "radar": [
-        "SPECIES_HAUNTER",
-        "SPECIES_GOLBAT",
-        "SPECIES_DUSCLOPS",
-        "SPECIES_CHIMECHO"
+        "SPECIES_BRONZONG",
+        "SPECIES_CLAYDOL",
+        "SPECIES_DONPHAN",
+        "SPECIES_DRAPION"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

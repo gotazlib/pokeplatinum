@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 19,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_MANKEY"
         },
         {
             "level": 18,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_NUMEL"
         },
         {
             "level": 19,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_SHELLDER"
         },
         {
             "level": 17,
-            "species": "SPECIES_RALTS"
+            "species": "SPECIES_SMOOCHUM"
         },
         {
             "level": 18,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_VENONAT"
         },
         {
             "level": 19,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_CORPHISH"
         },
         {
             "level": 18,
-            "species": "SPECIES_RALTS"
+            "species": "SPECIES_CHARMANDER"
         },
         {
             "level": 20,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_CHIMCHAR"
         },
         {
             "level": 19,
-            "species": "SPECIES_RALTS"
+            "species": "SPECIES_CYNDAQUIL"
         },
         {
             "level": 17,
-            "species": "SPECIES_CHANSEY"
+            "species": "SPECIES_ABRA"
         },
         {
             "level": 19,
-            "species": "SPECIES_RALTS"
+            "species": "SPECIES_DODUO"
         },
         {
             "level": 19,
-            "species": "SPECIES_CHANSEY"
+            "species": "SPECIES_GASTLY"
         }
     ],
     "swarms": [
-        "SPECIES_SNUBBULL",
-        "SPECIES_SNUBBULL"
+        "SPECIES_CYNDAQUIL",
+        "SPECIES_ABRA"
     ],
     "day": [
-        "SPECIES_STARAVIA",
-        "SPECIES_RALTS"
+        "SPECIES_MANKEY",
+        "SPECIES_NUMEL"
     ],
     "night": [
-        "SPECIES_ZUBAT",
-        "SPECIES_DUSKULL"
+        "SPECIES_SHELLDER",
+        "SPECIES_SMOOCHUM"
     ],
     "radar": [
-        "SPECIES_KIRLIA",
-        "SPECIES_KIRLIA",
-        "SPECIES_KIRLIA",
-        "SPECIES_KIRLIA"
+        "SPECIES_VENONAT",
+        "SPECIES_CORPHISH",
+        "SPECIES_CHARMANDER",
+        "SPECIES_CHIMCHAR"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 9,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_MARILL"
         },
         {
             "level": 10,
+            "species": "SPECIES_SLUGMA"
+        },
+        {
+            "level": 9,
+            "species": "SPECIES_SMEARGLE"
+        },
+        {
+            "level": 10,
+            "species": "SPECIES_SPINARAK"
+        },
+        {
+            "level": 10,
+            "species": "SPECIES_SWINUB"
+        },
+        {
+            "level": 11,
+            "species": "SPECIES_PIDGEY"
+        },
+        {
+            "level": 9,
+            "species": "SPECIES_RATTATA"
+        },
+        {
+            "level": 11,
+            "species": "SPECIES_SKITTY"
+        },
+        {
+            "level": 11,
+            "species": "SPECIES_WYNAUT"
+        },
+        {
+            "level": 12,
+            "species": "SPECIES_HOOTHOOT"
+        },
+        {
+            "level": 11,
+            "species": "SPECIES_SPEAROW"
+        },
+        {
+            "level": 12,
             "species": "SPECIES_SHINX"
-        },
-        {
-            "level": 9,
-            "species": "SPECIES_BUIZEL"
-        },
-        {
-            "level": 10,
-            "species": "SPECIES_SHELLOS"
-        },
-        {
-            "level": 10,
-            "species": "SPECIES_BUIZEL"
-        },
-        {
-            "level": 11,
-            "species": "SPECIES_SHELLOS"
-        },
-        {
-            "level": 9,
-            "species": "SPECIES_PACHIRISU"
-        },
-        {
-            "level": 11,
-            "species": "SPECIES_PACHIRISU"
-        },
-        {
-            "level": 11,
-            "species": "SPECIES_BUIZEL"
-        },
-        {
-            "level": 12,
-            "species": "SPECIES_SHELLOS"
-        },
-        {
-            "level": 11,
-            "species": "SPECIES_BUIZEL"
-        },
-        {
-            "level": 12,
-            "species": "SPECIES_SHELLOS"
         }
     ],
     "swarms": [
-        "SPECIES_ELECTRIKE",
-        "SPECIES_ELECTRIKE"
+        "SPECIES_WYNAUT",
+        "SPECIES_HOOTHOOT"
     ],
     "day": [
-        "SPECIES_BUIZEL",
-        "SPECIES_SHELLOS"
+        "SPECIES_MARILL",
+        "SPECIES_SLUGMA"
     ],
     "night": [
-        "SPECIES_BUIZEL",
-        "SPECIES_SHELLOS"
+        "SPECIES_SMEARGLE",
+        "SPECIES_SPINARAK"
     ],
     "radar": [
-        "SPECIES_MAREEP",
-        "SPECIES_MAREEP",
-        "SPECIES_MAREEP",
-        "SPECIES_MAREEP"
+        "SPECIES_SWINUB",
+        "SPECIES_PIDGEY",
+        "SPECIES_RATTATA",
+        "SPECIES_SKITTY"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

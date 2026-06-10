@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 48,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_PROBOPASS"
         },
         {
             "level": 47,
-            "species": "SPECIES_AZUMARILL"
+            "species": "SPECIES_TORTERRA"
         },
         {
             "level": 47,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_UMBREON"
         },
         {
             "level": 49,
-            "species": "SPECIES_AZUMARILL"
+            "species": "SPECIES_VAPOREON"
         },
         {
             "level": 48,
-            "species": "SPECIES_DEWGONG"
+            "species": "SPECIES_VENUSAUR"
         },
         {
             "level": 50,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_AGGRON"
         },
         {
             "level": 50,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_BLASTOISE"
         },
         {
             "level": 49,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_BLAZIKEN"
         },
         {
             "level": 50,
-            "species": "SPECIES_DEWGONG"
+            "species": "SPECIES_EMPOLEON"
         },
         {
             "level": 49,
-            "species": "SPECIES_GABITE"
+            "species": "SPECIES_FERALIGATR"
         },
         {
             "level": 50,
-            "species": "SPECIES_DEWGONG"
+            "species": "SPECIES_MAMOSWINE"
         },
         {
             "level": 49,
-            "species": "SPECIES_GABITE"
+            "species": "SPECIES_SCEPTILE"
         }
     ],
     "swarms": [
-        "SPECIES_FLOATZEL",
-        "SPECIES_AZUMARILL"
+        "SPECIES_EMPOLEON",
+        "SPECIES_FERALIGATR"
     ],
     "day": [
-        "SPECIES_GRAVELER",
-        "SPECIES_AZUMARILL"
+        "SPECIES_PROBOPASS",
+        "SPECIES_TORTERRA"
     ],
     "night": [
-        "SPECIES_GOLBAT",
-        "SPECIES_AZUMARILL"
+        "SPECIES_UMBREON",
+        "SPECIES_VAPOREON"
     ],
     "radar": [
-        "SPECIES_DEWGONG",
-        "SPECIES_FLOATZEL",
-        "SPECIES_DEWGONG",
-        "SPECIES_GABITE"
+        "SPECIES_VENUSAUR",
+        "SPECIES_AGGRON",
+        "SPECIES_BLASTOISE",
+        "SPECIES_BLAZIKEN"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

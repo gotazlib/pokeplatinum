@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 24,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_HIPPOPOTAS"
         },
         {
             "level": 23,
-            "species": "SPECIES_BUIZEL"
+            "species": "SPECIES_HOUNDOUR"
         },
         {
             "level": 23,
-            "species": "SPECIES_CHATOT"
+            "species": "SPECIES_LUVDISC"
         },
         {
             "level": 25,
-            "species": "SPECIES_CHATOT"
+            "species": "SPECIES_PHANPY"
         },
         {
             "level": 25,
-            "species": "SPECIES_WINGULL"
+            "species": "SPECIES_SKORUPI"
         },
         {
             "level": 25,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_SPOINK"
         },
         {
             "level": 24,
-            "species": "SPECIES_WINGULL"
+            "species": "SPECIES_TEDDIURSA"
         },
         {
             "level": 26,
-            "species": "SPECIES_WINGULL"
+            "species": "SPECIES_VOLTORB"
         },
         {
             "level": 25,
-            "species": "SPECIES_BUIZEL"
+            "species": "SPECIES_SNOVER"
         },
         {
             "level": 26,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_CACNEA"
         },
         {
             "level": 25,
-            "species": "SPECIES_BUIZEL"
+            "species": "SPECIES_TENTACOOL"
         },
         {
             "level": 26,
-            "species": "SPECIES_SHELLOS"
+            "species": "SPECIES_UNOWN"
         }
     ],
     "swarms": [
-        "SPECIES_SHELLOS",
-        "SPECIES_BUIZEL"
+        "SPECIES_SNOVER",
+        "SPECIES_CACNEA"
     ],
     "day": [
-        "SPECIES_CHATOT",
-        "SPECIES_CHATOT"
+        "SPECIES_HIPPOPOTAS",
+        "SPECIES_HOUNDOUR"
     ],
     "night": [
-        "SPECIES_SHELLOS",
-        "SPECIES_BUIZEL"
+        "SPECIES_LUVDISC",
+        "SPECIES_PHANPY"
     ],
     "radar": [
-        "SPECIES_SWELLOW",
-        "SPECIES_SWELLOW",
-        "SPECIES_SWELLOW",
-        "SPECIES_SWELLOW"
+        "SPECIES_SKORUPI",
+        "SPECIES_SPOINK",
+        "SPECIES_TEDDIURSA",
+        "SPECIES_VOLTORB"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

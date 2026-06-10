@@ -3,31 +3,31 @@
     "land_encounters": [
         {
             "level": 29,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_BIBAREL"
         },
         {
             "level": 28,
-            "species": "SPECIES_GIRAFARIG"
+            "species": "SPECIES_GABITE"
         },
         {
             "level": 28,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_MAGCARGO"
         },
         {
             "level": 29,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_MEDICHAM"
         },
         {
             "level": 31,
-            "species": "SPECIES_SUDOWOODO"
+            "species": "SPECIES_PONYTA"
         },
         {
             "level": 30,
-            "species": "SPECIES_SUDOWOODO"
+            "species": "SPECIES_PUPITAR"
         },
         {
             "level": 30,
-            "species": "SPECIES_GIRAFARIG"
+            "species": "SPECIES_SEALEO"
         },
         {
             "level": 29,
@@ -35,38 +35,38 @@
         },
         {
             "level": 31,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_CHATOT"
         },
         {
             "level": 30,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_RATICATE"
         },
         {
             "level": 31,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_MASQUERAIN"
         },
         {
             "level": 30,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_DUNSPARCE"
         }
     ],
     "swarms": [
-        "SPECIES_FARFETCHD",
-        "SPECIES_FARFETCHD"
+        "SPECIES_CHATOT",
+        "SPECIES_RATICATE"
     ],
     "day": [
-        "SPECIES_ROSELIA",
-        "SPECIES_ROSELIA"
+        "SPECIES_BIBAREL",
+        "SPECIES_GABITE"
     ],
     "night": [
-        "SPECIES_FLOATZEL",
-        "SPECIES_ROSELIA"
+        "SPECIES_MAGCARGO",
+        "SPECIES_MEDICHAM"
     ],
     "radar": [
-        "SPECIES_NIDORINO",
-        "SPECIES_NIDORINA",
-        "SPECIES_NIDORINO",
-        "SPECIES_NIDORINA"
+        "SPECIES_PONYTA",
+        "SPECIES_PUPITAR",
+        "SPECIES_SEALEO",
+        "SPECIES_SUDOWOODO"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

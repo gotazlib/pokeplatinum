@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 27,
-            "species": "SPECIES_WOOPER"
+            "species": "SPECIES_IVYSAUR"
         },
         {
             "level": 27,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_MACHOKE"
         },
         {
             "level": 28,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_MARSHTOMP"
         },
         {
             "level": 27,
-            "species": "SPECIES_TANGELA"
+            "species": "SPECIES_MINUN"
         },
         {
             "level": 28,
-            "species": "SPECIES_TANGELA"
+            "species": "SPECIES_MONFERNO"
         },
         {
             "level": 29,
-            "species": "SPECIES_QUAGSIRE"
+            "species": "SPECIES_MURKROW"
         },
         {
             "level": 28,
-            "species": "SPECIES_WOOPER"
+            "species": "SPECIES_PACHIRISU"
         },
         {
             "level": 29,
-            "species": "SPECIES_WOOPER"
+            "species": "SPECIES_PARASECT"
         },
         {
             "level": 29,
-            "species": "SPECIES_YANMA"
+            "species": "SPECIES_PLUSLE"
         },
         {
             "level": 29,
-            "species": "SPECIES_TANGELA"
+            "species": "SPECIES_PRINPLUP"
         },
         {
             "level": 30,
-            "species": "SPECIES_YANMA"
+            "species": "SPECIES_QUILAVA"
         },
         {
             "level": 30,
-            "species": "SPECIES_TANGELA"
+            "species": "SPECIES_TOGETIC"
         }
     ],
     "swarms": [
-        "SPECIES_WOOPER",
-        "SPECIES_BIBAREL"
+        "SPECIES_PLUSLE",
+        "SPECIES_PRINPLUP"
     ],
     "day": [
-        "SPECIES_BIBAREL",
-        "SPECIES_TANGELA"
+        "SPECIES_IVYSAUR",
+        "SPECIES_MACHOKE"
     ],
     "night": [
-        "SPECIES_NOCTOWL",
-        "SPECIES_HOOTHOOT"
+        "SPECIES_MARSHTOMP",
+        "SPECIES_MINUN"
     ],
     "radar": [
-        "SPECIES_TANGELA",
-        "SPECIES_QUAGSIRE",
-        "SPECIES_YANMA",
-        "SPECIES_TANGELA"
+        "SPECIES_MONFERNO",
+        "SPECIES_MURKROW",
+        "SPECIES_PACHIRISU",
+        "SPECIES_PARASECT"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

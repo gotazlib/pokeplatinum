@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 12,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_WYNAUT"
         },
         {
             "level": 12,
-            "species": "SPECIES_BUDEW"
+            "species": "SPECIES_HOOTHOOT"
         },
         {
             "level": 13,
-            "species": "SPECIES_WURMPLE"
+            "species": "SPECIES_SPEAROW"
         },
         {
             "level": 12,
-            "species": "SPECIES_KRICKETOT"
+            "species": "SPECIES_SHINX"
         },
         {
             "level": 14,
-            "species": "SPECIES_SILCOON"
+            "species": "SPECIES_DIGLETT"
         },
         {
             "level": 14,
-            "species": "SPECIES_CASCOON"
+            "species": "SPECIES_LEDYBA"
         },
         {
             "level": 13,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_NINCADA"
         },
         {
             "level": 14,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_SURSKIT"
         },
         {
             "level": 13,
-            "species": "SPECIES_BUDEW"
+            "species": "SPECIES_JIGGLYPUFF"
         },
         {
             "level": 14,
-            "species": "SPECIES_BUDEW"
+            "species": "SPECIES_TAILLOW"
         },
         {
             "level": 15,
-            "species": "SPECIES_BEAUTIFLY"
+            "species": "SPECIES_WINGULL"
         },
         {
             "level": 15,
-            "species": "SPECIES_DUSTOX"
+            "species": "SPECIES_NIDORAN_M"
         }
     ],
     "swarms": [
-        "SPECIES_BIDOOF",
-        "SPECIES_BUDEW"
+        "SPECIES_JIGGLYPUFF",
+        "SPECIES_TAILLOW"
     ],
     "day": [
-        "SPECIES_WURMPLE",
-        "SPECIES_BUDEW"
-    ],
-    "night": [
-        "SPECIES_KRICKETOT",
+        "SPECIES_WYNAUT",
         "SPECIES_HOOTHOOT"
     ],
+    "night": [
+        "SPECIES_SPEAROW",
+        "SPECIES_SHINX"
+    ],
     "radar": [
-        "SPECIES_SLOWPOKE",
-        "SPECIES_SLOWPOKE",
-        "SPECIES_SLOWPOKE",
-        "SPECIES_SLOWPOKE"
+        "SPECIES_DIGLETT",
+        "SPECIES_LEDYBA",
+        "SPECIES_NINCADA",
+        "SPECIES_SURSKIT"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

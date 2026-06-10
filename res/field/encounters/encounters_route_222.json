@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 39,
-            "species": "SPECIES_ELECTABUZZ"
+            "species": "SPECIES_GRUMPIG"
         },
         {
             "level": 40,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_TORKOAL"
         },
         {
             "level": 41,
-            "species": "SPECIES_ELECTABUZZ"
+            "species": "SPECIES_XATU"
         },
         {
             "level": 38,
-            "species": "SPECIES_CHATOT"
+            "species": "SPECIES_CLEFABLE"
         },
         {
             "level": 38,
-            "species": "SPECIES_WINGULL"
+            "species": "SPECIES_HARIYAMA"
         },
         {
             "level": 39,
-            "species": "SPECIES_MAGNEMITE"
+            "species": "SPECIES_VESPIQUEN"
         },
         {
             "level": 38,
-            "species": "SPECIES_LUXIO"
+            "species": "SPECIES_CACTURNE"
         },
         {
             "level": 40,
-            "species": "SPECIES_LUXIO"
+            "species": "SPECIES_DEWGONG"
         },
         {
             "level": 40,
-            "species": "SPECIES_PELIPPER"
+            "species": "SPECIES_GASTRODON"
         },
         {
             "level": 41,
-            "species": "SPECIES_MAGNETON"
+            "species": "SPECIES_KINGLER"
         },
         {
             "level": 40,
-            "species": "SPECIES_PELIPPER"
+            "species": "SPECIES_MANECTRIC"
         },
         {
             "level": 41,
-            "species": "SPECIES_MAGNETON"
+            "species": "SPECIES_RAICHU"
         }
     ],
     "swarms": [
-        "SPECIES_SKITTY",
-        "SPECIES_SKITTY"
+        "SPECIES_GASTRODON",
+        "SPECIES_KINGLER"
     ],
     "day": [
-        "SPECIES_ELECTABUZZ",
-        "SPECIES_CHATOT"
+        "SPECIES_GRUMPIG",
+        "SPECIES_TORKOAL"
     ],
     "night": [
-        "SPECIES_FLOATZEL",
-        "SPECIES_FLOATZEL"
+        "SPECIES_XATU",
+        "SPECIES_CLEFABLE"
     ],
     "radar": [
-        "SPECIES_FLAAFFY",
-        "SPECIES_FLAAFFY",
-        "SPECIES_FLAAFFY",
-        "SPECIES_FLAAFFY"
+        "SPECIES_HARIYAMA",
+        "SPECIES_VESPIQUEN",
+        "SPECIES_CACTURNE",
+        "SPECIES_DEWGONG"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

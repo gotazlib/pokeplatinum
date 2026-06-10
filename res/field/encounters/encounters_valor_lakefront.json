@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 26,
-            "species": "SPECIES_GIRAFARIG"
+            "species": "SPECIES_LEDIAN"
         },
         {
             "level": 25,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_MUNCHLAX"
         },
         {
             "level": 26,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_WEEPINBELL"
         },
         {
             "level": 27,
-            "species": "SPECIES_KRICKETUNE"
+            "species": "SPECIES_YANMA"
         },
         {
             "level": 27,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_GLOOM"
         },
         {
             "level": 28,
-            "species": "SPECIES_HOUNDOUR"
+            "species": "SPECIES_PORYGON"
         },
         {
             "level": 28,
-            "species": "SPECIES_STARAVIA"
+            "species": "SPECIES_ILLUMISE"
         },
         {
             "level": 26,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_KADABRA"
         },
         {
             "level": 28,
-            "species": "SPECIES_GIRAFARIG"
+            "species": "SPECIES_ROSELIA"
         },
         {
             "level": 27,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_VOLBEAT"
         },
         {
             "level": 28,
-            "species": "SPECIES_GIRAFARIG"
+            "species": "SPECIES_WAILMER"
         },
         {
             "level": 27,
-            "species": "SPECIES_BIBAREL"
+            "species": "SPECIES_BAYLEEF"
         }
     ],
     "swarms": [
-        "SPECIES_GIRAFARIG",
-        "SPECIES_BIBAREL"
+        "SPECIES_ROSELIA",
+        "SPECIES_VOLBEAT"
     ],
     "day": [
-        "SPECIES_STARAVIA",
-        "SPECIES_STARAVIA"
+        "SPECIES_LEDIAN",
+        "SPECIES_MUNCHLAX"
     ],
     "night": [
-        "SPECIES_KRICKETUNE",
-        "SPECIES_HOUNDOUR"
+        "SPECIES_WEEPINBELL",
+        "SPECIES_YANMA"
     ],
     "radar": [
-        "SPECIES_NIDORINO",
-        "SPECIES_NIDORINA",
-        "SPECIES_NIDORINO",
-        "SPECIES_NIDORINA"
+        "SPECIES_GLOOM",
+        "SPECIES_PORYGON",
+        "SPECIES_ILLUMISE",
+        "SPECIES_KADABRA"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

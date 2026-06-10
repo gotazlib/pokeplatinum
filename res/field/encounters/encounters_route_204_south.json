@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 4,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_KAKUNA"
         },
         {
             "level": 4,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_METAPOD"
         },
         {
             "level": 4,
-            "species": "SPECIES_WURMPLE"
+            "species": "SPECIES_PICHU"
         },
         {
             "level": 3,
-            "species": "SPECIES_KRICKETOT"
+            "species": "SPECIES_SILCOON"
         },
         {
             "level": 4,
-            "species": "SPECIES_BUDEW"
+            "species": "SPECIES_IGGLYBUFF"
         },
         {
             "level": 4,
-            "species": "SPECIES_SHINX"
+            "species": "SPECIES_TYROGUE"
         },
         {
             "level": 5,
-            "species": "SPECIES_BUDEW"
+            "species": "SPECIES_WOOPER"
         },
         {
             "level": 5,
-            "species": "SPECIES_SHINX"
+            "species": "SPECIES_SENTRET"
         },
         {
             "level": 5,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_CLEFFA"
         },
         {
             "level": 5,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_HAPPINY"
         },
         {
             "level": 6,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_LOTAD"
         },
         {
             "level": 6,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_POOCHYENA"
         }
     ],
     "swarms": [
-        "SPECIES_STARLY",
-        "SPECIES_BIDOOF"
+        "SPECIES_CLEFFA",
+        "SPECIES_HAPPINY"
     ],
     "day": [
-        "SPECIES_WURMPLE",
-        "SPECIES_BUDEW"
+        "SPECIES_KAKUNA",
+        "SPECIES_METAPOD"
     ],
     "night": [
-        "SPECIES_KRICKETOT",
-        "SPECIES_ZUBAT"
+        "SPECIES_PICHU",
+        "SPECIES_SILCOON"
     ],
     "radar": [
-        "SPECIES_BUDEW",
-        "SPECIES_SHINX",
-        "SPECIES_STARLY",
-        "SPECIES_BIDOOF"
+        "SPECIES_IGGLYBUFF",
+        "SPECIES_TYROGUE",
+        "SPECIES_WOOPER",
+        "SPECIES_SENTRET"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

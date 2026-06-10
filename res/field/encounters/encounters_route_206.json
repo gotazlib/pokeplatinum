@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 16,
-            "species": "SPECIES_PONYTA"
+            "species": "SPECIES_SNORUNT"
         },
         {
             "level": 16,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_SNUBBULL"
         },
         {
             "level": 18,
-            "species": "SPECIES_GLIGAR"
+            "species": "SPECIES_GULPIN"
         },
         {
             "level": 17,
-            "species": "SPECIES_KRICKETUNE"
+            "species": "SPECIES_CARVANHA"
         },
         {
             "level": 16,
-            "species": "SPECIES_GLIGAR"
+            "species": "SPECIES_MACHOP"
         },
         {
             "level": 17,
-            "species": "SPECIES_MACHOP"
+            "species": "SPECIES_MANKEY"
         },
         {
             "level": 18,
-            "species": "SPECIES_MACHOP"
+            "species": "SPECIES_NUMEL"
         },
         {
             "level": 18,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_SHELLDER"
         },
         {
             "level": 19,
-            "species": "SPECIES_MACHOP"
+            "species": "SPECIES_SMOOCHUM"
         },
         {
             "level": 18,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_VENONAT"
         },
         {
             "level": 19,
-            "species": "SPECIES_MACHOP"
+            "species": "SPECIES_CORPHISH"
         },
         {
             "level": 18,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_CHARMANDER"
         }
     ],
     "swarms": [
-        "SPECIES_LARVITAR",
-        "SPECIES_LARVITAR"
+        "SPECIES_SMOOCHUM",
+        "SPECIES_VENONAT"
     ],
     "day": [
-        "SPECIES_GLIGAR",
-        "SPECIES_PONYTA"
+        "SPECIES_SNORUNT",
+        "SPECIES_SNUBBULL"
     ],
     "night": [
-        "SPECIES_KRICKETUNE",
-        "SPECIES_ZUBAT"
+        "SPECIES_GULPIN",
+        "SPECIES_CARVANHA"
     ],
     "radar": [
-        "SPECIES_BALTOY",
-        "SPECIES_BALTOY",
-        "SPECIES_BALTOY",
-        "SPECIES_BALTOY"
+        "SPECIES_MACHOP",
+        "SPECIES_MANKEY",
+        "SPECIES_NUMEL",
+        "SPECIES_SHELLDER"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

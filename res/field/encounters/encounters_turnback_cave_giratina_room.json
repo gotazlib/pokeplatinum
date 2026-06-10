@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 35,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_PERSIAN"
         },
         {
             "level": 35,
-            "species": "SPECIES_BRONZONG"
+            "species": "SPECIES_ROTOM"
         },
         {
             "level": 36,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_SEADRA"
         },
         {
             "level": 37,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_SOLROCK"
         },
         {
             "level": 37,
-            "species": "SPECIES_HAUNTER"
+            "species": "SPECIES_VIGOROTH"
         },
         {
             "level": 37,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_FEAROW"
         },
         {
             "level": 38,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_NOCTOWL"
         },
         {
             "level": 36,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_CHANSEY"
         },
         {
             "level": 37,
-            "species": "SPECIES_DUSCLOPS"
+            "species": "SPECIES_CHERRIM"
         },
         {
             "level": 37,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_GRANBULL"
         },
         {
             "level": 37,
-            "species": "SPECIES_DUSCLOPS"
+            "species": "SPECIES_JUMPLUFF"
         },
         {
             "level": 37,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_PILOSWINE"
         }
     ],
     "swarms": [
-        "SPECIES_HAUNTER",
-        "SPECIES_BRONZONG"
+        "SPECIES_CHERRIM",
+        "SPECIES_GRANBULL"
     ],
     "day": [
-        "SPECIES_HAUNTER",
-        "SPECIES_GOLBAT"
+        "SPECIES_PERSIAN",
+        "SPECIES_ROTOM"
     ],
     "night": [
-        "SPECIES_DUSCLOPS",
-        "SPECIES_GOLBAT"
+        "SPECIES_SEADRA",
+        "SPECIES_SOLROCK"
     ],
     "radar": [
-        "SPECIES_HAUNTER",
-        "SPECIES_GOLBAT",
-        "SPECIES_DUSCLOPS",
-        "SPECIES_CHIMECHO"
+        "SPECIES_VIGOROTH",
+        "SPECIES_FEAROW",
+        "SPECIES_NOCTOWL",
+        "SPECIES_CHANSEY"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

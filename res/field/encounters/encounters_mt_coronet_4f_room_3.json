@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 37,
-            "species": "SPECIES_BRONZONG"
+            "species": "SPECIES_LANTURN"
         },
         {
             "level": 38,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_LUMINEON"
         },
         {
             "level": 37,
-            "species": "SPECIES_MEDICHAM"
+            "species": "SPECIES_MR_MIME"
         },
         {
             "level": 36,
-            "species": "SPECIES_CLEFAIRY"
+            "species": "SPECIES_SHARPEDO"
         },
         {
             "level": 39,
-            "species": "SPECIES_MACHOKE"
+            "species": "SPECIES_TROPIUS"
         },
         {
             "level": 39,
-            "species": "SPECIES_MEDICHAM"
+            "species": "SPECIES_ABSOL"
         },
         {
             "level": 36,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_FORRETRESS"
         },
         {
             "level": 37,
-            "species": "SPECIES_NOSEPASS"
+            "species": "SPECIES_MAGNETON"
         },
         {
             "level": 38,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_MANTINE"
         },
         {
             "level": 38,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_SKARMORY"
         },
         {
             "level": 38,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_STANTLER"
         },
         {
             "level": 39,
-            "species": "SPECIES_CHIMECHO"
+            "species": "SPECIES_SWALOT"
         }
     ],
     "swarms": [
-        "SPECIES_BRONZONG",
-        "SPECIES_GRAVELER"
+        "SPECIES_MANTINE",
+        "SPECIES_SKARMORY"
     ],
     "day": [
-        "SPECIES_MEDICHAM",
-        "SPECIES_GRAVELER"
+        "SPECIES_LANTURN",
+        "SPECIES_LUMINEON"
     ],
     "night": [
-        "SPECIES_GOLBAT",
-        "SPECIES_CLEFAIRY"
+        "SPECIES_MR_MIME",
+        "SPECIES_SHARPEDO"
     ],
     "radar": [
-        "SPECIES_MACHOKE",
-        "SPECIES_MEDICHAM",
-        "SPECIES_GOLBAT",
-        "SPECIES_CHIMECHO"
+        "SPECIES_TROPIUS",
+        "SPECIES_ABSOL",
+        "SPECIES_FORRETRESS",
+        "SPECIES_MAGNETON"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

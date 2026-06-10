@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 47,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_MAMOSWINE"
         },
         {
             "level": 47,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_SCEPTILE"
         },
         {
             "level": 49,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_WALREIN"
         },
         {
             "level": 48,
-            "species": "SPECIES_ONIX"
+            "species": "SPECIES_CHARIZARD"
         },
         {
             "level": 50,
-            "species": "SPECIES_ONIX"
+            "species": "SPECIES_INFERNAPE"
         },
         {
             "level": 48,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_TYPHLOSION"
         },
         {
             "level": 50,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_CROBAT"
         },
         {
             "level": 49,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_LAPRAS"
         },
         {
             "level": 50,
-            "species": "SPECIES_STEELIX"
+            "species": "SPECIES_MAGNEZONE"
         },
         {
             "level": 50,
-            "species": "SPECIES_GABITE"
+            "species": "SPECIES_PORYGON_Z"
         },
         {
             "level": 50,
-            "species": "SPECIES_STEELIX"
+            "species": "SPECIES_RHYPERIOR"
         },
         {
             "level": 50,
-            "species": "SPECIES_GABITE"
+            "species": "SPECIES_SWAMPERT"
         }
     ],
     "swarms": [
-        "SPECIES_GRAVELER",
-        "SPECIES_FLOATZEL"
+        "SPECIES_MAGNEZONE",
+        "SPECIES_PORYGON_Z"
     ],
     "day": [
-        "SPECIES_GRAVELER",
-        "SPECIES_ONIX"
+        "SPECIES_MAMOSWINE",
+        "SPECIES_SCEPTILE"
     ],
     "night": [
-        "SPECIES_GOLBAT",
-        "SPECIES_ONIX"
+        "SPECIES_WALREIN",
+        "SPECIES_CHARIZARD"
     ],
     "radar": [
-        "SPECIES_ONIX",
-        "SPECIES_FLOATZEL",
-        "SPECIES_STEELIX",
-        "SPECIES_GABITE"
+        "SPECIES_INFERNAPE",
+        "SPECIES_TYPHLOSION",
+        "SPECIES_CROBAT",
+        "SPECIES_LAPRAS"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

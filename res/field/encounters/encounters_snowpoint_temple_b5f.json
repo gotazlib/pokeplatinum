@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 47,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_AGGRON"
         },
         {
             "level": 48,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_BLASTOISE"
         },
         {
             "level": 49,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_BLAZIKEN"
         },
         {
             "level": 50,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_EMPOLEON"
         },
         {
             "level": 48,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_FERALIGATR"
         },
         {
             "level": 51,
-            "species": "SPECIES_SNEASEL"
+            "species": "SPECIES_MAMOSWINE"
         },
         {
             "level": 49,
-            "species": "SPECIES_JYNX"
+            "species": "SPECIES_SCEPTILE"
         },
         {
             "level": 49,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_WALREIN"
         },
         {
             "level": 51,
-            "species": "SPECIES_JYNX"
+            "species": "SPECIES_CHARIZARD"
         },
         {
             "level": 47,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_INFERNAPE"
         },
         {
             "level": 51,
-            "species": "SPECIES_JYNX"
+            "species": "SPECIES_TYPHLOSION"
         },
         {
             "level": 47,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_CROBAT"
         }
     ],
     "swarms": [
-        "SPECIES_GOLBAT",
-        "SPECIES_GOLBAT"
+        "SPECIES_CHARIZARD",
+        "SPECIES_INFERNAPE"
     ],
     "day": [
-        "SPECIES_GOLBAT",
-        "SPECIES_GOLBAT"
+        "SPECIES_AGGRON",
+        "SPECIES_BLASTOISE"
     ],
     "night": [
-        "SPECIES_GOLBAT",
-        "SPECIES_GOLBAT"
+        "SPECIES_BLAZIKEN",
+        "SPECIES_EMPOLEON"
     ],
     "radar": [
-        "SPECIES_GOLBAT",
-        "SPECIES_SNEASEL",
-        "SPECIES_JYNX",
-        "SPECIES_GOLBAT"
+        "SPECIES_FERALIGATR",
+        "SPECIES_MAMOSWINE",
+        "SPECIES_SCEPTILE",
+        "SPECIES_WALREIN"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

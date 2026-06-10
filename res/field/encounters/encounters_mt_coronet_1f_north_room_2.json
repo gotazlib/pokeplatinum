@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 33,
-            "species": "SPECIES_BRONZOR"
+            "species": "SPECIES_PELIPPER"
         },
         {
             "level": 34,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_QUAGSIRE"
         },
         {
             "level": 33,
-            "species": "SPECIES_MEDITITE"
+            "species": "SPECIES_QWILFISH"
         },
         {
             "level": 32,
-            "species": "SPECIES_CLEFAIRY"
+            "species": "SPECIES_SNEASEL"
         },
         {
             "level": 35,
-            "species": "SPECIES_MACHOKE"
+            "species": "SPECIES_SWELLOW"
         },
         {
             "level": 35,
-            "species": "SPECIES_MEDITITE"
+            "species": "SPECIES_MISDREAVUS"
         },
         {
             "level": 32,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_TANGELA"
         },
         {
             "level": 33,
-            "species": "SPECIES_NOSEPASS"
+            "species": "SPECIES_ARBOK"
         },
         {
             "level": 34,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_KECLEON"
         },
         {
             "level": 34,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_LUNATONE"
         },
         {
             "level": 34,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_PERSIAN"
         },
         {
             "level": 34,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_ROTOM"
         }
     ],
     "swarms": [
-        "SPECIES_BRONZOR",
-        "SPECIES_GRAVELER"
+        "SPECIES_KECLEON",
+        "SPECIES_LUNATONE"
     ],
     "day": [
-        "SPECIES_MEDITITE",
-        "SPECIES_GRAVELER"
+        "SPECIES_PELIPPER",
+        "SPECIES_QUAGSIRE"
     ],
     "night": [
-        "SPECIES_GOLBAT",
-        "SPECIES_CLEFAIRY"
+        "SPECIES_QWILFISH",
+        "SPECIES_SNEASEL"
     ],
     "radar": [
-        "SPECIES_MACHOKE",
-        "SPECIES_MEDITITE",
-        "SPECIES_GOLBAT",
-        "SPECIES_CHINGLING"
+        "SPECIES_SWELLOW",
+        "SPECIES_MISDREAVUS",
+        "SPECIES_TANGELA",
+        "SPECIES_ARBOK"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

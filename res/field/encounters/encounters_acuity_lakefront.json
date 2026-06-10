@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 33,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_MISDREAVUS"
         },
         {
             "level": 32,
-            "species": "SPECIES_SWINUB"
+            "species": "SPECIES_TANGELA"
         },
         {
             "level": 33,
-            "species": "SPECIES_SNEASEL"
+            "species": "SPECIES_ARBOK"
         },
         {
             "level": 32,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_KECLEON"
         },
         {
             "level": 35,
-            "species": "SPECIES_SNEASEL"
+            "species": "SPECIES_LUNATONE"
         },
         {
             "level": 34,
-            "species": "SPECIES_SWINUB"
+            "species": "SPECIES_PERSIAN"
         },
         {
             "level": 34,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_ROTOM"
         },
         {
             "level": 32,
-            "species": "SPECIES_SWINUB"
+            "species": "SPECIES_SEADRA"
         },
         {
             "level": 35,
-            "species": "SPECIES_SNEASEL"
+            "species": "SPECIES_SOLROCK"
         },
         {
             "level": 35,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_VIGOROTH"
         },
         {
             "level": 35,
-            "species": "SPECIES_SNEASEL"
+            "species": "SPECIES_FEAROW"
         },
         {
             "level": 35,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_NOCTOWL"
         }
     ],
     "swarms": [
-        "SPECIES_SNOVER",
-        "SPECIES_SWINUB"
+        "SPECIES_SOLROCK",
+        "SPECIES_VIGOROTH"
     ],
     "day": [
-        "SPECIES_SNEASEL",
-        "SPECIES_SNOVER"
+        "SPECIES_MISDREAVUS",
+        "SPECIES_TANGELA"
     ],
     "night": [
-        "SPECIES_SNORUNT",
-        "SPECIES_SNORUNT"
+        "SPECIES_ARBOK",
+        "SPECIES_KECLEON"
     ],
     "radar": [
-        "SPECIES_SNEASEL",
-        "SPECIES_SWINUB",
-        "SPECIES_SNEASEL",
-        "SPECIES_SNOVER"
+        "SPECIES_LUNATONE",
+        "SPECIES_PERSIAN",
+        "SPECIES_ROTOM",
+        "SPECIES_SEADRA"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

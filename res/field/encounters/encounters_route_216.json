@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 32,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_KECLEON"
         },
         {
             "level": 33,
-            "species": "SPECIES_SNEASEL"
+            "species": "SPECIES_LUNATONE"
         },
         {
             "level": 32,
-            "species": "SPECIES_MEDITITE"
+            "species": "SPECIES_PERSIAN"
         },
         {
             "level": 33,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_ROTOM"
         },
         {
             "level": 33,
-            "species": "SPECIES_MEDITITE"
+            "species": "SPECIES_SEADRA"
         },
         {
             "level": 34,
-            "species": "SPECIES_SNEASEL"
+            "species": "SPECIES_SOLROCK"
         },
         {
             "level": 34,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_VIGOROTH"
         },
         {
             "level": 35,
-            "species": "SPECIES_SNEASEL"
+            "species": "SPECIES_FEAROW"
         },
         {
             "level": 35,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_NOCTOWL"
         },
         {
             "level": 35,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_CHANSEY"
         },
         {
             "level": 35,
-            "species": "SPECIES_GRAVELER"
+            "species": "SPECIES_CHERRIM"
         },
         {
             "level": 35,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_GRANBULL"
         }
     ],
     "swarms": [
-        "SPECIES_SNOVER",
-        "SPECIES_SNEASEL"
+        "SPECIES_NOCTOWL",
+        "SPECIES_CHANSEY"
     ],
     "day": [
-        "SPECIES_MEDITITE",
-        "SPECIES_SNOVER"
+        "SPECIES_KECLEON",
+        "SPECIES_LUNATONE"
     ],
     "night": [
-        "SPECIES_ZUBAT",
-        "SPECIES_SNORUNT"
+        "SPECIES_PERSIAN",
+        "SPECIES_ROTOM"
     ],
     "radar": [
-        "SPECIES_MEDITITE",
-        "SPECIES_SNEASEL",
-        "SPECIES_GRAVELER",
-        "SPECIES_SNOVER"
+        "SPECIES_SEADRA",
+        "SPECIES_SOLROCK",
+        "SPECIES_VIGOROTH",
+        "SPECIES_FEAROW"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

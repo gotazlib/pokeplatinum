@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 28,
-            "species": "SPECIES_MAGMAR"
+            "species": "SPECIES_MEDICHAM"
         },
         {
             "level": 29,
-            "species": "SPECIES_MAGNEMITE"
+            "species": "SPECIES_PONYTA"
         },
         {
             "level": 29,
-            "species": "SPECIES_MAGMAR"
+            "species": "SPECIES_PUPITAR"
         },
         {
             "level": 29,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_SEALEO"
         },
         {
             "level": 30,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_SUDOWOODO"
         },
         {
             "level": 30,
-            "species": "SPECIES_GASTRODON"
+            "species": "SPECIES_CHATOT"
         },
         {
             "level": 28,
-            "species": "SPECIES_MAGNEMITE"
+            "species": "SPECIES_RATICATE"
         },
         {
             "level": 30,
-            "species": "SPECIES_MAGNEMITE"
+            "species": "SPECIES_MASQUERAIN"
         },
         {
             "level": 31,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_DUNSPARCE"
         },
         {
             "level": 31,
-            "species": "SPECIES_GASTRODON"
+            "species": "SPECIES_FURRET"
         },
         {
             "level": 31,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_CASTFORM"
         },
         {
             "level": 31,
-            "species": "SPECIES_GASTRODON"
+            "species": "SPECIES_DRAGONAIR"
         }
     ],
     "swarms": [
-        "SPECIES_MAGMAR",
-        "SPECIES_MAGNEMITE"
+        "SPECIES_DUNSPARCE",
+        "SPECIES_FURRET"
     ],
     "day": [
-        "SPECIES_MAGMAR",
-        "SPECIES_FLOATZEL"
+        "SPECIES_MEDICHAM",
+        "SPECIES_PONYTA"
     ],
     "night": [
-        "SPECIES_GASTRODON",
-        "SPECIES_FLOATZEL"
+        "SPECIES_PUPITAR",
+        "SPECIES_SEALEO"
     ],
     "radar": [
-        "SPECIES_ARON",
-        "SPECIES_ARON",
-        "SPECIES_ARON",
-        "SPECIES_ARON"
+        "SPECIES_SUDOWOODO",
+        "SPECIES_CHATOT",
+        "SPECIES_RATICATE",
+        "SPECIES_MASQUERAIN"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

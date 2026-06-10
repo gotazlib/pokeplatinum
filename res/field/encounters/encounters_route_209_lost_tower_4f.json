@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 19,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_TORCHIC"
         },
         {
             "level": 18,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_TREECKO"
         },
         {
             "level": 20,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_PIPLUP"
         },
         {
             "level": 18,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_SQUIRTLE"
         },
         {
             "level": 19,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_TOTODILE"
         },
         {
             "level": 18,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_SLOWPOKE"
         },
         {
             "level": 20,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_BULBASAUR"
         },
         {
             "level": 21,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_CHIKORITA"
         },
         {
             "level": 21,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_TURTWIG"
         },
         {
             "level": 21,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_CUBONE"
         },
         {
             "level": 21,
-            "species": "SPECIES_GASTLY"
+            "species": "SPECIES_GOLDEEN"
         },
         {
             "level": 21,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_NATU"
         }
     ],
     "swarms": [
-        "SPECIES_GASTLY",
-        "SPECIES_ZUBAT"
+        "SPECIES_TURTWIG",
+        "SPECIES_CUBONE"
     ],
     "day": [
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_TORCHIC",
+        "SPECIES_TREECKO"
     ],
     "night": [
-        "SPECIES_DUSKULL",
-        "SPECIES_DUSKULL"
+        "SPECIES_PIPLUP",
+        "SPECIES_SQUIRTLE"
     ],
     "radar": [
-        "SPECIES_ZUBAT",
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY",
-        "SPECIES_GASTLY"
+        "SPECIES_TOTODILE",
+        "SPECIES_SLOWPOKE",
+        "SPECIES_BULBASAUR",
+        "SPECIES_CHIKORITA"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

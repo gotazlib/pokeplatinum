@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 27,
-            "species": "SPECIES_SWABLU"
+            "species": "SPECIES_MURKROW"
         },
         {
             "level": 28,
+            "species": "SPECIES_PACHIRISU"
+        },
+        {
+            "level": 27,
+            "species": "SPECIES_PARASECT"
+        },
+        {
+            "level": 27,
+            "species": "SPECIES_PLUSLE"
+        },
+        {
+            "level": 29,
+            "species": "SPECIES_PRINPLUP"
+        },
+        {
+            "level": 28,
+            "species": "SPECIES_QUILAVA"
+        },
+        {
+            "level": 29,
+            "species": "SPECIES_TOGETIC"
+        },
+        {
+            "level": 29,
+            "species": "SPECIES_WARTORTLE"
+        },
+        {
+            "level": 29,
+            "species": "SPECIES_WOBBUFFET"
+        },
+        {
+            "level": 30,
+            "species": "SPECIES_AZUMARILL"
+        },
+        {
+            "level": 29,
             "species": "SPECIES_BIBAREL"
         },
         {
-            "level": 27,
-            "species": "SPECIES_SCYTHER"
-        },
-        {
-            "level": 27,
-            "species": "SPECIES_MEDITITE"
-        },
-        {
-            "level": 29,
-            "species": "SPECIES_MEDITITE"
-        },
-        {
-            "level": 28,
-            "species": "SPECIES_MACHOP"
-        },
-        {
-            "level": 29,
-            "species": "SPECIES_SCYTHER"
-        },
-        {
-            "level": 29,
-            "species": "SPECIES_MACHOKE"
-        },
-        {
-            "level": 29,
-            "species": "SPECIES_MACHOP"
-        },
-        {
             "level": 30,
-            "species": "SPECIES_MACHOKE"
-        },
-        {
-            "level": 29,
-            "species": "SPECIES_MACHOP"
-        },
-        {
-            "level": 30,
-            "species": "SPECIES_MACHOKE"
+            "species": "SPECIES_GABITE"
         }
     ],
     "swarms": [
-        "SPECIES_SWABLU",
-        "SPECIES_BIBAREL"
+        "SPECIES_WOBBUFFET",
+        "SPECIES_AZUMARILL"
     ],
     "day": [
-        "SPECIES_SWABLU",
-        "SPECIES_MEDITITE"
+        "SPECIES_MURKROW",
+        "SPECIES_PACHIRISU"
     ],
     "night": [
-        "SPECIES_NOCTOWL",
-        "SPECIES_HOOTHOOT"
+        "SPECIES_PARASECT",
+        "SPECIES_PLUSLE"
     ],
     "radar": [
-        "SPECIES_BAGON",
-        "SPECIES_BAGON",
-        "SPECIES_BAGON",
-        "SPECIES_BAGON"
+        "SPECIES_PRINPLUP",
+        "SPECIES_QUILAVA",
+        "SPECIES_TOGETIC",
+        "SPECIES_WARTORTLE"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

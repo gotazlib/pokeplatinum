@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 51,
-            "species": "SPECIES_DUGTRIO"
+            "species": "SPECIES_CHARIZARD"
         },
         {
             "level": 52,
-            "species": "SPECIES_CACTURNE"
+            "species": "SPECIES_INFERNAPE"
         },
         {
             "level": 50,
-            "species": "SPECIES_HIPPOWDON"
+            "species": "SPECIES_TYPHLOSION"
         },
         {
             "level": 50,
-            "species": "SPECIES_RHYDON"
+            "species": "SPECIES_CROBAT"
         },
         {
             "level": 52,
-            "species": "SPECIES_RHYDON"
+            "species": "SPECIES_LAPRAS"
         },
         {
             "level": 51,
-            "species": "SPECIES_HIPPOWDON"
+            "species": "SPECIES_MAGNEZONE"
         },
         {
             "level": 52,
-            "species": "SPECIES_DUGTRIO"
+            "species": "SPECIES_PORYGON_Z"
         },
         {
             "level": 50,
-            "species": "SPECIES_DUGTRIO"
+            "species": "SPECIES_RHYPERIOR"
         },
         {
             "level": 49,
-            "species": "SPECIES_DIGLETT"
+            "species": "SPECIES_SWAMPERT"
         },
         {
             "level": 50,
-            "species": "SPECIES_CACNEA"
+            "species": "SPECIES_TANGROWTH"
         },
         {
             "level": 49,
-            "species": "SPECIES_DIGLETT"
+            "species": "SPECIES_BLISSEY"
         },
         {
             "level": 50,
-            "species": "SPECIES_CACNEA"
+            "species": "SPECIES_ELECTIVIRE"
         }
     ],
     "swarms": [
-        "SPECIES_BELDUM",
-        "SPECIES_BELDUM"
+        "SPECIES_SWAMPERT",
+        "SPECIES_TANGROWTH"
     ],
     "day": [
-        "SPECIES_HIPPOWDON",
-        "SPECIES_RHYDON"
+        "SPECIES_CHARIZARD",
+        "SPECIES_INFERNAPE"
     ],
     "night": [
-        "SPECIES_CACTURNE",
-        "SPECIES_CACTURNE"
+        "SPECIES_TYPHLOSION",
+        "SPECIES_CROBAT"
     ],
     "radar": [
-        "SPECIES_RHYDON",
-        "SPECIES_HIPPOWDON",
-        "SPECIES_DIGLETT",
-        "SPECIES_CACNEA"
+        "SPECIES_LAPRAS",
+        "SPECIES_MAGNEZONE",
+        "SPECIES_PORYGON_Z",
+        "SPECIES_RHYPERIOR"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

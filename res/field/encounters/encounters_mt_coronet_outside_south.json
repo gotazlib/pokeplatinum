@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 36,
-            "species": "SPECIES_SNOVER"
+            "species": "SPECIES_STANTLER"
         },
         {
             "level": 38,
-            "species": "SPECIES_ABOMASNOW"
+            "species": "SPECIES_SWALOT"
         },
         {
             "level": 38,
-            "species": "SPECIES_MEDICHAM"
+            "species": "SPECIES_CRAWDAUNT"
         },
         {
             "level": 39,
-            "species": "SPECIES_ABOMASNOW"
+            "species": "SPECIES_WHISCASH"
         },
         {
             "level": 40,
-            "species": "SPECIES_MACHOKE"
+            "species": "SPECIES_PIDGEOT"
         },
         {
             "level": 40,
-            "species": "SPECIES_MEDICHAM"
+            "species": "SPECIES_GRUMPIG"
         },
         {
             "level": 37,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_TORKOAL"
         },
         {
             "level": 38,
-            "species": "SPECIES_NOSEPASS"
+            "species": "SPECIES_XATU"
         },
         {
             "level": 38,
-            "species": "SPECIES_ABSOL"
+            "species": "SPECIES_CLEFABLE"
         },
         {
             "level": 39,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_HARIYAMA"
         },
         {
             "level": 40,
-            "species": "SPECIES_ABSOL"
+            "species": "SPECIES_VESPIQUEN"
         },
         {
             "level": 39,
-            "species": "SPECIES_CHINGLING"
+            "species": "SPECIES_CACTURNE"
         }
     ],
     "swarms": [
-        "SPECIES_SNOVER",
-        "SPECIES_ABOMASNOW"
+        "SPECIES_CLEFABLE",
+        "SPECIES_HARIYAMA"
     ],
     "day": [
-        "SPECIES_MEDICHAM",
-        "SPECIES_ABOMASNOW"
+        "SPECIES_STANTLER",
+        "SPECIES_SWALOT"
     ],
     "night": [
-        "SPECIES_GOLBAT",
-        "SPECIES_NOCTOWL"
+        "SPECIES_CRAWDAUNT",
+        "SPECIES_WHISCASH"
     ],
     "radar": [
-        "SPECIES_LOUDRED",
-        "SPECIES_LOUDRED",
-        "SPECIES_LOUDRED",
-        "SPECIES_LOUDRED"
+        "SPECIES_PIDGEOT",
+        "SPECIES_GRUMPIG",
+        "SPECIES_TORKOAL",
+        "SPECIES_XATU"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

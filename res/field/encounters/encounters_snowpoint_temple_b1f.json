@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 47,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_AERODACTYL"
         },
         {
             "level": 48,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_LICKILICKY"
         },
         {
             "level": 49,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_PORYGON2"
         },
         {
             "level": 50,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_TENTACRUEL"
         },
         {
             "level": 48,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_YANMEGA"
         },
         {
             "level": 49,
-            "species": "SPECIES_SNEASEL"
+            "species": "SPECIES_GALLADE"
         },
         {
             "level": 47,
-            "species": "SPECIES_JYNX"
+            "species": "SPECIES_GARDEVOIR"
         },
         {
             "level": 49,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_EXEGGUTOR"
         },
         {
             "level": 49,
-            "species": "SPECIES_JYNX"
+            "species": "SPECIES_FLYGON"
         },
         {
             "level": 47,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_STARMIE"
         },
         {
             "level": 49,
-            "species": "SPECIES_JYNX"
+            "species": "SPECIES_LUXRAY"
         },
         {
             "level": 47,
-            "species": "SPECIES_GOLBAT"
+            "species": "SPECIES_CLOYSTER"
         }
     ],
     "swarms": [
-        "SPECIES_GOLBAT",
-        "SPECIES_GOLBAT"
+        "SPECIES_FLYGON",
+        "SPECIES_STARMIE"
     ],
     "day": [
-        "SPECIES_GOLBAT",
-        "SPECIES_GOLBAT"
+        "SPECIES_AERODACTYL",
+        "SPECIES_LICKILICKY"
     ],
     "night": [
-        "SPECIES_GOLBAT",
-        "SPECIES_GOLBAT"
+        "SPECIES_PORYGON2",
+        "SPECIES_TENTACRUEL"
     ],
     "radar": [
-        "SPECIES_GOLBAT",
-        "SPECIES_SNEASEL",
-        "SPECIES_JYNX",
-        "SPECIES_GOLBAT"
+        "SPECIES_YANMEGA",
+        "SPECIES_GALLADE",
+        "SPECIES_GARDEVOIR",
+        "SPECIES_EXEGGUTOR"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

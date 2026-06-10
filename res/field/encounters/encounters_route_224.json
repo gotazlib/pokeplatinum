@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 50,
-            "species": "SPECIES_FLOATZEL"
+            "species": "SPECIES_CROBAT"
         },
         {
             "level": 50,
-            "species": "SPECIES_ROSELIA"
+            "species": "SPECIES_LAPRAS"
         },
         {
             "level": 49,
-            "species": "SPECIES_BELLSPROUT"
+            "species": "SPECIES_MAGNEZONE"
         },
         {
             "level": 49,
-            "species": "SPECIES_BELLSPROUT"
+            "species": "SPECIES_PORYGON_Z"
         },
         {
             "level": 51,
-            "species": "SPECIES_PELIPPER"
+            "species": "SPECIES_RHYPERIOR"
         },
         {
             "level": 49,
-            "species": "SPECIES_GASTRODON"
+            "species": "SPECIES_SWAMPERT"
         },
         {
             "level": 51,
-            "species": "SPECIES_GLOOM"
+            "species": "SPECIES_TANGROWTH"
         },
         {
             "level": 51,
-            "species": "SPECIES_WEEPINBELL"
+            "species": "SPECIES_BLISSEY"
         },
         {
             "level": 52,
-            "species": "SPECIES_BEAUTIFLY"
+            "species": "SPECIES_ELECTIVIRE"
         },
         {
             "level": 52,
-            "species": "SPECIES_DUSTOX"
+            "species": "SPECIES_GYARADOS"
         },
         {
             "level": 52,
-            "species": "SPECIES_BEAUTIFLY"
+            "species": "SPECIES_KINGDRA"
         },
         {
             "level": 52,
-            "species": "SPECIES_DUSTOX"
+            "species": "SPECIES_MAGMORTAR"
         }
     ],
     "swarms": [
-        "SPECIES_NATU",
-        "SPECIES_NATU"
+        "SPECIES_ELECTIVIRE",
+        "SPECIES_GYARADOS"
     ],
     "day": [
-        "SPECIES_BELLSPROUT",
-        "SPECIES_BELLSPROUT"
+        "SPECIES_CROBAT",
+        "SPECIES_LAPRAS"
     ],
     "night": [
-        "SPECIES_ODDISH",
-        "SPECIES_ODDISH"
+        "SPECIES_MAGNEZONE",
+        "SPECIES_PORYGON_Z"
     ],
     "radar": [
-        "SPECIES_PELIPPER",
-        "SPECIES_GASTRODON",
-        "SPECIES_BEAUTIFLY",
-        "SPECIES_DUSTOX"
+        "SPECIES_RHYPERIOR",
+        "SPECIES_SWAMPERT",
+        "SPECIES_TANGROWTH",
+        "SPECIES_BLISSEY"
     ],
     "rate_form0": 100,
     "rate_form1": 100,

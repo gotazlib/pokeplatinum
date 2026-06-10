@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 5,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_CLEFFA"
         },
         {
             "level": 5,
-            "species": "SPECIES_PSYDUCK"
+            "species": "SPECIES_HAPPINY"
         },
         {
             "level": 6,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_LOTAD"
         },
         {
             "level": 6,
-            "species": "SPECIES_PSYDUCK"
+            "species": "SPECIES_POOCHYENA"
         },
         {
             "level": 5,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_SEEDOT"
         },
         {
             "level": 5,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_BURMY"
         },
         {
             "level": 7,
-            "species": "SPECIES_PSYDUCK"
+            "species": "SPECIES_SHEDINJA"
         },
         {
             "level": 7,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_MAKUHITA"
         },
         {
             "level": 7,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_WHISMUR"
         },
         {
             "level": 8,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_ZIGZAGOON"
         },
         {
             "level": 7,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_COMBEE"
         },
         {
             "level": 8,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_STARLY"
         }
     ],
     "swarms": [
-        "SPECIES_ZUBAT",
-        "SPECIES_PSYDUCK"
+        "SPECIES_WHISMUR",
+        "SPECIES_ZIGZAGOON"
     ],
     "day": [
-        "SPECIES_ZUBAT",
-        "SPECIES_PSYDUCK"
+        "SPECIES_CLEFFA",
+        "SPECIES_HAPPINY"
     ],
     "night": [
-        "SPECIES_ZUBAT",
-        "SPECIES_PSYDUCK"
+        "SPECIES_LOTAD",
+        "SPECIES_POOCHYENA"
     ],
     "radar": [
-        "SPECIES_GEODUDE",
-        "SPECIES_ZUBAT",
-        "SPECIES_ZUBAT",
-        "SPECIES_ZUBAT"
+        "SPECIES_SEEDOT",
+        "SPECIES_BURMY",
+        "SPECIES_SHEDINJA",
+        "SPECIES_MAKUHITA"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

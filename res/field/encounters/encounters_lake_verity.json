@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 2,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_WURMPLE"
         },
         {
             "level": 2,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_RALTS"
         },
         {
             "level": 3,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_FEEBAS"
         },
         {
             "level": 3,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_MAGIKARP"
         },
         {
             "level": 3,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_CASCOON"
         },
         {
             "level": 3,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_KAKUNA"
         },
         {
             "level": 4,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_METAPOD"
         },
         {
             "level": 4,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_PICHU"
         },
         {
             "level": 4,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_SILCOON"
         },
         {
             "level": 4,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_IGGLYBUFF"
         },
         {
             "level": 4,
-            "species": "SPECIES_STARLY"
+            "species": "SPECIES_TYROGUE"
         },
         {
             "level": 4,
-            "species": "SPECIES_BIDOOF"
+            "species": "SPECIES_WOOPER"
         }
     ],
     "swarms": [
-        "SPECIES_STARLY",
-        "SPECIES_BIDOOF"
+        "SPECIES_SILCOON",
+        "SPECIES_IGGLYBUFF"
     ],
     "day": [
-        "SPECIES_STARLY",
-        "SPECIES_BIDOOF"
+        "SPECIES_WURMPLE",
+        "SPECIES_RALTS"
     ],
     "night": [
-        "SPECIES_STARLY",
-        "SPECIES_BIDOOF"
+        "SPECIES_FEEBAS",
+        "SPECIES_MAGIKARP"
     ],
     "radar": [
-        "SPECIES_WOBBUFFET",
-        "SPECIES_WOBBUFFET",
-        "SPECIES_WOBBUFFET",
-        "SPECIES_WOBBUFFET"
+        "SPECIES_CASCOON",
+        "SPECIES_KAKUNA",
+        "SPECIES_METAPOD",
+        "SPECIES_PICHU"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 5,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_SHEDINJA"
         },
         {
             "level": 6,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_MAKUHITA"
         },
         {
             "level": 5,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_WHISMUR"
         },
         {
             "level": 6,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_ZIGZAGOON"
         },
         {
             "level": 4,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_COMBEE"
         },
         {
             "level": 7,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_STARLY"
         },
         {
             "level": 6,
-            "species": "SPECIES_ONIX"
+            "species": "SPECIES_TOGEPI"
         },
         {
             "level": 8,
-            "species": "SPECIES_ONIX"
-        },
-        {
-            "level": 8,
-            "species": "SPECIES_GEODUDE"
-        },
-        {
-            "level": 7,
             "species": "SPECIES_ZUBAT"
         },
         {
             "level": 8,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_BIDOOF"
         },
         {
             "level": 7,
-            "species": "SPECIES_ZUBAT"
+            "species": "SPECIES_HOPPIP"
+        },
+        {
+            "level": 8,
+            "species": "SPECIES_MARILL"
+        },
+        {
+            "level": 7,
+            "species": "SPECIES_SLUGMA"
         }
     ],
     "swarms": [
-        "SPECIES_GEODUDE",
-        "SPECIES_GEODUDE"
+        "SPECIES_BIDOOF",
+        "SPECIES_HOPPIP"
     ],
     "day": [
-        "SPECIES_ZUBAT",
-        "SPECIES_ZUBAT"
+        "SPECIES_SHEDINJA",
+        "SPECIES_MAKUHITA"
     ],
     "night": [
-        "SPECIES_ZUBAT",
-        "SPECIES_ZUBAT"
+        "SPECIES_WHISMUR",
+        "SPECIES_ZIGZAGOON"
     ],
     "radar": [
-        "SPECIES_GEODUDE",
-        "SPECIES_GEODUDE",
-        "SPECIES_GEODUDE",
-        "SPECIES_GEODUDE"
+        "SPECIES_COMBEE",
+        "SPECIES_STARLY",
+        "SPECIES_TOGEPI",
+        "SPECIES_ZUBAT"
     ],
     "rate_form0": 0,
     "rate_form1": 0,

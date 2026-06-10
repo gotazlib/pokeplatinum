@@ -3,70 +3,70 @@
     "land_encounters": [
         {
             "level": 23,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_EXEGGCUTE"
         },
         {
             "level": 22,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_GRIMER"
         },
         {
             "level": 21,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_KRABBY"
         },
         {
             "level": 23,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_MAGNEMITE"
         },
         {
             "level": 23,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_SEEL"
         },
         {
             "level": 23,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_SHELLOS"
         },
         {
             "level": 23,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_DROWZEE"
         },
         {
             "level": 23,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_STUNKY"
         },
         {
             "level": 23,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_ARON"
         },
         {
             "level": 22,
-            "species": "SPECIES_HIPPOPOTAS"
+            "species": "SPECIES_BUIZEL"
         },
         {
             "level": 23,
-            "species": "SPECIES_GEODUDE"
+            "species": "SPECIES_CHINCHOU"
         },
         {
             "level": 24,
-            "species": "SPECIES_HIPPOPOTAS"
+            "species": "SPECIES_DELIBIRD"
         }
     ],
     "swarms": [
-        "SPECIES_GEODUDE",
-        "SPECIES_GEODUDE"
+        "SPECIES_ARON",
+        "SPECIES_BUIZEL"
     ],
     "day": [
-        "SPECIES_GEODUDE",
-        "SPECIES_GEODUDE"
+        "SPECIES_EXEGGCUTE",
+        "SPECIES_GRIMER"
     ],
     "night": [
-        "SPECIES_GEODUDE",
-        "SPECIES_GEODUDE"
+        "SPECIES_KRABBY",
+        "SPECIES_MAGNEMITE"
     ],
     "radar": [
-        "SPECIES_GEODUDE",
-        "SPECIES_GEODUDE",
-        "SPECIES_GEODUDE",
-        "SPECIES_HIPPOPOTAS"
+        "SPECIES_SEEL",
+        "SPECIES_SHELLOS",
+        "SPECIES_DROWZEE",
+        "SPECIES_STUNKY"
     ],
     "rate_form0": 100,
     "rate_form1": 100,
